@@ -1,0 +1,5 @@
+#!/bin/bash
+odt2txt script.odt --width=-1 > script.txt
+git add .
+git commit -a -m "msg: $1"
+git push git@gitmor:morashon/morashon.git master
