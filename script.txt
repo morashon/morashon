@@ -426,7 +426,7 @@ _Thisone: Sure, I guess.  I never thought about it.
 
 _Annai: Lots to think about, friend.  Got a name?
 
-_Thisone: Thisone. (he pronounces it ``Tee-sewn'') It's spelled like This One.
+_Thisone: Thisone. (he pronounces it ``Tee-sewn'') It's spelled like ``this one''.
 
 _Annai: Annai.   (she does a polite curtsy, offers her hand.  He kisses it, awkwardly)
 
@@ -437,6 +437,8 @@ Morashon is holding court.  His hands hold drinks, cigarettes, weapons.  He is c
 _Morashon: Annai, Annai, my life, my love!  How divine of you to come.  You are fetching as always!
 
 _Annai: Same old.  Haven't tooled my av in ages.  This is Thisone.
+
+_Thisone: (shakes a hand) spelled ``this one''.
 
 _Morashon: This one?  Or that one?  Which one is it?  Hahaha.  What a name.  What's in a name?  What are you, friend or foe?
 
@@ -630,11 +632,11 @@ _Thisone: It scares me, a bit.  Music and lyrics like that have to be... alive. 
 
 _Annai: How do you know what software would or wouldn't do?  Just because you code, doesn't mean you know squat about your code.  Any real coder knows that.
 
-_Thisone: I've heard all the arguments... going back to Dennett, refuting Searle, etc and so on.  Code writes code; data is code.  Evolution works its magic, explicitly or implicitly.  Complexity begets emergence.  But it's all theoretical.  There's never been any evidence that it could really exist.  Even though the grid has been online for 30 plus years, running petaflops of simulated evolution per second.  The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
+_Thisone: I've heard all the arguments... going back to Dennett, refuting Searle, etc and so on.  Code writes code; data is code.  Evolution works its magic, explicitly or implicitly.  Complexity leads to emergence.  But it's all theoretical.  There's never been any evidence that it could really exist.  Even though the grid has been online for 30 plus years, running petaflops of simulated evolution per second.  The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
 
 _Annai: So you still think it's a bunch of Finnish jokers with some new body gear.
 
-_Thisone: As a rationalist, that's a much better hypothesis than buying this AI meme.
+_Thisone: As a rationalist, that's a much better hypothesis than buying this AI crap.
 
 _Annai: Have you ever known Finns to be that creepy, as you say?
 
