@@ -12,3 +12,6 @@ If I (or other contributors) develop any software along the way, it will be lice
 
 So there you have it.  Let us begin.
 
+#### Infrastructure ####
+
+Turns out git, and by extension Github, are not really amenable to keeping track of the large source files we are likely to need to generate (44 khz stereo multitracks, not to mention 3D models, textures, and so on).  For now, I will use Github to keep track of the text files developed for the project, such as the script, possibly a score, and perhaps use the 'downloads' section for compressed audio files of music demos, mixes, and possibly vocal readings.
