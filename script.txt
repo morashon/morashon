@@ -1,6 +1,12 @@
 Morashon: The Musical
 
-Overture
+Scene: piano bar; spotlight on piano player -- typical bar lounge guy, rings on fingers
+
+Plays intro to Starlite with much fanfare. Lights come up dimly, revealing three people at the bar.
+
+_Pianoplayer: Welcome to the Starlite lounge. Today we have a cougar past her prime, a lifelong alcoholic, and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music!
+
+All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Intro leads into the song.
 
 Song: Prisoner
 
@@ -136,13 +142,15 @@ I found the prisoner in me
 
 (woman: Really?)
 
-3 years earlier
+Fade out.
 
-Scene: piano bar
+Fade in; caption: 3 years earlier
+
+Scene: same piano bar
 
 lots of ads and promos for something called "Starlitetm" -- all coasters etc.  Ubik type ad copy
 
-piano guy singing "Starlitetm"
+piano guy singing "Starlitetm" -- fades to background as dialog begins
 
 It was a starry night
 
