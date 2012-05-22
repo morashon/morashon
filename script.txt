@@ -6,7 +6,11 @@ Plays intro to Starlite with much fanfare. Lights come up dimly, revealing three
 
 _Pianoplayer: Welcome to the Starlite lounge. Today we have a cougar past her prime, a lifelong alcoholic, and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music!
 
-All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Intro leads into the song.
+Music transitions from Starlite to Morashon theme
+
+_Pianoplayer: (sotto voce) Morashon... Anyone remember that getup?
+
+All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again --
 
 Song: Prisoner
 
