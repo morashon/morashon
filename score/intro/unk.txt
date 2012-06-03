@@ -1,0 +1,21 @@
+##run jack-control:
+##> jack_control start
+
+use qjackctl
+for headphones/alt output: setup/interface (arrow to right pulls down menu)
+
+note rosegarden runs some random jackd if you don't run jack manually
+
+then double-click .rg file (rosegarden)
+often main screen appears in wrong workspace (find it) -- you just see transport
+if new machine: fiddle with jack setup for buffer stuff
+
+to record:
+
+after running jack + rosegarden, run timemachine -f wav
+go to jack connect menu
+highlight rosegarden on left, timemachine on right
+right click and select "connect"
+hit the big red button to record
+note it seems to leave lots of dead time at top (recording always?)
+use audacity to trim & export to mp3
