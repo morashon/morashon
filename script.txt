@@ -4,13 +4,15 @@ Scene: piano bar; spotlight on piano player -- typical bar lounge guy, rings on 
 
 Plays intro to Starlite with much fanfare. Lights come up dimly, revealing three people at the bar.
 
-_Pianoplayer: Welcome to the Starlite lounge. Today we have a cougar past her prime, a lifelong alcoholic, and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music!
+_Pianoplayer: (old-timey synthesized voice, vaguely foreign sounding) Welcome folks and friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
 
 Music transitions from Starlite to Morashon theme
 
-_Pianoplayer: (sotto voce) Morashon... Anyone remember that getup?
+_Pianoplayer: (sotto voce) Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? Shall I compare thee to your previous revision? Let me enumerate the ways... and the means... Let's not forget the soap!
 
-All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again --
+Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
+
+And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the Broken Heart.
 
 Song: Prisoner
 
