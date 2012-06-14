@@ -1,18 +1,20 @@
 Morashon: The Musical
 
-Scene: piano bar; spotlight on piano player -- typical bar lounge guy, rings on fingers
+Scene: Starlite Lounge, a piano bar.
 
-Plays intro to Starlite with much fanfare. Lights come up dimly, revealing three people at the bar.
+spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
+
+Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar.
 
 _Pianoplayer: (old-timey synthesized voice, vaguely foreign sounding) Welcome folks and friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
 
 Music transitions from Starlite to Morashon theme
 
-_Pianoplayer: (sotto voce) Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? Shall I compare thee to your previous revision? Let me enumerate the ways... and the means... Let's not forget the soap!
+_Pianoplayer: (sotto voce) Morashon... oy, what a cad. Anyone remember that getup? Everyone is king for a day -- or is it 15 milliseconds? Shall I compare thee to your previous release? Let me enumerate the ways... and means... Let's not forget the soap!
 
 Pause... All lights fade as a spot comes up on Thisone at the bar, twirling a stick in his drink. Music segues again
 
-And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the Broken Heart.
+And now, for something completely different -- and yet strangely familiar. Observe, the old standby, when you get right down to it, everybody has one -- or knows somebody who keeps one in their pocket. I present to you, the evergreen perennial -- a Broken Heart.
 
 Song: Prisoner
 
@@ -152,11 +154,13 @@ Fade out.
 
 Fade in; caption: 3 years earlier
 
-Scene: same piano bar
+Scene: Starlite Lounge
 
-lots of ads and promos for something called "Starlitetm" -- all coasters etc.  Ubik type ad copy
+Same piano guy (with a bit more hair), playing same intro, this time segues into "Starlite". As the piano lead-in finishes, a small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
-piano guy singing "Starlitetm" -- fades to background as dialog begins
+During the interlude where the instruments drop out, the ogre appears flustered, waving at the piano player even as he attempts to sing the final verse over the drums. Finally he kicks the midi drum machine in frustration. The instruments return.
+
+After singing the final chorus, the ogre throws down the mike like a playa, leaving the stage in a huff. As he exists the scene, he glances back at the piano with a menacing stare; piano guy just shrugs contemptuously and keeps on playing. One gets the feeling this is not a unique event.
 
 It was a starry night
 
@@ -223,6 +227,8 @@ Something is strange
 Something has changed
 
 Starlitetm has turned to day
+
+As music enters into final samba section, it fades to background; dialog begins
 
 Annai sipping a drink at the bar
 
