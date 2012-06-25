@@ -1,0 +1,14 @@
+MPlayer 1.0rc4-4.5.2 (C) 2000-2010 MPlayer Team
+
+Playing conv-e9_a9-20120624-002827-9.wav.
+Audio only file format detected.
+==========================================================================
+Opening audio decoder: [pcm] Uncompressed PCM audio decoder
+AUDIO: 44100 Hz, 2 ch, floatle, 2822.4 kbit/100.00% (ratio: 352800->352800)
+Selected audio codec: [pcm] afm: pcm (Uncompressed PCM)
+==========================================================================
+AO: [pulse] 44100Hz 2ch floatle (4 bytes per sample)
+Video: no video
+Starting playback...
+A:   0.0 (unknown) of 6.0 (06.0) ??,?% [JA:   0.0 (00.0) of 6.0 (06.0) ??,?% [JA:   0.1 (00.1) of 6.0 (06.0)  0.0% [JA:   0.3 (00.2) of 6.0 (06.0)  0.0% [JA:   0.5 (00.4) of 6.0 (06.0)  0.0% [JA:   0.6 (00.5) of 6.0 (06.0)  0.1% [JA:   0.8 (00.7) of 6.0 (06.0)  0.1% [JA:   1.0 (01.0) of 6.0 (06.0)  0.1% [JA:   1.2 (01.2) of 6.0 (06.0)  0.1% [JA:   1.4 (01.4) of 6.0 (06.0)  0.1% [JA:   1.6 (01.6) of 6.0 (06.0)  0.1% [J
+Exiting... (Quit)
