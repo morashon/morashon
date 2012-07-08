@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rosegarden-data>
 <rosegarden-data version="10.10" format-version-major="1" format-version-minor="6" format-version-point="0">
-<composition recordtracks="" pointer="53760" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="4" playmetronome="0" recordmetronome="0" nexttriggerid="0">
+<composition recordtracks="" pointer="125277" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="20" playmetronome="0" recordmetronome="0" nexttriggerid="0">
 
 
   <track id="0" label="Bazz" position="4" muted="false" instrument="10000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
@@ -130,13 +130,14 @@
     <audio id="82" file="conv-lairf4-1c-20120708-000455-83.wav" label="conv-lairf4-1c-20120708-000455-83.wav"/>
     <audio id="83" file="conv-lairf4-1b-20120708-000455-84.wav" label="conv-lairf4-1b-20120708-000455-84.wav"/>
     <audio id="86" file="conv-lairf4-1a-20120708-001802-87.wav" label="conv-lairf4-1a-20120708-001802-87.wav"/>
+    <audio id="87" file="conv-lairf4-3-20120708-003939-88.wav" label="conv-lairf4-3-20120708-003939-88.wav"/>
 </audiofiles>
 
 
 
 
 <configuration>
-    <zoomlevel type="Int">384000</zoomlevel>
+    <zoomlevel type="Int">3840</zoomlevel>
     <transportmode type="String">RealMode</transportmode>
 </configuration>
 
@@ -13921,25 +13922,69 @@
     <begin index="0.000000"/>
     <end index="4.679383"/>
 </segment>
-<segment track="20" start="61475" label="" colourindex="1" endmarker="77480" type="audio" file="86">
+<segment track="20" start="61382" label="" colourindex="1" endmarker="63470" type="audio" file="86">
     <begin index="0.000000"/>
+    <end index="1.763513"/>
+</segment>
+<segment track="20" start="63464" label="" colourindex="1" endmarker="67312" type="audio" file="86">
+    <begin index="1.763513"/>
+    <end index="5.013513"/>
+</segment>
+<segment track="20" start="67334" label="" colourindex="1" endmarker="72960" type="audio" file="86">
+    <begin index="5.013513"/>
+    <end index="9.765202"/>
+</segment>
+<segment track="20" start="72975" label="" colourindex="1" endmarker="75133" type="audio" file="86">
+    <begin index="9.765202"/>
+    <end index="11.587837"/>
+</segment>
+<segment track="20" start="75118" label="" colourindex="1" endmarker="77403" type="audio" file="86">
+    <begin index="11.587837"/>
     <end index="13.517736"/>
 </segment>
-<segment track="20" start="77366" label="" colourindex="1" endmarker="82200" type="audio" file="83">
+<segment track="20" start="77345" label="" colourindex="1" endmarker="80548" type="audio" file="83">
     <begin index="0.429898"/>
+    <end index="3.135134"/>
+</segment>
+<segment track="20" start="80598" label="" colourindex="1" endmarker="82229" type="audio" file="83">
+    <begin index="3.135134"/>
     <end index="4.512668"/>
 </segment>
-<segment track="20" start="84227" label="" colourindex="1" endmarker="103367" type="audio" file="82">
+<segment track="20" start="84184" label="" colourindex="1" endmarker="90294" type="audio" file="82">
     <begin index="0.000000"/>
+    <end index="5.160472"/>
+</segment>
+<segment track="20" start="90321" label="" colourindex="1" endmarker="103351" type="audio" file="82">
+    <begin index="5.160472"/>
     <end index="16.165540"/>
 </segment>
-<segment track="20" start="107044" label="" colourindex="1" endmarker="163152" type="audio" file="81">
+<segment track="20" start="107098" label="" colourindex="1" endmarker="129504" type="audio" file="81">
     <begin index="0.000000"/>
-    <end index="47.388513"/>
+    <end index="18.923986"/>
 </segment>
-<segment track="20" start="244992" label="" colourindex="1" endmarker="381150" type="audio" file="79">
+<segment track="20" start="129489" label="" colourindex="1" endmarker="136827" type="audio" file="81">
+    <begin index="18.923986"/>
+    <end index="25.121621"/>
+</segment>
+<segment track="20" start="136854" label="" colourindex="1" endmarker="163216" type="audio" file="81">
+    <begin index="25.121621"/>
+    <end index="47.386824"/>
+</segment>
+<segment track="20" start="168710" label="" colourindex="1" endmarker="191028" type="audio" file="87">
     <begin index="0.000000"/>
-    <end index="111.120678"/>
+    <end index="18.799554"/>
+</segment>
+<segment track="20" start="191052" label="" colourindex="1" endmarker="231372" type="audio" file="87">
+    <begin index="18.799445"/>
+    <end index="52.501753"/>
+</segment>
+<segment track="20" start="244838" label="" colourindex="1" endmarker="247876" type="audio" file="79">
+    <begin index="0.000000"/>
+    <end index="2.517272"/>
+</segment>
+<segment track="20" start="247876" label="" colourindex="1" endmarker="380995" type="audio" file="79">
+    <begin index="2.517272"/>
+    <end index="111.122582"/>
 </segment>
 <segment track="65" start="322560" label="" endmarker="380160">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
@@ -14922,14 +14967,32 @@
 
         <instrument id="1004" channel="2" type="audio">
             <pan value="101"/>
-            <level value="-3.85256"/>
+            <level value="-2.79561"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
             <alias value=""/>
+            <plugin position="0" identifier="ladspa:/usr/lib/ladspa/caps.so:PhaserII" bypassed="false" >
+                <port id="1" value="0.25" changed="false"/>
+                <port id="2" value="0.36" changed="true"/>
+                <port id="3" value="1.20951" changed="true"/>
+                <port id="4" value="0.46953" changed="true"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+            </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="533.054" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+            </plugin>
+            <plugin position="2" identifier="ladspa:/usr/lib/ladspa/tap_reverb.so:tap_reverb" bypassed="false" >
+                <port id="0" value="1500" changed="true"/>
+                <port id="1" value="-11.6" changed="true"/>
+                <port id="2" value="-7" changed="true"/>
+                <port id="3" value="1" changed="false"/>
+                <port id="4" value="1" changed="false"/>
+                <port id="5" value="-0.0001" changed="true"/>
+                <port id="6" value="0" changed="false"/>
+                <port id="7" value="22" changed="true"/>
                 <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
             </plugin>
         </instrument>
@@ -16755,7 +16818,7 @@
 
     <buss id="0">
        <pan value="100"/>
-       <level value="4.225"/>
+       <level value="3.025"/>
     </buss>
 
 
