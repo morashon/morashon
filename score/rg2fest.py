@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #parse an rg (rosegarden) xml (gunzipped .rg) file, extract lyrics and notes
 #only deals with the first segment it finds so...
 
@@ -200,7 +201,7 @@ def main(x, xmlout, trackname, segIndex, transpose):
     return xmlout
 
 if len(sys.argv) < 3:
-    print "rg2fest.py input_ungzipped.rg output_festival.xml [trackname [segment [transpose]]]"
+    print "rg2fest.py yoursong.rg output_festival[.xml] [trackname [segment [transpose]]]"
     print "no trackname? use first segment I find"
     print "I WILL OVERWRITE your rg.xml file!"
     exit()
@@ -219,7 +220,7 @@ if len(sys.argv) > 3:
 if len(sys.argv) > 4:
     try:
         seg = int(sys.argv[4]) - 1
-    else:
+    except:
         print "seg label:", seg
     segs = 1
 if len(sys.argv) > 5:

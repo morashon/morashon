@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rosegarden-data>
 <rosegarden-data version="10.10" format-version-major="1" format-version-minor="6" format-version-point="0">
-<composition recordtracks="" pointer="126720" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="384000" selected="5" playmetronome="0" recordmetronome="1" nexttriggerid="0">
+<composition recordtracks="" pointer="219604" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="395520" selected="16" playmetronome="0" recordmetronome="1" nexttriggerid="0">
 
 
   <track id="0" label="Pno1R" position="0" muted="false" instrument="10000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
@@ -58,14 +58,13 @@
 
 <audiofiles expectedRate="44100">
     <audioPath value="~/rosegarden/"/>
-    <audio id="1" file="conv-give-20120710-002635-2.wav" label="conv-give-20120710-002635-2.wav"/>
 </audiofiles>
 
 
 
 
 <configuration>
-    <zoomlevel type="Int">76800</zoomlevel>
+    <zoomlevel type="Int">38400</zoomlevel>
     <transportmode type="String">RealMode</transportmode>
 </configuration>
 
@@ -1942,14 +1941,14 @@
 <segment track="0" start="364800" label="Acoustic Grand Piano" delay="60" endmarker="372480">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
 	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
-	<event type="note" duration="3840"><property name="pitch" int="62"/><property name="velocity" int="100"/></event>
-	<event type="note" duration="3840" timeOffset="-1920"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/></event>
-	<event type="rest" duration="480" subordering="10"></event>
-	<event type="rest" duration="120" subordering="10" timeOffset="-360"></event>
-	<event type="rest" duration="240" subordering="10"></event>
+	<event type="note" duration="3840"><property name="pitch" int="62"/><property name="velocity" int="60"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-1920"><property name="pitch" int="72"/><property name="velocity" int="80"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="71"/><property name="velocity" int="70"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="67"/><property name="velocity" int="80"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="64"/><property name="velocity" int="80"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="120" subordering="10" timeOffset="-360"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 </segment>
 <segment track="1" start="3840" label="Acoustic Grand Piano" endmarker="19200">
 	<event type="clefchange" subordering="-250"><property name="clef" string="bass"/><property name="octaveoffset" int="0"/></event>
@@ -3145,10 +3144,10 @@
 	<event type="note" duration="3840"><property name="pitch" int="86"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="note" duration="3840"><property name="pitch" int="74"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 </chord>
-	<event type="note" duration="3840" timeOffset="-1920"><property name="pitch" int="84"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="83"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="79"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="76"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-1920"><property name="pitch" int="84"/><property name="velocity" int="90"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="83"/><property name="velocity" int="90"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="79"/><property name="velocity" int="90"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840" timeOffset="-3360"><property name="pitch" int="76"/><property name="velocity" int="90"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 </segment>
 <segment track="3" start="303360" label="Acoustic Grand Piano" endmarker="318720">
@@ -3293,372 +3292,380 @@
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 </segment>
-<segment track="5" start="0" label="" endmarker="122880">
+<segment track="5" start="0" label="v1" endmarker="61440">
 	<event type="clefchange" subordering="-250" absoluteTime="0"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
 	<event type="keychange" subordering="-200" absoluteTime="0"><property name="key" string="G major"/></event>
-	<event type="rest" duration="1920" subordering="10" absoluteTime="0"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10" absoluteTime="0"></event>
 	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
 	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
 	<event type="text" subordering="-70"><property name="text" string="Everything"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
 	<event type="text" subordering="-70"><property name="text" string="see"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
 	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
 	<event type="text" subordering="-70"><property name="text" string="dreams"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
 	<event type="text" subordering="-70"><property name="text" string="You&apos;re"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/></event>
 	<event type="text" subordering="-70"><property name="text" string="burst"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ing"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="at"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="the"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="seams"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Everything"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="are"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Let"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="be"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="guide"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I&apos;ll"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="be"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="shine"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ing"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="star"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="hope"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="love"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="life"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="57"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="3"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="pride"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="18"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="strength"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><property name="groupid" int="25"/><property name="grouptype" string="beamed"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="To"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="25"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="carry"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="22"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-<chord>
-	<event type="indication" duration="2400" subordering="-50"><property name="indicationtype" string="slur"/><property name="indicationduration" int="2400"/><nproperty name="SlurAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-</chord>
-	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="240"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="on"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1440"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="1"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="one"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Reason"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="why"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1440"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="1"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-</segment>
-<segment track="5" start="122880" label="" endmarker="215040">
-	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
-	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Let"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="go"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="free"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="what&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="inside"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="So"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="alive"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="true"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Show"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="now"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="it&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="for"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="What&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ing"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
 	<event type="text" subordering="-70"><property name="text" string="at"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="stake"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="What&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
 	<event type="text" subordering="-70"><property name="text" string="the"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="57"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="3"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="point?"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="18"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="more"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="1920"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="480" subordering="10"><property name="groupid" int="25"/><property name="grouptype" string="beamed"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="Than"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="25"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="22"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="dee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="zah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-<chord>
-	<event type="indication" duration="2400" subordering="-50"><property name="indicationtype" string="slur"/><property name="indicationduration" int="2400"/><nproperty name="SlurAbove" bool="true"/></event>
-	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-</chord>
-	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="er"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="240"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="erv"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="1440"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="1"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="seams"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
 	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="back"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="stole"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="13"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Everything"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="14"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="are"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Let"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="be"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="15"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="guide"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="I&apos;ll"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="be"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="your"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="shine"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ing"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="16"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="star"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
 	<event type="rest" duration="1920" subordering="10"></event>
 </segment>
-<segment track="5" start="215040" label="" endmarker="280320">
+<segment track="5" start="61440" label="b1" endmarker="122880">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="hope"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="love"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="life"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="57"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="pride"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"><property name="groupid" int="20"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="18"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="strength"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"><property name="groupid" int="25"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="To"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="25"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="carry"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="22"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="indication" duration="2400" subordering="-50"><property name="indicationtype" string="slur"/><property name="indicationduration" int="2400"/></event>
+	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+</chord>
+	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="on"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1440"><property name="pitch" int="64"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="one"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Reason"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="why"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1440"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+</segment>
+<segment track="5" start="122880" label="v2" endmarker="153600">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="to"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Let"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="it"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="all"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="go"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="10"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="free"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="what&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="inside"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="11"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="So"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="50"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="alive"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="52"/><property name="velocity" int="100"/><property name="groupid" int="12"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+</segment>
+<segment track="5" start="153600" label="b2" endmarker="215040">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Show"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="now"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="it&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="for"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="What&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="54"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="at"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="stake"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="What&apos;s"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="55"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="the"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="57"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="point?"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"><property name="groupid" int="20"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="gave"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="18"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="more"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="480" subordering="10"><property name="groupid" int="25"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Than"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="25"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="22"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="dee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="zah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="indication" duration="2400" subordering="-50"><property name="indicationtype" string="slur"/><property name="indicationduration" int="2400"/></event>
+	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+</chord>
+	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="er"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="67"/><property name="velocity" int="100"/><property name="groupid" int="27"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="erv"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1440"><property name="pitch" int="64"/><property name="velocity" int="100"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Give"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="me"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="28"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="back"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="you"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="29"/><property name="grouptype" string="beamed"/></event>
+	<event type="text" subordering="-70"><property name="text" string="stole"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+</segment>
+<segment track="5" start="215040" label="v3" endmarker="280320">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
 	<event type="keychange" subordering="-200"><property name="key" string="G major"/></event>
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
@@ -3767,14 +3774,6 @@
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 </segment>
-<segment track="16" start="-3533" label="" colourindex="1" endmarker="62208" type="audio" file="1">
-    <begin index="0.000000"/>
-    <end index="58.060030"/>
-</segment>
-<segment track="16" start="60672" label="" colourindex="1" endmarker="123897" type="audio" file="1">
-    <begin index="58.060030"/>
-    <end index="113.441994"/>
-</segment>
 
 
 
@@ -3785,7 +3784,7 @@
     <device id="1000" name="Audio" type="audio">
         <instrument id="1000" channel="2" type="audio">
             <pan value="100"/>
-            <level value="-3.04399"/>
+            <level value="-4.44444"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
@@ -3976,7 +3975,7 @@
 
         <instrument id="10002" channel="2" type="softsynth">
             <pan value="100"/>
-            <level value="-6.84899"/>
+            <level value="-6.10913"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
@@ -4010,7 +4009,7 @@
 
         <instrument id="10003" channel="2" type="softsynth">
             <pan value="100"/>
-            <level value="-0.0211389"/>
+            <level value="0.577883"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
@@ -4022,7 +4021,7 @@
         </instrument>
 
         <instrument id="10004" channel="2" type="softsynth">
-            <pan value="100"/>
+            <pan value="103"/>
             <level value="3.14625"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
@@ -4031,6 +4030,15 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/lp4pole_1671.so:lp4pole_fcrcia_oa" bypassed="false" >
                 <port id="0" value="3244.65" changed="true"/>
                 <port id="1" value="0" changed="false"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+            </plugin>
+            <plugin position="1" identifier="ladspa:/usr/lib/ladspa/sc1_1425.so:sc1" bypassed="false" >
+                <port id="0" value="29.86" changed="true"/>
+                <port id="1" value="73.8198" changed="true"/>
+                <port id="2" value="-19.8" changed="true"/>
+                <port id="3" value="3.43" changed="true"/>
+                <port id="4" value="3.25" changed="false"/>
+                <port id="5" value="0" changed="false"/>
                 <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/gverb_1216.so:gverb" bypassed="false" >
@@ -4045,12 +4053,12 @@
             </plugin>
             <plugin position="3" identifier="ladspa:/usr/lib/ladspa/lcr_delay_1436.so:lcrDelay" bypassed="false" >
                 <port id="0" value="0" changed="true"/>
-                <port id="1" value="33" changed="true"/>
+                <port id="1" value="30" changed="true"/>
                 <port id="2" value="0" changed="true"/>
                 <port id="3" value="0" changed="true"/>
                 <port id="4" value="54" changed="true"/>
-                <port id="5" value="39" changed="true"/>
-                <port id="6" value="-42" changed="true"/>
+                <port id="5" value="42.5" changed="true"/>
+                <port id="6" value="0" changed="false"/>
                 <port id="7" value="50" changed="false"/>
                 <port id="8" value="50" changed="false"/>
                 <port id="9" value="50" changed="true"/>
@@ -5091,7 +5099,7 @@
 
     <buss id="0">
        <pan value="100"/>
-       <level value="1.40625"/>
+       <level value="3.30625"/>
     </buss>
 
 
