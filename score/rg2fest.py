@@ -217,7 +217,10 @@ segs = 1 if trackname else 100000
 if len(sys.argv) > 3:
     trackname = sys.argv[3]
 if len(sys.argv) > 4:
-    seg = int(sys.argv[4]) - 1
+    try:
+        seg = int(sys.argv[4]) - 1
+    else:
+        print "seg label:", seg
     segs = 1
 if len(sys.argv) > 5:
     transpose = int(sys.argv[5])
