@@ -40,3 +40,16 @@ cmd = fest2wav + " " + seg + ".xml " + seg + ".wav"
 print cmd
 os.system(cmd)
 
+lst = os.listdir(".")
+found = False
+for fil in lst:
+    if fil.find("conv-" + seg + "-") == 0:
+        found = True
+        print "Found what looks like the appropriate rosegarden sample wav:", fil
+        cmd = "sox " + seg + ".wav -ef -r44100 " + fil
+        print cmd
+        os.system(cmd)
+        break
+
+if not found:
+    print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
