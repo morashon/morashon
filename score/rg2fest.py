@@ -249,7 +249,7 @@ for i in rng:
         if type(i) == type(0):
             fn = base + "." + str(i+1) + ".xml"
         else:
-            fn = base + "." + i + ".xml"
+            fn = base + ".xml"
         f = open(fn, 'w')
         f.write(out)
         f.close()
