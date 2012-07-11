@@ -82,13 +82,18 @@ def main(x, xmlout, trackname, segIndex, transpose):
                 print "found track with name", trackname, ":", track
                 break
         found = False
-        print "searching for", segIndex, "th segment"
+        print "searching for segment:", segIndex
         for seg in segs:
             if int(seg.getAttribute("track")) == track:
-                if segIndex == 0:
-                    found = True
-                    break
-                segIndex -= 1
+                if type(segIndex)==type(0):
+                    if segIndex == 0:
+                        found = True
+                        break
+                    segIndex -= 1
+                else:
+                    if seg.getAttribute("label") == segIndex:
+                        found = True
+                        break
         if not found:
             print "requested segment not found"
             return
@@ -218,8 +223,9 @@ segs = 1 if trackname else 100000
 if len(sys.argv) > 3:
     trackname = sys.argv[3]
 if len(sys.argv) > 4:
+    seg = sys.argv[4]
     try:
-        seg = int(sys.argv[4]) - 1
+        seg = int(seg) - 1
     except:
         print "seg label:", seg
     segs = 1
@@ -230,13 +236,21 @@ base = sys.argv[2]
 if base[-4:].lower() == ".xml":
     base = base[:-4]
 
-for i in range(seg, seg + segs):
+if type(seg) == type(0):
+    rng = range(seg, seg + segs)
+else:
+    rng = [seg]
+for i in rng:
     print "---i:", i, seg, segs
     y = minidom.Document()
     xml = main(x, y, trackname, i, transpose)
     if xml:
         out = xml.toprettyxml()
-        f = open(base + "." + str(i+1) + ".xml", 'w')
+        if type(i) == type(0):
+            fn = base + "." + str(i+1) + ".xml"
+        else:
+            fn = base + "." + i + ".xml"
+        f = open(fn, 'w')
         f.write(out)
         f.close()
     else:
