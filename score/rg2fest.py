@@ -5,6 +5,8 @@
 import sys, os
 from xml.dom import minidom
 
+ADDNOTEATEND = True             #to avoid the barf effect
+
 def tick2tempo(tempos, t):
     if t >= tempos[-1][0]:
         return tempos[-1][1]
@@ -181,7 +183,7 @@ def main(x, xmlout, trackname, segIndex, transpose):
                                 note = int(getProp(ev, "pitch", "int"))
                                 print "note:", note
                                 print "lyric:", lyric
-                                prevnote, prevdur = makeNote(xmlout,song, lyric, note+transpose, partdur + dursec)
+                                prevnote, prevdur = makeNote(xmlout, song, lyric, note+transpose, partdur + dursec)
                                 lyric = ""
                                 partdur = 0
                                 prevtype = "note"
@@ -202,6 +204,10 @@ def main(x, xmlout, trackname, segIndex, transpose):
     print
     print "total duration:", (tick-starttick) / 960.0, "beats,", totdur, "seconds"
 
+    if ADDNOTEATEND:
+        makeRest(xmlout, song, 4.0)
+        makeNote(xmlout, song, "ae", 30, 0.1)
+        
     xmlout.appendChild(song)
     return xmlout
 
