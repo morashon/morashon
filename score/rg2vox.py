@@ -43,6 +43,8 @@ os.system(cmd)
 lst = os.listdir(".")
 found = False
 for fil in lst:
+    if not fil[-4:].lower() == ".wav":
+        continue
     if fil.find("conv-" + seg + "-") == 0:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
@@ -52,4 +54,15 @@ for fil in lst:
         break
 
 if not found:
-    print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
+    lst = os.listdir(os.getenv("HOME") + "/rosegarden")
+    for fil in lst:
+        if not fil[-4:].lower() == ".wav":
+            continue
+        if fil.find("conv-" + seg + "-") == 0:
+            found = True
+            break
+
+    if found:
+        print "Tricky Rosegarden! It put the file in ~/rosegarden.  Move it into the current directory, restart Rosegarden, and run this script again."
+    else:
+        print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
