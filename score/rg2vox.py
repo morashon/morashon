@@ -20,6 +20,15 @@ if len(sys.argv) < 4:
     print "rg2vox song.rg tracklabel segmentlabel"
     exit()
 
+def makeCmd(*args):
+    s = ""
+    for arg in args:
+        arg = str(arg)
+        if " " in arg:
+            arg = '"' + arg + '"'
+        s += arg + " "
+    return s.strip()
+
 song = sys.argv[1]
 track = sys.argv[2]
 seg = sys.argv[3]
@@ -32,11 +41,11 @@ fest2wav = "./fest2wav.py"
 if not os.path.exists(fest2wav):
     fest2wav = "../fest2wav.py"
 
-cmd = rg2fest + " " + song + " " + seg + " " + track + " " + seg
+cmd = makeCmd(rg2fest, song, seg, track, seg)
 print cmd
 os.system(cmd)
 
-cmd = fest2wav + " " + seg + ".xml " + seg + ".wav"
+cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav")
 print cmd
 os.system(cmd)
 
@@ -48,7 +57,7 @@ for fil in lst:
     if fil.find("conv-" + seg + "-") == 0:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
-        cmd = "sox " + seg + ".wav -ef -r44100 " + fil
+        cmd = makeCmd("sox", seg + ".wav", "-ef", "-r44100", fil)
         print cmd
         os.system(cmd)
         break
