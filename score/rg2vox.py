@@ -57,7 +57,7 @@ for fil in lst:
     if fil.find("conv-" + seg + "-") == 0:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
-        cmd = makeCmd("sox", seg + ".wav", "-ef", "-r44100", fil)
+        cmd = makeCmd("sox -D ", seg + ".wav", "-ef", "-r44100", fil)
         print cmd
         os.system(cmd)
         break
