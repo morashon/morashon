@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rosegarden-data>
 <rosegarden-data version="10.10" format-version-major="1" format-version-minor="6" format-version-point="0">
-<composition recordtracks="" pointer="253440" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="74" playmetronome="0" recordmetronome="0" nexttriggerid="0">
+<composition recordtracks="" pointer="215040" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="22" playmetronome="0" recordmetronome="0" nexttriggerid="0">
 
 
   <track id="0" label="Bazz" position="8" muted="false" instrument="10000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
@@ -19,15 +19,15 @@
   <track id="12" label="Bong" position="19" muted="false" instrument="10012" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="13" label="Guiro" position="20" muted="false" instrument="1001" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="14" label="VOXerama" position="24" muted="false" instrument="10014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="15" label="Bgd 1" position="26" muted="true" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="15" label="Bgd 1" position="26" muted="false" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="16" label="gtr1" position="5" muted="false" instrument="1000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="17" label="gtr2" position="6" muted="false" instrument="1002" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="18" label="DeadGuitar" position="7" muted="false" instrument="1003" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="19" label="CrashFixed" position="31" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="20" label="VOXfest" position="22" muted="false" instrument="1004" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="21" label="VOXfest2" position="23" muted="false" instrument="1005" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="22" label="" position="32" muted="false" instrument="1006" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="23" label="" position="33" muted="false" instrument="1007" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="22" label="BgdF1" position="32" muted="false" instrument="1006" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="23" label="BgdF2" position="33" muted="false" instrument="1007" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="24" label="" position="34" muted="false" instrument="1008" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="25" label="" position="35" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="26" label="" position="36" muted="false" instrument="1010" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
@@ -77,7 +77,7 @@
   <track id="70" label="Organs" position="4" muted="false" instrument="10019" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="71" label="PAD_c" position="3" muted="false" instrument="10021" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="72" label="PAD_B" position="2" muted="false" instrument="10020" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="73" label="Bgd4fest2" position="28" muted="false" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="73" label="Bgd4fest2" position="28" muted="true" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="74" label="Bgd4fest1" position="27" muted="false" instrument="10022" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
 
   <timesignature time="0" numerator="4" denominator="4"/>
@@ -101,7 +101,7 @@
 </composition>
 
 <audiofiles expectedRate="44100">
-    <audioPath value="~/rosegarden/"/>
+    <audioPath value="~/bench/morashon/score/like_am_I_real/"/>
     <audio id="1" file="conv-conv-Cymbal 23--20120619-155003-2.wav" label="conv-conv-Cymbal 23--20120619-155003-2.wav"/>
     <audio id="2" file="conv-guiro-20120619-234950-3.wav" label="conv-guiro-20120619-234950-3.wav"/>
     <audio id="3" file="conv-guiro_short-20120620-001157-4.wav" label="conv-guiro_short-20120620-001157-4.wav"/>
@@ -146,13 +146,15 @@
     <audio id="97" file="conv-sing1-20120713-204126-98.wav" label="conv-sing1-20120713-204126-98.wav"/>
     <audio id="98" file="conv-drink-20120713-204552-99.wav" label="conv-drink-20120713-204552-99.wav"/>
     <audio id="100" file="conv-sing2-20120713-205138-101.wav" label="conv-sing2-20120713-205138-101.wav"/>
+    <audio id="101" file="conv-b4flike-20120714-000658-102.wav" label="conv-b4flike-20120714-000658-102.wav"/>
+    <audio id="103" file="conv-b4fc2lo-20120714-005141-104.wav" label="conv-b4fc2lo-20120714-005141-104.wav"/>
 </audiofiles>
 
 
 
 
 <configuration>
-    <zoomlevel type="Int">76800</zoomlevel>
+    <zoomlevel type="Int">192000</zoomlevel>
     <transportmode type="String">RealMode</transportmode>
 </configuration>
 
@@ -13185,10 +13187,9 @@
 	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-660"><property name="msb" int="73"/><property name="lsb" int="0"/></event>
 	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="80"/><property name="lsb" int="0"/></event>
 	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="87"/><property name="lsb" int="0"/></event>
-	<event type="note" duration="240" timeOffset="-1860"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-180"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
-	<event type="rest" duration="240" subordering="10" timeOffset="-1980"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-180"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="480" subordering="10" timeOffset="-1860"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-420"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1920"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
 	<event type="rest" duration="480" subordering="10" timeOffset="-1980"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1440"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
@@ -14006,16 +14007,16 @@
     <end index="6.143580"/>
 </segment>
 <segment track="20" start="98181" label="" colourindex="1" endmarker="103359" type="audio" file="89">
-    <begin index="6.144420"/>
-    <end index="10.517730"/>
+    <begin index="6.144417"/>
+    <end index="10.517727"/>
 </segment>
 <segment track="20" start="107098" label="" colourindex="1" endmarker="129504" type="audio" file="81">
     <begin index="0.000000"/>
     <end index="18.923986"/>
 </segment>
 <segment track="20" start="130545" label="" colourindex="1" endmarker="134434" type="audio" file="81">
-    <begin index="19.828543"/>
-    <end index="23.113171"/>
+    <begin index="19.828540"/>
+    <end index="23.113168"/>
 </segment>
 <segment track="20" start="130560" label="conv-drink-20120713-204552-99.wav" colourindex="1" endmarker="136320" type="audio" file="98">
     <begin index="0.000000"/>
@@ -14030,24 +14031,24 @@
     <end index="12.723817"/>
 </segment>
 <segment track="20" start="152166" label="" colourindex="1" endmarker="163216" type="audio" file="81">
-    <begin index="38.054046"/>
-    <end index="47.386816"/>
+    <begin index="38.054043"/>
+    <end index="47.386813"/>
 </segment>
 <segment track="20" start="168710" label="" colourindex="1" endmarker="176594" type="audio" file="87">
     <begin index="0.000000"/>
     <end index="6.652760"/>
 </segment>
 <segment track="20" start="176579" label="" colourindex="1" endmarker="178668" type="audio" file="87">
-    <begin index="6.652753"/>
-    <end index="8.413369"/>
+    <begin index="6.652750"/>
+    <end index="8.413366"/>
 </segment>
 <segment track="20" start="178683" label="" colourindex="1" endmarker="182538" type="audio" file="87">
-    <begin index="8.413363"/>
-    <end index="11.659990"/>
+    <begin index="8.413360"/>
+    <end index="11.659987"/>
 </segment>
 <segment track="20" start="182700" label="" colourindex="1" endmarker="191028" type="audio" file="87">
-    <begin index="11.796358"/>
-    <end index="18.799319"/>
+    <begin index="11.796355"/>
+    <end index="18.799316"/>
 </segment>
 <segment track="20" start="192000" label="" colourindex="1" endmarker="198055" type="audio" file="87">
     <begin index="19.605575"/>
@@ -14066,8 +14067,8 @@
     <end index="2.516152"/>
 </segment>
 <segment track="20" start="201492" label="" colourindex="1" endmarker="209341" type="audio" file="90">
-    <begin index="2.516210"/>
-    <end index="9.086281"/>
+    <begin index="2.516207"/>
+    <end index="9.086278"/>
 </segment>
 <segment track="20" start="209219" label="" colourindex="1" endmarker="213595" type="audio" file="90">
     <begin index="9.086287"/>
@@ -14106,12 +14107,24 @@
     <end index="1.097339"/>
 </segment>
 <segment track="20" start="280147" label="conv-ur_real-20120709-213115-94.wav" colourindex="1" endmarker="282077" type="audio" file="93">
-    <begin index="1.097331"/>
-    <end index="2.681394"/>
+    <begin index="1.097328"/>
+    <end index="2.681391"/>
 </segment>
 <segment track="20" start="282163" label="" colourindex="1" endmarker="380925" type="audio" file="91">
-    <begin index="5.804611"/>
-    <end index="86.077537"/>
+    <begin index="5.804609"/>
+    <end index="86.077535"/>
+</segment>
+<segment track="22" start="249600" label="conv-b4flike-20120714-000658-102.wav" colourindex="1" endmarker="254489" type="audio" file="101">
+    <begin index="0.000000"/>
+    <end index="4.045254"/>
+</segment>
+<segment track="23" start="199680" label="conv-b4fc2lo-20120714-005141-104.wav" colourindex="1" endmarker="231360" type="audio" file="103">
+    <begin index="0.000000"/>
+    <end index="26.451845"/>
+</segment>
+<segment track="23" start="257280" label="conv-b4flike-20120714-000658-102.wav" colourindex="1" endmarker="262192" type="audio" file="101">
+    <begin index="0.000000"/>
+    <end index="4.056475"/>
 </segment>
 <segment track="65" start="322560" label="" endmarker="380160">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
@@ -15615,7 +15628,7 @@
 	<event type="note" duration="3840"><property name="pitch" int="57"/><property name="velocity" int="100"/></event>
 </chord>
 </segment>
-<segment track="73" start="199680" label="Bgd 1 (copied) (split)" endmarker="230400">
+<segment track="73" start="199680" label="b4fc2lo" endmarker="230400">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
 	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
@@ -15648,9 +15661,8 @@
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="cane"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="note" duration="360"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
@@ -15667,31 +15679,37 @@
 	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
-	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
 </segment>
 <segment track="73" start="249600" label="b4flike">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
@@ -15852,7 +15870,7 @@
 	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
 </segment>
-<segment track="74" start="199680" label="Bgd 1 (copied) (split)" endmarker="230400">
+<segment track="74" start="199680" label="b4fc2hi" endmarker="230400">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
 	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
@@ -15886,8 +15904,7 @@
 	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
@@ -15896,39 +15913,46 @@
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="70"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="fee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="480"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="70"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="70"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
-	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="70"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="70"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="69"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="69"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
-	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="69"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="note" duration="960"><property name="pitch" int="67"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
 	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="note" duration="1920"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
 	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
-	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
 </segment>
 <segment track="74" start="257280" label="VOXerama (split) (copied) (split)" endmarker="264960">
 	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
@@ -16181,7 +16205,7 @@
                 <port id="5" value="1" changed="false"/>
                 <port id="6" value="0.25" changed="false"/>
                 <port id="7" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
@@ -16208,7 +16232,7 @@
                 <port id="12" value="-3" changed="true"/>
                 <port id="13" value="11921.2" changed="true"/>
                 <port id="14" value="0.7" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/lcr_delay_1436.so:lcrDelay" bypassed="false" >
                 <port id="0" value="462" changed="true"/>
@@ -16222,7 +16246,7 @@
                 <port id="8" value="50" changed="false"/>
                 <port id="9" value="50" changed="true"/>
                 <port id="10" value="1" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
@@ -16241,7 +16265,7 @@
                 <port id="5" value="1" changed="false"/>
                 <port id="6" value="0.25" changed="false"/>
                 <port id="7" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
@@ -16260,7 +16284,7 @@
                 <port id="4" value="20" changed="false"/>
                 <port id="5" value="0" changed="false"/>
                 <port id="6" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/sc4_1882.so:sc4" bypassed="false" >
                 <port id="0" value="0" changed="false"/>
@@ -16270,7 +16294,7 @@
                 <port id="4" value="11.07" changed="true"/>
                 <port id="5" value="3.25" changed="false"/>
                 <port id="6" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
@@ -16286,12 +16310,12 @@
                 <port id="2" value="0.36" changed="true"/>
                 <port id="3" value="1.20951" changed="true"/>
                 <port id="4" value="0.46953" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="533.054" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/tap_reverb.so:tap_reverb" bypassed="false" >
                 <port id="0" value="1500" changed="true"/>
@@ -16302,7 +16326,7 @@
                 <port id="5" value="-0.0001" changed="true"/>
                 <port id="6" value="0" changed="false"/>
                 <port id="7" value="22" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
@@ -16316,33 +16340,53 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="490.354" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/caps.so:Plate" bypassed="false" >
                 <port id="1" value="0.46224" changed="true"/>
                 <port id="2" value="0.3745" changed="false"/>
                 <port id="3" value="0.250375" changed="false"/>
                 <port id="4" value="0.25" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
         </instrument>
 
         <instrument id="1006" channel="2" type="audio">
-            <pan value="100"/>
-            <level value="0"/>
+            <pan value="40"/>
+            <level value="-1.52728"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
             <alias value=""/>
+            <plugin position="0" identifier="ladspa:/usr/lib/ladspa/gverb_1216.so:gverb" bypassed="false" >
+                <port id="0" value="75.75" changed="false"/>
+                <port id="1" value="7.575" changed="false"/>
+                <port id="2" value="0.5" changed="false"/>
+                <port id="3" value="0.75" changed="false"/>
+                <port id="4" value="0" changed="true"/>
+                <port id="5" value="-14.7" changed="true"/>
+                <port id="6" value="-25.9" changed="true"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
+            </plugin>
         </instrument>
 
         <instrument id="1007" channel="2" type="audio">
-            <pan value="100"/>
-            <level value="0"/>
+            <pan value="161"/>
+            <level value="-0.0211389"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
             <alias value=""/>
+            <plugin position="0" identifier="ladspa:/usr/lib/ladspa/gverb_1216.so:gverb" bypassed="false" >
+                <port id="0" value="81.73" changed="true"/>
+                <port id="1" value="7.575" changed="false"/>
+                <port id="2" value="0.5" changed="false"/>
+                <port id="3" value="0.75" changed="false"/>
+                <port id="4" value="0" changed="true"/>
+                <port id="5" value="-14.7" changed="true"/>
+                <port id="6" value="-23.8" changed="true"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
+            </plugin>
         </instrument>
 
         <instrument id="1008" channel="2" type="audio">
@@ -16444,10 +16488,10 @@
                 <port id="12" value="-18" changed="true"/>
                 <port id="13" value="10055.8" changed="true"/>
                 <port id="14" value="0.5" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" program="33. FUNK-BASS1">
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/pretes_thumbs.sf2"/>
             </synth>
         </instrument>
@@ -16462,10 +16506,10 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="1345.53" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/Groovy_Lou&apos;s_Kit1.sf2"/>
             </synth>
         </instrument>
@@ -16486,7 +16530,7 @@
                 <port id="5" value="1" changed="false"/>
                 <port id="6" value="-0.0001" changed="true"/>
                 <port id="7" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/tap_chorusflanger.so:tap_chorusflanger" bypassed="false" >
                 <port id="0" value="3" changed="true"/>
@@ -16496,10 +16540,10 @@
                 <port id="4" value="20" changed="false"/>
                 <port id="5" value="2.2" changed="true"/>
                 <port id="6" value="-3.3" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/KawaiStereoGrand.sf2"/>
             </synth>
         </instrument>
@@ -16512,7 +16556,7 @@
             <audioOutput value="0"/>
             <alias value=""/>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/Groovy_Lou&apos;s_Kit1.sf2"/>
             </synth>
         </instrument>
@@ -16540,12 +16584,12 @@
                 <port id="12" value="0" changed="false"/>
                 <port id="13" value="0" changed="false"/>
                 <port id="14" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="33. FUNK-BASS1">
                 <port id="1" value="442.036" changed="true"/>
                 <port id="2" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -16753,7 +16797,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -16767,18 +16811,18 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/lp4pole_1671.so:lp4pole_fcrcia_oa" bypassed="false" >
                 <port id="0" value="3192.79" changed="true"/>
                 <port id="1" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/plate_1423.so:plate" bypassed="false" >
                 <port id="0" value="4.255" changed="false"/>
                 <port id="1" value="0.25" changed="false"/>
                 <port id="2" value="0.11" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="66. DIGI DRUM1">
                 <port id="1" value="440" changed="false"/>
                 <port id="2" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -16792,7 +16836,7 @@
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="66. DIGI DRUM1">
                 <port id="1" value="440" changed="false"/>
                 <port id="2" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -16804,7 +16848,7 @@
             <audioOutput value="0"/>
             <alias value=""/>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/Groovy_Lou&apos;s_Kit1.sf2"/>
             </synth>
         </instrument>
@@ -16832,7 +16876,7 @@
                 <port id="12" value="0" changed="false"/>
                 <port id="13" value="4.41" changed="false"/>
                 <port id="14" value="0.5" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/revdelay_1605.so:revdelay" bypassed="false" >
                 <port id="2" value="0.45" changed="true"/>
@@ -16840,7 +16884,7 @@
                 <port id="4" value="-32.9" changed="true"/>
                 <port id="5" value="0.16" changed="true"/>
                 <port id="6" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/gverb_1216.so:gverb" bypassed="false" >
                 <port id="0" value="48.84" changed="true"/>
@@ -16850,10 +16894,10 @@
                 <port id="4" value="0" changed="true"/>
                 <port id="5" value="-33.6" changed="true"/>
                 <port id="6" value="-42" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/RealAcousticDrums_3.SF2"/>
             </synth>
         </instrument>
@@ -16866,7 +16910,7 @@
             <audioOutput value="0"/>
             <alias value=""/>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/RealAcousticDrums_3.SF2"/>
             </synth>
         </instrument>
@@ -16887,10 +16931,10 @@
                 <port id="5" value="601.7" changed="true"/>
                 <port id="6" value="-90" changed="false"/>
                 <port id="7" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" program="1. String Thingy">
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/BHCello.sf2"/>
             </synth>
         </instrument>
@@ -16903,7 +16947,7 @@
             <audioOutput value="0"/>
             <alias value=""/>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/RealAcousticDrums_3.SF2"/>
             </synth>
         </instrument>
@@ -16916,7 +16960,7 @@
             <audioOutput value="0"/>
             <alias value=""/>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" >
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -16931,7 +16975,7 @@
                 <port id="0" value="-23" changed="true"/>
                 <port id="1" value="352.8" changed="true"/>
                 <port id="2" value="0.6" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/tap_reverb.so:tap_reverb" bypassed="false" >
                 <port id="0" value="1200" changed="true"/>
@@ -16942,7 +16986,7 @@
                 <port id="5" value="0.9999" changed="true"/>
                 <port id="6" value="0.9999" changed="true"/>
                 <port id="7" value="27" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="22. PADsynth Choir A">
                 <port id="2" value="0" changed="false"/>
@@ -17141,13 +17185,13 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
         <instrument id="10015" channel="2" type="softsynth">
-            <pan value="2"/>
-            <level value="1.39834"/>
+            <pan value="96"/>
+            <level value="-1.71225"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
@@ -17159,7 +17203,7 @@
                 <port id="3" value="7.3" changed="true"/>
                 <port id="4" value="3.25" changed="false"/>
                 <port id="5" value="0.72" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="23. PADsynth Choir B">
                 <port id="2" value="8" changed="false"/>
@@ -17358,7 +17402,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -17372,7 +17416,7 @@
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="39. ORCHESTRAL">
                 <port id="1" value="440" changed="false"/>
                 <port id="2" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -17391,10 +17435,10 @@
                 <port id="4" value="1618.4" changed="true"/>
                 <port id="5" value="6.6" changed="true"/>
                 <port id="6" value="5.5" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/fluidsynth-dssi.so:FluidSynth-DSSI" bypassed="false" program="4. ENSEMBLE 3">
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
                 <configure key="load" value="/fluidsynth/HS Strings.sf2"/>
             </synth>
         </instrument>
@@ -17413,19 +17457,19 @@
                 <port id="4" value="0.5005" changed="false"/>
                 <port id="5" value="-21.4" changed="true"/>
                 <port id="6" value="3.25" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="1136.48" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="3" identifier="ladspa:/usr/lib/ladspa/flanger_1191.so:flanger" bypassed="false" >
                 <port id="0" value="4.333" changed="true"/>
                 <port id="1" value="3.4" changed="true"/>
                 <port id="2" value="0.413081" changed="true"/>
                 <port id="3" value="-0.66" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="137. K4oid: UnderAtack">
                 <port id="2" value="2" changed="false"/>
@@ -17624,7 +17668,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -17638,12 +17682,12 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:buttlow_iir" bypassed="false" >
                 <port id="0" value="579.833" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/highpass_iir_1890.so:highpass_iir" bypassed="false" >
                 <port id="0" value="4.41" changed="false"/>
                 <port id="1" value="1" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="17. Glass Organ">
                 <port id="2" value="3" changed="false"/>
@@ -17842,7 +17886,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -17856,7 +17900,7 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:buttlow_iir" bypassed="false" >
                 <port id="0" value="1998" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="79. X2: reso_sweep">
                 <port id="2" value="1" changed="false"/>
@@ -18055,7 +18099,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -18069,19 +18113,19 @@
             <plugin position="0" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:buttlow_iir" bypassed="false" >
                 <port id="0" value="1591.07" changed="true"/>
                 <port id="1" value="0.755" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="1" identifier="ladspa:/usr/lib/ladspa/butterworth_1902.so:butthigh_iir" bypassed="false" >
                 <port id="0" value="194.261" changed="true"/>
                 <port id="1" value="0.886" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <plugin position="2" identifier="ladspa:/usr/lib/ladspa/flanger_1191.so:flanger" bypassed="false" >
                 <port id="0" value="4.333" changed="true"/>
                 <port id="1" value="2.5" changed="false"/>
                 <port id="2" value="0.328855" changed="true"/>
                 <port id="3" value="-0.74" changed="true"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </plugin>
             <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="45. LFO Madness">
                 <port id="2" value="1" changed="false"/>
@@ -18280,7 +18324,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -18488,7 +18532,7 @@
                 <port id="195" value="0" changed="false"/>
                 <port id="196" value="0" changed="false"/>
                 <port id="197" value="440" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
@@ -18502,7 +18546,7 @@
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="66. DIGI DRUM1">
                 <port id="1" value="440" changed="false"/>
                 <port id="2" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/bench/morashon/score/like_am_I_real/"/>
             </synth>
         </instrument>
 
