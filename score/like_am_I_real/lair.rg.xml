@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE rosegarden-data>
 <rosegarden-data version="10.10" format-version-major="1" format-version-minor="6" format-version-point="0">
-<composition recordtracks="" pointer="195887" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="4" playmetronome="0" recordmetronome="0" nexttriggerid="0">
+<composition recordtracks="" pointer="253440" defaultTempo="120.0000" compositionDefaultTempo="12000000" startMarker="0" endMarker="422400" selected="74" playmetronome="0" recordmetronome="0" nexttriggerid="0">
 
 
   <track id="0" label="Bazz" position="8" muted="false" instrument="10000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
@@ -19,64 +19,66 @@
   <track id="12" label="Bong" position="19" muted="false" instrument="10012" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="13" label="Guiro" position="20" muted="false" instrument="1001" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="14" label="VOXerama" position="24" muted="false" instrument="10014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="15" label="Bgd 1" position="26" muted="false" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="15" label="Bgd 1" position="26" muted="true" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="16" label="gtr1" position="5" muted="false" instrument="1000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="17" label="gtr2" position="6" muted="false" instrument="1002" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="18" label="DeadGuitar" position="7" muted="false" instrument="1003" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="19" label="CrashFixed" position="29" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="19" label="CrashFixed" position="31" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="20" label="VOXfest" position="22" muted="false" instrument="1004" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="21" label="VOXfest2" position="23" muted="false" instrument="1005" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="22" label="" position="30" muted="false" instrument="1006" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="23" label="" position="31" muted="false" instrument="1007" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="24" label="" position="32" muted="false" instrument="1008" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="25" label="" position="33" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="26" label="" position="34" muted="false" instrument="1010" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="27" label="" position="35" muted="false" instrument="1011" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="28" label="" position="36" muted="false" instrument="1012" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="29" label="" position="37" muted="false" instrument="1013" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="30" label="" position="38" muted="false" instrument="1014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="31" label="" position="39" muted="false" instrument="1015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="32" label="" position="40" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="33" label="" position="41" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="34" label="" position="42" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="35" label="" position="43" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="36" label="" position="44" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="37" label="" position="45" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="38" label="" position="46" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="39" label="" position="47" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="40" label="" position="48" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="41" label="" position="49" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="42" label="" position="50" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="43" label="" position="51" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="44" label="" position="52" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="45" label="" position="53" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="46" label="" position="54" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="47" label="" position="55" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="48" label="" position="56" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="49" label="" position="57" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="50" label="" position="58" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="51" label="" position="59" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="52" label="" position="60" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="53" label="" position="61" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="54" label="" position="62" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="55" label="" position="63" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="56" label="" position="64" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="57" label="" position="65" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="58" label="" position="66" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="59" label="" position="67" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="60" label="" position="68" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="61" label="" position="69" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="62" label="" position="70" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="63" label="" position="71" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="64" label="" position="72" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="65" label="StringBell" position="27" muted="false" instrument="10016" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
-  <track id="66" label="Strings" position="28" muted="false" instrument="10017" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="22" label="" position="32" muted="false" instrument="1006" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="23" label="" position="33" muted="false" instrument="1007" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="24" label="" position="34" muted="false" instrument="1008" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="25" label="" position="35" muted="false" instrument="1009" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="26" label="" position="36" muted="false" instrument="1010" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="27" label="" position="37" muted="false" instrument="1011" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="28" label="" position="38" muted="false" instrument="1012" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="29" label="" position="39" muted="false" instrument="1013" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="30" label="" position="40" muted="false" instrument="1014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="31" label="" position="41" muted="false" instrument="1015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="32" label="" position="42" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="33" label="" position="43" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="34" label="" position="44" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="35" label="" position="45" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="36" label="" position="46" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="37" label="" position="47" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="38" label="" position="48" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="39" label="" position="49" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="40" label="" position="50" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="41" label="" position="51" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="42" label="" position="52" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="43" label="" position="53" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="44" label="" position="54" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="45" label="" position="55" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="46" label="" position="56" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="47" label="" position="57" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="48" label="" position="58" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="49" label="" position="59" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="50" label="" position="60" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="51" label="" position="61" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="52" label="" position="62" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="53" label="" position="63" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="54" label="" position="64" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="55" label="" position="65" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="56" label="" position="66" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="57" label="" position="67" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="58" label="" position="68" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="59" label="" position="69" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="60" label="" position="70" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="61" label="" position="71" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="62" label="" position="72" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="63" label="" position="73" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="64" label="" position="74" muted="false" instrument="2000" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="65" label="StringBell" position="29" muted="false" instrument="10016" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="66" label="Strings" position="30" muted="false" instrument="10017" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="67" label="VOXforFest" position="21" muted="true" instrument="10014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="68" label="FeelRealDeal" position="25" muted="false" instrument="10014" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="69" label="PADua" position="1" muted="false" instrument="10018" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="70" label="Organs" position="4" muted="false" instrument="10019" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="71" label="PAD_c" position="3" muted="false" instrument="10021" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
   <track id="72" label="PAD_B" position="2" muted="false" instrument="10020" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="73" label="Bgd4fest2" position="28" muted="false" instrument="10015" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
+  <track id="74" label="Bgd4fest1" position="27" muted="false" instrument="10022" defaultLabel="" defaultClef="0" defaultTranspose="0" defaultColour="0" defaultHighestPlayable="127" defaultLowestPlayable="0" staffSize="0" staffBracket="0"/>
 
   <timesignature time="0" numerator="4" denominator="4"/>
 
@@ -143,6 +145,7 @@
     <audio id="96" file="conv-singing_songs_-20120709-220240-97.wav" label="conv-singing_songs_-20120709-220240-97.wav"/>
     <audio id="97" file="conv-sing1-20120713-204126-98.wav" label="conv-sing1-20120713-204126-98.wav"/>
     <audio id="98" file="conv-drink-20120713-204552-99.wav" label="conv-drink-20120713-204552-99.wav"/>
+    <audio id="100" file="conv-sing2-20120713-205138-101.wav" label="conv-sing2-20120713-205138-101.wav"/>
 </audiofiles>
 
 
@@ -14003,16 +14006,16 @@
     <end index="6.143580"/>
 </segment>
 <segment track="20" start="98181" label="" colourindex="1" endmarker="103359" type="audio" file="89">
-    <begin index="6.144423"/>
-    <end index="10.517733"/>
+    <begin index="6.144420"/>
+    <end index="10.517730"/>
 </segment>
 <segment track="20" start="107098" label="" colourindex="1" endmarker="129504" type="audio" file="81">
     <begin index="0.000000"/>
     <end index="18.923986"/>
 </segment>
-<segment track="20" start="129489" label="" colourindex="1" endmarker="134450" type="audio" file="81">
-    <begin index="18.923985"/>
-    <end index="23.114018"/>
+<segment track="20" start="130545" label="" colourindex="1" endmarker="134434" type="audio" file="81">
+    <begin index="19.828543"/>
+    <end index="23.113171"/>
 </segment>
 <segment track="20" start="130560" label="conv-drink-20120713-204552-99.wav" colourindex="1" endmarker="136320" type="audio" file="98">
     <begin index="0.000000"/>
@@ -14027,28 +14030,32 @@
     <end index="12.723817"/>
 </segment>
 <segment track="20" start="152166" label="" colourindex="1" endmarker="163216" type="audio" file="81">
-    <begin index="38.054049"/>
-    <end index="47.386819"/>
+    <begin index="38.054046"/>
+    <end index="47.386816"/>
 </segment>
 <segment track="20" start="168710" label="" colourindex="1" endmarker="176594" type="audio" file="87">
     <begin index="0.000000"/>
     <end index="6.652760"/>
 </segment>
 <segment track="20" start="176579" label="" colourindex="1" endmarker="178668" type="audio" file="87">
-    <begin index="6.652756"/>
-    <end index="8.413372"/>
+    <begin index="6.652753"/>
+    <end index="8.413369"/>
 </segment>
 <segment track="20" start="178683" label="" colourindex="1" endmarker="182538" type="audio" file="87">
-    <begin index="8.413366"/>
-    <end index="11.659993"/>
+    <begin index="8.413363"/>
+    <end index="11.659990"/>
 </segment>
 <segment track="20" start="182700" label="" colourindex="1" endmarker="191028" type="audio" file="87">
-    <begin index="11.796361"/>
-    <end index="18.799322"/>
+    <begin index="11.796358"/>
+    <end index="18.799319"/>
 </segment>
 <segment track="20" start="192000" label="" colourindex="1" endmarker="198055" type="audio" file="87">
     <begin index="19.605575"/>
     <end index="24.686967"/>
+</segment>
+<segment track="20" start="192000" label="conv-sing2-20120713-205138-101.wav" colourindex="1" endmarker="198144" type="audio" file="100">
+    <begin index="0.000000"/>
+    <end index="5.156025"/>
 </segment>
 <segment track="20" start="198509" label="" colourindex="1" endmarker="199515" type="audio" file="90">
     <begin index="0.000000"/>
@@ -14059,8 +14066,8 @@
     <end index="2.516152"/>
 </segment>
 <segment track="20" start="201492" label="" colourindex="1" endmarker="209341" type="audio" file="90">
-    <begin index="2.516213"/>
-    <end index="9.086284"/>
+    <begin index="2.516210"/>
+    <end index="9.086281"/>
 </segment>
 <segment track="20" start="209219" label="" colourindex="1" endmarker="213595" type="audio" file="90">
     <begin index="9.086287"/>
@@ -14099,12 +14106,12 @@
     <end index="1.097339"/>
 </segment>
 <segment track="20" start="280147" label="conv-ur_real-20120709-213115-94.wav" colourindex="1" endmarker="282077" type="audio" file="93">
-    <begin index="1.097334"/>
-    <end index="2.681397"/>
+    <begin index="1.097331"/>
+    <end index="2.681394"/>
 </segment>
 <segment track="20" start="282163" label="" colourindex="1" endmarker="380925" type="audio" file="91">
-    <begin index="5.804614"/>
-    <end index="86.077540"/>
+    <begin index="5.804611"/>
+    <end index="86.077537"/>
 </segment>
 <segment track="65" start="322560" label="" endmarker="380160">
 	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
@@ -15608,6 +15615,549 @@
 	<event type="note" duration="3840"><property name="pitch" int="57"/><property name="velocity" int="100"/></event>
 </chord>
 </segment>
+<segment track="73" start="199680" label="Bgd 1 (copied) (split)" endmarker="230400">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="&apos;Cause"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="240" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="fee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+</segment>
+<segment track="73" start="249600" label="b4flike">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Like"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ree"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="1440"><property name="pitch" int="67"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="2"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+</segment>
+<segment track="73" start="276480" label="b4fend1lo" endmarker="307200">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Yes"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="240" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="480"><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="fee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="62"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="60"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="60"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+</segment>
+<segment track="73" start="307200" label="b4fend2lo" endmarker="391680">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+</segment>
+<segment track="74" start="199680" label="Bgd 1 (copied) (split)" endmarker="230400">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="&apos;Cause"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="240" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="groupid" int="20"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="fee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="21"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="23"/><property name="grouptype" string="tupled"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="59"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+</segment>
+<segment track="74" start="257280" label="VOXerama (split) (copied) (split)" endmarker="264960">
+	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Like"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="240" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="-1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="groupid" int="0"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="0"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real?"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="2160" subordering="-5"><property name="msb" int="69"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-660"><property name="msb" int="73"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="80"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="87"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240" timeOffset="-1860"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="1"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-180"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="240" subordering="10" timeOffset="-1980"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-180"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="480" subordering="10" timeOffset="-1980"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10"><nproperty name="notetype" int="5"/><nproperty name="notedots" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1440"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-720"><property name="msb" int="69"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"></event>
+</chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-660"><property name="msb" int="73"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="80"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="87"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="480" subordering="10" timeOffset="-1860"></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="-420"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="180"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="480" subordering="10" timeOffset="120"></event>
+	<event type="rest" duration="480" subordering="10"></event>
+	<event type="text" subordering="-70"><property name="text" string="Like,"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="60" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="64"/><property name="velocity" int="100"/></event>
+</chord>
+	<event type="rest" duration="240" subordering="10" timeOffset="180"></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="62"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="64"/><property name="velocity" int="100"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real?"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/></event>
+<chord>
+	<event type="pitchbend" duration="2160" subordering="-5"><property name="msb" int="69"/><property name="lsb" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/></event>
+</chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-660"><property name="msb" int="73"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="80"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="87"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="480" subordering="10" timeOffset="-1860"></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="-420"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="180"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="240" subordering="10" timeOffset="120"></event>
+	<event type="rest" duration="240" subordering="10"></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="-1440"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+<chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="1380"><property name="msb" int="69"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10"></event>
+</chord>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1620"><property name="msb" int="73"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="80"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="2160" subordering="-5" timeOffset="-1980"><property name="msb" int="87"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="-1800"><property name="msb" int="93"/><property name="lsb" int="0"/></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="180"><property name="msb" int="95"/><property name="lsb" int="0"/></event>
+	<event type="rest" duration="1920" subordering="10" timeOffset="600"></event>
+	<event type="pitchbend" duration="60" subordering="-5" timeOffset="-1440"><property name="msb" int="64"/><property name="lsb" int="0"/></event>
+</segment>
+<segment track="74" start="276480" label="b4fend1hi" endmarker="307200">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Yes"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="0"/><property name="grouptype" string="beamed"/></event>
+<chord>
+	<event type="pitchbend" duration="240" subordering="-5"><property name="msb" int="64"/><property name="lsb" int="0"/><property name="groupid" int="0"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="0"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+</chord>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="feel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="am"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="real"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="can"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="2"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="deal"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="360"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="1"/></event>
+	<event type="rest" duration="120" subordering="10"><nproperty name="notetype" int="1"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="480" subordering="10"><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="960" subordering="10"><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="What"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="I"/><property name="type" string="lyric"/><property name="verse" int="0"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="BeamAbove" bool="false"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="groupid" int="3"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="Beamed" bool="true"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="240" subordering="10"><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="fee"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="480"><property name="pitch" int="74"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="groupid" int="4"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="3"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="160" timeOffset="-40"><property name="NoteStemUp" bool="false"/><property name="pitch" int="72"/><property name="velocity" int="100"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="80" subordering="10"><nproperty name="notetype" int="0"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="160"><property name="NoteStemUp" bool="false"/><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tupletbase" int="240"/><property name="tupledcount" int="2"/><property name="untupledcount" int="3"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70" timeOffset="-40"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="74"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="13"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="e"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="72"/><property name="velocity" int="100"/><nproperty name="HeightOnStaff" int="12"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="eel"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="240"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="2"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="71"/><property name="velocity" int="100"/><property name="tiedback" bool="true"/><property name="tiedforward" bool="true"/><nproperty name="HeightOnStaff" int="11"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="3840" subordering="10"></event>
+</segment>
+<segment track="74" start="307200" label="b4fend2hi" endmarker="391680">
+	<event type="clefchange" subordering="-250"><property name="clef" string="treble"/><property name="octaveoffset" int="-1"/></event>
+	<event type="keychange" subordering="-200"><property name="key" string="A major"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="68"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><property name="groupid" int="1"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="BeamAbove" bool="false"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="68"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="68"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="69"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><property name="groupid" int="0"/><property name="grouptype" string="beamed"/><nproperty name="HeightOnStaff" int="10"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="68"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="9"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="Ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="66"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="8"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="64"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="7"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="2880"><property name="pitch" int="61"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="5"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="5"/><nproperty name="notedots" int="1"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="960"><property name="pitch" int="63"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="6"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="4"/><nproperty name="notedots" int="0"/></event>
+	<event type="text" subordering="-70"><property name="text" string="ah"/><property name="type" string="lyric"/><property name="verse" int="0"/></event>
+	<event type="note" duration="3840"><property name="pitch" int="59"/><property name="velocity" int="100"/><property name="accidental" string="sharp"/><nproperty name="HeightOnStaff" int="4"/><nproperty name="OttavaShift" int="0"/><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+	<event type="rest" duration="3840" subordering="10"><nproperty name="notetype" int="6"/><nproperty name="notedots" int="0"/></event>
+</segment>
 
 
 
@@ -15992,13 +16542,6 @@
                 <port id="14" value="0" changed="false"/>
                 <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
             </plugin>
-            <plugin position="1" identifier="ladspa:/usr/lib/ladspa/dj_flanger_1438.so:djFlanger" bypassed="false" >
-                <port id="0" value="0" changed="false"/>
-                <port id="1" value="1" changed="false"/>
-                <port id="2" value="3.4" changed="true"/>
-                <port id="3" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
-            </plugin>
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="33. FUNK-BASS1">
                 <port id="1" value="442.036" changed="true"/>
                 <port id="2" value="0" changed="false"/>
@@ -16246,13 +16789,6 @@
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
             <alias value=""/>
-            <plugin position="0" identifier="ladspa:/usr/lib/ladspa/dj_flanger_1438.so:djFlanger" bypassed="false" >
-                <port id="0" value="0" changed="false"/>
-                <port id="1" value="1" changed="false"/>
-                <port id="2" value="4" changed="false"/>
-                <port id="3" value="0" changed="false"/>
-                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
-            </plugin>
             <synth identifier="dssi:/usr/lib/dssi/hexter.so:hexter" bypassed="false" program="66. DIGI DRUM1">
                 <port id="1" value="440" changed="false"/>
                 <port id="2" value="0" changed="false"/>
@@ -16610,8 +17146,8 @@
         </instrument>
 
         <instrument id="10015" channel="2" type="softsynth">
-            <pan value="95"/>
-            <level value="-0.736358"/>
+            <pan value="2"/>
+            <level value="1.39834"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
@@ -16625,17 +17161,17 @@
                 <port id="5" value="0.72" changed="true"/>
                 <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
             </plugin>
-            <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="4. Ice Chorus">
+            <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="23. PADsynth Choir B">
                 <port id="2" value="8" changed="false"/>
-                <port id="3" value="69" changed="false"/>
+                <port id="3" value="121" changed="false"/>
                 <port id="4" value="0" changed="false"/>
                 <port id="5" value="0" changed="false"/>
                 <port id="6" value="0" changed="false"/>
                 <port id="7" value="0" changed="false"/>
-                <port id="8" value="0.551986" changed="false"/>
+                <port id="8" value="0.593875" changed="false"/>
                 <port id="9" value="0.5" changed="false"/>
                 <port id="10" value="0" changed="false"/>
-                <port id="11" value="0" changed="false"/>
+                <port id="11" value="0.379736" changed="false"/>
                 <port id="12" value="0" changed="false"/>
                 <port id="13" value="0" changed="false"/>
                 <port id="14" value="0.5" changed="false"/>
@@ -16682,37 +17218,37 @@
                 <port id="55" value="0" changed="false"/>
                 <port id="56" value="0.5" changed="false"/>
                 <port id="57" value="0.5" changed="false"/>
-                <port id="58" value="6" changed="false"/>
+                <port id="58" value="0" changed="false"/>
                 <port id="59" value="0" changed="false"/>
-                <port id="60" value="19.4917" changed="false"/>
-                <port id="61" value="9" changed="false"/>
-                <port id="62" value="0.0139509" changed="false"/>
-                <port id="63" value="0.468405" changed="false"/>
+                <port id="60" value="50" changed="false"/>
+                <port id="61" value="0" changed="false"/>
+                <port id="62" value="0" changed="false"/>
+                <port id="63" value="0" changed="false"/>
                 <port id="64" value="0" changed="false"/>
-                <port id="65" value="6" changed="false"/>
-                <port id="66" value="1" changed="false"/>
-                <port id="67" value="19.4317" changed="false"/>
-                <port id="68" value="11" changed="false"/>
-                <port id="69" value="0.0186473" changed="false"/>
-                <port id="70" value="0.464954" changed="false"/>
+                <port id="65" value="0" changed="false"/>
+                <port id="66" value="0" changed="false"/>
+                <port id="67" value="50" changed="false"/>
+                <port id="68" value="0" changed="false"/>
+                <port id="69" value="0" changed="false"/>
+                <port id="70" value="0" changed="false"/>
                 <port id="71" value="0" changed="false"/>
-                <port id="72" value="0" changed="false"/>
-                <port id="73" value="0.147428" changed="false"/>
-                <port id="74" value="0" changed="false"/>
-                <port id="75" value="0.849625" changed="false"/>
-                <port id="76" value="0.93656" changed="false"/>
-                <port id="77" value="0.153421" changed="false"/>
-                <port id="78" value="0.940932" changed="false"/>
-                <port id="79" value="0.844492" changed="false"/>
-                <port id="80" value="0.538" changed="false"/>
-                <port id="81" value="0" changed="false"/>
+                <port id="72" value="0.996868" changed="false"/>
+                <port id="73" value="0.255417" changed="false"/>
+                <port id="74" value="0.977369" changed="false"/>
+                <port id="75" value="0.734944" changed="false"/>
+                <port id="76" value="0" changed="false"/>
+                <port id="77" value="0.5" changed="false"/>
+                <port id="78" value="0" changed="false"/>
+                <port id="79" value="0.5" changed="false"/>
+                <port id="80" value="0.583999" changed="false"/>
+                <port id="81" value="2" changed="false"/>
                 <port id="82" value="0" changed="false"/>
                 <port id="83" value="0" changed="false"/>
                 <port id="84" value="0" changed="false"/>
-                <port id="85" value="0" changed="false"/>
-                <port id="86" value="0" changed="false"/>
+                <port id="85" value="0.042" changed="false"/>
+                <port id="86" value="0.029" changed="false"/>
                 <port id="87" value="0" changed="false"/>
-                <port id="88" value="0" changed="false"/>
+                <port id="88" value="0.166667" changed="false"/>
                 <port id="89" value="0.984375" changed="false"/>
                 <port id="90" value="2" changed="false"/>
                 <port id="91" value="1" changed="false"/>
@@ -16724,25 +17260,25 @@
                 <port id="97" value="0" changed="false"/>
                 <port id="98" value="0" changed="false"/>
                 <port id="99" value="0" changed="false"/>
-                <port id="100" value="0.244715" changed="false"/>
+                <port id="100" value="1" changed="false"/>
                 <port id="101" value="0" changed="false"/>
                 <port id="102" value="0" changed="false"/>
                 <port id="103" value="0" changed="false"/>
                 <port id="104" value="0" changed="false"/>
-                <port id="105" value="128.177" changed="false"/>
+                <port id="105" value="90" changed="false"/>
                 <port id="106" value="0" changed="false"/>
-                <port id="107" value="2" changed="false"/>
-                <port id="108" value="3" changed="false"/>
-                <port id="109" value="0.0738067" changed="false"/>
-                <port id="110" value="0.875222" changed="false"/>
-                <port id="111" value="2" changed="false"/>
-                <port id="112" value="0.429704" changed="false"/>
+                <port id="107" value="1" changed="false"/>
+                <port id="108" value="2" changed="false"/>
+                <port id="109" value="0.042417" changed="false"/>
+                <port id="110" value="1" changed="false"/>
+                <port id="111" value="3" changed="false"/>
+                <port id="112" value="0.001" changed="false"/>
                 <port id="113" value="1" changed="false"/>
                 <port id="114" value="3" changed="false"/>
-                <port id="115" value="0.001" changed="false"/>
+                <port id="115" value="0" changed="false"/>
                 <port id="116" value="1" changed="false"/>
                 <port id="117" value="2" changed="false"/>
-                <port id="118" value="3.54994" changed="false"/>
+                <port id="118" value="2.11327" changed="false"/>
                 <port id="119" value="0" changed="false"/>
                 <port id="120" value="0" changed="false"/>
                 <port id="121" value="0" changed="false"/>
@@ -17749,12 +18285,211 @@
         </instrument>
 
         <instrument id="10022" channel="2" type="softsynth">
-            <pan value="100"/>
-            <level value="0"/>
+            <pan value="200"/>
+            <level value="1.8264"/>
             <recordLevel value="0"/>
             <audioInput value="0" type="record" channel="0"/>
             <audioOutput value="0"/>
             <alias value=""/>
+            <synth identifier="dssi:/usr/lib/dssi/whysynth.so:WhySynth" bypassed="false" program="4. Ice Chorus">
+                <port id="2" value="8" changed="false"/>
+                <port id="3" value="69" changed="false"/>
+                <port id="4" value="0" changed="false"/>
+                <port id="5" value="0" changed="false"/>
+                <port id="6" value="0" changed="false"/>
+                <port id="7" value="0" changed="false"/>
+                <port id="8" value="0.551986" changed="false"/>
+                <port id="9" value="0.5" changed="false"/>
+                <port id="10" value="0" changed="false"/>
+                <port id="11" value="0" changed="false"/>
+                <port id="12" value="0" changed="false"/>
+                <port id="13" value="0" changed="false"/>
+                <port id="14" value="0.5" changed="false"/>
+                <port id="15" value="0.5" changed="false"/>
+                <port id="16" value="0" changed="false"/>
+                <port id="17" value="0" changed="false"/>
+                <port id="18" value="0" changed="false"/>
+                <port id="19" value="0" changed="false"/>
+                <port id="20" value="0" changed="false"/>
+                <port id="21" value="0" changed="false"/>
+                <port id="22" value="0" changed="false"/>
+                <port id="23" value="0" changed="false"/>
+                <port id="24" value="0" changed="false"/>
+                <port id="25" value="0" changed="false"/>
+                <port id="26" value="0" changed="false"/>
+                <port id="27" value="0" changed="false"/>
+                <port id="28" value="0.5" changed="false"/>
+                <port id="29" value="0.5" changed="false"/>
+                <port id="30" value="0" changed="false"/>
+                <port id="31" value="0" changed="false"/>
+                <port id="32" value="0" changed="false"/>
+                <port id="33" value="0" changed="false"/>
+                <port id="34" value="0" changed="false"/>
+                <port id="35" value="0" changed="false"/>
+                <port id="36" value="0" changed="false"/>
+                <port id="37" value="0" changed="false"/>
+                <port id="38" value="0" changed="false"/>
+                <port id="39" value="0" changed="false"/>
+                <port id="40" value="0" changed="false"/>
+                <port id="41" value="0" changed="false"/>
+                <port id="42" value="0.5" changed="false"/>
+                <port id="43" value="0.5" changed="false"/>
+                <port id="44" value="0" changed="false"/>
+                <port id="45" value="0" changed="false"/>
+                <port id="46" value="0" changed="false"/>
+                <port id="47" value="0" changed="false"/>
+                <port id="48" value="0" changed="false"/>
+                <port id="49" value="0" changed="false"/>
+                <port id="50" value="0" changed="false"/>
+                <port id="51" value="0" changed="false"/>
+                <port id="52" value="0" changed="false"/>
+                <port id="53" value="0" changed="false"/>
+                <port id="54" value="0" changed="false"/>
+                <port id="55" value="0" changed="false"/>
+                <port id="56" value="0.5" changed="false"/>
+                <port id="57" value="0.5" changed="false"/>
+                <port id="58" value="6" changed="false"/>
+                <port id="59" value="0" changed="false"/>
+                <port id="60" value="19.4917" changed="false"/>
+                <port id="61" value="9" changed="false"/>
+                <port id="62" value="0.0139509" changed="false"/>
+                <port id="63" value="0.468405" changed="false"/>
+                <port id="64" value="0" changed="false"/>
+                <port id="65" value="6" changed="false"/>
+                <port id="66" value="1" changed="false"/>
+                <port id="67" value="19.4317" changed="false"/>
+                <port id="68" value="11" changed="false"/>
+                <port id="69" value="0.0186473" changed="false"/>
+                <port id="70" value="0.464954" changed="false"/>
+                <port id="71" value="0" changed="false"/>
+                <port id="72" value="0" changed="false"/>
+                <port id="73" value="0.147428" changed="false"/>
+                <port id="74" value="0" changed="false"/>
+                <port id="75" value="0.849625" changed="false"/>
+                <port id="76" value="0.93656" changed="false"/>
+                <port id="77" value="0.153421" changed="false"/>
+                <port id="78" value="0.940932" changed="false"/>
+                <port id="79" value="0.844492" changed="false"/>
+                <port id="80" value="0.538" changed="false"/>
+                <port id="81" value="0" changed="false"/>
+                <port id="82" value="0" changed="false"/>
+                <port id="83" value="0" changed="false"/>
+                <port id="84" value="0" changed="false"/>
+                <port id="85" value="0" changed="false"/>
+                <port id="86" value="0" changed="false"/>
+                <port id="87" value="0" changed="false"/>
+                <port id="88" value="0" changed="false"/>
+                <port id="89" value="0.984375" changed="false"/>
+                <port id="90" value="2" changed="false"/>
+                <port id="91" value="1" changed="false"/>
+                <port id="92" value="0" changed="false"/>
+                <port id="93" value="0" changed="false"/>
+                <port id="94" value="0" changed="false"/>
+                <port id="95" value="1" changed="false"/>
+                <port id="96" value="0" changed="false"/>
+                <port id="97" value="0" changed="false"/>
+                <port id="98" value="0" changed="false"/>
+                <port id="99" value="0" changed="false"/>
+                <port id="100" value="0.244715" changed="false"/>
+                <port id="101" value="0" changed="false"/>
+                <port id="102" value="0" changed="false"/>
+                <port id="103" value="0" changed="false"/>
+                <port id="104" value="0" changed="false"/>
+                <port id="105" value="128.177" changed="false"/>
+                <port id="106" value="0" changed="false"/>
+                <port id="107" value="2" changed="false"/>
+                <port id="108" value="3" changed="false"/>
+                <port id="109" value="0.0738067" changed="false"/>
+                <port id="110" value="0.875222" changed="false"/>
+                <port id="111" value="2" changed="false"/>
+                <port id="112" value="0.429704" changed="false"/>
+                <port id="113" value="1" changed="false"/>
+                <port id="114" value="3" changed="false"/>
+                <port id="115" value="0.001" changed="false"/>
+                <port id="116" value="1" changed="false"/>
+                <port id="117" value="2" changed="false"/>
+                <port id="118" value="3.54994" changed="false"/>
+                <port id="119" value="0" changed="false"/>
+                <port id="120" value="0" changed="false"/>
+                <port id="121" value="0" changed="false"/>
+                <port id="122" value="0" changed="false"/>
+                <port id="123" value="0" changed="false"/>
+                <port id="124" value="0" changed="false"/>
+                <port id="125" value="3" changed="false"/>
+                <port id="126" value="0.1" changed="false"/>
+                <port id="127" value="1" changed="false"/>
+                <port id="128" value="3" changed="false"/>
+                <port id="129" value="0.1" changed="false"/>
+                <port id="130" value="1" changed="false"/>
+                <port id="131" value="3" changed="false"/>
+                <port id="132" value="0.1" changed="false"/>
+                <port id="133" value="1" changed="false"/>
+                <port id="134" value="3" changed="false"/>
+                <port id="135" value="0.2" changed="false"/>
+                <port id="136" value="0" changed="false"/>
+                <port id="137" value="0" changed="false"/>
+                <port id="138" value="0" changed="false"/>
+                <port id="139" value="0" changed="false"/>
+                <port id="140" value="0" changed="false"/>
+                <port id="141" value="0" changed="false"/>
+                <port id="142" value="3" changed="false"/>
+                <port id="143" value="0.1" changed="false"/>
+                <port id="144" value="1" changed="false"/>
+                <port id="145" value="3" changed="false"/>
+                <port id="146" value="0.1" changed="false"/>
+                <port id="147" value="1" changed="false"/>
+                <port id="148" value="3" changed="false"/>
+                <port id="149" value="0.1" changed="false"/>
+                <port id="150" value="1" changed="false"/>
+                <port id="151" value="3" changed="false"/>
+                <port id="152" value="0.2" changed="false"/>
+                <port id="153" value="0" changed="false"/>
+                <port id="154" value="0" changed="false"/>
+                <port id="155" value="0" changed="false"/>
+                <port id="156" value="0" changed="false"/>
+                <port id="157" value="0" changed="false"/>
+                <port id="158" value="0" changed="false"/>
+                <port id="159" value="3" changed="false"/>
+                <port id="160" value="0.1" changed="false"/>
+                <port id="161" value="1" changed="false"/>
+                <port id="162" value="3" changed="false"/>
+                <port id="163" value="0.1" changed="false"/>
+                <port id="164" value="1" changed="false"/>
+                <port id="165" value="3" changed="false"/>
+                <port id="166" value="0.1" changed="false"/>
+                <port id="167" value="1" changed="false"/>
+                <port id="168" value="3" changed="false"/>
+                <port id="169" value="0.2" changed="false"/>
+                <port id="170" value="0" changed="false"/>
+                <port id="171" value="0" changed="false"/>
+                <port id="172" value="0" changed="false"/>
+                <port id="173" value="0" changed="false"/>
+                <port id="174" value="0" changed="false"/>
+                <port id="175" value="0" changed="false"/>
+                <port id="176" value="3" changed="false"/>
+                <port id="177" value="0.1" changed="false"/>
+                <port id="178" value="1" changed="false"/>
+                <port id="179" value="3" changed="false"/>
+                <port id="180" value="0.1" changed="false"/>
+                <port id="181" value="1" changed="false"/>
+                <port id="182" value="3" changed="false"/>
+                <port id="183" value="0.1" changed="false"/>
+                <port id="184" value="1" changed="false"/>
+                <port id="185" value="3" changed="false"/>
+                <port id="186" value="0.2" changed="false"/>
+                <port id="187" value="0" changed="false"/>
+                <port id="188" value="0" changed="false"/>
+                <port id="189" value="0" changed="false"/>
+                <port id="190" value="0" changed="false"/>
+                <port id="191" value="0" changed="false"/>
+                <port id="192" value="1" changed="false"/>
+                <port id="193" value="0" changed="false"/>
+                <port id="194" value="0" changed="false"/>
+                <port id="195" value="0" changed="false"/>
+                <port id="196" value="0" changed="false"/>
+                <port id="197" value="440" changed="false"/>
+                <configure key="__ROSEGARDEN__:__RESERVED__:ProjectDirectoryKey" value="/home/dbm/rosegarden/"/>
+            </synth>
         </instrument>
 
         <instrument id="10023" channel="2" type="softsynth">
