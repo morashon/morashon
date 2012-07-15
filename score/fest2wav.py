@@ -32,4 +32,4 @@ cmd = "mv tts_file_1.wav " + fout
 os.system(cmd)
 
 cmd = "rm fest2wav.scm"
-os.system(cmd)
+#os.system(cmd)
