@@ -163,22 +163,23 @@ def main(x, xmlout, trackname, segIndex, transpose):
                     print "duration:", partdur + dursec, "seconds"
                     if typ == "note":
 
-                        #if no lyric, assume multi-syllable
-                        if lyric == "":
-                            if prevnote:
-                                note = int(getProp(ev, "pitch", "int"))
-                                temp = prevnote.getAttribute("NOTE")
-                                temp += "," + str(midi2note(note+transpose))
-                                prevnote.setAttribute("NOTE", temp)
-                                temp = prevdur.getAttribute("BEATS")
-                                temp += "," + str(dursec)
-                                prevdur.setAttribute("BEATS", temp)
+                        tie = getProp(ev, "tiedforward", "bool") == "true"
+                        #if tied forward, keep duration for later
+                        if tie:
+                            partdur += dursec
+                            print "================================================= this note is tied fwd:", partdur
                         else:
-                            #if tied forward, keep duration for later
-                            tie = getProp(ev, "tiedforward", "bool") == "true"
-                            if tie:
-                                partdur += dursec
-                                print "================================================= this note is tied fwd:", partdur
+                            #if no lyric, assume multi-syllable
+                            if lyric == "":
+                                if prevnote:
+                                    note = int(getProp(ev, "pitch", "int"))
+                                    temp = prevnote.getAttribute("NOTE")
+                                    temp += "," + str(midi2note(note+transpose))
+                                    prevnote.setAttribute("NOTE", temp)
+                                    temp = prevdur.getAttribute("BEATS")
+                                    temp += "," + str(partdur + dursec)
+                                    partdur = 0
+                                    prevdur.setAttribute("BEATS", temp)
                             else:
                                 note = int(getProp(ev, "pitch", "int"))
                                 print "note:", note
