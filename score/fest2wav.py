@@ -4,13 +4,18 @@
 
 import sys, os
 if len(sys.argv) < 3:
-    print "fest2wav festival.xml output.wav"
+    print "fest2wav festival.xml output.wav [voice]"
     exit()
 
 fxml = sys.argv[1]
 fout = sys.argv[2]
+voice = None
+scm = ""
+if len(sys.argv) > 3:
+    voice = sys.argv[3]
+    scm += "(voice_" + voice + ")\n"
 
-scm = """
+scm += """
 (define (do_nothing utt) utt)
 (set! tts_hooks (list utt.synth do_nothing))
 (save_waves_during_tts)
