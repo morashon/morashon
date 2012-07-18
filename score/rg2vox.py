@@ -17,8 +17,15 @@ The logic:
 
 import sys, os
 if len(sys.argv) < 4:
-    print "rg2vox song.rg tracklabel segmentlabel"
+    print "rg2vox song.rg tracklabel segmentlabel [voice]"
     exit()
+
+song = sys.argv[1]
+track = sys.argv[2]
+seg = sys.argv[3]
+voice = None
+if len(sys.argv) > 4:
+    voice = sys.argv[4]
 
 def makeCmd(*args):
     s = ""
@@ -28,10 +35,6 @@ def makeCmd(*args):
             arg = '"' + arg + '"'
         s += arg + " "
     return s.strip()
-
-song = sys.argv[1]
-track = sys.argv[2]
-seg = sys.argv[3]
 
 rg2fest = "./rg2fest.py"
 if not os.path.exists(rg2fest):
@@ -45,7 +48,11 @@ cmd = makeCmd(rg2fest, song, seg, track, seg)
 print cmd
 os.system(cmd)
 
-cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav")
+if voice:
+    cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav", voice)
+else:
+    cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav")
+
 print cmd
 os.system(cmd)
 
