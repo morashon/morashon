@@ -69,7 +69,7 @@ for fil in lst:
         os.system(cmd)
         break
 
-if not found:
+if not found and os.path.exists(os.getenv("HOME") + "/rosegarden"):
     lst = os.listdir(os.getenv("HOME") + "/rosegarden")
     for fil in lst:
         if not fil[-4:].lower() == ".wav":
@@ -80,5 +80,5 @@ if not found:
 
     if found:
         print "Tricky Rosegarden! It put the file in ~/rosegarden.  Move it into the current directory, restart Rosegarden, and run this script again."
-    else:
-        print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
+if not found:
+    print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
