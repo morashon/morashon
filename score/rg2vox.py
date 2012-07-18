@@ -17,7 +17,7 @@ The logic:
 
 import sys, os
 if len(sys.argv) < 4:
-    print "rg2vox song.rg tracklabel segmentlabel [voice]"
+    print "rg2vox song.rg tracklabel segmentlabel [voice [outfilename]]"
     exit()
 
 song = sys.argv[1]
@@ -26,6 +26,10 @@ seg = sys.argv[3]
 voice = None
 if len(sys.argv) > 4:
     voice = sys.argv[4]
+
+outf = None
+if len(sys.argv) > 5:
+    outf = sys.argv[5]
 
 def makeCmd(*args):
     s = ""
@@ -48,10 +52,12 @@ cmd = makeCmd(rg2fest, song, seg, track, seg)
 print cmd
 os.system(cmd)
 
+if not outf:
+    outf = seg
 if voice:
-    cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav", voice)
+    cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav", voice)
 else:
-    cmd = makeCmd(fest2wav, seg + ".xml", seg + ".wav")
+    cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav")
 
 print cmd
 os.system(cmd)
@@ -61,10 +67,10 @@ found = False
 for fil in lst:
     if not fil[-4:].lower() == ".wav":
         continue
-    if fil.find("conv-" + seg + "-") == 0:
+    if fil.find("conv-" + outf + "-") == 0:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
-        cmd = makeCmd("sox", "-D", seg + ".wav", "-ef", "-r44100", fil)
+        cmd = makeCmd("sox", "-D", outf + ".wav", "-ef", "-r44100", fil)
         print cmd
         os.system(cmd)
         break
@@ -74,11 +80,11 @@ if not found and os.path.exists(os.getenv("HOME") + "/rosegarden"):
     for fil in lst:
         if not fil[-4:].lower() == ".wav":
             continue
-        if fil.find("conv-" + seg + "-") == 0:
+        if fil.find("conv-" + outf + "-") == 0:
             found = True
             break
 
     if found:
         print "Tricky Rosegarden! It put the file in ~/rosegarden.  Move it into the current directory, restart Rosegarden, and run this script again."
 if not found:
-    print "Couldn't find a suitable rosegarden file.  Import " + seg + ".wav into your project."
+    print "Couldn't find a suitable rosegarden file.  Import " + outf + ".wav into your project."
