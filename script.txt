@@ -164,6 +164,8 @@ After singing the final chorus, the ogre throws down the mike like a playa, leav
 
 This all happens in the background; the music fades low as the dialog begins.
 
+song: starlite
+
 It was a starry night
 
 In mid July
@@ -310,7 +312,7 @@ Morashon is performing
 
 Multi-headed, multi-armed avatar, plays all instruments, sings harmony with hisself
 
-Song: "Come Down"
+Song: Come Down
 
 Sung by: Morashon
 
@@ -536,9 +538,9 @@ _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Willin
 
 Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing:
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing.
 
-"Give it all to me"
+song: Give it all to me
 
 Give it all to me
 
@@ -1015,6 +1017,8 @@ _Thisone: Do I know the song?
 _Morashon: You will.
 
 Annai sings "Mouth Of Truth" to Morashon's accompaniment.
+
+Song: Mouth Of Truth
 
 Sometimes
 
@@ -1972,7 +1976,9 @@ _Annai: What?  What are you trying say?  Is this one of your head fake zen lectu
 
 _Morashon: I'm just saying, software has feelings too.
 
-Morashon sings Mister Happy
+Morashon sings
+
+Song: Mister Happy
 
 When
 
@@ -2952,7 +2958,7 @@ Look, I know you come to these events to be inspired, to draw energy from me and
 
 Ok, ok, I get the message.  I'm sorry I'm sounding preachy; this is new to me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- don't let them tell you who you are.  That's your job.
 
-Song:You
+Song: You
 
 sung by: Thisone (as Morashon)
 
@@ -3027,6 +3033,8 @@ _Thisone (as Morashon): Goodbye.  Thank you!  Thank you.  It's been an honor to 
 One last thing.  Even without someone telling you what to do, who you are -- even so, you can be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of worldly riches or public humiliation to keep you in line.  You can figure that out too.  It does require one small leap of faith though -- you have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  If you doubt everything and everyone, and treat every new situation with trepidation and scepticism -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
 
 Starts singing "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
+
+Song: Mouth Of Truth
 
 Sometimes
 
@@ -3378,7 +3386,7 @@ Lights fade up; Thisone is in an empty, desolate room, sitting on a wooden chair
 
 "...At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness.  End quote."
 
-Music: Ballad of Morashon
+Song: Ballad of Morashon
 
 Sung by: Thisone, Morashon, Annai (?)
 
