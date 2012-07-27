@@ -55,12 +55,28 @@ os.system(cmd)
 if not outf:
     outf = seg
 if voice:
-    cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav", voice)
+    if '+' in voice:
+        voices = voice.split('+')
+        soxargs = ["sox", "-D", "-m"]
+        for voice in voices:
+            fn = outf + '_' + voice + ".wav"
+            cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
+            print cmd
+            os.system(cmd)
+            soxargs.append(fn)
+        soxargs.append(outf + ".wav")
+        print soxargs
+        cmd = makeCmd(*soxargs)
+        print cmd
+        os.system(cmd)
+    else:
+        cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav", voice)
+        print cmd
+        os.system(cmd)
 else:
     cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav")
-
-print cmd
-os.system(cmd)
+    print cmd
+    os.system(cmd)
 
 lst = os.listdir(".")
 found = False
