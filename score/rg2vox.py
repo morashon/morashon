@@ -63,7 +63,7 @@ if voice:
                 voice, factor = voice.split('/')
                 factor = str(1.0 / float(factor))
             else:
-                factor = "0.5"
+                factor = str(1.0 / len(voices))
             fn = outf + '_' + voice + ".wav"
             cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
             print cmd
