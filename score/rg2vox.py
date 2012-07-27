@@ -68,9 +68,12 @@ if voice:
             cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
             print cmd
             os.system(cmd)
+            cmd = makeCmd("sox", fn, "-ef", "-r44100", "f_" + fn)     #convert to 44.1 in case differing sample rates
+            print cmd
+            os.system(cmd)
             soxargs.append("-v")
             soxargs.append(factor)
-            soxargs.append(fn)
+            soxargs.append("f_" + fn)
         soxargs.append(outf + ".wav")
         print soxargs
         cmd = makeCmd(*soxargs)
