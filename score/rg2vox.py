@@ -59,15 +59,22 @@ if voice:
         voices = voice.split('+')
         soxargs = ["sox", "-D", "-m"]
         for voice in voices:
+            if '*' in voice:
+                voice, factor = voice.split('*')
+            else:
+                factor = "1"
             fn = outf + '_' + voice + ".wav"
             cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
             print cmd
             os.system(cmd)
+            soxargs.append("-v")
+            soxargs.append(factor)
             soxargs.append(fn)
         soxargs.append(outf + ".wav")
         print soxargs
         cmd = makeCmd(*soxargs)
         print cmd
+        exit()
         os.system(cmd)
     else:
         cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav", voice)
