@@ -20,6 +20,7 @@ if len(sys.argv) < 4:
     print "rg2vox song.rg tracklabel segmentlabel [voice [outfilename]]"
     exit()
 
+cleanup = []
 song = sys.argv[1]
 track = sys.argv[2]
 seg = sys.argv[3]
@@ -66,9 +67,11 @@ if voice:
                 factor = str(1.0 / len(voices))
             fn = outf + '_' + voice + ".wav"
             cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
+            cleanup.append(fn)
             print cmd
             os.system(cmd)
             cmd = makeCmd("sox","-D", fn,  "-ef", "-r44100", "f_" + fn)     #convert to 44.1 in case differing sample rates
+            cleanup.append("f_" + fn)
             print cmd
             os.system(cmd)
             soxargs.append("-v")
@@ -114,3 +117,7 @@ if not found and os.path.exists(os.getenv("HOME") + "/rosegarden"):
         print "Tricky Rosegarden! It put the file in ~/rosegarden.  Move it into the current directory, restart Rosegarden, and run this script again."
 if not found:
     print "Couldn't find a suitable rosegarden file.  Import " + outf + ".wav into your project."
+
+print "clean up", len(cleanup), "files"
+for f in cleanup:
+    print "cleanup:", f
