@@ -50,6 +50,7 @@ if not os.path.exists(fest2wav):
     fest2wav = "../fest2wav.py"
 
 cmd = makeCmd(rg2fest, song, seg, track, seg)
+cleanup.append(seg + ".xml")
 print cmd
 os.system(cmd)
 
@@ -100,6 +101,7 @@ for fil in lst:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
         cmd = makeCmd("sox", "-D", outf + ".wav", "-ef", "-r44100", fil)
+        cleanup.append(seg + ".wav")
         print cmd
         os.system(cmd)
         break
@@ -121,3 +123,5 @@ if not found:
 print "clean up", len(cleanup), "files"
 for f in cleanup:
     print "cleanup:", f
+    cmd = "rm " + f
+    os.system(cmd)

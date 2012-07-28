@@ -262,3 +262,7 @@ for i in rng:
         f.close()
     else:
         break
+
+cmd = "rm " + sys.argv[1] + ".xml"
+print cmd
+os.system(cmd)

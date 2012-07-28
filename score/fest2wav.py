@@ -22,7 +22,7 @@ scm += """
 (tts "FESTIVAL.XML" "singing")
 """
 
-f = open("fest2wav.scm", "w")
+f = open("_fest2wav_.scm", "w")
 f.write(scm.replace("FESTIVAL.XML", fxml))
 f.close()
 
@@ -30,11 +30,11 @@ if os.path.exists("tts_file_1.wav"):
     cmd = "rm tts_file_1.wav"       #yea that's how I roll
     os.system(cmd)
 
-cmd = "festival -b fest2wav.scm"
+cmd = "festival -b _fest2wav_.scm"
 os.system(cmd)
 
 cmd = "mv tts_file_1.wav " + fout
 os.system(cmd)
 
-cmd = "rm fest2wav.scm"
-#os.system(cmd)
+cmd = "rm _fest2wav_.scm"
+os.system(cmd)
