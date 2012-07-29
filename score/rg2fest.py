@@ -66,9 +66,9 @@ def makeNote(xml, song, text, note, dur):
     song.appendChild(pitch)
     return pitch, duration
 
-def main(x, xmlout, trackname, segIndex, transpose):
+def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
     song = xmlout.createElement("SINGING")
-    song.setAttribute("BPM", "63.5677")
+    song.setAttribute("BPM", str(60.0 * speed))
 ##    makeNote(xmlout, song, "No", 48, 0.5)
 ##    makeNote(xmlout, song, "No", 45, 0.25)
 ##    makeRest(xmlout, song, 0.25)
@@ -213,8 +213,8 @@ def main(x, xmlout, trackname, segIndex, transpose):
     return xmlout
 
 if len(sys.argv) < 3:
-    print "rg2fest.py yoursong.rg output_festival[.xml] [trackname [segment [transpose]]]"
-    print "no trackname? use first segment I find"
+    print "rg2fest.py yoursong.rg output_festival[.xml] [trackname [segment [transpose [speed]]]]"
+    print "default transpose=0, speed=1.0"
     print "I WILL OVERWRITE your rg.xml file!"
     exit()
 
@@ -225,6 +225,7 @@ x = minidom.parse(sys.argv[1] + ".xml")
 trackname = None
 seg = 0
 transpose = 0
+speed = 1.0
 segs = 1 if trackname else 100000
 
 if len(sys.argv) > 3:
@@ -238,6 +239,8 @@ if len(sys.argv) > 4:
     segs = 1
 if len(sys.argv) > 5:
     transpose = int(sys.argv[5])
+if len(sys.argv) > 6:
+    speed = float(sys.argv[6])
 
 base = sys.argv[2]
 if base[-4:].lower() == ".xml":
@@ -250,7 +253,7 @@ else:
 for i in rng:
     print "---i:", i, seg, segs
     y = minidom.Document()
-    xml = main(x, y, trackname, i, transpose)
+    xml = main(x, y, trackname, i, transpose, speed)
     if xml:
         out = xml.toprettyxml()
         if type(i) == type(0):

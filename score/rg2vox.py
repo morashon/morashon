@@ -17,7 +17,8 @@ The logic:
 
 import sys, os
 if len(sys.argv) < 4:
-    print "rg2vox song.rg tracklabel segmentlabel [voice [outfilename]]"
+    print "rg2vox song.rg tracklabel segmentlabel [voice [timbre [outfilename]]]"
+    print "pitch defaults to 0: -1 means sing a semi higher and pitch down; 12 = chipmunk effect"
     exit()
 
 cleanup = []
@@ -28,9 +29,13 @@ voice = None
 if len(sys.argv) > 4:
     voice = sys.argv[4]
 
-outf = None
+timbre = 0
 if len(sys.argv) > 5:
-    outf = sys.argv[5]
+    timbre = int(sys.argv[5])
+
+outf = None
+if len(sys.argv) > 6:
+    outf = sys.argv[6]
 
 def makeCmd(*args):
     s = ""
@@ -49,7 +54,10 @@ fest2wav = "./fest2wav.py"
 if not os.path.exists(fest2wav):
     fest2wav = "../fest2wav.py"
 
-cmd = makeCmd(rg2fest, song, seg, track, seg)
+if timbre:
+    cmd = makeCmd(rg2fest, song, seg, track, seg, -timbre, str(2 ** (-timbre/12.0)) ) #yo dat be momma math
+else:
+    cmd = makeCmd(rg2fest, song, seg, track, seg)
 cleanup.append(seg + ".xml")
 print cmd
 os.system(cmd)
