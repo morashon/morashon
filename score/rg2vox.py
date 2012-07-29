@@ -101,7 +101,7 @@ for fil in lst:
         found = True
         print "Found what looks like the appropriate rosegarden sample wav:", fil
         cmd = makeCmd("sox", "-D", outf + ".wav", "-ef", "-r44100", fil)
-        cleanup.append(seg + ".wav")
+        cleanup.append(outf + ".wav")
         print cmd
         os.system(cmd)
         break
