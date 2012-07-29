@@ -68,7 +68,7 @@ def makeNote(xml, song, text, note, dur):
 
 def main(x, xmlout, trackname, segIndex, transpose):
     song = xmlout.createElement("SINGING")
-    song.setAttribute("BPM", "60")
+    song.setAttribute("BPM", "63.5677")
 ##    makeNote(xmlout, song, "No", 48, 0.5)
 ##    makeNote(xmlout, song, "No", 45, 0.25)
 ##    makeRest(xmlout, song, 0.25)

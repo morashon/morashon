@@ -2,6 +2,8 @@
 
 #simple script to invoke festival on a festive xml file and output a .wav
 
+#FESTIVAL = "/home/dbm/src/festival/2.1/festival/bin/festival"
+FESTIVAL = "festival"
 import sys, os
 if len(sys.argv) < 3:
     print "fest2wav festival.xml output.wav [voice]"
@@ -30,7 +32,7 @@ if os.path.exists("tts_file_1.wav"):
     cmd = "rm tts_file_1.wav"       #yea that's how I roll
     os.system(cmd)
 
-cmd = "festival -b _fest2wav_.scm"
+cmd = FESTIVAL + " -b _fest2wav_.scm"
 os.system(cmd)
 
 cmd = "mv tts_file_1.wav " + fout
