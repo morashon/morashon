@@ -1,0 +1,8 @@
+music:
+    rosegarden 11.06 "Don Juan", ubuntu 11.10
+
+voices:
+    festival (on windows machine with flinger/ogi voices)
+    used ogi_as_diphone (Vox1), ogi_tll_diphone (Vox2) -- mixed in Rosegarden
+    harmony at end (Vox3/c2bH):  ogi_rab_diphone (? did I maybe mix another in there? don't see it in the history)
+                                                
