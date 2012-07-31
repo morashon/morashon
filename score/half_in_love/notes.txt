@@ -1,0 +1,10 @@
+music:
+    rosegarden 11.06 "Don Juan", ubuntu 11.10
+
+voices:
+    festival (on windows machine with flinger/ogi voices)
+    lost the history; combination of voices with ogi_rab_diphone being the dominant one, also some aec, mwm5 -- no jph
+    changed the proportions for the chorus (at the end, and as a double earlier on) -- less rab, more mwm5?
+    this does a credible job:
+        TMP=. ../rg2vox.py hil.rg Voicey v1 ogi_rab_diphone/1.3333+ogi_mwm5_diphone/4+ogi_aec_diphone/5 0 temp
+    did a test, and the mwm5 is a bit off but it sounds almost perfect
