@@ -780,7 +780,7 @@ _Annai: It might as well be lightyears.
 
 _Thisone: Distance is a vec4.
 
-_Annai: Yes, space and time.  Minkoski metric.  You know the grid is non-relativistic.
+_Annai: Yes, space and time.  Minkowski metric.  You know the grid is non-relativistic.
 
 _Thisone: Not exactly.  There's still network lag.  They work it into the physics somehow.
 
