@@ -1,0 +1,7 @@
+(on windows machine with flinger/ogi voices)
+main: TMP=. ../rg2vox.py intro_starlight.rg Vocalish v1 ogi_jph_diphone/1.1+ogi_as_diphone/8 -2
+TMP=. ../rg2vox.py intro_starlight.rg Vocalish c1 ogi_jph_diphone/1.1+ogi_as_diphone/8 -2
+TMP=. ../rg2vox.py intro_starlight.rg Vocalish c2 ogi_jph_diphone/1.1+ogi_as_diphone/8 -1 c2lo
+TMP=. ../rg2vox.py intro_starlight.rg Vocalish v4b ogi_jph_diphone/1.4+ogi_as_diphone/6+ogi_aec_diphone/4 2
+TMP=. ../rg2vox.py intro_starlight.rg Vocalish v4b ogi_jph_diphone/1.4+ogi_as_diphone/6+ogi_aec_diphone/4 7 chipmonk
+TMP=. ../rg2vox.py intro_starlight.rg Girls g1 ogi_tll_diphone/1.1+ogi_as_diphone/8
