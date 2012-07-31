@@ -2884,13 +2884,19 @@ Fade in -- repeated scenes, leaving messages etc. Fade out. 
 
 Scene: Thisone hacks into Morashon's stream (alone).  Takes human (one head) form of Morashon; addresses crowd:
 
-Thisone (as Morashon): Thank you for coming.  This will be my farewell performance.  (boos and whistles from crowd, murmuring)
+_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
 
-I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain; most likely you'll find an old man with a mouse and a keyboard.  I am not what I appear to be.  I am not an AI;  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you.  (boos, catcalls).
+(boos and whistles from crowd, murmuring)
 
-Look, I know you come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I don't want to take that away from you.  But when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that.  (more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
+_Thisone (as Morashon): I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain; most likely you'll find an old man with a mouse and a keyboard.  I am not what I appear to be.  I am not an AI;  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
 
-Ok, ok, I get the message.  I'm sorry I'm sounding preachy; this is new to me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- don't let them tell you who you are.  That's your job.
+(boos, catcalls).
+
+_Thisone (as Morashon): Look, I know you come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I don't want to take that away from you.  But when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that. 
+
+(more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
+
+_Thisone (as Morashon): Ok, ok, I get the message.  I'm sorry I'm sounding preachy; this is new to me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- don't let them tell you who you are.  That's your job.
 
 Song: You
 
@@ -2964,7 +2970,9 @@ The smaller crowd applauds enthusiastically.
 
 _Thisone (as Morashon): Goodbye.  Thank you!  Thank you.  It's been an honor to entertain you all.  That's what I am; just another entertainer -- nothing more. Trust but verify.  Believe in yourselves; all claims to Godhead are false.  The path to understanding is shared by many; and yet, we each walk it alone.
 
-One last thing.  Even without someone telling you what to do, who you are -- even so, you can be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of worldly riches or public humiliation to keep you in line.  You can figure that out too.  It does require one small leap of faith though -- you have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  If you doubt everything and everyone, and treat every new situation with trepidation and scepticism -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
+(crowd settles down)
+
+_Thisone (as Morashon): One last thing.  Even without someone telling you what to do, who you are -- even so, you can be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of worldly riches or public humiliation to keep you in line.  You can figure that out too.  It does require one small leap of faith though -- you have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  If you doubt everything and everyone, and treat every new situation with trepidation and scepticism -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
 
 Starts singing "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
 
