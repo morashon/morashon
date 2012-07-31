@@ -1,0 +1,6 @@
+music:
+    rosegarden 11.06 "Don Juan", ubuntu 11.10
+
+voices:
+    festival stock (kal_diphone)
+    end chorus I think I brought in some ogi_as_diphone (Vox2)

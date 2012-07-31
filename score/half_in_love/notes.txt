@@ -8,3 +8,6 @@ voices:
     this does a credible job:
         TMP=. ../rg2vox.py hil.rg Voicey v1 ogi_rab_diphone/1.3333+ogi_mwm5_diphone/4+ogi_aec_diphone/5 0 temp
     did a test, and the mwm5 is a bit off but it sounds almost perfect
+    backgrounds:
+        half of me's in love -- I think I played with ratios a bit but it's basically thisone's voice
+        same with "love" part at end (Bgd1A)

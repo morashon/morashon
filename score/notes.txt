@@ -5,20 +5,3 @@ Ubuntu 11.04 (10.x doesn't seem to have the same Rosegarden plugins)
 score/fluidsynth has all the fluidsynth patches; for portability, they are referred to in the rosegarden files as /fluidsynth, so you
               need a symlink from /fluidsynth --> ./score/fluidsynth
 
-
-mixing
-
-The saddest thing about Rosegarden is lack of automated mixing.  For now, here's what we do:
-
-1) get things to sound good with static mix in Rosegarden.  That's just horse sense.
-
-2) set up a submix in Rosegarden, with one submix for everything that sounds kewl with no vol/bal changes.  Make sure Rosegarden/preferences
-   has audio channels and submixes exposed to JACK
-
-3) run a2jmidid -- a daemon that routes ALSA midi to JACK (yes, we are in the land of incantations)
-
-4) in JACK/MIDI, route a2j/rosegarden midi to jack_mixer
-
-5) in JACK/AUDIO, route the submix and various audio channels to jack_mixer inputs you have conveniently created
-
-6) add controller events in Rosegarden to control the mixers in jack_mixer.  IT's SO SIMPLE A MONKEY DID IT

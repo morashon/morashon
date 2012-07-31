@@ -1,0 +1,6 @@
+music:
+    rosegarden 11.06 "Don Juan", ubuntu 11.10
+
+voices:
+    main: festival stock (kal_diphone)
+    background: annai & thisone; see half in love, mouth of truth for ideas
