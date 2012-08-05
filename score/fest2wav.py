@@ -1,10 +1,8 @@
 #!/usr/bin/python
+#simple (hah) script to invoke festival on a festive xml file and output a .wav
 
-#simple script to invoke festival on a festive xml file and output a .wav
-
-#FESTIVAL = "/home/dbm/src/festival/2.1/festival/bin/festival"
-FESTIVAL = "festival"
 import sys, os
+
 if len(sys.argv) < 3:
     print "fest2wav festival.xml output.wav [voice]"
     exit()
@@ -16,6 +14,16 @@ scm = ""
 if len(sys.argv) > 3:
     voice = sys.argv[3]
     scm += "(voice_" + voice + ")\n"
+
+WINE = False
+if voice and voice.find("ogi_") == 0:
+    WINE = True
+
+if WINE:
+    FESTIVAL = "wine cmd /C c:\\\\cmd_c c:\\\\festival\\\\src\\\\main\\\\festival.exe"
+else:
+    FESTIVAL = "festival"
+print "WINE:", WINE
 
 scm += """
 (define (do_nothing utt) utt)
@@ -32,11 +40,25 @@ if os.path.exists("tts_file_1.wav"):
     cmd = "rm tts_file_1.wav"       #yea that's how I roll
     os.system(cmd)
 
+if WINE:
+    cmd = "cp _fest2wav_.scm ~/.wine/drive_c"
+    print cmd
+    os.system(cmd)
+    cmd = "cp " + fxml + " ~/.wine/drive_c"
+    print cmd
+    os.system(cmd)
 cmd = FESTIVAL + " -b _fest2wav_.scm"
+print cmd
 os.system(cmd)
+if WINE:
+    cmd = "cp ~/.wine/drive_c/tts_file_1.wav ."
+    print cmd
+    os.system(cmd)
 
 cmd = "mv tts_file_1.wav " + fout
+print cmd
 os.system(cmd)
 
 cmd = "rm _fest2wav_.scm"
-os.system(cmd)
+print cmd
+##os.system(cmd)
