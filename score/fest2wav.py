@@ -4,9 +4,17 @@
 import sys, os
 from xml.dom import minidom
 
+cleanup = []
 if len(sys.argv) < 3:
     print "fest2wav festival.xml output.wav [voice]"
     exit()
+
+fout = sys.argv[2]
+voice = None
+scm = ""
+if len(sys.argv) > 3:
+    voice = sys.argv[3]
+    scm += "(voice_" + voice + ")\n"
 
 fxml = sys.argv[1]
 xml = minidom.parse(fxml)
@@ -15,16 +23,23 @@ if len(xml.getElementsByTagName("SINGING")) > 0:
 else:
     if len(xml.getElementsByTagName("SABLE")) > 0:
         XMLMODE = "sable"
+        xmlspk = xml.getElementsByTagName("SPEAKER")
+        if len(xmlspk):
+            spkr = xmlspk[0].getAttribute("NAME")
+            if voice and spkr != voice:
+                print "changing SABLE speaker from", spkr, "to", voice
+                xmlspk[0].setAttribute("NAME", voice)
+                fxml = "_fest2wavtemp_.xml"
+                cleanup.append(fxml)
+                out = xml.toxml()
+                f = open(fxml, "w")
+                f.write(out)
+                f.close()
+        else:
+            print "cannot change speaker, no SPEAKER tag"
     else:
         print "unknown festival XML mode -- we support SINGING and SABLE folks"
 print "XMLMODE:", XMLMODE
-
-fout = sys.argv[2]
-voice = None
-scm = ""
-if len(sys.argv) > 3:
-    voice = sys.argv[3]
-    scm += "(voice_" + voice + ")\n"
 
 WINE = False
 if voice and voice.find("ogi_") == 0:
@@ -46,12 +61,16 @@ scm += """
 f = open("_fest2wav_.scm", "w")
 f.write(scm.replace("FESTIVAL.XML", fxml).replace("XMLMODE", XMLMODE))
 f.close()
+cleanup.append("_fest2wav_.scm")
 
 if os.path.exists("tts_file_1.wav"):
     cmd = "rm tts_file_1.wav"       #yea that's how I roll
     os.system(cmd)
 
 if WINE:
+    cmd = "rm ~/.wine/drive_c/tts_file_*.wav ."
+    print cmd
+    os.system(cmd)
     cmd = "cp _fest2wav_.scm ~/.wine/drive_c"
     print cmd
     os.system(cmd)
@@ -62,7 +81,7 @@ cmd = FESTIVAL + " -b _fest2wav_.scm"
 print cmd
 os.system(cmd)
 if WINE:
-    cmd = "cp ~/.wine/drive_c/tts_file_1.wav ."
+    cmd = "cp ~/.wine/drive_c/tts_file_*.wav ."
     print cmd
     os.system(cmd)
 
@@ -77,18 +96,17 @@ if len(ttss) > 1:
     cmd = "sox"
     for tts in ttss:
         cmd += " " + tts
+        cleanup.append(tts)
     cmd += " " + fout
     print cmd
     os.system(cmd)
-    for tts in ttss:
-        cmd = "rm " + tts
-        print cmd
-        os.system(cmd)
+
 else:
     cmd = "mv tts_file_1.wav " + fout
     print cmd
     os.system(cmd)
 
-cmd = "rm _fest2wav_.scm"
-print cmd
-os.system(cmd)
+for f in cleanup:
+    cmd = "rm " + f
+    print cmd
+    os.system(cmd)
