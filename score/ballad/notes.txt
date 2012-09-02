@@ -1,0 +1,3 @@
+../rg2vox.py morashon.rg T Tv4 ogi_rab_diphone/1.2+ogi_jph_diphone/6
+../rg2vox.py morashon.rg M Mv4
+../rg2vox.py morashon.rg A Av4 ogi_as_diphone/7+ogi_tll_diphone
