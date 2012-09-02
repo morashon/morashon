@@ -148,12 +148,6 @@ Scene: Starlite Lounge
 
 Same piano guy (with a bit more hair), playing the same intro, this time segues into "Starlite". As the piano lead-in finishes, a small, green, ogre-like creature about three feet tall climbs out from under the piano, picks up a cordless mike, clambers up onto the piano, and begins to sing. His voice is improbable.
 
-During the interlude where the instruments drop out, the ogre appears flustered, waving at the piano player even as he attempts to sing the final verse over the drums. Finally he kicks the midi drum machine in frustration. The instruments return.
-
-After singing the final chorus, the ogre throws down the mike like a playa, leaving the stage in a huff. As he exists the scene, he glances back at the piano with a menacing stare; piano guy just shrugs contemptuously and keeps on playing. One gets the feeling this is not a unique event.
-
-This all happens in the background; the music fades low as the dialog begins.
-
 song: starlite
 
 It was a starry night
@@ -179,42 +173,6 @@ And hold the day
 We told the Sun to stay away
 
 We told him Starlitetm was OK
-
-Something is strange
-
-Something has changed
-
-Starlitetm has turned to day
-
-It was a misty morning afternoon
-
-The sun was shining on the bride and groom
-
-We kissed till midnight, danced till noon
-
-Under the Starlitetm  in our room
-
-Now as the years unwind
-
-Our love so true
-
-The morning sun illuminates our view
-
-And when it's hard on me and you
-
-We think of Starlitetm we once new
-
-It was a starry night
-
-In mid July
-
-We were a lonely girl
-
-A lonely guy
-
-A lonely star was passing by
-
-Starlitetm was touching you & I
 
 Something is strange
 
@@ -272,7 +230,15 @@ _Annai: They have drugs for that sort of thing.  You should look into it.
 
 _Thisone: Maybe I will.
 
-(long pause, music swells)
+Music swells in background; Ogre sings another verse
+
+It was a misty morning afternoon
+
+The sun was shining on the bride and groom
+
+We kissed till midnight, danced till noon
+
+Under the Starlitetm  in our room
 
 _Annai: I like this song.  It's a bit sappy.
 
@@ -358,7 +324,7 @@ Nothing can prepare you for
 
 What you'll see behind that door
 
-Nothing doing I can't take you there
+No my friend, I cannot take you there
 
 This is not a thing we both can share
 
@@ -394,7 +360,7 @@ _Thisone: Meaning?
 
 _Annai: AI.  Emergent neural.  Newest thing.  Went open beta last month.  Programmers from Finland.
 
-_Thisone: You telling me this isn't someone's song?  It's not some guy with a synth uploading this?
+_Thisone: You telling me this isn't someone's song?  It's not some guy with a synth or DJ getup uploading this?
 
 _Annai: Nope. Code.
 
@@ -1054,7 +1020,7 @@ Sometimes
 
 You feel
 
-Emotionally shattered, almost heartless
+Emotionally shallow, almost heartless
 
 Sometimes
 
@@ -1250,7 +1216,7 @@ Annai ports away.
 
 _Thisone: (sarcastically, to the empty chair).  Oh, ok.  Nice seeing you.  Bubbye for now. (closes screens, lies down with his hands behind his head)
 
-Thisone falls asleep.  Instrumental intro to "Half In Love"
+Thisone falls asleep.
 
 Scene: Thisone's sim.  Annai appears on a screen, as her avatar.
 
@@ -1532,7 +1498,7 @@ Hair and I think half of me's in love
 
 I thought I knew what to do
 
-I thought that I had a clue
+I thought I might have a clue
 
 I knew what each day would bring
 
@@ -1552,13 +1518,15 @@ Now half of me's in love
 
 Love
 
+Love
+
 Love (half of me's in love)
 
 Love (half of me's in/half of me's in love/I'm half in love!)
 
 Scene: private booth at a fancy restaurant
 
-Annai is already sitting in the booth; Thisone ports in.  (Starlite in background?)
+Annai is already sitting in the booth; Thisone ports in. 
 
 _Annai: Hey stranger.  Come here often?
 
@@ -1598,7 +1566,7 @@ _Thisone: Well like I said, when this is all over, we'll sell the equipment and 
 
 _Annai: Sure.  Unless we like it.  We could design a Morashon competitor.  Make a mint.
 
-_Thisone: Start our own cult?
+_Thisone: Start our own cult!
 
 _Annai: Why not?  He did it.  How hard can it be?
 
@@ -1836,7 +1804,7 @@ _Morashon: Oh, out and about.  More will come presently.
 
 _Annai: You said you wanted to talk.
 
-_Morashon: Where is that lovely boy you've been so attached to lately?  Thisone -- that one?
+_Morashon: Where is that lovely boy you've been so attached to lately?  This one -- that one?
 
 _Annai: He's working.  Might drop by later.
 
@@ -2008,7 +1976,7 @@ That's not what he's paid for
 
 Hey! Mister Happy face
 
-Can't you make us laugh?
+Won't you make us laugh?
 
 What the fuck's your problem -- are you high?
 
@@ -2062,7 +2030,7 @@ mr Happy smile
 
 mr Happy smile
 
-Lay your smile on me
+Won't you smile on me?
 
 Scene: Annai's sim
 
@@ -2156,13 +2124,13 @@ I barely light up the room
 
 But I'll be brighter and soon
 
-I'm gonna burn like a star
+I'm going to burn like a star
 
 Play that guitar
 
 Singing a song
 
-It won't be long
+It won't take long
 
 'Till I feel
 
@@ -2196,13 +2164,13 @@ Like, "Am I Real?"
 
 Now I'm a star
 
-I've got a thirty foot car
+I drive a thirty foot car
 
-I've got a house in the woods
+I own a house in the woods
 
 I've got material goods
 
-I've got a piece of my mind
+I got a piece of my mind
 
 Cost me a dime
 
@@ -2220,11 +2188,11 @@ With what I feel (what I feel...)
 
 Like, "Am I Real?"
 
-(solo)
+(solo -- played by the Ogre)
 
-Hopeless demands
+Nebulous plans
 
-Based on delusional plans
+Backed up by hopeless demands
 
     (Like, ``Am I Real?'')
 
@@ -2722,17 +2690,31 @@ _Annai: I don't understand your motivations.
 
 _Morashon: I'm not sure I do, anymore.  It was all clear to me, before.
 
-Instrumental: Prisoner Ambient
-
 _Morashon: Goodbye, Annai. (he disappears)
 
 _Annai: (after a short pause) Goodbye.
 
 Scene: Piano bar
 
-Instrumental version of Starlite
+During the interlude where the instruments drop out, the ogre appears flustered, waving at the piano player even as he attempts to sing the final verse over the drums. Finally he kicks the midi drum machine in frustration. The instruments return.
 
-Annai and Thisone appear simultaneously.
+Now as the years unwind
+
+Our love so true
+
+The morning sun illuminates our view
+
+And when it's hard on me and you
+
+We think of Starlitetm we once new
+
+Annai and Thisone appear simultaneously and talk, while the Ogre finishes the song in the background. After singing the final chorus, the ogre throws down the mike like a playa, leaving the stage in a huff. As he exists the scene, he glances back at the piano with a menacing stare; piano guy just shrugs contemptuously and keeps on playing. One gets the feeling this is not a unique event.
+
+Something is strange
+
+Something has changed
+
+Starlitetm has turned to day
 
 _Annai: This place again.
 
@@ -2802,7 +2784,7 @@ _Annai: I love you.
 
 _Thisone: I -- I love you too.  But that wasn't
 
-They kiss passionately, as Starlite crescendos
+They kiss passionately as the music crescendos
 
 _Thisone: Annai?
 
@@ -2894,7 +2876,7 @@ sung by: Thisone (as Morashon)
 
 Lyrics scroll by, with the iconic bouncing ball
 
-Lighters in the crowd? The Wave? (too much?)
+Lighters in the crowd? The Wave? (too much)
 
 The higher you fly
 
@@ -2936,7 +2918,7 @@ The harder you're going to fall
 
 Don't you know the quicker you move
 
-The likelier you will stall
+The likelier you might stall
 
 Don't believe their lies
 
@@ -2972,7 +2954,7 @@ Sometimes
 
 You feel
 
-You need to make some changes to your lifestyle
+You've got to make some changes in your lifestyle
 
 Sometimes
 
@@ -2990,13 +2972,9 @@ So you fake it
 
 And you take it
 
-But it breaks you
+And it breaks you
 
 So you hate it
-
-Yes you hate it
-
-Oh you hate it
 
 Put your hand in the mouth of truth
 
@@ -3008,11 +2986,11 @@ Sometimes
 
 You feel
 
-Emotionally shattered, almost heartless
+Emotionally shallow, almost heartless
 
 Sometimes
 
-You feel
+You think
 
 You might go out and kill just for a thrill
 
@@ -3032,7 +3010,7 @@ So you face it
 
 But you hate it
 
-Yes you hate it
+Yeah you hate it
 
 Put your hand in the mouth of truth
 
@@ -3050,7 +3028,15 @@ Put your hand
 
 Put your hand
 
-Put your hand in the mouth of truth..
+Sometimes, sometimes...
+
+Put your hand
+
+Put your hand...
+
+Put your hand
+
+In the mouth of truth
 
 As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
 
@@ -3058,7 +3044,7 @@ Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if d
 
 Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
 
-Scene: three years later (end of flashback).  Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+Scene: Starlite Lounge; three years later (end of flashback).  Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
 
 _Thisone: Do I know you?
 
@@ -3102,7 +3088,7 @@ _Stranger: Telling me the truth.  Well, letting me tell myself the truth, throug
 
 _Thisone: I'm still stumped.  So what, they were both code?
 
-_Stranger: Yes.  We both were.
+_Stranger: (voices of Morashon and Annai in unison:) Yes.  We both were.
 
 _Thisone: But we -- we hacked into the stream.  Morashon was interfacing to somewhere.
 
@@ -3324,21 +3310,25 @@ Sung by: Thisone, Morashon, Annai (?)
 
 Credits roll
 
-Thisone is in a room (his sim?) -- surrounded by screengrabs of Morashon and Annai.  As he sings, he plays with a puppet interface (each hand in a waldo-type rig), and on a screen are animated images of a crude version of Morashon, with one Morashon head and one Annai head.
+Thisone is in a room (his sim?) -- surrounded by screengrabs of Morashon and Annai.  As he sings, he plays with a puppet interface (each hand in a waldo-type rig), and on a screen are animated images of a crude version of Morashon, with one Morashon head, one Annai head, and one Thisone head singing.
+
+(Morashon:)
 
 When the curtain falls
 
-You'll be there to take a bow
+I'll be there to take a bow
 
-You laugh, they scream and holler
+They laugh and scream and holler
 
-You're the one for now
+I'm the one for now
 
 Soak in the morning sun
 
 Life is a load of fun
 
 For Morashon
+
+(Thisone:)
 
 When the shit comes down
 
@@ -3348,13 +3338,15 @@ You laugh, I scream & whimper
 
 But nobody knows
 
-Two who believed as one
+Once we believed as one
 
 Where did it all go wrong,
 
 Morashon?
 
-Someone's gotta burn
+(Thisone & Morashon:)
+
+Someone has to burn
 
 Someone has to pay for this mess
 
@@ -3364,9 +3356,11 @@ Someone has to learn
 
 Someone's got to pay the price
 
-'Cause it ain't for free
+'Cause it's not for free
 
 And it ain't me
+
+(Annai:)
 
 When they've all gone home
 
@@ -3388,7 +3382,7 @@ A song that makes you smile
 
 A song that's out of style
 
-Been singing all the while
+Been singing for a while
 
 A song that's in your heart
 
@@ -3400,7 +3394,9 @@ So get it straight
 
 Morashon
 
-Is gone
+It's gone
+
+(All:)
 
 When the fountain blows
 
@@ -3416,9 +3412,7 @@ Lit by the midnight sun
 
 They'll call him Morashon
 
-(together:)
-
-I sing                                         Someone's gotta burn
+I sing                                       Someone's gotta burn
 
 A song that makes me smile    Someone has to pay for this mess
 
@@ -3434,7 +3428,7 @@ If they don't care for me          Someone's got to pay the price
 
 or my song
 
-So let it be                                'Cause it ain't for free
+Well let it be                             'Cause it ain't for free
 
 This is me                                 It ain't me
 
@@ -3450,12 +3444,12 @@ Baby this is me now                Baby it ain't me, no
 
 Morashon is me now..            Morashon ain't me, no no..
 
-Morashon And Me
+Morashon will be
 
-Morashon And Me
+Morashon will be
 
-Morashon And Me
+Morashon will be...
 
 The camera pans back to reveal that we are watching through a monitor.  Men and women in white lab coats and electronic clipboards are observing Thisone, exchanging serious looks as they notate.  One woman nods and exists briskly.  Thisone looks plaintively at the camera, throws down the puppet rigs, and curls up in a corner of the padded room.
 
-Fade
+As music fades, the credits roll
