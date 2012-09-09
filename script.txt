@@ -326,7 +326,7 @@ What you'll see behind that door
 
 No my friend, I cannot take you there
 
-This is not a thing we both can share
+This is not a thing that two can share
 
 If your mind can dance to this
 
@@ -502,7 +502,7 @@ _Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Willin
 
 Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing.
+Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
 
 song: Give it all to me
 
@@ -579,8 +579,6 @@ All will be revealed
 When
 
 There's nothing left to hide
-
-During the song, as various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
 
 As the song ends, Thisone teleports away.
 
@@ -914,7 +912,7 @@ _Morashon: And who, pray tell, was Shakespeare?
 
 _Thisone: (quizzically) well, you're tapped into the Grid, obviously.  Look him up.
 
-_Morashon: Of course, I have access to the search results.  I know who he is, historically speaking.  In fact there were rumors that he might be Milton, or Sir Francis Bacon.  But whomever he was, and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form -- though perhaps not singular -- but who was he, in his hubris, to believe he could invent Hamlet?  What did Hamlet have to say about this circumstance?
+_Morashon: Of course, I have access to the search results.  I know who he is, historically speaking.  In fact there were rumors that he might be Milton, or Sir Francis Bacon.  But whomever he was, and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form (though perhaps not singular) -- but who was he, in his hubris, to believe he could invent Hamlet?  What did Hamlet have to say about this circumstance?
 
 _Thisone: I don't get it.  Hamlet doesn't exist.  He was a figment of Shakespeare's imagination.
 
@@ -1302,7 +1300,7 @@ _Annai: No, it's ok.  I like it.
 
 _Thisone: Um, ah... I guess we never traded pics.
 
-_Annai: I look just like this.
+_Annai: I just look like this.
 
 _Thisone: That's what they all say.
 
@@ -1522,7 +1520,21 @@ Love
 
 Love (half of me's in love)
 
-Love (half of me's in/half of me's in love/I'm half in love!)
+Love (half of me's in love)
+
+(interlude)
+
+Love
+
+Love
+
+Love (half of me's in love)
+
+Love (half of me's in love)
+
+(repeat)
+
+I'm half in love!
 
 Scene: private booth at a fancy restaurant
 
@@ -1990,17 +2002,17 @@ Mister Happy
 
 Mister Happy
 
-Mister Happy
-
 Mister Happy smile!
 
 Mister Happy smile
 
 Mister Happy smile
 
-Mister Happy smile ...
+Mister Happy smile
 
 Won't you smile on me?
+
+(repeat)
 
 When
 
@@ -2014,23 +2026,25 @@ How Mister Happy smiled
 
 Made us laugh and cry
 
-No one could remember why we laughed
+No one could remember how we laughed
 
-No one could remember how we cried
+No one could remember why we cried
 
-No one can remember nothing
+No one could remember nothing
 
 No one's talking
 
-mr. Happy, won't you smile on me?
+Mister Happy, won't you smile on me?
 
-mr Happy smile
+Mister Happy smile
 
-mr Happy smile
+Mister Happy smile
 
-mr Happy smile
+Mister Happy smile
 
 Won't you smile on me?
+
+(repeat)
 
 Scene: Annai's sim
 
@@ -2382,7 +2396,7 @@ _Morashon: I'd rather you stick around for a bit.
 
 _Thisone: (after a short pause) What the hell is going on?  I can't jack out!  What are you doing to me?
 
-_Morashon: Relax.  Just an equipment glitch.  I won't hurt you, but I can't let you leave until we hash this thing out.
+_Morashon: Relax.  Just an equipment glitch.  I won't hurt you, but I can't have you leave until we hash this thing out.
 
 _Thisone: Hash out what?  You're some super-hacker who is lying to everyone that you've created real AI.  It's some Ponzi scheme I guess.  Get the investors in, siphon off the money, disappear.  Something like that?
 
@@ -2710,9 +2724,9 @@ We think of Starlitetm we once new
 
 Annai and Thisone appear simultaneously and talk, while the Ogre finishes the song in the background. After singing the final chorus, the ogre throws down the mike like a playa, leaving the stage in a huff. As he exists the scene, he glances back at the piano with a menacing stare; piano guy just shrugs contemptuously and keeps on playing. One gets the feeling this is not a unique event.
 
-Something is strange
-
 Something has changed
+
+Something is strange
 
 Starlitetm has turned to day
 
