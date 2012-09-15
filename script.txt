@@ -2868,11 +2868,153 @@ Fade out. 
 
 Fade in -- repeated scenes, leaving messages etc. Fade out. 
 
-Scene: Thisone hacks into Morashon's stream (alone).  Takes human (one head) form of Morashon; addresses crowd:
+Scene: 1700's ballroom. Morashon (mostly human), Thisone, and Annai are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
+
+Song: Ballad of Morashon
+
+Sung by: Thisone, Morashon, Annai (?)
+
+(Morashon:)
+
+When the curtain falls
+
+I'll be there to take a bow
+
+They laugh and scream and holler
+
+I'm the one for now
+
+Soak in the morning sun
+
+Life is a load of fun
+
+For Morashon
+
+(Thisone:)
+
+When the shit comes down
+
+I'll be there to take the blows
+
+You laugh, I scream & whimper
+
+But nobody knows
+
+Once we believed as one
+
+Where did it all go wrong,
+
+Morashon?
+
+(Thisone & Morashon:)
+
+Someone has to burn
+
+Someone has to pay for this mess
+
+And it won't be me
+
+Someone has to learn
+
+Someone's got to pay the price
+
+'Cause it's not for free
+
+And it ain't me
+
+(Annai:)
+
+When they've all gone home
+
+Who'll be left to carry on
+
+The words that were not spoken
+
+Seem to linger on
+
+You wanted everything
+
+That's not what life would bring
+
+That's not what makes you sing
+
+You sing
+
+A song that makes you smile
+
+A song that's out of style
+
+Been singing for a while
+
+A song that's in your heart
+
+It's tearing you apart
+
+But they don't care for you or your song
+
+So get it straight
+
+Morashon
+
+It's gone
+
+(All:)
+
+When the fountain blows
+
+One of us will catch the glow
+
+A thousand lights will glimmer
+
+And the world will know
+
+Who was the chosen one
+
+Lit by the midnight sun
+
+They'll call him Morashon
+
+(Annai:)       (Morashon & Thisone:)
+
+I sing                                       Someone's gotta burn
+
+A song that makes me smile    Someone has to pay for this mess
+
+A song that's out of style
+
+Been singing all the while        And it won't be me
+
+A song that's in my heart         Someone has to learn
+
+It's tearing me apart
+
+If they don't care for me          Someone's got to pay the price
+
+or my song
+
+Well let it be                             'Cause it ain't for free
+
+This is me                                 It ain't me
+
+Baby this is me                        Baby, It ain't me
+
+Baby this is me                        Baby It ain't me
+
+Baby this is me                        Baby it ain't me
+
+This is me                                It ain't me
+
+Baby this is me now                Baby it ain't me, no
+
+Morashon and me now..            Morashon not me, no no..
+
+Morashon and me...
+
+The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. As the music fades, all three slump to the ground like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. His voice sounds like Thisone.
 
 _Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
 
-(boos and whistles from crowd, murmuring)
+(boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
 
 _Thisone (as Morashon): I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain; most likely you'll find an old man with a mouse and a keyboard.  I am not what I appear to be.  I am not an AI;  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
 
@@ -3321,150 +3463,68 @@ Lights fade up; Thisone is in an empty, desolate room, sitting on a wooden chair
 
 "...At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness.  End quote."
 
-Song: Ballad of Morashon
+The camera pans back to reveal that we are watching through a monitor.  Men and women in white lab coats and electronic clipboards are observing Thisone, exchanging serious looks as they notate.  One woman nods and exists briskly.  Thisone looks plaintively at the camera, and curls up in a corner of the padded room.
 
-Sung by: Thisone, Morashon, Annai (?)
+Reprise: You
 
 Credits roll
 
-Thisone is in a room (his sim?) -- surrounded by screengrabs of Morashon and Annai.  As he sings, he plays with a puppet interface (each hand in a waldo-type rig), and on a screen are animated images of a crude version of Morashon, with one Morashon head, one Annai head, and one Thisone head singing.
+The higher you fly
 
-(Morashon:)
+The farther you have to fall
 
-When the curtain falls
+Have you heard the further you go
 
-I'll be there to take a bow
+The sooner you hit the wall
 
-They laugh and scream and holler
+Did they tell you this
 
-I'm the one for now
+Did they crush your bliss
 
-Soak in the morning sun
+Try to put you down
 
-Life is a load of fun
+Call you a clown
 
-For Morashon
+Well...
 
-(Thisone:)
+The faster you are
 
-When the shit comes down
+The farther you have to go
 
-I'll be there to take the blows
+They all say the brighter you burn
 
-You laugh, I scream & whimper
+The sooner you'll lose that glow
 
-But nobody knows
+Don't you know they say it's true
 
-Once we believed as one
+You can't be you
 
-Where did it all go wrong,
+Be like one of us
 
-Morashon?
+Don't make a fuss
 
-(Thisone & Morashon:)
+'Cause you know the bigger you are
 
-Someone has to burn
+The harder you're going to fall
 
-Someone has to pay for this mess
+Don't you know the quicker you move
 
-And it won't be me
+The likelier you might stall
 
-Someone has to learn
+Don't believe their lies
 
-Someone's got to pay the price
+Look in your eyes
 
-'Cause it's not for free
+Ask yourself what's true
 
-And it ain't me
+Do what you do
 
-(Annai:)
+Only you can be you
 
-When they've all gone home
+You can be you
 
-Who'll be left to carry on
+If not you, who?
 
-The words that were not spoken
+You can be you...
 
-Seem to linger on
-
-You wanted everything
-
-That's not what life would bring
-
-That's not what makes you sing
-
-You sing
-
-A song that makes you smile
-
-A song that's out of style
-
-Been singing for a while
-
-A song that's in your heart
-
-It's tearing you apart
-
-But they don't care for you or your song
-
-So get it straight
-
-Morashon
-
-It's gone
-
-(All:)
-
-When the fountain blows
-
-One of us will catch the glow
-
-A thousand lights will glimmer
-
-And the world will know
-
-Who was the chosen one
-
-Lit by the midnight sun
-
-They'll call him Morashon
-
-(Annai:)       (Morashon & Thisone:)
-
-I sing                                       Someone's gotta burn
-
-A song that makes me smile    Someone has to pay for this mess
-
-A song that's out of style
-
-Been singing all the while        And it won't be me
-
-A song that's in my heart         Someone has to learn
-
-It's tearing me apart
-
-If they don't care for me          Someone's got to pay the price
-
-or my song
-
-Well let it be                             'Cause it ain't for free
-
-This is me                                 It ain't me
-
-Baby this is me                        Baby, It ain't me
-
-Baby this is me                        Baby It ain't me
-
-Baby this is me                        Baby it ain't me
-
-This is me                                It ain't me
-
-Baby this is me now                Baby it ain't me, no
-
-Morashon and me now..            Morashon not me, no no..
-
-Morashon and me...
-
-The camera pans back to reveal that we are watching through a monitor.  Men and women in white lab coats and electronic clipboards are observing Thisone, exchanging serious looks as they notate.  One woman nods and exists briskly.  Thisone looks plaintively at the camera, throws down the puppet rigs, and curls up in a corner of the padded room.
-
-As music fades, the credits roll
+Only you can be you
