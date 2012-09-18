@@ -4,7 +4,7 @@ Scene: Starlite Lounge, a piano bar.
 
 spotlight comes up on piano player -- typical bar lounge guy, rings on fingers, bald with a comb-over. He has a mid-90's looking midi setup doing drums, strings etc; he plays a shiny black baby grand.
 
-Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar.
+Plays intro to Starlite with much fanfare. More lights come up slowly, revealing three people at the bar -- an older woman in a provocative dress, a poorly dressed drunk, and Thisone.
 
 _Pianoplayer: (old-timey synthesized voice, vaguely foreign sounding) Welcome folks and friends, to the Starlite lounge -- where music is magic, and magic surrounds us every day. This evening I bring you a cougar, past her prime; a lifelong alcoholic; and a young man deep in contemplation of his place in the Universe. A perfect setting for the magic of music, which is, as I have said (and now I repeat, in case you weren't listening:) simply, Starlitetm !
 
@@ -3010,7 +3010,7 @@ Morashon and me now..            Morashon not me, no no..
 
 Morashon and me...
 
-The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. As the music fades, all three slump to the ground like abandoned marionettes. After a pause, Morashon rises and addresses the crowd. His voice sounds like Thisone.
+The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. They bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd, in Thisone's voice.
 
 _Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
 
@@ -3052,7 +3052,7 @@ Well...
 
 The faster you are
 
-The farther you have to go
+Tfche farther you have to go
 
 They all say the brighter you burn
 
@@ -3198,7 +3198,13 @@ Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if d
 
 Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
 
-Scene: Starlite Lounge; three years later (end of flashback).  Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+Scene: Starlite Lounge; three years later (end of flashback). 
+
+_Pianoplayer: Hello, my friends. It seems, again, we have come to the end of another night of music, magic, and mischief. Now I must bid you all adieu, as the Starlite fades into blackness -- vast, infinite, inconsolable.
+
+During the following scene, the Pianoplayer and the Ogre pack up their equipment. At the end of the process, the Ogre carries huge flight cases under each arm, and a backpack of equipment that dwarfs his compact frame. The pianoplayer carries a single sleek, smart attache. They exit the room.
+
+Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
 
 _Thisone: Do I know you?
 
@@ -3459,72 +3465,18 @@ I know things that must be questions
 
 God is blue
 
-Lights fade up; Thisone is in an empty, desolate room, sitting on a wooden chair. The only other piece of furniture is a 40's-looking radio. He turns it on and hears the preacher quoting Mark Twain:
+Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail . An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain:
 
 "...At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness.  End quote."
 
-The camera pans back to reveal that we are watching through a monitor.  Men and women in white lab coats and electronic clipboards are observing Thisone, exchanging serious looks as they notate.  One woman nods and exists briskly.  Thisone looks plaintively at the camera, and curls up in a corner of the padded room.
+The bartender changes the channel, and the camera pans around so we can see the TV screen. ``One'' plays, and we see a video of Morashon (Thisone) performing the song, with tophats and cane. The title reads: ``Morashon -- Two-headed Talent!''
 
-Reprise: You
+The bartender and the other customers are laughing and enjoying the video. Camera zooms in to the screen, as an information bubble appears:
 
-Credits roll
+Moldy Memeories
 
-The higher you fly
+Where Are They Now?
 
-The farther you have to fall
+click here to find out!
 
-Have you heard the further you go
-
-The sooner you hit the wall
-
-Did they tell you this
-
-Did they crush your bliss
-
-Try to put you down
-
-Call you a clown
-
-Well...
-
-The faster you are
-
-The farther you have to go
-
-They all say the brighter you burn
-
-The sooner you'll lose that glow
-
-Don't you know they say it's true
-
-You can't be you
-
-Be like one of us
-
-Don't make a fuss
-
-'Cause you know the bigger you are
-
-The harder you're going to fall
-
-Don't you know the quicker you move
-
-The likelier you might stall
-
-Don't believe their lies
-
-Look in your eyes
-
-Ask yourself what's true
-
-Do what you do
-
-Only you can be you
-
-You can be you
-
-If not you, who?
-
-You can be you...
-
-Only you can be you
+The End
