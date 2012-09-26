@@ -1,0 +1,3 @@
+(save_waves_during_tts)
+(voice_rab_tll_diphone)
+(tts "lib2.xml" "libretto")
