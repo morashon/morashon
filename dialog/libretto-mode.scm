@@ -147,6 +147,8 @@
 ;; A5=440 (some call this note A3).
 ;;
 
+(set! ourfreqs ())
+
 (define (note2freq note)
   (format t "note is %l\n" note)
   (set! note (print_string note))
@@ -157,6 +159,7 @@
 					(notename2midioffset notename)))
   (set! thefreq (midinote2freq midinote))
   (format t "notex %s freq %f\n" note thefreq)
+  (set! ourfreqs (append ourfreqs (list thefreq thefreq)))
   thefreq)
 
 ;;
@@ -197,6 +200,9 @@
 ;; and end f0 target.  Really straightforward!
 ;;
 
+;;(set! ourfreqs (list 200 170  160 145  140 130  210 185  180 160  150 160  165 155  140 126))
+(set! bugg 0)
+
 (define (singing_f0_targets utt syl)
   "(singing_f0_targets utt syl)"
   
@@ -206,11 +212,12 @@
         (end   (item.feat syl 'syllable_end)  ) 
         )
     (set! retrn 
-          (list (list start (+ freq 20))
-                (list end freq)
+          (list (list start (nth bugg ourfreqs))
+                (list end (nth (+ 1 bugg) ourfreqs))
                 )
           )
-    (format t "retrn: %l\n" retrn)
+    (format t "bugg: %d retrn: %l\n" bugg retrn)
+    (set! bugg (+ 2 bugg))
     retrn
     )
   )
@@ -246,10 +253,33 @@
 ;; each one does.
 ;;
 
+(define (average_pairs lst)
+    (let ((retn) (looper))
+        (set! retn ())
+        (define (looper i)
+            (set! a (nth i lst))
+            (if (< i (- (length lst) 2) )
+                (set! b (nth (+ i 2) lst))
+                (set! b (- a 30))
+            )
+            (set! b (- (/ (+ a a b) 3) 9))
+            (set! retn (append retn (list a b)))
+            (format t "%d %d\n" a b)
+            (set! i (+ i 2))
+            (if (< i (length lst)) (looper i))
+        )
+        (looper 0)
+        retn
+    )
+)
+
 (define (singing_duration_method utt)
   (mapcar singing_adjcons_syllable (utt.relation.items utt 'Syllable))  
   (mapcar singing_do_syllable (utt.relation.items utt 'Syllable))
   (mapcar singing_fix_segment (utt.relation.items utt 'Segment))
+  (format t "DEBUG ourfreqs before: %l\n" ourfreqs)
+  (set! ourfreqs (average_pairs ourfreqs))
+  (format t "DEBUG ourfreqs after: %l\n" ourfreqs)
   utt)
 
 ;;
@@ -368,7 +398,9 @@
 		(set! pau_item_desc (list SIL
 								  (list
 								   (list "end" singing_global_time))))
-		(item.insert (item.relation lastseg 'Segment) pau_item_desc 'after))))
+		(item.insert (item.relation lastseg 'Segment) pau_item_desc 'after)))
+  (format t "DEBUG do_syl: %l %l\n" syl (item.features syl))
+)
 
 ;;
 ;; singing_fix_segment
