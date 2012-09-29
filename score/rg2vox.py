@@ -150,8 +150,8 @@ if not found and os.path.exists(os.getenv("HOME") + "/rosegarden"):
 if not found:
     print "Couldn't find a suitable rosegarden file.  Import " + outf + ".wav into your project."
 
-##print "clean up", len(cleanup), "files"
-##for f in cleanup:
-##    print "cleanup:", f
-##    cmd = "rm " + f
-##    os.system(cmd)
+print "clean up", len(cleanup), "files"
+for f in cleanup:
+    print "cleanup:", f
+    cmd = "rm " + f
+    os.system(cmd)
