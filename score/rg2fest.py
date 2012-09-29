@@ -6,6 +6,16 @@ import sys, os
 from xml.dom import minidom
 
 ADDNOTEATEND = True             #to avoid the barf effect
+XMLMODE = "SINGING"
+
+argv = []
+for i in range(len(sys.argv)):
+    if sys.argv[i].lower().strip() == "--libretto":
+        XMLMODE = "LIBRETTO"
+        ADDNOTEATEND = False
+    else:
+        argv.append(sys.argv[i])
+sys.argv = argv
 
 def tick2tempo(tempos, t):
     if t >= tempos[-1][0]:
@@ -67,7 +77,7 @@ def makeNote(xml, song, text, note, dur):
     return pitch, duration
 
 def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
-    song = xmlout.createElement("SINGING")
+    song = xmlout.createElement(XMLMODE)
     song.setAttribute("BPM", str(60.0 * speed))
 ##    makeNote(xmlout, song, "No", 48, 0.5)
 ##    makeNote(xmlout, song, "No", 45, 0.25)
@@ -266,6 +276,6 @@ for i in rng:
     else:
         break
 
-cmd = "rm " + sys.argv[1] + ".xml"
-print cmd
-os.system(cmd)
+##cmd = "rm " + sys.argv[1] + ".xml"
+##print cmd
+##os.system(cmd)

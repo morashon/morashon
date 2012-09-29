@@ -20,6 +20,8 @@ fxml = sys.argv[1]
 xml = minidom.parse(fxml)
 if len(xml.getElementsByTagName("SINGING")) > 0:
     XMLMODE = "singing"
+elif len(xml.getElementsByTagName("LIBRETTO")) > 0:
+    XMLMODE = "libretto"
 else:
     if len(xml.getElementsByTagName("SABLE")) > 0:
         XMLMODE = "sable"
