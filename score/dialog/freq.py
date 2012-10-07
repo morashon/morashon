@@ -4,11 +4,12 @@ import matplotlib.mlab as mat
 
 N = 256
 W = 128
-P = 20
+P = 50
 mul = (2 * math.pi) / P 
 data = []
 for i in range(N):
     val = math.sin(i * mul)
+    mul += 0.001
     data.append(val)
     print "%3d %+2.8f" % (i, val), "|", " " * int(52 + math.floor(val * 50 + 0.5)) + "."
 ##print data
