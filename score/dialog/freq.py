@@ -3,8 +3,8 @@ import math
 import matplotlib.mlab as mat
 
 N = 256
-W = 64
-P = 32
+W = 128
+P = 20
 mul = (2 * math.pi) / P 
 data = []
 for i in range(N):
