@@ -3,7 +3,7 @@ import math
 import matplotlib.mlab as mat
 
 N = 128
-P = 16
+P = 23.4
 mul = (2 * math.pi) / P 
 data = []
 for i in range(N):
@@ -15,8 +15,8 @@ for i in range(N):
 print
 print
 spec = mat.specgram(data, NFFT=32, noverlap = 16)
-print "X axis (times):", list(spec[2])
-print "Y axis (freqs):", list(spec[1])
+print "X axis (times):", len(spec[2]), list(spec[2])
+print "Y axis (freqs):", len(spec[1]), list(spec[1])
 print "data:"
 print
 for i in range(len(spec[0])-1, -1, -1):
