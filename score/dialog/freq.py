@@ -3,7 +3,7 @@ import math
 import matplotlib.mlab as mat
 
 N = 64
-P = 32
+P = 5
 mul = (2 * math.pi) / P 
 data = []
 for i in range(N):
