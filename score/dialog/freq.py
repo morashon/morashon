@@ -15,7 +15,7 @@ for i in range(N):
 
 print
 print
-spec = mat.specgram(data, NFFT=W, noverlap = W/2)
+spec = mat.specgram(data, NFFT=W, noverlap = int(W * 0.9))
 print "X axis (times):", len(spec[2]), list(spec[2])
 print "Y axis (freqs):", len(spec[1]), list(spec[1])
 print "data:"
