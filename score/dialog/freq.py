@@ -25,9 +25,11 @@ for i in range(len(spec[0])-1, -1, -1):
     s = "%7s" % s
     print s, "|",
     for j in range(len(spec[2])):
-        print "%1.4f" % spec[0][i][j],
+        s = "%2.4f" % spec[0][i][j]
+        s = "%7s" % s #know a better way?
+        print s,
     print
-print "-" * (7 * (len(spec[2]) + 1) + 2)
+print "-" * (8 * (len(spec[2]) + 1) + 1)
 print "times:  | ",
 for j in range(len(spec[2])):
     print "%2.3f" % spec[2][j],
