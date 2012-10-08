@@ -243,9 +243,15 @@ def fixLibretto(x):
         notes.append(int(note))
 
     fixed = []
-    for i, note in enumerate(notes):
+    for i in range(len(notes)):
+        note = notes[i]
+        if i < len(notes) - 1:
+            note2 = (note + notes[i+1]) /  2
+        else:
+            note2 = note - 12
+        
         fixed.append(note)
-        fixed.append(note-4)
+        fixed.append(note2)
 
     for i, node in enumerate(nodes):
         note = fixed[i * 2]
