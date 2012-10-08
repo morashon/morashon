@@ -67,7 +67,11 @@ def makeRest(xml, song, dur):
     
 def makeNote(xml, song, text, note, dur):
     pitch = xml.createElement("PITCH")
-    pitch.setAttribute("NOTE", midi2note(note))
+    if XMLMODE == "LIBRETTO":
+        note = midi2note(note) + "," + midi2note(note-2)
+    else:
+        note = midi2note(note)
+    pitch.setAttribute("NOTE", note)
     duration = xml.createElement("DURATION")
     duration.setAttribute("BEATS", str(dur))
     text = xml.createTextNode(text)
