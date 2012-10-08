@@ -250,7 +250,7 @@ def fixLibretto(x):
     for i in range(len(notes)):
         note = notes[i]
         if i < len(notes) - 1:
-            note2 = (note * 2.0 + notes[i+1]) /  3.0 - 1.5
+            note2 = (note * 2.0 + notes[i+1]) /  3.0 - .5
         else:
             note2 = note - 4
         
