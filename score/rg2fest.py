@@ -231,6 +231,9 @@ def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
     xmlout.appendChild(song)
     return xmlout
 
+def midi2freq(note):
+    return 440.0 * (2.0 ** ((note - 69) / 12.0))
+
 #
 # if LIBRETTO, need to create end notes
 #
