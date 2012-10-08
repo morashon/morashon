@@ -236,11 +236,20 @@ def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
 #
 def fixLibretto(x):
     print "----------fixLibretto-----------"
+    notes = []
     nodes = x.getElementsByTagName("PITCH")
     for node in nodes:
         note = node.getAttribute("NOTE")
-        note = int(note)
-        note2 = note-2
+        notes.append(int(note))
+
+    fixed = []
+    for i, note in enumerate(notes):
+        fixed.append(note)
+        fixed.append(note-4)
+
+    for i, node in enumerate(nodes):
+        note = fixed[i * 2]
+        note2 = fixed[i * 2 + 1]
         note = midi2note(note)
         note2 = midi2note(note2)
         print "________________", note, note2
