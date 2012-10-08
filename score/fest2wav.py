@@ -50,7 +50,7 @@ if voice and voice.find("ogi_") == 0:
 if WINE:
     FESTIVAL = "wine cmd /C c:\\\\cmd_c c:\\\\festival\\\\src\\\\main\\\\festival.exe"
 else:
-    FESTIVAL = "festival"
+    FESTIVAL = "~/src/festival/festlibretto2.1/festival/src/main/festival"
 print "WINE:", WINE
 
 scm += """
