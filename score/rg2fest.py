@@ -250,9 +250,9 @@ def fixLibretto(x):
     for i in range(len(notes)):
         note = notes[i]
         if i < len(notes) - 1:
-            note2 = (note + notes[i+1]) /  2
+            note2 = (note + notes[i+1]) /  2.0
         else:
-            note2 = note - 12
+            note2 = note - 6
         
         fixed.append(note)
         fixed.append(note2)
@@ -265,12 +265,13 @@ def fixLibretto(x):
             note = fixed[i * 2]
             note2 = fixed[i * 2 + 1]
             i += 1
-            note = midi2note(note)
-            note2 = midi2note(note2)
-            s += note + "," + note2 + ","
+            note = midi2freq(note)
+            note2 = midi2freq(note2)
+            s += str(note) + "," + str(note2) + ","
         s = s[:-1]
         print "________________", s
-        node.setAttribute("NOTE", s)
+        node.removeAttribute("NOTE")
+        node.setAttribute("FREQ", s)
     return x
 
 if len(sys.argv) < 3:
