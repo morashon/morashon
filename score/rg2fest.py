@@ -240,7 +240,8 @@ def fixLibretto(x):
     nodes = x.getElementsByTagName("PITCH")
     for node in nodes:
         note = node.getAttribute("NOTE")
-        notes.append(int(note))
+        for no in note.split(","):
+            notes.append(int(no))
 
     fixed = []
     for i in range(len(notes)):
@@ -253,14 +254,20 @@ def fixLibretto(x):
         fixed.append(note)
         fixed.append(note2)
 
-    for i, node in enumerate(nodes):
-        note = fixed[i * 2]
-        note2 = fixed[i * 2 + 1]
-        note = midi2note(note)
-        note2 = midi2note(note2)
-        print "________________", note, note2
-        node.setAttribute("NOTE", note + "," + note2)
-        
+    i = 0
+    for node in nodes:
+        old = node.getAttribute("NOTE")
+        s = ""
+        for j in range(len(old.split(","))):
+            note = fixed[i * 2]
+            note2 = fixed[i * 2 + 1]
+            i += 1
+            note = midi2note(note)
+            note2 = midi2note(note2)
+            s += note + "," + note2 + ","
+        s = s[:-1]
+        print "________________", s
+        node.setAttribute("NOTE", s)
     return x
 
 if len(sys.argv) < 3:
