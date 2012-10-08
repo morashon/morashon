@@ -67,7 +67,10 @@ def makeRest(xml, song, dur):
 
 def makeNote(xml, song, text, note, dur):
     pitch = xml.createElement("PITCH")
-    note = midi2note(note)
+    if XMLMODE != "LIBRETTO":
+        note = midi2note(note)
+    else:
+        note = str(note)
     pitch.setAttribute("NOTE", note)
     duration = xml.createElement("DURATION")
     duration.setAttribute("BEATS", str(dur))
@@ -185,7 +188,12 @@ def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
                                 if prevnote:
                                     note = int(getProp(ev, "pitch", "int"))
                                     temp = prevnote.getAttribute("NOTE")
-                                    temp += "," + str(midi2note(note+transpose))
+                                    note += transpose
+                                    if XMLMODE != "LIBRETTO":
+                                        note = midi2note(note)
+                                    else:
+                                        note = str(note)
+                                    temp += "," + str(note)
                                     prevnote.setAttribute("NOTE", temp)
                                     temp = prevdur.getAttribute("BEATS")
                                     temp += "," + str(partdur + dursec)
@@ -222,6 +230,23 @@ def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
         
     xmlout.appendChild(song)
     return xmlout
+
+#
+# if LIBRETTO, need to create end notes
+#
+def fixLibretto(x):
+    print "----------fixLibretto-----------"
+    nodes = x.getElementsByTagName("PITCH")
+    for node in nodes:
+        note = node.getAttribute("NOTE")
+        note = int(note)
+        note2 = note-2
+        note = midi2note(note)
+        note2 = midi2note(note2)
+        print "________________", note, note2
+        node.setAttribute("NOTE", note + "," + note2)
+        
+    return x
 
 if len(sys.argv) < 3:
     print "rg2fest.py yoursong.rg output_festival[.xml] [trackname [segment [transpose [speed]]]]"
@@ -266,6 +291,8 @@ for i in rng:
     y = minidom.Document()
     xml = main(x, y, trackname, i, transpose, speed)
     if xml:
+        if XMLMODE == "LIBRETTO":
+            xml = fixLibretto(xml)
         out = xml.toprettyxml()
         if type(i) == type(0):
             fn = base + "." + str(i+1) + ".xml"
@@ -277,6 +304,6 @@ for i in rng:
     else:
         break
 
-cmd = "rm " + sys.argv[1] + ".xml"
-print cmd
-os.system(cmd)
+##cmd = "rm " + sys.argv[1] + ".xml"
+##print cmd
+##os.system(cmd)
