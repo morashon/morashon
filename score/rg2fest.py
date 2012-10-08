@@ -65,16 +65,9 @@ def makeRest(xml, song, dur):
     song.appendChild(rest)
     return rest
 
-def midi2noteOrLibretto(note):
-    if XMLMODE == "LIBRETTO":
-        note = midi2note(note) + "," + midi2note(note-2)
-    else:
-        note = midi2note(note)
-    return note
-    
 def makeNote(xml, song, text, note, dur):
     pitch = xml.createElement("PITCH")
-    note = midi2noteOrLibretto(note)
+    note = midi2note(note)
     pitch.setAttribute("NOTE", note)
     duration = xml.createElement("DURATION")
     duration.setAttribute("BEATS", str(dur))
@@ -192,7 +185,7 @@ def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
                                 if prevnote:
                                     note = int(getProp(ev, "pitch", "int"))
                                     temp = prevnote.getAttribute("NOTE")
-                                    temp += "," + str(midi2noteOrLibretto(note+transpose))
+                                    temp += "," + str(midi2note(note+transpose))
                                     prevnote.setAttribute("NOTE", temp)
                                     temp = prevdur.getAttribute("BEATS")
                                     temp += "," + str(partdur + dursec)
