@@ -7,6 +7,7 @@ from xml.dom import minidom
 
 ADDNOTEATEND = True             #to avoid the barf effect
 XMLMODE = "SINGING"
+IGNOREDURS = False
 
 argv = []
 for i in range(len(sys.argv)):
@@ -14,6 +15,8 @@ for i in range(len(sys.argv)):
         if sys.argv[i].lower().strip() == "--libretto":
             XMLMODE = "LIBRETTO"
             ADDNOTEATEND = False
+        if sys.argv[i].lower().strip() == "--ignoredurs":
+            IGNOREDURS = True
     else:
         argv.append(sys.argv[i])
 sys.argv = argv
@@ -84,10 +87,8 @@ def makeNote(xml, song, text, note, dur):
 def main(x, xmlout, trackname, segIndex, transpose, speed=1.0):
     song = xmlout.createElement(XMLMODE)
     song.setAttribute("BPM", str(60.0 * speed))
-##    makeNote(xmlout, song, "No", 48, 0.5)
-##    makeNote(xmlout, song, "No", 45, 0.25)
-##    makeRest(xmlout, song, 0.25)
-##    makeNote(xmlout, song, "No", 41, 0.5)
+    if IGNOREDURS:
+        song.setAttribute("IGNOREDURATIONS", "true")
 
     segs = x.getElementsByTagName("segment")
     print len(segs), "segments found"
