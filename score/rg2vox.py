@@ -24,8 +24,8 @@ if len(sys.argv) < 4:
 opts = []
 argv = []
 for i in range(len(sys.argv)):
-    if sys.argv[i].lower() == "--libretto":
-        opts.append("--libretto")
+    if sys.argv[i][:2] == "--":
+        opts.append(sys.argv[i])
     else:
         argv.append(sys.argv[i])
 sys.argv = argv

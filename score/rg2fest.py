@@ -10,9 +10,10 @@ XMLMODE = "SINGING"
 
 argv = []
 for i in range(len(sys.argv)):
-    if sys.argv[i].lower().strip() == "--libretto":
-        XMLMODE = "LIBRETTO"
-        ADDNOTEATEND = False
+    if sys.argv[i][:2] == "--":
+        if sys.argv[i].lower().strip() == "--libretto":
+            XMLMODE = "LIBRETTO"
+            ADDNOTEATEND = False
     else:
         argv.append(sys.argv[i])
 sys.argv = argv
