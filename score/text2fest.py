@@ -44,6 +44,7 @@ f = open(fin)
 r = f.readlines()
 for line in r:
     freq = 120
+    dur = 1.0
     line = line.strip()
     if line == "":
         continue
@@ -61,10 +62,13 @@ for line in r:
             s  += "," + str(freq) + "," + str(freq)
         pitch.setAttribute("FREQ", s[1:])
         duration = xdoc.createElement("DURATION")
-        s = "1.0"
-        for i in range(syls-1):
-            s += ",1.0"
-        duration.setAttribute("SECONDS", s)
+        s = ""
+        for i in range(syls):
+            if len(durs):
+                dur = 1.0 / (1.0 + durs.pop(0) * 0.01)
+                print "change dur:", dur
+            s  += "," + str(dur)
+        duration.setAttribute("SECONDS", s[1:])
         text = xdoc.createTextNode(word)
         duration.appendChild(text)
         pitch.appendChild(duration)
