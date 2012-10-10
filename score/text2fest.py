@@ -82,13 +82,18 @@ for line in r:
 
     for ix in each(data):                                   #then compute fend's
         word, syls, freqs, durs = data[ix]
-        for f in freqs:
+        for j in each(freqs):
+            f = freqs[j]
+            nxt = None
             if len(f) < 2:
-                if ix < len(data) - 1:
-                    nxt = data[ix][2][0][0]                 #interpolate to next fbeg
+                if j < len(freqs) - 1:                      #interpolate to next fbeg in next syllable
+                    nxt = freqs[j+1][0]
+                elif ix < len(data) - 1:
+                    nxt = data[ix][2][0][0]                 #interpolate to next fbeg in next word
+                if nxt:
                     interp = (f[0] * 2 + nxt) / 3.0 - DROP  #yes that's how we roll
                     f.append(interp)
-                else:
+                else:                                       #end of story
                     f.append(f[0] - BIGDROP)
         print word, "new freqs with fends:", freqs
 
