@@ -14,6 +14,9 @@ import sys, os
 from xml.dom import minidom
 import sylCount
 
+def each(seq):
+    return range(len(seq))
+
 def parseWord(word):
     parts = word.split(";")
     word = parts[-1]
@@ -25,7 +28,9 @@ def parseWord(word):
                 durs.append(float(part))
         else:
             for part in section.split(","):
-                freqs.append(float(part))
+                freqs.append([])
+                for p in part.split("_"):
+                    freqs[-1].append(float(p))
     cnt = sylCount.nsyl(word)
     if not cnt:
         cnt = 1
@@ -45,7 +50,8 @@ xdoc.appendChild(xbody)
 f = open(fin)
 r = f.readlines()
 for line in r:
-    freq = 120
+    fbeg = 120
+    fend = 110
     dur = 1.0
     line = line.strip()
     if line == "":
@@ -60,12 +66,21 @@ for line in r:
 
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
+
+        for i in range(syls):
+            if i > len(freqs) - 1:
+                freqs.append([fbeg, fend])
+            elif len(freqs[i]) < 2:
+                if len(freqs[i]) == 0:
+                    freqs[i] = [fbeg, fend]
+                else:
+                    freqs[i].append(freqs[i][0] - 10)
+
         pitch = xdoc.createElement("PITCH")
         s = ""
         for i in range(syls):
-            if len(freqs):
-                freq = freqs.pop(0)
-            s  += "," + str(freq) + "," + str(freq)
+            fbeg, fend = freqs.pop(0)
+            s  += "," + str(fbeg) + "," + str(fend)
         pitch.setAttribute("FREQ", s[1:])
         duration = xdoc.createElement("DURATION")
         s = ""
