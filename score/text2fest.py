@@ -9,6 +9,11 @@ _Annai: +20 7 Thisone, 3 will you 5 come 7 with us?
 _Thisone: Come -30 7 where_2
 _Annai: We're 7 starting a new 3 life. 7 Off 5 the 3 grid.  +15 Our 7 own 3 grid in fact.  It's something 7,3,3 wonderful.  5,7,3,3 Spectacular.
 
+interpolation logic:
+    if no beg specified, use previous (do this in a pass)
+    if no end specified, interp to next beg, or bigdrop
+    add little drop to all ends
+
 """
 import sys, os
 from xml.dom import minidom
@@ -16,6 +21,7 @@ import sylCount
 
 BASE = 120
 DROP = 10
+BIGDROP = 40
 
 def each(seq):
     return range(len(seq))
@@ -53,8 +59,6 @@ xdoc.appendChild(xbody)
 f = open(fin)
 r = f.readlines()
 for line in r:
-    fbeg = BASE
-    fend = BASE - DROP
     dur = 1.0
     line = line.strip()
     if line == "":
@@ -67,19 +71,29 @@ for line in r:
     for word in words:
         data.append(parseWord(word))
 
+    f = BASE
+    for word, syls, freqs, durs in data:                    #first, fill in missing fbeg's
+        for i in range(syls):
+            if i >= len(freqs):
+                freqs.append([f])
+            else:
+                f = freqs[i][0]
+        print word, "new freqs with begs:", freqs
+
+    for ix in each(data):                                   #then compute fend's
+        word, syls, freqs, durs = data[ix]
+        for f in freqs:
+            if len(f) < 2:
+                if ix < len(data) - 1:
+                    nxt = data[ix][2][0][0]                 #interpolate to next fbeg
+                    interp = (f[0] * 2 + nxt) / 3.0 - DROP  #yes that's how we roll
+                    f.append(interp)
+                else:
+                    f.append(f[0] - BIGDROP)
+        print word, "new freqs with fends:", freqs
+
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
-
-        for i in range(syls):
-            if i > len(freqs) - 1:
-                freqs.append([fbeg, fend])
-            elif len(freqs[i]) < 2:
-                if len(freqs[i]) == 0:
-                    freqs[i] = [fbeg, fend]
-                else:
-                    freqs[i].append(freqs[i][0] - DROP)
-            fbeg, fend = freqs[i]
-##        print "--> freqs:", freqs, "fbeg:", fbeg, "fend:", fend
 
         pitch = xdoc.createElement("PITCH")
         s = ""
