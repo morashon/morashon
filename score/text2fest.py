@@ -18,11 +18,16 @@ def parseWord(word):
     parts = word.split(";")
     word = parts[-1]
     freqs = []
+    durs = []
     for section in parts[:-1]:
-        for part in section.split(","):
-            freqs.append(float(part))
+        if "-" in section or "+" in section:
+            for part in section.split(","):
+                durs.append(float(part))
+        else:
+            for part in section.split(","):
+                freqs.append(float(part))
     cnt = sylCount.nsyl(word)
-    return word, cnt, freqs
+    return word, cnt, freqs, durs
 
 if len(sys.argv) < 2:
     print "text2fest.py markupfile.txt festfile.xml"
@@ -46,8 +51,8 @@ for line in r:
     words = line.split()
     for word in words:
 ##        syls = sylCount.nsyl(word)
-        word, syls, freqs = parseWord(word)
-        print word, "has", syls, "syllables"
+        word, syls, freqs, durs = parseWord(word)
+        print word, "syls:", syls, "freqs:", freqs, "durs:", durs
         pitch = xdoc.createElement("PITCH")
         s = ""
         for i in range(syls):
