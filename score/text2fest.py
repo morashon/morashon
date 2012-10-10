@@ -14,6 +14,9 @@ import sys, os
 from xml.dom import minidom
 import sylCount
 
+BASE = 120
+DROP = 10
+
 def each(seq):
     return range(len(seq))
 
@@ -50,8 +53,8 @@ xdoc.appendChild(xbody)
 f = open(fin)
 r = f.readlines()
 for line in r:
-    fbeg = 120
-    fend = 110
+    fbeg = BASE
+    fend = BASE - DROP
     dur = 1.0
     line = line.strip()
     if line == "":
@@ -74,7 +77,7 @@ for line in r:
                 if len(freqs[i]) == 0:
                     freqs[i] = [fbeg, fend]
                 else:
-                    freqs[i].append(freqs[i][0] - 10)
+                    freqs[i].append(freqs[i][0] - DROP)
             fbeg, fend = freqs[i]
 ##        print "--> freqs:", freqs, "fbeg:", fbeg, "fend:", fend
 
