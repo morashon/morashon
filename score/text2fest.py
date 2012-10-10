@@ -27,6 +27,8 @@ def parseWord(word):
             for part in section.split(","):
                 freqs.append(float(part))
     cnt = sylCount.nsyl(word)
+    if not cnt:
+        cnt = 1
     return word, cnt, freqs, durs
 
 if len(sys.argv) < 2:
