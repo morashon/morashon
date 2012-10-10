@@ -20,8 +20,8 @@ from xml.dom import minidom
 import sylCount
 
 BASE = 120
-DROP = 10
-BIGDROP = 40
+DROP = 20
+BIGDROP = 35
 
 def each(seq):
     return range(len(seq))
@@ -78,29 +78,22 @@ for line in r:
                 freqs.append([f])
             else:
                 f = freqs[i][0]
-        print word, "new freqs with begs:", freqs
 
     for ix in each(data):                                   #then compute fend's
         word, syls, freqs, durs = data[ix]
-        print "fixing", word, freqs
         for j in each(freqs):                               #for each syllable
-            print "     syllable:", j
             f = freqs[j]
             nxt = None
             if len(f) < 2:
                 if j < len(freqs) - 1:                      #interpolate to next fbeg in next syllable
                     nxt = freqs[j+1][0]
-                    print "--------------------interpolate to next syl:", nxt
                 elif ix < len(data) - 1:
                     nxt = data[ix+1][2][0][0]                 #interpolate to next fbeg in next word
-                    print "--------------------interpolate to next word:", nxt
                 if nxt:
                     interp = (f[0] * 2 + nxt) / 3.0 - DROP  #yes that's how we roll
-                    print "--------------=======------interp:", f[0], nxt, interp
                     f.append(interp)
                 else:                                       #end of story
                     f.append(f[0] - BIGDROP)
-        print word, "new freqs with fends:", freqs
 
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
