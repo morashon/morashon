@@ -14,6 +14,10 @@ import sys, os
 from xml.dom import minidom
 import sylCount
 
+def parseWord(word):
+    cnt = sylCount.nsyl(word)
+    return [1] * cnt
+
 if len(sys.argv) < 2:
     print "text2fest.py markupfile.txt festfile.xml"
     exit()
@@ -34,16 +38,17 @@ for line in r:
     print line
     words = line.split()
     for word in words:
-        syls = sylCount.nsyl(word)
-        print word, "has", syls, "syllables"
+##        syls = sylCount.nsyl(word)
+        syls = parseWord(word)
+        print word, "has", len(syls), "syllables"
         pitch = xdoc.createElement("PITCH")
         s  = "120,90"
-        for i in range(syls-1):
+        for i in range(len(syls)-1):
             s += ",120,90"
         pitch.setAttribute("FREQ", s)
         duration = xdoc.createElement("DURATION")
         s = "1.0"
-        for i in range(syls-1):
+        for i in range(len(syls)-1):
             s += ",1.0"
         duration.setAttribute("SECONDS", s)
         text = xdoc.createTextNode(word)
