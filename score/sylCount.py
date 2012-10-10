@@ -1,6 +1,5 @@
 import curses
 from curses.ascii import isdigit 
-import nltk 
 from nltk.corpus import cmudict 
 
 d = cmudict.dict() 

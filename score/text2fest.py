@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """
 process marked up text to produce a festival-ready xml file (using LIBRETTO tag, which allows pitch for beg and end of each syllable)
 
@@ -11,4 +12,47 @@ _Annai: We're 7 starting a new 3 life. 7 Off 5 the 3 grid.  +15 Our 7 own 3 grid
 """
 import sys, os
 from xml.dom import minidom
+import sylCount
+
+if len(sys.argv) < 2:
+    print "text2fest.py markupfile.txt festfile.xml"
+    exit()
+
+fin = sys.argv[1]
+fout = sys.argv[2]
+xdoc = minidom.Document()
+xbody = xdoc.createElement("LIBRETTO")
+xbody.setAttribute("DURATIONSMULTIPLY", "true")
+xdoc.appendChild(xbody)
+
+f = open(fin)
+r = f.readlines()
+for line in r:
+    line = line.strip()
+    if line == "":
+        continue
+    print line
+    words = line.split()
+    for word in words:
+        syls = sylCount.nsyl(word)
+        print word, "has", syls, "syllables"
+        pitch = xdoc.createElement("PITCH")
+        s  = "120,90"
+        for i in range(syls-1):
+            s += ",120,90"
+        pitch.setAttribute("FREQ", s)
+        duration = xdoc.createElement("DURATION")
+        s = "1.0"
+        for i in range(syls-1):
+            s += ",1.0"
+        duration.setAttribute("SECONDS", s)
+        text = xdoc.createTextNode(word)
+        duration.appendChild(text)
+        pitch.appendChild(duration)
+        xbody.appendChild(pitch)
+
+out = xdoc.toprettyxml()
+f = open(fout, 'w')
+f.write(out)
+f.close()
 
