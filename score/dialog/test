@@ -1,5 +1,5 @@
 #!/bin/bash
+rm test.wav markup.xml
 ../text2fest.py markup.txt markup.xml
-rm test.wav
 ../fest2wav.py markup.xml test.wav
 mplayer test.wav
