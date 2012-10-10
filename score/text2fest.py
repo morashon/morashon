@@ -72,7 +72,6 @@ for line in r:
         for i in range(syls):
             if len(durs):
                 dur = 1.0 / (1.0 + durs.pop(0) * 0.01)
-                print "change dur:", dur
             s  += "," + str(dur)
         duration.setAttribute("SECONDS", s[1:])
         text = xdoc.createTextNode(word)
