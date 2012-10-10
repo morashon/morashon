@@ -75,6 +75,8 @@ for line in r:
                     freqs[i] = [fbeg, fend]
                 else:
                     freqs[i].append(freqs[i][0] - 10)
+            fbeg, fend = freqs[i]
+##        print "--> freqs:", freqs, "fbeg:", fbeg, "fend:", fend
 
         pitch = xdoc.createElement("PITCH")
         s = ""
