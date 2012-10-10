@@ -52,9 +52,13 @@ for line in r:
         continue
     print line
     words = line.split()
+
+    data = []
+
     for word in words:
-##        syls = sylCount.nsyl(word)
-        word, syls, freqs, durs = parseWord(word)
+        data.append(parseWord(word))
+
+    for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
         pitch = xdoc.createElement("PITCH")
         s = ""
@@ -75,6 +79,7 @@ for line in r:
         duration.appendChild(text)
         pitch.appendChild(duration)
         xbody.appendChild(pitch)
+
 
 out = xdoc.toprettyxml()
 f = open(fout, 'w')
