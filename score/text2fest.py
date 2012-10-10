@@ -88,10 +88,13 @@ for line in r:
             if len(f) < 2:
                 if j < len(freqs) - 1:                      #interpolate to next fbeg in next syllable
                     nxt = freqs[j+1][0]
+                    print "--------------------interpolate to next syl:", nxt
                 elif ix < len(data) - 1:
                     nxt = data[ix][2][0][0]                 #interpolate to next fbeg in next word
+                    print "--------------------interpolate to next word:", nxt
                 if nxt:
                     interp = (f[0] * 2 + nxt) / 3.0 - DROP  #yes that's how we roll
+                    print "--------------=======------interp: next syl:", interp
                     f.append(interp)
                 else:                                       #end of story
                     f.append(f[0] - BIGDROP)
