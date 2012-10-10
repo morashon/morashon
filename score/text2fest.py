@@ -18,8 +18,9 @@ def parseWord(word):
     parts = word.split(";")
     word = parts[-1]
     freqs = []
-    for p in parts[:-1]:
-        freqs.append(float(p))
+    for section in parts[:-1]:
+        for part in section.split(","):
+            freqs.append(float(part))
     cnt = sylCount.nsyl(word)
     return word, cnt, freqs
 
