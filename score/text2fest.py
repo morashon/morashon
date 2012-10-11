@@ -19,7 +19,7 @@ import sys, os
 from xml.dom import minidom
 import sylCount
 
-BASE = 120
+BASE = 125
 DROP = 20
 BIGDROP = 35
 SCALE = 7.0
@@ -48,7 +48,8 @@ def parseWord(word):
             for part in section.split(","):
                 freqs.append([])
                 for p in part.split("_"):
-                    freqs[-1].append(float(p))
+                    freq = scale2freq(float(p))
+                    freqs[-1].append(freq)
     cnt = sylCount.nsyl(word)
     if not cnt:
         cnt = 1
