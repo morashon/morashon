@@ -19,9 +19,9 @@ import sys, os
 from xml.dom import minidom
 import sylCount
 
-BASE = 125
-DROP = 20
-BIGDROP = 35
+BASE = 130
+DROP = BASE / 5.0
+BIGDROP = DROP * 2
 SCALE = 7.0
 
 def each(seq):
