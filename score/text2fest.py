@@ -22,9 +22,13 @@ import sylCount
 BASE = 120
 DROP = 20
 BIGDROP = 35
+SCALE = 7.0
 
 def each(seq):
     return range(len(seq))
+
+def scale2freq(n):
+    return BASE * 2.0 ** (n / SCALE)
 
 def parseWord(word):
     parts = word.split(";")
@@ -32,9 +36,14 @@ def parseWord(word):
     freqs = []
     durs = []
     for section in parts[:-1]:
-        if "-" in section or "+" in section:
+        if "/" in section or "*" in section:
             for part in section.split(","):
-                durs.append(float(part))
+                dur = float(part[1:])
+                if part[:1] == "/":
+                    dur = 1.0 + (dur * 0.01)        #100% slower == twice as long
+                if part[:1] == "*":
+                    dur = 1.0 / (1.0 + dur * 0.01)  #100% faster, or half as long
+                durs.append(dur)
         else:
             for part in section.split(","):
                 freqs.append([])
@@ -108,7 +117,7 @@ for line in r:
         s = ""
         for i in range(syls):
             if len(durs):
-                dur = 1.0 / (1.0 + durs.pop(0) * 0.01)
+                dur = durs.pop(0)
             s  += "," + str(dur)
         duration.setAttribute("SECONDS", s[1:])
         text = xdoc.createTextNode(word)
