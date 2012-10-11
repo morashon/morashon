@@ -55,6 +55,19 @@ def parseWord(word):
         cnt = 1
     return word, cnt, freqs, durs
 
+argv = []
+for i in range(len(sys.argv)):
+    if sys.argv[i][:2] == "--":
+        if "--base=" in sys.argv[i].lower():
+            BASE = int(sys.argv[i][7:])
+            print "BASE frequency set to:", BASE
+        if "--scale=" in sys.argv[i].lower():
+            SCALE = int(sys.argv[i][8:])
+            print "SCALE set to:", SCALE
+    else:
+        argv.append(sys.argv[i])
+sys.argv = argv
+
 if len(sys.argv) < 2:
     print "text2fest.py markupfile.txt festfile.xml"
     exit()
