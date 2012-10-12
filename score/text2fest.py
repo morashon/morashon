@@ -116,7 +116,7 @@ if FIXBEGINNING:
     addRest(xdoc, xbody, 1.0)
 
 if start != None:
-    r = r[start:end+1]
+    r = r[start-1:end]
 
 for line in r:
     dur = 1.0
