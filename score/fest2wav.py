@@ -70,7 +70,7 @@ if os.path.exists("tts_file_1.wav"):
     os.system(cmd)
 
 if WINE:
-    cmd = "rm ~/.wine/drive_c/tts_file_*.wav ."
+    cmd = "rm ~/.wine/drive_c/tts_file_*.wav"
     print cmd
     os.system(cmd)
     cmd = "cp _fest2wav_.scm ~/.wine/drive_c"

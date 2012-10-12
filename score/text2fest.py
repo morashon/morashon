@@ -88,11 +88,17 @@ for i in range(len(sys.argv)):
 sys.argv = argv
 
 if len(sys.argv) < 2:
-    print "text2fest.py markupfile.txt festfile.xml"
+    print "text2fest.py markupfile.txt festfile.xml [start end]"
+    print "start, end are sentence indexes"
     exit()
 
 fin = sys.argv[1]
 fout = sys.argv[2]
+start = None
+if len(sys.argv) > 3:
+    start = int(sys.argv[3])
+    end = int(sys.argv[4])
+
 xdoc = minidom.Document()
 xbody = xdoc.createElement("LIBRETTO")
 xbody.setAttribute("DURATIONSMULTIPLY", "true")
@@ -108,6 +114,9 @@ r = s.split(". ")
 if FIXBEGINNING:
     addWord(xdoc, xbody, "oh", "50,40", "0.1")
     addRest(xdoc, xbody, 1.0)
+
+if start != None:
+    r = r[start:end+1]
 
 for line in r:
     dur = 1.0
