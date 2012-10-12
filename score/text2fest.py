@@ -24,6 +24,7 @@ DROP = BASE / 5.0
 BIGDROP = DROP * 2
 SCALE = 7.0
 SENTENCEPAUSE = 0.6
+FIXBEGINNING = True
 
 def each(seq):
     return range(len(seq))
@@ -104,7 +105,9 @@ s = s.replace("!", ".")
 s = s.replace("\n", " ")
 r = s.split(". ")
 
-addRest(xdoc, xbody, 2.0)
+if FIXBEGINNING:
+    addWord(xdoc, xbody, "oh", "50,40", "0.1")
+    addRest(xdoc, xbody, 1.0)
 
 for line in r:
     dur = 1.0
@@ -165,4 +168,3 @@ out = xdoc.toprettyxml()
 f = open(fout, 'w')
 f.write(out)
 f.close()
-
