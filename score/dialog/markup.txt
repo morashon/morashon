@@ -5,3 +5,8 @@
 5;Tea sewn .5| %160;2;will you %133;4;come %110;7;with us?
 |||||
 4;Were %144,172;4.3;starting %98.5;a %88;6;new %90;2;life.
+|||
+%90;5;Off %100;4;the %80;2;grid.
+|||
+3;Are 5;own 2;grid in fact.
+
