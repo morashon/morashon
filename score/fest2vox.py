@@ -49,7 +49,7 @@ if not os.path.exists(fest2wav):
 
 if not outf:
     outf = festxml[:-4]
-if outf[-4:].lower() = ".wav":
+if outf[-4:].lower() == ".wav":
     outf = outf[:-4]
 if voice:
     if '+' in voice:
