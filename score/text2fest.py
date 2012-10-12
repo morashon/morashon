@@ -80,13 +80,19 @@ xbody.setAttribute("DURATIONSMULTIPLY", "true")
 xdoc.appendChild(xbody)
 
 f = open(fin)
-r = f.readlines()
+s = f.read()
+s = s.replace("?",".")
+s = s.replace("!", ".")
+s = s.replace("\n", " ")
+r = s.split(". ")
+print r
+    
 for line in r:
     dur = 1.0
     line = line.strip()
     if line == "":
         continue
-    print line
+    print "---->", line
     words = line.split()
 
     data = []
