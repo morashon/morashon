@@ -70,5 +70,5 @@ print "clean up", len(cleanup), "files"
 for f in cleanup:
     cmd = "rm " + f
     print "cleanup:", f
-    os.system(cmd)
+##    os.system(cmd)
     

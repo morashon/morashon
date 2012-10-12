@@ -7,12 +7,12 @@ d = cmudict.dict()
 def nsyl(word):
     if word.lower() in d:
         prons = [len(list(y for y in x if isdigit(y[-1]))) for x in d[word.lower()]]
-        mx = -1
+        mn = 999
         for p in prons:
-            if p > mx:
-                mx = p
-        return p
+            if p < mn:
+                mn = p
+        return mn
 
 if __name__ == "__main__":
-    for i in ["it's", "something", "wonderful", "spectacular"]:
+    for i in ["it's", "something", "wonderful", "spectacular", "us"]:
         print i, nsyl(i), d[i]
