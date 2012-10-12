@@ -24,6 +24,7 @@ DROP = BASE / 5.0
 BIGDROP = DROP * 2
 SCALE = 7.0
 SENTENCEPAUSE = 0.6
+RESTPAUSE = 0.25
 FIXBEGINNING = True
 
 def each(seq):
@@ -33,6 +34,14 @@ def scale2freq(n):
     return BASE * 2.0 ** (n / SCALE)
 
 def parseWord(word):
+    if "|" in word:
+        s = word.replace("|", "")
+        if len(s):
+            dur = float(s)
+        else:
+            dur = RESTPAUSE * word.count("|")
+        return "|", 1, [], [dur]
+            
     parts = word.split(";")
     word = parts[-1]
     freqs = []
@@ -153,19 +162,21 @@ for line in r:
 
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
-
-        s = ""
-        for i in range(syls):
-            fbeg, fend = freqs.pop(0)
-            s  += "," + str(fbeg) + "," + str(fend)
-        freqatt = s[1:]
-        s = ""
-        for i in range(syls):
-            if len(durs):
-                dur = durs.pop(0)
-            s  += "," + str(dur)
-        duratt = s[1:]
-        addWord(xdoc, xbody, word, freqatt, duratt)
+        if word == "|":
+            addRest(xdoc, xbody, durs[0])
+        else:
+            s = ""
+            for i in range(syls):
+                fbeg, fend = freqs.pop(0)
+                s  += "," + str(fbeg) + "," + str(fend)
+            freqatt = s[1:]
+            s = ""
+            for i in range(syls):
+                if len(durs):
+                    dur = durs.pop(0)
+                s  += "," + str(dur)
+            duratt = s[1:]
+            addWord(xdoc, xbody, word, freqatt, duratt)
     addRest(xdoc, xbody, SENTENCEPAUSE)
 
 
