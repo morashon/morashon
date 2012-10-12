@@ -1,4 +1,5 @@
-%90;6;Ann %80;3;I | %90;4;Ann %60;2;I.
-4;my life || my love!
+%90;6;Ann %80;3;I | %90;4;Ann %60;2_-2;I.
 |||
-4;How divine of you to come.
+%90;2;my %100;1_5;life | %90;4;my %60;2_-3;love!
+|||
+%80;4;How %110,%60;3,5;divine %90;2;of you to come.
