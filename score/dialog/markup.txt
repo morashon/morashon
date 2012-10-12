@@ -1,7 +1,7 @@
-*60;5_4.3;why 0.06| *140;3;are *110;you *350,85;5,1.5;looking *111;at me? 
+*60;5_4.3;why 0.06| *140;3;are *110;you *350,85;5,2;looking *108;at *88;me? 
 |||||
 *130;4_3.5;how *111;would 6;you *70;2.2;know?
 |||||
 5;Tea sewn .5| *160;2;will you *120;4;come *110;7;with us?
 |||||
-4;Were *130,140;4.3;starting *98.5;a *88;6;new *90;2;life.
+4;Were *130,144;4.3;starting *98.5;a *88;6;new *90;2;life.
