@@ -59,9 +59,9 @@ rg2fest = "./rg2fest.py"
 if not os.path.exists(rg2fest):
     rg2fest = "../rg2fest.py"
 
-fest2wav = "./fest2wav.py"
-if not os.path.exists(fest2wav):
-    fest2wav = "../fest2wav.py"
+fest2vox = "./fest2vox.py"
+if not os.path.exists(fest2vox):
+    fest2vox = "../fest2vox.py"
 
 if timbre:
     args = [rg2fest, song, seg, track, seg, -timbre, str(2 ** (-timbre/12.0))] #yo dat be momma math
@@ -77,50 +77,10 @@ os.system(cmd)
 
 if not outf:
     outf = seg
-if voice:
-    if '+' in voice:
-        voices = voice.split('+')
-        soxargs = ["sox", "-D", "-m"]
-        for voice in voices:
-            if '/' in voice:
-                voice, factor = voice.split('/')
-                factor = str(1.0 / float(factor))
-            else:
-                factor = str(1.0 / len(voices))
-            fn = outf + '_' + voice + ".wav"
-            cmd = makeCmd(fest2wav, seg + ".xml", fn, voice)
-            cleanup.append(fn)
-            print cmd
-            os.system(cmd)
-            cmd = makeCmd("sox","-D", fn,  "-ef", "-r44100", "f_" + fn)     #convert to 44.1 in case differing sample rates
-            cleanup.append("f_" + fn)
-            print cmd
-            os.system(cmd)
-            soxargs.append("-v")
-            soxargs.append(factor)
-            soxargs.append("f_" + fn)
-        soxargs.append(outf + ".wav")
-        print soxargs
-        cmd = makeCmd(*soxargs)
-        print cmd
-        os.system(cmd)
-    else:
-        cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav", voice)
-        print cmd
-        os.system(cmd)
-else:
-    cmd = makeCmd(fest2wav, seg + ".xml", outf + ".wav")
-    print cmd
-    os.system(cmd)
 
-if timbre:
-    cmd = makeCmd("mv", outf + ".wav", outf + "_.wav")
-    cleanup.append(outf + "_.wav")
-    print cmd
-    os.system(cmd)
-    cmd = makeCmd("sox", outf + "_.wav", outf + ".wav", "speed", str(2 ** (timbre/12.0)) ) 
-    print cmd
-    os.system(cmd)
+cmd = makeCmd(fest2vox, seg + ".xml", voice if voice else "kal_diphone", timbre if timbre else "0", outf + ".wav")
+print cmd
+os.system(cmd)
 
 lst = os.listdir(".")
 found = False
