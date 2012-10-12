@@ -47,8 +47,8 @@ def parseWord(word):
     freqs = []
     durs = []
     for section in parts[:-1]:
-        if "*" in section:
-            for part in section.replace("*","").split(","):
+        if "%" in section:
+            for part in section.replace("%","").split(","):
                 dur = 100.0 / float(part)
                 durs.append(dur)
         else:
