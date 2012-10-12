@@ -23,6 +23,7 @@ BASE = 130
 DROP = BASE / 5.0
 BIGDROP = DROP * 2
 SCALE = 7.0
+SENTENCEPAUSE = 0.6
 
 def each(seq):
     return range(len(seq))
@@ -55,6 +56,12 @@ def parseWord(word):
         cnt = 1
     return word, cnt, freqs, durs
 
+def addRest(doc, node, t=0.25):
+    x = doc.createElement("REST")
+    x.setAttribute("SECONDS", str(t))
+    x.appendChild(doc.createTextNode(""))
+    node.appendChild(x)
+
 argv = []
 for i in range(len(sys.argv)):
     if sys.argv[i][:2] == "--":
@@ -85,8 +92,9 @@ s = s.replace("?",".")
 s = s.replace("!", ".")
 s = s.replace("\n", " ")
 r = s.split(". ")
-print r
-    
+
+addRest(xdoc, xbody, 2.0)
+
 for line in r:
     dur = 1.0
     line = line.strip()
@@ -144,6 +152,7 @@ for line in r:
         duration.appendChild(text)
         pitch.appendChild(duration)
         xbody.appendChild(pitch)
+    addRest(xdoc, xbody, SENTENCEPAUSE)
 
 
 out = xdoc.toprettyxml()
