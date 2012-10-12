@@ -1,0 +1,4 @@
+#!/bin/bash
+rm test.wav
+../text2vox.py --base=80 --scale=7 markup3.txt test.wav
+mplayer test.wav
