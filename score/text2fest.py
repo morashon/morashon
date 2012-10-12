@@ -62,6 +62,17 @@ def addRest(doc, node, t=0.25):
     x.appendChild(doc.createTextNode(""))
     node.appendChild(x)
 
+def addWord(doc, node, word, freq, dur):
+    #note freq, dur should be strings, and may include multiple comma-separated values
+    pitch = doc.createElement("PITCH")
+    pitch.setAttribute("FREQ", freq)
+    duration = doc.createElement("DURATION")
+    duration.setAttribute("SECONDS", dur)
+    text = doc.createTextNode(word)
+    duration.appendChild(text)
+    pitch.appendChild(duration)
+    node.appendChild(pitch)
+
 argv = []
 for i in range(len(sys.argv)):
     if sys.argv[i][:2] == "--":
@@ -146,15 +157,7 @@ for line in r:
                 dur = durs.pop(0)
             s  += "," + str(dur)
         duratt = s[1:]
-
-        pitch = xdoc.createElement("PITCH")
-        pitch.setAttribute("FREQ", freqatt)
-        duration = xdoc.createElement("DURATION")
-        duration.setAttribute("SECONDS", duratt)
-        text = xdoc.createTextNode(word)
-        duration.appendChild(text)
-        pitch.appendChild(duration)
-        xbody.appendChild(pitch)
+        addWord(xdoc, xbody, word, freqatt, duratt)
     addRest(xdoc, xbody, SENTENCEPAUSE)
 
 
