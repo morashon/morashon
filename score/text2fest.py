@@ -135,19 +135,22 @@ for line in r:
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
 
-        pitch = xdoc.createElement("PITCH")
         s = ""
         for i in range(syls):
             fbeg, fend = freqs.pop(0)
             s  += "," + str(fbeg) + "," + str(fend)
-        pitch.setAttribute("FREQ", s[1:])
-        duration = xdoc.createElement("DURATION")
+        freqatt = s[1:]
         s = ""
         for i in range(syls):
             if len(durs):
                 dur = durs.pop(0)
             s  += "," + str(dur)
-        duration.setAttribute("SECONDS", s[1:])
+        duratt = s[1:]
+
+        pitch = xdoc.createElement("PITCH")
+        pitch.setAttribute("FREQ", freqatt)
+        duration = xdoc.createElement("DURATION")
+        duration.setAttribute("SECONDS", duratt)
         text = xdoc.createTextNode(word)
         duration.appendChild(text)
         pitch.appendChild(duration)
