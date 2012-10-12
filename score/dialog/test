@@ -1,5 +1,5 @@
 #!/bin/bash
 rm test.wav markup.xml
 ../text2fest.py --base=145 --scale=10 markup.txt markup.xml
-../fest2wav.py markup.xml test.wav ogi_as_diphone
+../fest2vox.py markup.xml ogi_as_diphone+ogi_tll_diphone 0 test.wav
 mplayer test.wav
