@@ -27,6 +27,19 @@ if len(sys.argv) < 2:
     print "yeah, that's sensible"
     exit()
 
+opts = []
+argv = []
+for i in range(len(sys.argv)):
+    if sys.argv[i][:2] == "--":
+        opts.append(sys.argv[i])
+    else:
+        argv.append(sys.argv[i])
+sys.argv = argv
+
+for opt in opts:
+    text2fest += " " + opt
+    fest2vox += " " + opt
+
 markup = sys.argv[1]
 outf = sys.argv[2]
 voice = ""

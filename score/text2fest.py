@@ -38,13 +38,9 @@ def parseWord(word):
     freqs = []
     durs = []
     for section in parts[:-1]:
-        if "/" in section or "*" in section:
-            for part in section.split(","):
-                dur = float(part[1:])
-                if part[:1] == "/":
-                    dur = 1.0 + (dur * 0.01)        #100% slower == twice as long
-                if part[:1] == "*":
-                    dur = 1.0 / (1.0 + dur * 0.01)  #100% faster, or half as long
+        if "*" in section:
+            for part in section.replace("*","").split(","):
+                dur = 100.0 / float(part)
                 durs.append(dur)
         else:
             for part in section.split(","):

@@ -1,2 +1,2 @@
-/400;5_2;why *0;are you looking at me? Sentence two.
-*30;4_3.5;how *11;would 6;you /34;2.2;know?
+*75;5;why *140;3;are *110;you *155,89;5,1.5;looking *111;at me? 
+
