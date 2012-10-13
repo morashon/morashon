@@ -47,5 +47,23 @@ for line in lines:
     files[name] += line + "\n"
 
 for fil in files:
-    print "-----------------------", fil
-    print files[fil],
+##    print "-----------------------", fil
+##    print files[fil],
+    rewrite = False
+    if os.path.exists(fil):
+        f = open(fil)
+        s = f.read()
+        f.close()
+        if s != files[fil]:
+            rewrite = True
+    else:
+        rewrite = True
+
+    if rewrite:
+        print "-------->", fil, "is new or has changed -- writing to disk:"
+        print files[fil]
+        f = open(fil, "w")
+        f.write(files[fil])
+        f.close()
+    else:
+        print "++++++++>", fil, "is unchanged"
