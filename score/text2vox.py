@@ -50,17 +50,16 @@ if len(sys.argv) > 4:
 
 f = open(markup)
 a = f.readline()
-if a[1:] == "{":
+if a[:1] == "{":
     a = a.strip().replace("}","")
     a = a[1:].split(";")
     for e in a:
         key, val = e.split("=")
         if key.lower() == "timbre":
             timbre = int(val)
-        if key.upper() == "voice":
-            voice = int(val)
+        if key.lower() == "voice":
+            voice = val.strip()
 f.close()
-
 cmd = text2fest + " " + markup + " _text2vox_.xml"
 print cmd
 os.system(cmd)
