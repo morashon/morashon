@@ -1,0 +1,4 @@
+#!/bin/bash
+rm test.wav
+../text2vox.py --base=72 --scale=7 markup2.txt test2.wav ogi_rab_diphone
+mplayer test2.wav
