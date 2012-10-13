@@ -23,6 +23,7 @@ BASE = 130
 DROP = BASE / 5.0
 BIGDROP = DROP * 2
 SCALE = 7.0
+DEFAULTNOTE = 4
 SENTENCEPAUSE = 0.6
 RESTPAUSE = 0.25
 FIXBEGINNING = True
@@ -30,8 +31,8 @@ FIXBEGINNING = True
 def each(seq):
     return range(len(seq))
 
-def scale2freq(n):
-    return BASE * 2.0 ** (n / SCALE)
+def note2freq(n):
+    return BASE * 2.0 ** (float(n) / SCALE)
 
 def parseWord(word):
     if "|" in word:
@@ -55,7 +56,7 @@ def parseWord(word):
             for part in section.split(","):
                 freqs.append([])
                 for p in part.split("_"):
-                    freq = scale2freq(float(p))
+                    freq = note2freq(float(p))
                     freqs[-1].append(freq)
     cnt = sylCount.nsyl(word)
     if not cnt:
@@ -156,7 +157,8 @@ for line in r:
     for word in words:
         data.append(parseWord(word))
 
-    f = BASE
+    f = note2freq(DEFAULTNOTE)
+    print >> sys.stderr, "DEBUG base:", BASE, "DEFN:", DEFAULTNOTE, "f:", f, note2freq(0), note2freq(4), note2freq(5)
     for word, syls, freqs, durs in data:                    #first, fill in missing fbeg's
         for i in range(syls):
             if i >= len(freqs):
