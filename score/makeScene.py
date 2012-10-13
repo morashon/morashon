@@ -73,7 +73,7 @@ for fil in files:
         f.write(files[fil])
         f.close()
         print "   rebuilding wav file"
-        cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav"
+        cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav > /dev/null"
         print cmd
         os.system(cmd)
     else:

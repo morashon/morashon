@@ -130,6 +130,8 @@ s = s.replace("!", ".")
 s = s.replace("\n", " ")
 r = s.split(". ")
 
+print "R:", r
+
 if FIXBEGINNING:
     addWord(xdoc, xbody, "oh", "50,40", "0.1")
     addRest(xdoc, xbody, 1.0)
