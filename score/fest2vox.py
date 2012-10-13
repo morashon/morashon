@@ -28,7 +28,7 @@ if len(sys.argv) > 2:
 
 timbre = 0
 if len(sys.argv) > 3:
-    timbre = int(sys.argv[3])
+    timbre = float(sys.argv[3])
 
 outf = None
 if len(sys.argv) > 4:
