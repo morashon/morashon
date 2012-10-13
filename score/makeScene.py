@@ -77,13 +77,20 @@ for fil in files:
         f.write(files[fil])
         f.close()
         print "   rebuilding wav file"
-        cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav > /dev/null"
+        wav = fil[:-4] + ".wav"
+        cmd = "rm " + wav
         print cmd
         os.system(cmd)
-        if CHANGES:
-            cmd = "mplayer " + fil[:-4] + ".wav"
-            print cmd
-            os.system(cmd)
+        cmd = text2vox + " " + fil + " " + wav + " > /dev/null"
+        print cmd
+        os.system(cmd)
+        if not os.path.exists(wav):
+            print "***ERROR*** failed to build", wav
+        else:
+            if CHANGES:
+                cmd = "mplayer " + fil[:-4] + ".wav"
+                print cmd
+                os.system(cmd)
     else:
         print "++++++++>", fil, "is unchanged"
 

@@ -31,3 +31,43 @@ Morashon: {base=84;scale=8;volume=1.0}
 {Thisone}
 ||
 2.7;Then 4.6;why %133;3.2;do %100;2.2;you %66,%44;3.7,1.6;bother?
+
+{Annai}
+What else is there? To do | I mean.
+
+{Thisone}
+||
+I don't know || you must have a life.
+
+{Annai}
+I must?
+
+{Thisone}
+Why do you answer everything with a question?
+
+{Annai}
+I don't.
+%111;5;That's 3;right | 3;you 2;don't. || 5;We %133;2;don't %124;know %122,122,100;4,2;anything.
+Don't you pay attention?
+
+{Thisone}
+Try to. It's hard.
+
+{Annai}
+What's hard?
+
+{Thisone}
+Paying attention. It's hard to focus.
+
+{Annai}
+Do you have A D H D?
+
+{Thisone}
+Not diagnosed || but probably || yeah.
+
+{Annai}
+They have drugs for that sort of thing.
+You should look into it.
+
+{Thisone}
+Maybe I will.
