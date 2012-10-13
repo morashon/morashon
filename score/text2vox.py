@@ -58,7 +58,7 @@ if a[:1] == "{":
     for e in a:
         key, val = e.split("=")
         if key.lower() == "timbre":
-            timbre = int(val)
+            timbre = val
         if key.lower() == "voice":
             voice = val.strip()
         if key.lower() == "volume":
