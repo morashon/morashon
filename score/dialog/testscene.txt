@@ -39,7 +39,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-I don't know || you must have a life.
+5;I %130;3;don't %77;0_1.5;know ||| %100;2.6;you %138;3.75;must %96;2.4;have %106;a %80;3;life.
 
 {Annai}
 I must?
