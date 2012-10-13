@@ -19,9 +19,33 @@ if len(sys.argv) < 2:
 
 scene = sys.argv[1]
 f = open(scene)
-lines = scene.readlines()
+lines = f.readlines()
 f.close()
-
+scene = scene[:-4]
+index = 0
+actors = {}
+files = {}
 for line in lines:
     line = line.strip()
-    print line
+    if line == "":
+        continue
+##    print line
+
+    if ":" in line and "{" in line:                             #actor definition
+        actor, parameters = line.split(":")
+        actors[actor.strip()] = parameters.strip()
+        continue
+    actor = None
+    if "{" in line:
+        temp = line[1:].replace("}", "")
+        if temp in actors:
+            actor = temp
+            line = actors[actor]
+            name = scene + "_" + str(index) + "_" + actor + ".txt"
+            index += 1
+            files[name] = ""
+    files[name] += line + "\n"
+
+for fil in files:
+    print "-----------------------", fil
+    print files[fil],
