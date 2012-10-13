@@ -108,3 +108,6 @@ if buildMaster and errors == 0:
     cmd += scene + ".wav"
     print cmd
     os.system(cmd)
+
+if errors:
+    print errors, "errors encountered -- will not rebuild master"
