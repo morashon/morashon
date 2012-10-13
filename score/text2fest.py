@@ -63,10 +63,14 @@ def parseWord(word):
     return word, cnt, freqs, durs
 
 def addRest(doc, node, t=0.25):
-    x = doc.createElement("REST")
-    x.setAttribute("SECONDS", str(t))
-    x.appendChild(doc.createTextNode(""))
-    node.appendChild(x)
+    if node.lastChild and node.lastChild.localName == "REST":       #Festival is happier if we combine REST tags
+        t += float(node.lastChild.getAttribute("SECONDS"))          #we're dealing in seconds, right? not beats
+        node.lastChild.setAttribute("SECONDS", str(t))
+    else:
+        x = doc.createElement("REST")
+        x.setAttribute("SECONDS", str(t))
+        x.appendChild(doc.createTextNode(""))
+        node.appendChild(x)
 
 def addWord(doc, node, word, freq, dur):
     #note freq, dur should be strings, and may include multiple comma-separated values
