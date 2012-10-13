@@ -9,7 +9,7 @@ convert markup to wav, fixing things, possibly using multiple voices
 
 import sys, os
 
-FIXBEGINNING = True             #also converts to 44.1
+#FIXBEGINNING = True always done now
 
 cleanup = []
 
@@ -48,6 +48,8 @@ timbre = ""
 if len(sys.argv) > 4:
     timbre = sys.argv[4]
 
+volume = 1.0
+
 f = open(markup)
 a = f.readline()
 if a[:1] == "{":
@@ -59,6 +61,8 @@ if a[:1] == "{":
             timbre = int(val)
         if key.lower() == "voice":
             voice = val.strip()
+        if key.lower() == "volume":
+            volume = float(val.strip())
 f.close()
 cmd = text2fest + " " + markup + " _text2vox_.xml"
 print cmd
@@ -69,13 +73,12 @@ cmd = fest2vox + " _text2vox_.xml " + (voice if voice else "kal_diphone") + " " 
 print cmd
 os.system(cmd)
 
-if FIXBEGINNING:
-    cmd = "sox -D " + outf + " -ef -r44100 _text2vox_.wav trim 0.9"
-    print cmd
-    os.system(cmd)
-    cmd = "mv _text2vox_.wav " + outf
-    print cmd
-    os.system(cmd)    
+cmd = "sox -D -v " + str(volume) + " " + outf + " -ef -r44100 _text2vox_.wav trim 0.9"
+print cmd
+os.system(cmd)
+cmd = "mv _text2vox_.wav " + outf
+print cmd
+os.system(cmd)    
 
 print "clean up", len(cleanup), "files"
 for f in cleanup:
