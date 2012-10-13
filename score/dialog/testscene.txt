@@ -33,7 +33,9 @@ Morashon: {base=84;scale=8;volume=1.0}
 2.7;Then 4.6;why %133;3.2;do %100;2.2;you %66,%44;3.7,1.6;bother?
 
 {Annai}
-What  else is there? To do | I mean.
+%142;1.5_3;Whed %101;3;else %134;5;is %79;2;there?
+||
+140%;2.5;To %89;6_2.5;do 2;I %80;mean.
 
 {Thisone}
 ||
