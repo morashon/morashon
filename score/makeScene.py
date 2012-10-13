@@ -85,7 +85,10 @@ for fil in files:
         print cmd
         os.system(cmd)
         if not os.path.exists(wav):
-            print "***ERROR*** failed to build", wav
+            print "***ERROR*** failed to build", wav, "-- removing", fil, "to force rebuild"
+            cmd = "rm " + fil
+            print cmd
+            os.system(cmd)
         else:
             if CHANGES:
                 cmd = "mplayer " + fil[:-4] + ".wav"
