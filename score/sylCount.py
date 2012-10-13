@@ -4,20 +4,15 @@ from nltk.corpus import cmudict
 
 d = cmudict.dict() 
 
-exceptions = {}
-exceptions["aren't"] = 2            #ugh, ogi thinks 2, kal says 1; 2 wins
-
 def nsyl(word):
-    if word.lower() in exceptions:
-        return exceptions[word]
     if word.lower() in d:
         prons = [len(list(y for y in x if isdigit(y[-1]))) for x in d[word.lower()]]
-        mn = 999
+        mx = -1
         for p in prons:
-            if p < mn:
-                mn = p
-        return mn
+            if p > mx:
+                mx = p
+        return mx
 
 if __name__ == "__main__":
-    for i in ["it's", "something", "wonderful", "spectacular", "us"]:
+    for i in ["it's", "probably", "aren't", "us"]:
         print i, nsyl(i), d[i]
