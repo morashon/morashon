@@ -17,6 +17,10 @@ if len(sys.argv) < 2:
     print "makeScene.py scenefile.txt"
     exit()
 
+text2vox = "./text2vox.py"
+if not os.path.exists(text2vox):
+    text2vox = "../text2vox.py"
+
 scene = sys.argv[1]
 f = open(scene)
 lines = f.readlines()
@@ -65,5 +69,9 @@ for fil in files:
         f = open(fil, "w")
         f.write(files[fil])
         f.close()
+        print "   rebuilding wav file"
+        cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav"
+        print cmd
+        os.system(cmd)
     else:
         print "++++++++>", fil, "is unchanged"
