@@ -69,7 +69,7 @@ def addRest(doc, node, t=0.25):
     else:
         x = doc.createElement("REST")
         x.setAttribute("SECONDS", str(t))
-        x.appendChild(doc.createTextNode(""))
+        x.appendChild(doc.createTextNode(""))                       #Happy Fun Festival can't deal with <REST/> 
         node.appendChild(x)
 
 def addWord(doc, node, word, freq, dur):
