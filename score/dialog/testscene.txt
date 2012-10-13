@@ -6,7 +6,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2}
 
 {Thisone}
 ||||
-4;You 6;look %88;3.4_0;nice.
+4;You 6;look %88;3.4_0;great.
 
 {Annai}
 |||||
