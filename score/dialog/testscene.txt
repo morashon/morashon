@@ -1,0 +1,13 @@
+Thisone={base=83;scale=7;voice=ogi_rab_diphone}
+Annai={base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2}
+
+{Annai}
+%60;5_4.3;why 0.06| %140;3;are %110;you %350,105;5,2;looking %108;at %88;me? 
+
+{Thisone}
+||||
+4;You 6;look %88;3.4_0;nice.
+
+{Annai}
+|||||
+%130;4_3.5;how %124;would 6;you %70;2.2;know?
