@@ -30,4 +30,4 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.5;Then 4.5;why %133;3;do %100;2;you %66,%46;3.5,1.5;bother?
+2.7;Then 4.6;why %133;3.2;do %100;2.2;you %66,%44;3.7,1.6;bother?
