@@ -15,7 +15,8 @@ import sys, os
 from ordereddict import OrderedDict
 
 if len(sys.argv) < 2:
-    print "makeScene.py scenefile.txt"
+    print "makeScene.py scenefile.txt [changes]"
+    print 'specify "changes" as last option to play modified files'
     exit()
 
 text2vox = "./text2vox.py"
@@ -23,6 +24,9 @@ if not os.path.exists(text2vox):
     text2vox = "../text2vox.py"
 
 scene = sys.argv[1]
+CHANGES = False
+if len(sys.argv) > 2 and sys.argv[2].lower() == "changes":
+    CHANGES = True
 f = open(scene)
 lines = f.readlines()
 f.close()
@@ -76,6 +80,10 @@ for fil in files:
         cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav > /dev/null"
         print cmd
         os.system(cmd)
+        if CHANGES:
+            cmd = "mplayer " + fil[:-4] + ".wav"
+            print cmd
+            os.system(cmd)
     else:
         print "++++++++>", fil, "is unchanged"
 

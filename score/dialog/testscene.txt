@@ -18,7 +18,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 4;I don't.
 
 {Annai}
-4;That's right | you don't. 4;We don't know anything.
+%111;4;That's right | you don't. 5;We 2;don't know 4,2;anything.
 
 {Thisone}
 4;Here.
