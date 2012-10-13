@@ -1,0 +1,33 @@
+Thisone: {base=83;scale=7;voice=ogi_rab_diphone;volume=1.6}
+Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
+Morashon: {base=84;scale=8;volume=1.0}
+
+{Annai}
+%60;5_4.3;why .06| %140;3;are %110;you %350,105;5,2;looking %108;at %88;me? 
+
+{Thisone}
+||||||
+3.4;You  %90;5;look %81;3.2_-1.7;nice.
+
+{Annai}
+||
+%130;4_3.5;how %124;would 6;you %70;2.2;know?
+
+{Thisone}
+||||
+4;I 3_-3;don't.
+
+{Annai}
+|||
+%111;5;That's 3;right | 3;you 2;don't. || 5;We %133;2;don't %124;know %122,122,100;4,2;anything.
+
+{Thisone}
+|||
+%60;5_0;Here.
+
+{Annai}
+%60;3_4;Here || %110,90;5,2;anywhere.
+
+{Thisone}
+||
+2.7;Then 4.6;why %133;3.2;do %100;2.2;you %66,%44;3.7,1.6;bother?

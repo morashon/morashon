@@ -4,7 +4,12 @@ from nltk.corpus import cmudict
 
 d = cmudict.dict() 
 
+exceptions = {}
+exceptions["aren't"] = 2            #ugh, ogi thinks 2, kal says 1; 2 wins
+
 def nsyl(word):
+    if word.lower() in exceptions:
+        return exceptions[word]
     if word.lower() in d:
         prons = [len(list(y for y in x if isdigit(y[-1]))) for x in d[word.lower()]]
         mn = 999
