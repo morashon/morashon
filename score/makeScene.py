@@ -86,8 +86,8 @@ for fil in files:
         print cmd
         os.system(cmd)
         if not os.path.exists(wav):
-            print "***ERROR*** failed to build", wav, "-- removing", fil, "to force rebuild"
-            cmd = "rm " + fil
+            print "***ERROR*** failed to build", wav, "-- renaming to force rebuild"
+            cmd = "mv " + fil + " " + fil[:-4] + "_error.txt"
             print cmd
             os.system(cmd)
             errors += 1
