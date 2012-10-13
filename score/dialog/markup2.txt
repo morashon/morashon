@@ -1,3 +1,4 @@
-4;You 6;look %88;3.4_1.5;nice.
+{base=83;scale=7;voice=ogi_rab_diphone}
+4;You 6;look %88;3.4_0;nice.
 |||||
-4;Come %60;6_0;where?
+4;Come %60;6_-1;where?

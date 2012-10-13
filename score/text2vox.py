@@ -21,7 +21,6 @@ fest2vox = "./fest2vox.py"
 if not os.path.exists(fest2vox):
     fest2vox = "../fest2vox.py"
 
-
 if len(sys.argv) < 2:
     print "text2vox markup.txt outputfile.wav [voice [timbre]]"
     print "yeah, that's sensible"
@@ -48,6 +47,19 @@ if len(sys.argv) > 3:
 timbre = ""
 if len(sys.argv) > 4:
     timbre = sys.argv[4]
+
+f = open(markup)
+a = f.readline()
+if a[1:] == "{":
+    a = a.strip().replace("}","")
+    a = a[1:].split(";")
+    for e in a:
+        key, val = e.split("=")
+        if key.lower() == "timbre":
+            timbre = int(val)
+        if key.upper() == "voice":
+            voice = int(val)
+f.close()
 
 cmd = text2fest + " " + markup + " _text2vox_.xml"
 print cmd

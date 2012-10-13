@@ -111,6 +111,20 @@ xdoc.appendChild(xbody)
 
 f = open(fin)
 s = f.read()
+f.close()
+if s[0] == "{":
+    a, s = s.split("}")
+    a = a[1:].split(";")
+    for e in a:
+        key, val = e.split("=")
+        if key.upper() == "BASE":
+            BASE = int(val)
+        if key.upper() == "SCALE":
+            SCALE = int(val)
+
+print "BASE:", BASE
+print "SCALE:", SCALE
+
 s = s.replace("?",".")
 s = s.replace("!", ".")
 s = s.replace("\n", " ")
