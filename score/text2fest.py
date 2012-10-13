@@ -158,7 +158,6 @@ for line in r:
         data.append(parseWord(word))
 
     f = note2freq(DEFAULTNOTE)
-    print >> sys.stderr, "DEBUG base:", BASE, "DEFN:", DEFAULTNOTE, "f:", f, note2freq(0), note2freq(4), note2freq(5)
     for word, syls, freqs, durs in data:                    #first, fill in missing fbeg's
         for i in range(syls):
             if i >= len(freqs):
