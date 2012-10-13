@@ -12,6 +12,7 @@ combine wavs into master wav
 """
 
 import sys, os
+from ordereddict import OrderedDict
 
 if len(sys.argv) < 2:
     print "makeScene.py scenefile.txt"
@@ -28,7 +29,7 @@ f.close()
 scene = scene[:-4]
 index = 0
 actors = {}
-files = {}
+files = OrderedDict()
 for line in lines:
     line = line.strip()
     if line == "":
@@ -50,6 +51,7 @@ for line in lines:
             files[name] = ""
     files[name] += line + "\n"
 
+buildMaster = False
 for fil in files:
 ##    print "-----------------------", fil
 ##    print files[fil],
@@ -64,6 +66,7 @@ for fil in files:
         rewrite = True
 
     if rewrite:
+        buildMaster = True
         print "-------->", fil, "is new or has changed -- writing to disk:"
         print files[fil]
         f = open(fil, "w")
@@ -75,3 +78,13 @@ for fil in files:
         os.system(cmd)
     else:
         print "++++++++>", fil, "is unchanged"
+
+if buildMaster:
+    print "Building master wav file"
+    cmd = "sox "
+    for fil in files:
+        print fil
+        cmd += fil[:-4] + ".wav "
+    cmd += scene + ".wav"
+    print cmd
+    os.system(cmd)
