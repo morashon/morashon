@@ -65,15 +65,15 @@ Morashon: {base=84;scale=8;volume=1.0}
 4;Paying 4,7,2;attention. 6,2;Sometimes |0.28| 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
 
 {Annai}
-93%0_8;What |0.6| 141%-3_1;to  112%2.8_4;you 101%3.5_-1;have 0.05|
-92%0.8_0.8;A 116%1_1;D |0.02| 121%1.1_1;H 109%5_8;D?
+93%0_8;What |0.6| 141%-3_1;to 112%3;you 102%3.5_-1;have 0.05|
+98%0.8_0.8;A 116%1_1;D |0.02| 121%1.1_1;H 109%5_8;D?
 
 {Thisone}
 6;Not 4,2,1;diagnosed || 3;but 120%110%80%5,2,2.2_-2;probably | 82%3;yeah.
 
 {Annai}
-192%2;They 117%2.2;have 100%6.2_2.9;drugs |0.02| 249%0_1.3;for 109%1.3;that 262%221%1.5;sort of 98%thing.
-125%4;You 150%should 98%look 78%160%6,2;into 99%1_-8;it.
+192%2;They 117%2.2;have 100%6.2_2.9;drugs |0.02| 279%0_1.0;for 109%1.3;that 262%221%1.5;sort of 98%thing.
+125%4;You 150%should 98%look 88%176%6,2;into 88%1_-8;it.
 
 {Thisone}
 3.6;Maybe I 70%5_-5;will.
