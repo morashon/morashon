@@ -31,7 +31,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.7;Then 4.6;why %133;3.2;do %110;2.2;you %66,%44;3.7,1.6;bother?
+2.7;Then 4.6;why %133;3.2;do %110;2.2;you  66%,44%;3.7,1.6;always?
 
 {Annai}
 |||
