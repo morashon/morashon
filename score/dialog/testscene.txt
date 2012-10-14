@@ -37,7 +37,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 |||
 148%1.5_3;Whed 111%3;else 124%5;is 75%2;there?
 ||
-195%-2_4;To 77%6.4_3.3;do 122%2;I 80%mean.
+195%-2_4;To 77%6.75_3.3;do 122%2;I 80%mean.
 
 {Thisone}
 ||
@@ -65,16 +65,15 @@ Morashon: {base=84;scale=8;volume=1.0}
 4;Paying 4,7,2;attention. 6,2;Sometimes |0.28| 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
 
 {Annai}
-||
-98%3_8;What | 140%2;do  119%2.5;you 92%2;have 0.04|
-72%0.8_0.8;A 96%1_1;D 81%1.1_1;H 0.01| 99%5_8;D?
+92%3_8;What |0.6| 134%5;do  129%2.5;you 91%2;have 0.02|
+92%0.8_0.8;A 116%1_1;D |0.01| 88%1.1_1;H 109%5_8;D?
 
 {Thisone}
 6;Not 4,2,1;diagnosed || 3;but 100%100%80%5,2,2_-5;probably | 82%3;yeah.
 
 {Annai}
-151%2;They 160%4;have 108%6;drugs |0.03| 240%2;for 190%that 160%sort of 100%thing.
-125%4;You 150%should 120%look 140%6,2;into 99%1.5;it.
+161%2;They 160%3;have 108%6;drugs |0.04| 240%2;for 103%that |0.01| 160%sort of 100%thing.
+125%4;You 150%should 98%look 78%160%6,2;into 99%1.5;it.
 
 {Thisone}
 3.6;Maybe I 70%5_-5;will.
