@@ -3,7 +3,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 Morashon: {base=84;scale=8;volume=1.0}
 
 {Annai}
-%60;5_4.3;why .06| %140;3;are %110;you %350,105;5,2;looking %108;at %88;me? 
+60%;5_4.3;why .06| 140%;3;are 110%;you 350%,105;5,2;looking 108%;at 88%;me? 
 
 {Thisone}
 |||||
