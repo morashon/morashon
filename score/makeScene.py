@@ -56,6 +56,7 @@ for line in lines:
     files[name] += line + "\n"
 
 buildMaster = False
+errors = 0
 for fil in files:
 ##    print "-----------------------", fil
 ##    print files[fil],
@@ -77,17 +78,28 @@ for fil in files:
         f.write(files[fil])
         f.close()
         print "   rebuilding wav file"
-        cmd = text2vox + " " + fil + " " + fil[:-4] + ".wav > /dev/null"
+        wav = fil[:-4] + ".wav"
+        cmd = "rm " + wav
         print cmd
         os.system(cmd)
-        if CHANGES:
-            cmd = "mplayer " + fil[:-4] + ".wav"
+        cmd = text2vox + " " + fil + " " + wav + " > /dev/null"
+        print cmd
+        os.system(cmd)
+        if not os.path.exists(wav):
+            print "***ERROR*** failed to build", wav, "-- renaming to force rebuild"
+            cmd = "mv " + fil + " " + fil[:-4] + "_error.txt"
             print cmd
             os.system(cmd)
+            errors += 1
+        else:
+            if CHANGES:
+                cmd = "mplayer " + fil[:-4] + ".wav"
+                print cmd
+                os.system(cmd)
     else:
         print "++++++++>", fil, "is unchanged"
 
-if buildMaster:
+if buildMaster and errors == 0:
     print "Building master wav file"
     cmd = "sox "
     for fil in files:
@@ -96,3 +108,6 @@ if buildMaster:
     cmd += scene + ".wav"
     print cmd
     os.system(cmd)
+
+if errors:
+    print errors, "errors encountered -- will not rebuild master"

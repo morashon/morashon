@@ -92,7 +92,7 @@ if timbre:
     cleanup.append(outf + "_.wav")
     print cmd
     os.system(cmd)
-    cmd = makeCmd("sox", outf + "_.wav", outf + ".wav", "speed", str(2 ** (timbre/12.0)) ) 
+    cmd = makeCmd("sox", "-D", outf + "_.wav", outf + ".wav", "speed", str(2 ** (timbre/12.0)) ) 
     print cmd
     os.system(cmd)
 

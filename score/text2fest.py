@@ -23,6 +23,7 @@ BASE = 130
 DROP = BASE / 5.0
 BIGDROP = DROP * 2
 SCALE = 7.0
+DEFAULTNOTE = 4
 SENTENCEPAUSE = 0.6
 RESTPAUSE = 0.25
 FIXBEGINNING = True
@@ -30,8 +31,17 @@ FIXBEGINNING = True
 def each(seq):
     return range(len(seq))
 
-def scale2freq(n):
-    return BASE * 2.0 ** (n / SCALE)
+def note2freq(n):
+    return BASE * 2.0 ** (float(n) / SCALE)
+
+def specialSplit(word):
+    words = word.split(";")
+    i = words[0].rfind("%")
+    if i >= 0:
+        w = words[0].rpartition("%")
+        words = [w[0] + "%"] + [w[2]] + words[1:]
+    print "DEBUG specialSplit", word, "-->", words
+    return words
 
 def parseWord(word):
     if "|" in word:
@@ -41,21 +51,23 @@ def parseWord(word):
         else:
             dur = RESTPAUSE * word.count("|")
         return "|", 1, [], [dur]
-            
-    parts = word.split(";")
+
+##    parts = word.split(";")
+    parts = specialSplit(word)
     word = parts[-1]
     freqs = []
     durs = []
     for section in parts[:-1]:
         if "%" in section:
-            for part in section.replace("%","").split(","):
-                dur = 100.0 / float(part)
-                durs.append(dur)
+            for part in section.split("%"):
+                if part:
+                    dur = 100.0 / float(part)
+                    durs.append(dur)
         else:
             for part in section.split(","):
                 freqs.append([])
                 for p in part.split("_"):
-                    freq = scale2freq(float(p))
+                    freq = note2freq(float(p))
                     freqs[-1].append(freq)
     cnt = sylCount.nsyl(word)
     if not cnt:
@@ -69,7 +81,7 @@ def addRest(doc, node, t=0.25):
     else:
         x = doc.createElement("REST")
         x.setAttribute("SECONDS", str(t))
-        x.appendChild(doc.createTextNode(""))
+        x.appendChild(doc.createTextNode(""))                       #Happy Fun Festival can't deal with <REST/> 
         node.appendChild(x)
 
 def addWord(doc, node, word, freq, dur):
@@ -156,7 +168,7 @@ for line in r:
     for word in words:
         data.append(parseWord(word))
 
-    f = BASE
+    f = note2freq(DEFAULTNOTE)
     for word, syls, freqs, durs in data:                    #first, fill in missing fbeg's
         for i in range(syls):
             if i >= len(freqs):
