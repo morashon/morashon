@@ -31,13 +31,13 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.7;Then 4.6;why 133%3.2;do 110%2.2;you  66%24%3.7,1.6;bother?
+2.7;Then 4.6;why 133%3.2;do 110%2.2;we  66%24%3.7,1.6;bother?
 
 {Annai}
 |||
-138%1.5_3;Whed 101%3;else 124%5;is 75%2;there?
-|||
-175%-2_4;To 74%6.5_2.5;do 82%2;I 80%mean.
+148%1.5_3;Whed 111%3;else 124%5;is 75%2;there?
+||
+195%-2_4;To 77%6.4_3.3;do 82%2;I 80%mean.
 
 {Thisone}
 ||
@@ -62,15 +62,15 @@ Morashon: {base=84;scale=8;volume=1.0}
 170%6;What's 80%2;hard?
 
 {Thisone}
-4;Paying 4,7,2;attention. 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
+4;Paying 4,7,2;attention. 6,2;Sometimes |0.28| 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
 
 {Annai}
 ||
-140%4;do 133%5.5;you 92%3;have 0.04|
-77%2_2;A 66%2_3;D 91%2.3_3;H 80%5_7;D?
+98%3_8;What | 140%2;do  119%2.5;you 92%2;have 0.04|
+72%0.8_0.8;A 96%1_1;D 81%1.1_1;H 0.01| 80%5_8;D?
 
 {Thisone}
-Not diagnosed || but probably || yeah.
+6;Not 4,2,1;diagnosed || 3;but 100%100%80%5,2,2_-5;probably | 82%3;yeah.
 
 {Annai}
 They have drugs for that sort of thing.
