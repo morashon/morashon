@@ -37,7 +37,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 |||
 148%1.5_3;Whed 111%3;else 124%5;is 75%2;there?
 ||
-195%-2_4;To 77%6.4_3.3;do 88%2;I 80%mean.
+195%-2_4;To 77%6.4_3.3;do 122%2;I 80%mean.
 
 {Thisone}
 ||
