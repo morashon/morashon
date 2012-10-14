@@ -34,6 +34,15 @@ def each(seq):
 def note2freq(n):
     return BASE * 2.0 ** (float(n) / SCALE)
 
+def specialSplit(word):
+    words = word.split(";")
+    i = words[0].rfind("%")
+    if i >= 0:
+        w = words[0].rpartition("%")
+        words = [w[0] + "%"] + [w[2]] + words[1:]
+    print "DEBUG specialSplit", word, "-->", words
+    return words
+
 def parseWord(word):
     if "|" in word:
         s = word.replace("|", "")
@@ -42,16 +51,18 @@ def parseWord(word):
         else:
             dur = RESTPAUSE * word.count("|")
         return "|", 1, [], [dur]
-            
-    parts = word.split(";")
+
+##    parts = word.split(";")
+    parts = specialSplit(word)
     word = parts[-1]
     freqs = []
     durs = []
     for section in parts[:-1]:
         if "%" in section:
-            for part in section.replace("%","").split(","):
-                dur = 100.0 / float(part)
-                durs.append(dur)
+            for part in section.split("%"):
+                if part:
+                    dur = 100.0 / float(part)
+                    durs.append(dur)
         else:
             for part in section.split(","):
                 freqs.append([])
