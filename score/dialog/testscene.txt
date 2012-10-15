@@ -65,7 +65,8 @@ Morashon: {base=84;scale=8;volume=1.0}
 4;Paying 4,7,2;attention. 6,2;Sometimes |0.28| 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
 
 {Annai}
-93%0_8;What |0.6| 141%-3_1;to 112%3;you 102%3.5_-1;have 0.05|
+|
+76%8_-2;huh |0.6| 141%-3_1;to 112%3;you 102%3.5_-1;have 0.05|
 98%0.8_0.8;A 116%1_1;D |0.02| 121%1.1_1;H 109%5_8;D?
 
 {Thisone}
