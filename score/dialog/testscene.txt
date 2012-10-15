@@ -81,13 +81,19 @@ Morashon: {base=84;scale=8;volume=1.0}
 |3.0|
 
 {Annai}
-I 5;like 3;this song. 110%It's 130%a bit 110%sappy.
+I 5;like 3;this song. 120%It's 130%a bit 110%sappy.
 
 {Thisone}
 88%3_-2;Yes || 100%4;quite 2;a bit.
-130%130%100%Interesting  5;chord 2.5,2.5,1_-6;progression.
+130%5.5;Interest 120%3.5;ing 4.2_-1;chord 120%144%110%0.8,1,1_-7;progression.
 
 {Annai}
-3;You like 5,2;music then.
+3;You like 115%5.4,2;music 99%1;then.
 
+{Thisone}
+3.3;I like 90%5.5;sum 100%80%2;music. 2.5;I'm 5,2;picky.
+
+{Annai}
+|
+128%3.2;More 135%5;eh 100%5_7;shun?
 

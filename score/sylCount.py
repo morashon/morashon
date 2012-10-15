@@ -1,4 +1,5 @@
-import curses
+#!/usr/bin/python
+import sys, curses
 from curses.ascii import isdigit 
 from nltk.corpus import cmudict 
 
@@ -20,5 +21,8 @@ def nsyl(word):
         return mx
 
 if __name__ == "__main__":
-    for i in ["it's", "probably", "aren't", "us", "sappy"]:
-        print i, nsyl(i), d[i]
+    if len(sys.argv) > 1:
+        print sys.argv[1], "-->", nsyl(sys.argv[1])
+    else:
+        for i in ["it's", "probably", "aren't", "us", "sappy"]:
+            print i, nsyl(i), d[i]
