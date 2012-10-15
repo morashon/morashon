@@ -97,3 +97,21 @@ I 5;like 3;this song. 120%It's 130%a bit 110%sappy.
 |
 128%3.2;More 135%5;eh 100%5_7;shun?
 
+{Thisone}
+115%3;More ah | 80%-1_7.2;what?
+
+{Annai}
+97%Ack. 125%6;You 163%3;don't 150%get 128%6;out 99%1.5;much.
+
+{Thisone}
+4;That's 90%4;true. 115%2;I've been 110%5;heads 119%4_1;down 139%1.8;for 127%3.2;months. | 110%Big 100%88%3.5,1_-4;project.
+
+{Annai}
+111%2;Let's 86%10_-2;go!
+
+{Thisone}
+90%2;Go 7_-1;where?
+
+{Annai}
+Come 3_-5;with.
+
