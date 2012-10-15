@@ -78,4 +78,16 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 3.6;Maybe 80%I 70%5_-5;will.
+|3.0|
+
+{Annai}
+I 5;like 3;this song. 110%It's 130%a bit 110%sappy.
+
+{Thisone}
+88%3_-2;Yes || 100%4;quite 2;a bit.
+130%130%100%Interesting  5;chord 2.5,2.5,1_-6;progression.
+
+{Annai}
+3;You like 5,2;music then.
+
 

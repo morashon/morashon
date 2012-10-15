@@ -83,7 +83,7 @@ for fil in files:
         cmd = "rm " + wav
         print cmd
         os.system(cmd)
-        cmd = text2vox + " " + fil + " " + wav + " > /dev/null"
+        cmd = text2vox + " " + fil + " " + wav + " > " + scene + ".log"
         print cmd
         os.system(cmd)
         if not os.path.exists(wav):
