@@ -10,9 +10,10 @@ rebuild xml & wav for any file that is changed (ala make)
 combine wavs into master wav
 
 """
-
 import sys, os
 from ordereddict import OrderedDict
+
+BUILDPARTS = True
 
 if len(sys.argv) < 2:
     print "makeScene.py scenefile.txt [changes]"
@@ -108,6 +109,22 @@ if buildMaster and errors == 0:
     cmd += scene + ".wav"
     print cmd
     os.system(cmd)
+
+    if BUILDPARTS:
+        print "Building parts for each actor"
+        for actor in actors:
+            someAudio = False
+            cmd = "sox "
+            for fil in files:
+                if not "_" + actor + ".txt" in fil:
+                    cmd += "-v 0 "
+                else:
+                    someAudio = True
+                cmd += fil[:-4] + ".wav "
+            cmd += scene + "_" + actor + ".wav"
+            if someAudio:
+                print cmd
+                os.system(cmd)
 
 if errors:
     print errors, "errors encountered -- will not rebuild master"
