@@ -31,13 +31,13 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.7;Then 4.6;why 133%3.2;do 110%2.2;you  66%24%3.7,1.6;bother?
+2.7;Then 4.6;why 133%3.2;do 110%2.2;we  66%24%3.7,1.6;bother?
 
 {Annai}
 |||
-138%1.5_3;Whed 101%3;else 124%5;is 75%2;there?
-|||
-175%-2_4;To 74%6.5_2.5;do 82%2;I 80%mean.
+148%1.5_3;Whed 111%3;else 124%5;is 75%2;there?
+||
+195%-2_4;To 77%6.75_3.3;do 122%2;I 80%mean.
 
 {Thisone}
 ||
@@ -52,7 +52,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Annai}
 110%I 95%5.5_-7;don't.
-111%5;That's 3;right | 3;you 2;don't. || 5;We 133%2;don't 124%know 122%122%100%4,2;anything.
+111%5;That's 3;right | 3;you 2;don't. | 5;We 133%2;don't 124%know 122%122%100%4,2;anything.
 150%2.2;Don't you 120%3;pay 2,4,6_4;attention?
 
 {Thisone}
@@ -62,19 +62,56 @@ Morashon: {base=84;scale=8;volume=1.0}
 170%6;What's 80%2;hard?
 
 {Thisone}
-4;Paying 4,7,2;attention. 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
+4;Paying 4,7,2;attention. 6,2;Sometimes |0.18| 2;It's 110%4;hard 233%to 99%77%4,1_-7;focus.
 
 {Annai}
-||
-140%4;do 133%5.5;you 92%3;have 0.04|
-77%2_2;A 66%2_3;D 91%2.3_3;H 80%5_7;D?
+|
+76%8_-2;huh |0.6| 141%-3_1;to 112%3;you 102%3.5_-1;have 0.05|
+98%0.8_0.8;A 116%1_1;D |0.02| 121%1.1_1;H 109%5_8;D?
 
 {Thisone}
-Not diagnosed || but probably || yeah.
+6;Not 4,2,1;diagnosed || 3;but 120%110%80%5,2,2.2_-2;probably | 82%3;yeah.
 
 {Annai}
-They have drugs for that sort of thing.
-You should look into it.
+192%2;They 117%2.2;have 100%6.2_2.9;drugs |0.02| 259%0_1.0;for 99%1.3;that 242%211%1.5;sort of 98%thing.
+125%4;You 150%should 98%look 88%176%6,2;into 88%1_-8;it.
 
 {Thisone}
-Maybe I will.
+3.6;Maybe 80%I 70%5_-5;will.
+|3.0|
+
+{Annai}
+I 5;like 3;this song. 120%It's 130%a bit 110%sappy.
+
+{Thisone}
+88%3_-2;Yes || 100%4;quite 2;a bit.
+130%5.5;Interest 120%3.5;ing 4.2_-1;chord 120%144%110%0.8,1,1_-7;progression.
+
+{Annai}
+3;You like 115%5.4,2;music 99%1;then.
+
+{Thisone}
+3.3;I like 90%5.5;sum 100%80%2;music. 2.5;I'm 5,2;picky.
+
+{Annai}
+|
+178%3.2;More 175%5;eh 110%5_7;shun?
+
+{Thisone}
+115%3;More ah | 80%-1_7.2;what?
+
+{Annai}
+97%Ack. 125%6;You 193%3;don't get 128%4.5;out 99%1.2;much.
+
+{Thisone}
+4;That's 90%4;true. 115%2;I've been 122%5;heads 128%4_1;down |0.01| 150%1.8_0;for 127%2.6;months. | 110%Big 100%88%3.5,1_-4;project.
+
+{Annai}
+111%2;Let's 86%10_-2;go!
+
+{Thisone}
+90%2;Go 88%6_-3;where?
+
+{Annai}
+Come 3_-5;with.
+
