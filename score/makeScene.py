@@ -11,6 +11,7 @@ combine wavs into master wav
 
 """
 import sys, os
+from findPy import *
 from ordereddict import OrderedDict
 
 BUILDPARTS = True
@@ -20,9 +21,7 @@ if len(sys.argv) < 2:
     print 'specify "changes" as last option to play modified files'
     exit()
 
-text2vox = "./text2vox.py"
-if not os.path.exists(text2vox):
-    text2vox = "../text2vox.py"
+text2vox = findPy("text2vox.py")
 
 scene = sys.argv[1]
 CHANGES = False

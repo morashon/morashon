@@ -7,7 +7,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 |||||
-3.4;You  90%5;look 81%3.2_-1.7;nice.
+3.4;You 90%5;look 81%3.2_-1.7;nice.
 
 {Annai}
 ||
@@ -31,7 +31,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.7;Then 4.6;why 133%3.2;do 110%2.2;we  66%24%3.7,1.6;bother?
+2.7;Then 4.6;why 133%3.2;do 110%2.2;we 66%24%3.7,1.6;bother?
 
 {Annai}
 |||
@@ -41,7 +41,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-5;I 142%3;don't 77%0_1.5;know |||  100%2.6;you 138%4.5;must 96%2.4;have 106%a 80%3;life.
+5;I 142%3;don't 77%0_1.5;know ||| 100%2.6;you 138%4.5;must 96%2.4;have 106%a 80%3;life.
 
 {Annai}
 1.5;I 88%1.5_5.5;must?

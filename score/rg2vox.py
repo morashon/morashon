@@ -16,6 +16,7 @@ The logic:
 """
 
 import sys, os
+from findPy import *
 if len(sys.argv) < 4:
     print "rg2vox song.rg tracklabel segmentlabel [voice [timbre [outfilename]]]"
     print "pitch defaults to 0: -1 means sing a semi higher and pitch down; 12 = chipmunk effect"
@@ -55,13 +56,9 @@ def makeCmd(*args):
         s += arg + " "
     return s.strip()
 
-rg2fest = "./rg2fest.py"
-if not os.path.exists(rg2fest):
-    rg2fest = "../rg2fest.py"
+rg2fest = findPy("rg2fest.py")
 
-fest2vox = "./fest2vox.py"
-if not os.path.exists(fest2vox):
-    fest2vox = "../fest2vox.py"
+fest2vox = findPy("fest2vox.py")
 
 if timbre:
     args = [rg2fest, song, seg, track, seg, -timbre, str(2 ** (-timbre/12.0))] #yo dat be momma math

@@ -6,6 +6,7 @@ script to invoke fest2wav with combined voice descriptions such as ogi_as_diphon
 """
 
 import sys, os
+from findPy import *
 if len(sys.argv) < 2:
     print "fest2vox singingOrLibretto.xml [voice [timbre [outfilename]]]"
     print "pitch defaults to 0: -1 means sing a semi higher and pitch down; 12 = chipmunk effect"
@@ -43,9 +44,7 @@ def makeCmd(*args):
         s += arg + " "
     return s.strip()
 
-fest2wav = "./fest2wav.py"
-if not os.path.exists(fest2wav):
-    fest2wav = "../fest2wav.py"
+fest2wav = findPy("fest2wav.py")
 
 if not outf:
     outf = festxml[:-4]
