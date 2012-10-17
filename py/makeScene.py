@@ -15,6 +15,11 @@ from findPy import *
 from ordereddict import OrderedDict
 
 BUILDPARTS = True
+BUILDDIR = "build"
+if not os.path.exists(BUILDDIR):
+    cmd = "mkdir " + BUILDDIR
+    print cmd
+    os.system(cmd)
 
 if len(sys.argv) < 2:
     print "makeScene.py scenefile.txt [changes]"
@@ -22,6 +27,7 @@ if len(sys.argv) < 2:
     exit()
 
 text2vox = findPy("text2vox.py")
+print "text2vox:", text2vox
 
 scene = sys.argv[1]
 CHANGES = False
@@ -34,6 +40,8 @@ scene = scene[:-4]
 index = 0
 actors = {}
 files = OrderedDict()
+os.chdir(BUILDDIR)
+
 for line in lines:
     line = line.strip()
     if line == "":
@@ -82,7 +90,7 @@ for fil in files:
         cmd = "rm " + wav
         print cmd
         os.system(cmd)
-        cmd = text2vox + " " + fil + " " + wav + " > " + scene + ".log"
+        cmd = text2vox + " " + fil + " " + wav + " >> " + scene + ".log"
         print cmd
         os.system(cmd)
         if not os.path.exists(wav):

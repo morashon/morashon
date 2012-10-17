@@ -1,5 +1,6 @@
 import os, sys
 def findPy(p):
+    print "DEBUG", sys.argv[0], os.path.abspath(sys.argv[0])
     return os.path.dirname(os.path.abspath(sys.argv[0])) + "/" + p
 
 ##def findPy(p):
