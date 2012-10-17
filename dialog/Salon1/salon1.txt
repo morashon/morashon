@@ -47,3 +47,12 @@ This 2;is 5;tea 1.4;sewn.
 {Thisone}
 89%3.5_0;Spelled |0.03| 76%3.2_3;this 2_-1;one.
 
+{Morashon}
+91%4_4;This |0.01| 83%6_5.5;one? 2;Or 4;that 2;one? Which one 6;is 1;it?
+|
+70%6_2;Hah |0.05| 77%3.5_1;hah |0.03| 2;hah. 
+What a 4_-6;name.
+|
+3;What's 120%2;in a 79%4_-2;name?
+4;What 3;are 1;you? 96%5;friend |0.15| 87%2;or 70%9_-4;foe?
+
