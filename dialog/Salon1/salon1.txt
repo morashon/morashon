@@ -31,13 +31,13 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 ||||||
 
 {Morashon}
-90%6;Ann 80%3;I | 90%4;Ann 55%2_-3;I.
+90%4.5;Ann 76%1;I | 90%3;Ann 55%1_-6;I.
 ||
-90%2;my 100%1_5;life | 90%4;my 60%2_-4;love!
+90%2;my 100%1_5;life | 90%4;my 60%2_-9;love!
 ||
-2.7;How  110%68%2,5.8_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5;come.
+2.7;How  110%68%2,5.6_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5;come.
 ||
-110%1.5_1.5;You are 90%85%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
+110%1.5_1.5;You are 99%89%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
 
 {Annai}
 ||
@@ -57,6 +57,6 @@ This 2;is 5;tea 1.4;sewn.
 {Morashon}
 What a 70%5_-4;name.
 |
-3;What's 120%2;in a 71%3_-8;name?
+3;What's 120%2;in a 71%5_-8;name?
 4;What 3;are 1;you? 96%5;friend |0.15| 87%-1;or 70%9_-7;foe?
 
