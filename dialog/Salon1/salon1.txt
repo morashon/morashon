@@ -12,7 +12,8 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 111%I 90%6;thought 119%3;you 120%said he was an 77%6;it.
 
 {Annai}
-76%2_5;Yes || 125%2;but 77%5;it 149%3;likes 2;to be 1;called 111%2;a 70%6_-2;he.
+76%2_5;Yes || 125%2;but 77%4.6;it 149%3;likes 2;to be 1;called 111%2;a 70%8_-2;he.
+120%3;It's 111%5.5;his 93%6_-3.4;choice |0.1| 90%1_7;right?
 
 {Thisone}
 |||
@@ -22,37 +23,37 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 125%4;Lots 166%2.5;to 128%6;think 140%2;about |0.03| 120%2_1;friend. 150%2;Gotta 98%2_6;name?
 
 {Thisone}
-6;Tea 2_0;sewn. 120%4;Spelled 2;like |0.38| 76%3.2_3;this 2_-1;one.
+6;Tea 2_0;sewn. 120%4;Spelled 2;like |0.38| 76%3.2_3;this 1_-2;one.
 
 {Annai}
 |||
-An I.
+94%An 88%I.
 ||||||
 
 {Morashon}
 90%6;Ann 80%3;I | 90%4;Ann 55%2_-3;I.
-|||
+||
 90%2;my 100%1_5;life | 90%4;my 60%2_-4;love!
-|||
+||
 2.7;How  110%68%2,5.8_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5;come.
-|||
+||
 110%1.5_1.5;You are 90%85%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
 
 {Annai}
 ||
 111%5;same 1.6_1.7;old. 124%3;Haven't 144%tuned 81%3_2;my 87%3.8;avv 111%1;in 111%88%4,1;ages.
-||||
+|||
 This 2;is 5;tea 1.4;sewn.
 
 {Thisone}
-89%3.5_0;Spelled |0.03| 76%3.2_3;this 2_-1;one.
+89%3.5_0;Spelled |0.03| 76%3.2_3;this 1_-2;one.
 
 {Morashon}
 91%4_4;This |0.01| 83%6_5.5;one? 2;Or 4;that 2;one? Which one 6;is 1;it?
 |
-70%6_2;Hah |0.05| 77%3.5_1;hah |0.03| 2;hah. 
+1;Heh |.02| 70%0;eh |0.04| eh. 
 What a 4_-6;name.
 |
 3;What's 120%2;in a 79%4_-2;name?
-4;What 3;are 1;you? 96%5;friend |0.15| 87%2;or 70%9_-4;foe?
+4;What 3;are 1;you? 96%5;friend |0.15| 87%-1;or 70%9_-4;foe?
 
