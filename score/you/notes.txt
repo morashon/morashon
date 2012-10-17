@@ -1,0 +1,1 @@
+../rg2vox.py you.rg vox v1a ogi_rab_diphone/1+ogi_jph_diphone/3 1

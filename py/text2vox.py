@@ -8,18 +8,12 @@ convert markup to wav, fixing things, possibly using multiple voices
 """
 
 import sys, os
-
-#FIXBEGINNING = True always done now
+from findPy import *
 
 cleanup = []
 
-text2fest = "./text2fest.py"
-if not os.path.exists(text2fest):
-    text2fest = "../text2fest.py"
-
-fest2vox = "./fest2vox.py"
-if not os.path.exists(fest2vox):
-    fest2vox = "../fest2vox.py"
+text2fest = findPy("text2fest.py")
+fest2vox = findPy("fest2vox.py")
 
 if len(sys.argv) < 2:
     print "text2vox markup.txt outputfile.wav [voice [timbre]]"

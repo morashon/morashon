@@ -7,7 +7,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 |||||
-3.4;You  90%5;look 81%3.2_-1.7;nice.
+3.4;You 90%5;look 81%3.2_-1.7;nice.
 
 {Annai}
 ||
@@ -31,7 +31,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-2.7;Then 4.6;why 133%3.2;do 110%2.2;we  66%24%3.7,1.6;bother?
+2.7;Then 4.6;why 133%3.2;do 110%2.2;we 66%24%3.7,1.6;bother?
 
 {Annai}
 |||
@@ -41,7 +41,7 @@ Morashon: {base=84;scale=8;volume=1.0}
 
 {Thisone}
 ||
-5;I 142%3;don't 77%0_1.5;know |||  100%2.6;you 138%4.5;must 96%2.4;have 106%a 80%3;life.
+5;I 142%3;don't 77%0_1.5;know ||| 100%2.6;you 138%4.5;must 96%2.4;have 106%a 80%3;life.
 
 {Annai}
 1.5;I 88%1.5_5.5;must?
@@ -104,7 +104,7 @@ I 5;like 3;this song. 120%It's 130%a bit 110%sappy.
 97%Ack. 125%6;You 193%3;don't get 128%4.5;out 99%1.2;much.
 
 {Thisone}
-4;That's 90%4;true. 115%2;I've been 122%5;heads 128%4_1;down |0.01| 150%1.8_0;for 127%2.6;months. | 110%Big 100%88%3.5,1_-4;project.
+4;That's 77%6_-3;true. 115%2;I've been 122%5;heads 128%4_1;down |0.02| 151%1.8_0;for 140%2.6;months. | 110%Big 100%91%3.5,1_-4;project.
 
 {Annai}
 111%2;Let's 86%10_-2;go!
