@@ -46,7 +46,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 This 2;is 5;tea 1.4;sewn.
 
 {Thisone}
-89%3.5_0;Spelled |0.03| 76%3.2_3;this 1_-2;one.
+89%3.5_0;Spelled |0.13| 76%3.2_3;this 1_-2;one.
 
 {Morashon}
 91%4_4;This |0.01| 83%6_5.5;one? 2;Or 4;that 2;one? Which one 6;is 1;it?
