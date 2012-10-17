@@ -3,7 +3,7 @@ Thisone: {base=83;scale=7;voice=ogi_rab_diphone;volume=1.6;timbre=0.81}
 Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 
 {Thisone}
-99%6_1;Where 177%3;are 125%we 90%6;go 80%1;ing?
+99%3_1;Where 177%3;are 125%we 90%6;go 80%1;ing?
 
 {Annai}
 3;Meet 81%3.4_3.4;the 78%6_0;man.
@@ -40,4 +40,10 @@ An I.
 
 {Annai}
 ||
-111%5;same 1.6_1.7;old. 124%3;Haven't 144%tuned 81%my 80%3.5_3.5;avv 111%1;in 111%88%4,1;ages.
+111%5;same 1.6_1.7;old. 124%3;Haven't 144%tuned 81%3_2;my 87%3.8;avv 111%1;in 111%88%4,1;ages.
+||||
+This 2;is 5;tea 1.4;sewn.
+
+{Thisone}
+83%3.5;Spelled |0.03| 76%3.2_3;this 2_-1;one.
+
