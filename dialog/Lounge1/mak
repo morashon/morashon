@@ -1,3 +1,2 @@
 #!/bin/bash
-
-../../py/makeScene lounge1.txt
+../../py/makeScene.py lounge1.txt
