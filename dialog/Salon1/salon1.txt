@@ -1,0 +1,10 @@
+Morashon: {base=84;scale=8;voice=kal_diphone;volume=1.0}
+
+{Morashon}
+90%6;Ann 80%3;I | 90%4;Ann 55%2_-3;I.
+|||
+90%2;my 100%1_5;life | 90%4;my 60%2_-4;love!
+|||
+2.7;How  110%68%2,5.8_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5;come.
+|||
+110%1.5_1.5;You are 90%85%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
