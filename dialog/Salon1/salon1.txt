@@ -49,11 +49,14 @@ This 2;is 5;tea 1.4;sewn.
 89%3.5_0;Spelled |0.13| 76%3.2_3;this 1_-2;one.
 
 {Morashon}
+||
 91%4_4;This |0.01| 83%6_5.5;one? 2;Or 4;that 2;one? Which one 6;is 1;it?
 |
 1;Heh |.02| 70%0;eh |0.04| eh. 
-What a 4_-6;name.
+
+{Morashon}
+What a 70%5_-4;name.
 |
-3;What's 120%2;in a 79%4_-2;name?
-4;What 3;are 1;you? 96%5;friend |0.15| 87%-1;or 70%9_-4;foe?
+3;What's 120%2;in a 71%3_-8;name?
+4;What 3;are 1;you? 96%5;friend |0.15| 87%-1;or 70%9_-7;foe?
 
