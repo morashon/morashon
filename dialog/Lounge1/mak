@@ -1,0 +1,3 @@
+#!/bin/bash
+
+../../py/makeScene lounge1.txt
