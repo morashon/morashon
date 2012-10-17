@@ -20,7 +20,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 100%60%5;0_4;Okay || 133%2;I 100%4;guess 130%2;I've 134%never 120%4;thought 1;about it.
 
 {Annai}
-125%4;Lots 166%2.5;to 128%6;think 140%2;about |0.03| 120%2_1;friend. 150%2;Gotta 98%2_6;name?
+125%4;Lots 166%2.5;to 128%6;think 140%2;about |0.03| 113%2_1;friend. 150%2;Gotta 98%2_6;name?
 
 {Thisone}
 6;Tea 2_0;sewn. 120%4;Spelled 2;like |0.38| 76%3.2_3;this 1_-2;one.
@@ -31,7 +31,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 ||||||
 
 {Morashon}
-90%4.5;Ann 76%1;I | 90%3;Ann 55%1_-6;I.
+70%4_5;Ann 66%5;I |0.2| 90%3;Ann 55%1_-6;I.
 ||
 90%2;my 100%1_5;life | 90%4;my 60%2_-9;love!
 ||
