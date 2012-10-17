@@ -41,7 +41,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 
 {Annai}
 ||
-111%5;same 1.6_1.7;old. 124%3;Haven't 144%tuned 81%3_2;my 87%3.8;avv 111%1;in 111%88%4,1;ages.
+103%5;same old |0.01| 107%same 1.6_1.7;old. 124%3;Haven't 144%tuned 81%3_2;my 87%3.8;avv 131%1;in 111%88%4,1;ages.
 |||
 This 2;is 5;tea 1.4;sewn.
 
