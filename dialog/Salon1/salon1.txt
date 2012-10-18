@@ -33,7 +33,7 @@
 ||
 90%2;my 100%1_5;life | 90%4;my 60%2_-9;love!
 ||
-2.7;How  110%68%2,5.6_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5_-6;come.
+2.7;How  110%66%2,4.7_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5_-6;come.
 ||
 110%1.5_1.5;You are 99%89%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
 
@@ -56,5 +56,23 @@ This 2;is 5;tea 1.4;sewn.
 103%What a  74%5_-4;name.
 |0.18|
 106%3;What's 126%2;in a 75%5_-8;name?
-105%4;What 3;are 118%1;you? 101%5;friend | 91%-1;or 72%9_-7;foe?
+105%4;What 3;are 118%1;you? 101%5;friend |0.11| 91%-1;or 72%9_-7;foe?
 
+{Thisone}
+Just a 5;fan 2;I guess. 
+113%2;eh 111%5;new 99%3_-2;one.
+3;I 103%5;like 2;your 97%4,1;music.
+
+{Morashon}
+3;He 4;likes 2;the 90%5,1;music!
+90%5,3,1;Wonderful. 3,5,1;Delightful. 5,3,1;Meaningful!
+3,5,-1;Insightful 119%1.5;so 99%2;they 88%1;say.
+
+{Morashon}
+3;I 3,5;refuse 1;to 2;read 96%0_0;my 1.5;own 88%1;press.
+111%3;It's 3.8_4;all 111%88%5,1;nonsense. 3;Right, 99%3;An 77%3_5;I?
+
+{Annai}
+4.5;I 100%70%4,5.5;suppose.
+|||
+5.5;Tea 4;sewn 119%doesn't 112%88%2,4.5;believe 2;in 88%2_0;you.
