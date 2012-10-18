@@ -1,6 +1,4 @@
-Morashon: {base=91;scale=7;voice=kal_diphone;volume=1.0;timbre=-0.5}
-Thisone: {base=83;scale=7;voice=ogi_rab_diphone;volume=1.6;timbre=0.81}
-Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
+{include:../actors.txt}
 
 {Thisone}
 99%3_1;Where 177%3;are 125%we 90%6;go 80%1;ing?
@@ -35,7 +33,7 @@ Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 ||
 90%2;my 100%1_5;life | 90%4;my 60%2_-9;love!
 ||
-2.7;How  110%68%2,5.6_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5;come.
+2.7;How  110%68%2,5.6_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5_-6;come.
 ||
 110%1.5_1.5;You are 99%89%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
 
@@ -55,7 +53,7 @@ This 2;is 5;tea 1.4;sewn.
 1;Heh |.02| 70%0;eh |0.04| eh. 
 
 {Morashon}
-What a 70%5_-4;name.
+What a  70%5_-4;name.
 |
 3;What's 120%2;in a 71%5_-8;name?
 4;What 3;are 111%1;you? 96%5;friend | 87%-1;or 70%9_-7;foe?

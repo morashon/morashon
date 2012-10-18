@@ -42,16 +42,27 @@ actors = {}
 files = OrderedDict()
 os.chdir(BUILDDIR)
 
-for line in lines:
+i = 0
+while i < len(lines):
+    line = lines[i]
     line = line.strip()
     if line == "":
+        i += 1
         continue
-##    print line
 
-    if ":" in line and "{" in line:                             #actor definition
-        actor, parameters = line.split(":")
-        actors[actor.strip()] = parameters.strip()
+    if ":" in line and "{" in line:        
+        if line.find(":") < line.find("{"):                     #inline actor definition
+            actor, parameters = line.split(":")
+            actors[actor.strip()] = parameters.strip()
+        else:                                                   #include file
+            a, fn = line.split(":")
+            f = open("../" + fn.strip().replace("}",""))
+            for ln in f.readlines():
+                lines.insert(i + 1, ln)
+            f.close()
+        i += 1
         continue
+
     actor = None
     if "{" in line:
         temp = line[1:].replace("}", "")
@@ -62,6 +73,7 @@ for line in lines:
             index += 1
             files[name] = ""
     files[name] += line + "\n"
+    i += 1
 
 buildMaster = False
 errors = 0
