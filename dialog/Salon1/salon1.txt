@@ -1,4 +1,4 @@
-Morashon: {base=84;scale=8;voice=kal_diphone;volume=1.0}
+Morashon: {base=91;scale=7;voice=kal_diphone;volume=1.0;timbre=-0.5}
 Thisone: {base=83;scale=7;voice=ogi_rab_diphone;volume=1.6;timbre=0.81}
 Annai: {base=154;scale=10;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
 
