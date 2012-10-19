@@ -1,3 +1,5 @@
+{include:../actors.txt}
+
 {Morashon}
 70%4_5;Ann 66%5;I |0.2| 90%3;Ann 55%1_-6;I.
 ||
