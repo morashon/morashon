@@ -6,7 +6,8 @@ from nltk.corpus import cmudict
 d = cmudict.dict() 
 
 exc = {
-    "sappy" : 2
+    "sappy" : 2,
+    "accelerondo" : 5
 }
 
 def nsyl(word):
