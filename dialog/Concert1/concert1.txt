@@ -1,6 +1,64 @@
 {include:../actors.txt}
 
 {Thisone}
+So what 5;is 80%2;this? || 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87%3_6;band? 40%2;um  | 80%6_-3;what?
+
+{Annai}
+|
+72%6_-5;What.
+
+{Thisone}
+|
+90%1_7;What?
+|
+So what 5;is 80%2;this? | 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87%3_6;band? 40%2;um  | 80%6_-3;what?
+
+{Annai}
+90%6_-4;What. 97%He's a 81%7_-2.5;what.
+
+{Thisone}
+97%3;Mean 75%5;ing?
+
+{Annai}
+70%5;A 6_-5;I. || 88%1.5,4.5;Emergent 82%4,2;neural.
+
+{Thisone}
+You're 110%tell 100%ing 66%2.5;me 80%2.5;this 120%5,3;isn't 3,2;someone's 90%3,8_6;music?
+
+It's 5;not 3;someone 2;with 3;software 2;or 4,3;retro 2;gear 2;up 4;load 6_3;ing?
+
+{Annai}
+94%2_6;Nope. |0.06| 83%5_-5;Code.
+
+{Thisone}
+87%5_6;Bull 88%2;shit.
+
+{Annai}
+100%120%Believe what 168%you 112%6;want. | Hit 140%the 100%6_-6;site. 120%It 128%all checks 99%2;out.
+I reviewed 120%3;the 110%5_-5;source.
+
+{Thisone}
+90%3.5;You 80%2_6;code?
+
+{Annai}
+3;Of 138%5;course 127%2;I 95%do.
+
+{Thisone}
+3;I code 70%8_-6;too.
+
+{Annai}
+3;Of 6_-6;course.
+
+{Thisone}
+
+{Annai}
+
+{Thisone}
+
+{Annai}
+
+{Thisone}
+||||||
 99%3_1;Where 177%3;are 125%we 90%6;go 80%1;ing?
 
 {Annai}
