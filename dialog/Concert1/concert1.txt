@@ -1,7 +1,7 @@
 {include:../actors.txt}
 
 {Thisone}
-So what 5;is 80%2;this? || 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87%3_6;band? 40%2;um  | 80%6_-3;what?
+So what 5;is 80%2;this? | 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87%3_6;band? 40%2;um  | 80%6_-3;what?
 
 {Annai}
 |
@@ -10,25 +10,25 @@ So what 5;is 80%2;this? || 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 8
 {Thisone}
 |
 90%1_7;What?
-|
+|0.6|
 So what 5;is 80%2;this? | 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87%3_6;band? 40%2;um  | 80%6_-3;what?
 
 {Annai}
 90%6_-4;What. 97%He's a 81%7_-2.5;what.
 
 {Thisone}
-97%3;Mean 75%5;ing?
+97%3;Mean 75%6;ing?
 
 {Annai}
-70%5;A 6_-5;I. || 88%1.5,4.5;Emergent 82%4,2;neural.
+70%5;A 6_-5;I. |0.4| 88%1.5,4.5;Emergent 82%4,2;neural.
 
 {Thisone}
 You're 110%tell 100%ing 66%2.5;me 80%2.5;this 120%5,3;isn't 3,2;someone's 90%3,8_6;music?
 
-It's 5;not 3;someone 2;with 3;software 2;or 4,3;retro 2;gear 2;up 4;load 6_3;ing?
+It's 5;not 3;someone 2;with 3;software 2;or 110%4,3;retro 2;gear 2;up 100%4;load 6_3;ing?
 
 {Annai}
-94%2_6;Nope. |0.06| 83%5_-5;Code.
+94%2_6;Nope. |0.06| 83%5_-8;Code.
 
 {Thisone}
 87%5_6;Bull 88%2;shit.
@@ -41,34 +41,34 @@ I reviewed 120%3;the 110%5_-5;source.
 90%3.5;You 80%2_6;code?
 
 {Annai}
-3;Of 138%5;course 127%2;I 95%do.
+138%5;coarse 127%2;I 95%do.
 
 {Thisone}
 3;I code 70%8_-6;too.
 
 {Annai}
-3;Of 6_-6;course.
+5;Of 110%3_-5;coarse.
 
 {Thisone}
 ||||
 64%6.5_-2;Well || 100%5;I 111%3;don't 96%5;buy 98%1;it.
-I 122%3;think it's a 90%7_-5;hoax. 3;No 120%6,3;software package could come 2.5;up 2;with 140%some |0.01| 110%2_2.5;thing 105%3;like 60%5_-9;this.
+I 122%3;think it's a 90%7_-5;hoax. 3;No 120%6,3;software package could come 2.5;up 2;with 180%some |0.01| 110%2_2.5;thing 105%3;like 60%5_-9;this.
 
 {Annai}
-125%3;Like 150%you 90%8_-3;said || 111%2;you've 122%3;been off 91%6;line.
+135%3;Like 166%you 90%8_-3;said || 111%2;you've 122%3;been off 91%6;line.
 140%130%120%94%111%3,3,3,5,1;Accelerondo.
-||
-111%You 122%6;blink || 4;you 70%5_-8;miss.
+|
+111%You 122%6;blink |0.4| 4;you 70%5_-7.5;miss.
 
 {Thisone}
 77%6_-6;Yes | 90%3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 90%5.5;just 128%3.8;crack ing  3,4,1_1;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
-||
+|0.33|
 6;No 3;one 110%has shown an 100%integrated personality worth a 74%9_-4;shit.
 
 {Annai}
-90%80%99%3,5,1.5_1;Emergent | 3_-2;self 119%modifying 80%6_-3;code.
+90%80%99%3,5,1.5_1;Emergent |0.08| 3_-2;self 119%modifying 80%6_-3;code.
 133%164%148%115%Exponential 111%6,2;hockey stick.
-3;Let's 80%7_-6;dance!
+110%3;Let's 90%7_-6;dance!
 
 {Thisone}
 ||||||
