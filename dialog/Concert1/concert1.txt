@@ -25,10 +25,10 @@ So what 5;is 80%2;this? | 122%1;ah 100%3;D 5_4;J? 2;A 91%5_3;group? 90%2;Some 87
 {Thisone}
 You're 110%tell 100%ing 66%2.5;me 80%2.5;this 120%5,3;isn't 3,2;someone's 90%3,8_6;music?
 
-It's 5;not 3;someone 2;with 3;software 2;or 110%4,3;retro 2;gear 2;up 100%4;load 6_3;ing?
+It's 5;not 3;someone 2;with 100%90%3;software 112%2;or 110%4,3;retro 2;gear 2;up 100%4;load 6_3;ing?
 
 {Annai}
-94%2_6;Nope. |0.06| 83%5_-8;Code.
+94%2_6;Nope. |0.06| 83%7_-5;Code.
 
 {Thisone}
 87%5_6;Bull 88%2;shit.
@@ -47,7 +47,7 @@ I reviewed 120%3;the 110%5_-5;source.
 3;I code 70%8_-6;too.
 
 {Annai}
-5;Of 110%3_-5;coarse.
+5;Of 110%3_0;coarse.
 
 {Thisone}
 ||||
@@ -61,7 +61,7 @@ I 122%3;think it's a 90%7_-5;hoax. 3;No 120%6,3;software package could come 2.5;
 111%You 122%6;blink |0.4| 4;you 70%5_-7.5;miss.
 
 {Thisone}
-77%6_-6;Yes | 90%3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 90%5.5;just 128%3.8;crack ing  3,4,1_1;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
+77%6_-6;Yes | 90%3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 93%5.5;just 131%3.8;crack ing  3,4,1_1;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
 |0.33|
 6;No 3;one 110%has shown an 100%integrated personality worth a 74%9_-4;shit.
 
