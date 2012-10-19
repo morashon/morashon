@@ -7,7 +7,8 @@ d = cmudict.dict()
 
 exc = {
     "sappy" : 2,
-    "accelerondo" : 5
+    "accelerondo" : 5,
+    "contextual" : 3,
 }
 
 def nsyl(word):

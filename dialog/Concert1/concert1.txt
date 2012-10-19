@@ -61,7 +61,10 @@ I 122%3;think it's a 90%7_-5;hoax. 3;No 120%6,3;software package could come 2.5;
 111%You 122%6;blink || 4;you 70%5_-8;miss.
 
 {Thisone}
-Yes | but this? Last I checked, they were just cracking contextual N L P.
+77%6_-6;Yes | 3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 90%5;just 128%4;cracking  3,4,1.4;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
+
+{Thisone}
+||||
 No one has shown an integrated personality worth a shit.
 
 {Annai}
