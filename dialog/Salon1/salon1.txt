@@ -38,7 +38,7 @@ Just a 5;fan 2;I guess.
 {Morashon}
 3;He 4;likes 2;the 90%5,1;music!
 90%5,3,1;Wonderful. 3,5,1;Delightful. 5,3,1;Meaningful!
-3,5,-1;Insightful 119%1.5;so 99%2;they 88%1;say.
+3,6.5,-1;Insightful 119%1.5;so 99%2;they 88%1;say.
 
 {Morashon}
 3;I 3,5;refuse 1;to 2;read 96%0_0;my 1.5;own 88%1;press.
