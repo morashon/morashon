@@ -9,6 +9,7 @@ exc = {
     "sappy" : 2,
     "accelerondo" : 5,
     "contextual" : 3,
+    "isn't" : 1,
 }
 
 def nsyl(word):
