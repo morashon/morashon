@@ -61,13 +61,14 @@ I 122%3;think it's a 90%7_-5;hoax. 3;No 120%6,3;software package could come 2.5;
 111%You 122%6;blink || 4;you 70%5_-8;miss.
 
 {Thisone}
-77%6_-6;Yes | 3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 90%5;just 128%4;cracking  3,4,1.2_1.4;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
-
-{Thisone}
-||||
-No one has shown an integrated personality worth a shit.
+77%6_-6;Yes | 90%3;but 61%0_9;this? 4;Last 6;I 2;checked || 134%3;they were 90%5.5;just 128%3.8;crack ing  3,4,1_1;contextual 94%3_3;N 4_4;L  96%7_3;P 1;E.
+||
+6;No 3;one 110%has shown an 100%integrated personality worth a 74%9_-4;shit.
 
 {Annai}
+90%80%99%3,5,1.5_1;Emergent | 3_-2;self 119%modifying 80%6_-3;code.
+133%164%148%115%Exponential 111%6,2;hockey stick.
+3;Let's 80%7_-6;dance!
 
 {Thisone}
 ||||||
