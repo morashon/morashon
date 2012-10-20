@@ -18,11 +18,11 @@ def nsyl(word):
         return exc[word.lower()]
     if word.lower() in d:
         prons = [len(list(y for y in x if isdigit(y[-1]))) for x in d[word.lower()]]
-        mx = -1
+        mn = 999
         for p in prons:
-            if p > mx:
-                mx = p
-        return mx
+            if p < mn:
+                mn = p
+        return mn
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
