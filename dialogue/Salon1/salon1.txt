@@ -47,8 +47,9 @@ Just a 5;fan 2;I guess.
 {Annai}
 4.5;I 100%70%4,5.5;suppose.
 |||
-5.5;Tea 4;sewn 119%doesn't  112%88%2,4.5;believe 2;in 88%2_0;you.
+5.5;Tea 4;sewn 119%doesn't 112%88%2,4.5;believe 2;in 88%2_0;you.
 
 {Morashon}
-2;Doesn't 90%70%2,2_5;believe?
+1^2;Doesn't 90%70%2,1_4.5;believe? 4;That's 1;rich. 0;But 3.5;here 2;I 5;am!
+3;Seeing 1;is 100%80%2,5;believe 71%2_-7;ing | 1^130%2;isn't that 110%what they always 70%6;say?
 
