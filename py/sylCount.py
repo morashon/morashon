@@ -10,7 +10,8 @@ exc = {
     "accelerondo" : 5,
     "contextual" : 3,
     "isn't" : 1,
-    "doesn't" : 1,
+    "probably" : 3,
+    "interest" : 3,
 }
 
 def nsyl(word):
