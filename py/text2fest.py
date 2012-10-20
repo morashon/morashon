@@ -22,6 +22,7 @@ import sylCount
 BASE = 130
 SCALE = 7.0
 SPEED = 1.0
+PITCH = 0.0
 DROP = BASE / 5.0
 BIGDROP = DROP * 2
 DEFAULTNOTE = 4
@@ -33,7 +34,7 @@ def each(seq):
     return range(len(seq))
 
 def note2freq(n):
-    return BASE * 2.0 ** (float(n) / SCALE)
+    return BASE * 2.0 ** (float(n + PITCH) / SCALE)
 
 def specialSplit(word):
     words = word.split(";")
@@ -144,6 +145,8 @@ if s[0] == "{":
             SCALE = int(val)
         if key.upper() == "SPEED":
             SPEED = float(val)
+        if key.upper() == "PITCH":
+            PITCH = float(val)
 
 print "BASE:", BASE
 print "SCALE:", SCALE
