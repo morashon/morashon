@@ -20,9 +20,10 @@ from xml.dom import minidom
 import sylCount
 
 BASE = 130
+SCALE = 7.0
+SPEED = 1.0
 DROP = BASE / 5.0
 BIGDROP = DROP * 2
-SCALE = 7.0
 DEFAULTNOTE = 4
 SENTENCEPAUSE = 0.6
 RESTPAUSE = 0.25
@@ -141,9 +142,12 @@ if s[0] == "{":
             BASE = int(val)
         if key.upper() == "SCALE":
             SCALE = int(val)
+        if key.upper() == "SPEED":
+            SPEED = float(val)
 
 print "BASE:", BASE
 print "SCALE:", SCALE
+print "SPEED:", SPEED
 
 s = s.replace("?",".")
 s = s.replace("!", ".")
@@ -199,7 +203,7 @@ for line in r:
     for word, syls, freqs, durs in data:
         print word, "syls:", syls, "freqs:", freqs, "durs:", durs
         if word == "|":
-            addRest(xdoc, xbody, durs[0])
+            addRest(xdoc, xbody, durs[0] / SPEED)
         else:
             s = ""
             for i in range(syls):
@@ -210,10 +214,10 @@ for line in r:
             for i in range(syls):
                 if len(durs):
                     dur = durs.pop(0)
-                s  += "," + str(dur)
+                s  += "," + str(dur / SPEED)
             duratt = s[1:]
             addWord(xdoc, xbody, word, freqatt, duratt)
-    addRest(xdoc, xbody, SENTENCEPAUSE)
+    addRest(xdoc, xbody, SENTENCEPAUSE / SPEED)
 
 
 out = xdoc.toprettyxml()
