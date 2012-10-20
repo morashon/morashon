@@ -104,7 +104,7 @@ Tea sewn || please 2;meet 116%1;us |0.05| 90%3,5_2;later.
 |
 2.5;There's 4;so 1;much more 2;to 100%86%2,6_-7;discuss.
 
-{Thisone}
+{Thisone;speed=1.0}
 80%3;Well || 5.5;sure. | 105%2;I 72%4_-4;guess.
 
 {Annai}

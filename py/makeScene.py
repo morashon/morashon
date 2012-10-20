@@ -74,7 +74,7 @@ while i < len(lines):
             actor = temp
             line = actors[actor]
             if extra:
-                line = line.replace("}","") + extra + "}"
+                line = line.replace("}","") + ";" + extra + "}"
             name = scene + "_" + str(index) + "_" + actor + ".txt"
             index += 1
             files[name] = ""
