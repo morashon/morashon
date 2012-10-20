@@ -65,10 +65,16 @@ while i < len(lines):
 
     actor = None
     if "{" in line:
+        extra = ""
         temp = line[1:].replace("}", "")
+        if ";" in temp:                                         #extra parameters for these lines (until next actor spec)
+            extra = temp[temp.find(";") + 1:]
+            temp = temp[:temp.find(";")]
         if temp in actors:
             actor = temp
             line = actors[actor]
+            if extra:
+                line = line.replace("}","") + extra + "}"
             name = scene + "_" + str(index) + "_" + actor + ".txt"
             index += 1
             files[name] = ""
