@@ -44,6 +44,10 @@ def specialSplit(word):
     return words
 
 def parseWord(word):
+    cnt = None
+    if "^" in word:
+        cnt, word = word.split("^")
+        cnt = int(cnt)
     if "|" in word:
         s = word.replace("|", "")
         if len(s):
@@ -52,7 +56,6 @@ def parseWord(word):
             dur = RESTPAUSE * word.count("|")
         return "|", 1, [], [dur]
 
-##    parts = word.split(";")
     parts = specialSplit(word)
     word = parts[-1]
     freqs = []
@@ -69,7 +72,8 @@ def parseWord(word):
                 for p in part.split("_"):
                     freq = note2freq(float(p))
                     freqs[-1].append(freq)
-    cnt = sylCount.nsyl(word)
+    if not cnt:
+        cnt = sylCount.nsyl(word)
     if not cnt:
         cnt = 1
     return word, cnt, freqs, durs
