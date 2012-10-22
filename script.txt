@@ -242,7 +242,7 @@ Under the Starlitetm  in our room
 
 _Annai: I like this song.  It's a bit sappy.
 
-_Thisone: Yeah, quite a bit.  Interesting chord progression.
+_Thisone: Yes, quite a bit.  Interesting chord progression.
 
 _Annai: You like music, then.
 
@@ -400,7 +400,7 @@ _Thisone: I thought you said he was an it.
 
 _Annai: Yes, but it likes to be called a he.  It's his choice, right?
 
-_Thisone: Sure, I guess.  I never thought about it.
+_Thisone: OK... I guess I've never thought about it.
 
 _Annai: Lots to think about, friend.  Got a name?
 
@@ -494,7 +494,7 @@ Scene: Morashon's place.  Looks like an opium den
 
 A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in
 
-_Morashon: This one!  Delightful.  We were just about to begin.
+_Morashon: Thisone!  Delightful.  We were just about to begin.
 
 _Thisone:  Annai didn't tell me anything, I just
 
@@ -986,7 +986,7 @@ Sometimes
 
 You feel
 
-You need to make some changes to your lifestyle
+You need to make some changes in your lifestyle
 
 Sometimes
 
@@ -1086,7 +1086,7 @@ _Annai: So are you reviewing his code?
 
 _Thisone: We're talking petaLOCs.  Over a quadrillion lines of code equivalent.  Practically all of it algorithmically generated.
 
-_Annai: So what's the line of attack?  I just reviewed his kernel, the part that started it off.  Lots of tricky corner cases, but the core ideas were manageable.
+_Annai: So what's the line of attack?  I just reviewed his kernel, the part that started it off.  Lots of tricky corner cases, but the core ideas are manageable.
 
 _Thisone: Yeah, I checked that part out.  But keep in mind, that just bootstraps the process.  Each iteration generates orders of magnitude more code, which then generates more code, and so on.
 
@@ -1500,7 +1500,7 @@ I thought I might have a clue
 
 I knew what each day would bring
 
-I knew which tune I would sing
+I knew which song I would sing
 
 Suddenly she's there I can hardly breathe
 
@@ -2150,6 +2150,8 @@ It won't take long
 
 Like I am real
 
+yeah
+
 I will be there
 
 I will be holding the chair
@@ -2173,6 +2175,8 @@ Like I am real
 Like I can deal
 
 With what I feel
+
+Yeah
 
 Like, "Am I Real?"
 
@@ -2312,7 +2316,7 @@ _Morashon: Not up to my usual standards, I think.  "Holding the Chair"?  What 
 
 _Thisone: Um, I thought it meant, you know, like a chairman?
 
-_Morashon: Chairman of the board.  Is that it?  Why not holding my share?  Or holding the air?
+_Morashon: Chairman of the board.  Is that it?  Why not holding my share?  Or breathing the air?
 
 _Thisone: (nervous) I don't know, it sounded right.  I liked it anyway.
 
@@ -2848,7 +2852,7 @@ _Thisone: (pauses) Ok.  Here it is. (Sends link)
 
 _Annai: Thanks.  Later. (winks out)
 
-Scene: Thisone's sim.  He is lying down, hands behind head.  Over & Over instrumental background.
+Scene: Thisone's sim.  He is lying down, hands behind head.
 
 Message pops up:
 
@@ -3052,7 +3056,7 @@ Well...
 
 The faster you are
 
-Tfche farther you have to go
+The further you have to go
 
 They all say the brighter you burn
 
@@ -3088,7 +3092,7 @@ You can be you
 
 If not you, who?
 
-You can be you...
+You must be you...
 
 Only you can be you
 
@@ -3495,7 +3499,7 @@ Well...
 
 The faster you are
 
-Tfche farther you have to go
+The further you have to go
 
 They all say the brighter you burn
 
@@ -3513,7 +3517,7 @@ Don't make a fuss
 
 The harder you're going to fall
 
-Don't you know the quicker you move
+Ain't it true the quicker you move
 
 The likelier you might stall
 
