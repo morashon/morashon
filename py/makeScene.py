@@ -39,7 +39,7 @@ if len(sys.argv) > 2:
                 CHANGES = True
             else:
                 opt, val = e.split("=")
-                if opt == "--only":
+                if opt == "--force":
                     BUILDJUST = val
                     try:
                         BUILDJUST = int(BUILDJUST)
