@@ -107,13 +107,13 @@ Never forget that. I'm old enough to remember hardware failure.
 I've never heard anyone even consider something like that before.
 
 {Thisone}
-Well there's tons of redundancy | and it's hyper-distributed | so -- the chances are certainly remote. Asteroid | nuclear explosion | that sort of thing.
+Well there's tons of redundancy | and it's hyper distributed | so || the chances are certainly remote. Asteroid | nuclear explosion | that sort of thing.
 
 {Annai}
 Well I don't think I could handle it.
 
 {Thisone}
-We've still got our bodies | we keep them alive. I hope you're running Twitch -- gotta keep those muscles toned.
+We've still got are bodies | we keep them alive. I hope you're running Twitch || got to keep those muscles toned.
 
 {Annai}
 (looking distracted) Sure.
