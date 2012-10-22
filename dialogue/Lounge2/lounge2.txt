@@ -17,7 +17,8 @@ Heh. I wish it were that simple.
 ||||
 
 {Thisone}
-What was that song about?  What was he taking from you and the rest?
+What was that song about?
+ What was he taking from you and the rest?
 
 {Annai}
 It's just expression. We live in a fantasy world, why shouldn't we indulge in imagination?
@@ -32,7 +33,8 @@ Of course I listen to the lyrics. I listen to everything. I breathe it in. Doesn
 It scares me, a bit. Music and lyrics like that have to be... alive. Even if software could think, it wouldn't come up with anything like that.
 
 {Annai}
-How do you know what software would or wouldn't do?  Just because you code, doesn't mean you know squat about your code. Any real coder knows that.
+How do you know what software would or wouldn't do?
+ Just because you code, doesn't mean you know squat about your code. Any real coder knows that.
 
 {Thisone}
 I've heard all the arguments... going back to Dennett, refuting Searle, etc and so on. Code writes code; data is code. Evolution works its magic, explicitly or implicitly. Complexity leads to emergence. But it's all theoretical. There's never been any evidence that it could really exist. Even though the grid has been online for 30 plus years, running petaflops of simulated evolution per second. The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
@@ -111,7 +113,8 @@ I'm sorry, I don't know your situation. Maybe you're sick, or on life support or
 No, no. Nothing like that. I just like it here. I don't have much life outside.
 
 {Thisone}
-Well, same here. The jet-bloggers go on about it, right?  Bragging about their brief bike rides topside, with all that life support gear -- sounds like a chore, and an unnecessary risk.
+Well, same here. The jet-bloggers go on about it, right?
+ Bragging about their brief bike rides topside, with all that life support gear -- sounds like a chore, and an unnecessary risk.
 
 {Annai}
 I bike. Well, you know, here. For exercise. It's healthier than just relying on Twitch.
@@ -148,7 +151,8 @@ Nevermind.
 ||||
 
 {Thisone}
-What did you mean just now?  You think I sound old, right?
+What did you mean just now?
+ You think I sound old, right?
 
 {Annai}
 (cocks head) Well, I think it's obvious you're older than me.
@@ -183,7 +187,9 @@ Exactly.
 For your generation, real life, topside, anything but the Grid is just -- irrelevant.
 
 {Annai}
-Ok. Sort of. Not totally irrelevant.   Just -- obsolete. Offline.
+Ok. Sort of. Not totally irrelevant.
+
+ Just -- obsolete. Offline.
 
 {Thisone}
 Offline, heh. I get it.
@@ -192,7 +198,8 @@ Offline, heh. I get it.
 maybe you do, but you've still got that meme tucked away -- that we're just here for the short term. It's a fix-up for a problem. One day, topside will be restored, and real life will be meaningful again.
 
 {Thisone}
-Don't you believe that?  If not in our time, then someday.
+Don't you believe that?
+ If not in our time, then someday.
 
 {Annai}
 Hah. You listen to the blogo-heads. The establishment, the folks who run everything. They've got a vested interest in our believing. But we -- I mean, those of us who have little memory of before -- we see it differently.
@@ -243,14 +250,16 @@ I mean what I say. I was drifting. More eh shun keeps me grounded. The music, th
 Well, I think he's some sort of Svengali.
 
 {Annai}
-What? (blank expression as she looks it up) Oh --  I see. No, it's not like that.
+What? (blank expression as she looks it up) Oh --
+ I see. No, it's not like that.
 
 {Thisone}
 Jim jones then, or David Koresh.
 
 {Annai}
 |||
-That's terrible  He's not like that at all. You think he wants to kill us?
+That's terrible
+ He's not like that at all. You think he wants to kill us?
 
 {Thisone}
 Maybe not literally. I think he -- or it -- whatever, they, I suspect -- have ulterior motives. || I'll settle for L. Ron Hubbard.
@@ -275,7 +284,8 @@ Well, I don't think that More eh shun has any plans like that. Plus, his music i
 Yeah, he didn't cut it as an artist. But he was a pretty good cult leader.
 
 {Annai}
-Do you see the good in anyone?  Or are you always on the defensive?
+Do you see the good in anyone?
+ Or are you always on the defensive?
 
 {Thisone}
 I see good in you.
