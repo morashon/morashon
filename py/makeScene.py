@@ -134,7 +134,7 @@ for fil in files:
         if not BUILDJUST:
             print "++++++++>", fil, "is unchanged"
 
-if buildMaster and errors == 0:
+if (not BUILDJUST) and (buildMaster and errors == 0):
     print "Building master wav file"
     cmd = "sox "
     for fil in files:
