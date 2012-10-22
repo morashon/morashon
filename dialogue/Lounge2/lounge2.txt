@@ -224,7 +224,7 @@ For you | this is life. It's everything.
 Precisely. And for you | too. You just can't admit it.
 
 {Thisone}
-(thinks for a moment) Maybe you're right. Even as the interface gear gets better and better | I never feel like this is home. I'm homesick | I guess.
+Maybe you're right. Even as the interface gear gets better and better | I never feel like this is home. I'm homesick | I guess.
 
 {Annai}
 But this is my home. I never had anything else.
@@ -233,13 +233,13 @@ But this is my home. I never had anything else.
 We're probably only a few years apart. In age | I mean.
 
 {Annai}
-It might as well be lightyears.
+It might as well be light years.
 
 {Thisone}
-Distance is a vec4.
+Distance is a vec four.
 
 {Annai}
-Yes | space and time. Minkowski metric. You know the grid is non-relativistic.
+Yes | space and time. 3^Minkowski metric. You know the grid is non relativistic?
 
 {Thisone}
 Not exactly. There's still network lag. They work it into the physics somehow.
@@ -260,10 +260,10 @@ What do you mean | changed your life?
 I mean what I say. I was drifting. More eh shun keeps me grounded. The music | the people. We have a special bond.
 
 {Thisone}
-Well | I think he's some sort of Svengali.
+Well | I think he's some sort of 3^Svengali.
 
 {Annai}
-What? (blank expression as she looks it up) Oh --
+What? (blank expression as she looks it up) Oh ||
  I see. No | it's not like that.
 
 {Thisone}
@@ -275,7 +275,8 @@ That's terrible
  He's not like that at all. You think he wants to kill us?
 
 {Thisone}
-Maybe not literally. I think he -- or it -- whatever | they | I suspect -- have ulterior motives. || I'll settle for L. Ron Hubbard.
+Maybe not 4^literally.
+I think he || or it || whatever | they | I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
 
 {Annai}
 |||
@@ -288,7 +289,7 @@ I hear he was.
 Founded his own nation at sea.
 
 {Thisone}
-Chained people to desks for minor infractions. Swindled millions out of their life savings | separated them from their families.
+Chained people to desks for minor infractions. Swindled millions out of their life savings | separated them from their 3^families.
 
 {Annai}
 Well | I don't think that More eh shun has any plans like that. Plus | his music is good. Hubbard's writing was terrible | apparently.
@@ -311,13 +312,14 @@ Thanks. That was nice.
 I can be nice. Even if I'm old.
 
 {Annai}
-I'm sorry | I didn't mean to be ageist.
+I'm sorry | I 2^didn't mean to be age ist.
 
 {Thisone}
 Whatever. All is forgiven.
 
 {Annai}
-(almost singing) All will be revealed...
+All will be revealed.
+||
 
 {Thisone}
 oh. Him again.
@@ -332,7 +334,7 @@ You mean change the Grid.
 Same thing. He could have an impact. Everything is so fractured now.
 
 {Thisone}
-You mean he's planning to go grid-wide?
+You mean he's planning to go grid wide?
 
 {Annai}
 Well it's all viral of course. His stats are growing slowly but steadily. He's not in a hurry.
@@ -342,10 +344,10 @@ Well it's all viral of course. His stats are growing slowly but steadily. He's n
 He's running multiples | you know. It's not just are little group.
 
 {Thisone}
-So when we hang out with him | each time it's a different team of Finnish mind-fuckers?
+So when we hang out with him | each time it's a different team of Finnish mind fuckers?
 
 {Annai}
-(annoyed) Whatever | as the ancients used to say.
+Whatever | as the ancients used to say.
 
 {Thisone}
 That stings.
@@ -357,7 +359,7 @@ Sorry. I just wish you would give him a chance.
 If it makes you happy | I'll come to another concert. A big one | like the first though. I don't want to sit around in that creepy room.
 
 {Annai}
-Ok. (shoots url) Be there or be square.
+Ok. Be there or be square.
 
 {Thisone}
 Talk about ancient!
