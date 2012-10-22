@@ -52,7 +52,7 @@ The most I've heard of getting out of the lab is somewhere between a rat and a h
 So you still think it's a bunch of Finnish jokers with some new body gear.
 
 {Thisone}
-As a rationalist | that's a much better hypothesis than buying this AI crap.
+As a 4^rationalist | that's a much better hypothesis than buying this A I crap.
 
 {Annai}
 Have you ever known Finns to be that creepy | as you say?
@@ -92,16 +92,19 @@ I'm not.
 Me either.
 
 {Thisone}
-I'm online most of the time I'm awake at this point. I jack out and sleep when I'm tired. "Real" life doesn't have much left for me. I think I'd call it quits if the grid ever went down.
+I'm on line most of the time I'm awake at this point. I jack out and sleep when I'm tired. Real life doesn't have much left for me. I think I'd call it quits if the grid ever went down.
 
 {Annai}
 What do you mean | went down?
 
 {Thisone}
-The grid. This (gestures) -- our virtual world. It's based on real-life infrastructure. Never forget that. I'm old enough to remember hardware failure.
+The grid.
+This ||| are virtual world.
+It's based on real life infrastructure. 
+Never forget that. I'm old enough to remember hardware failure.
 
 {Annai}
-(sounding agitated) I've never heard anyone even consider something like that before.
+I've never heard anyone even consider something like that before.
 
 {Thisone}
 Well there's tons of redundancy | and it's hyper-distributed | so -- the chances are certainly remote. Asteroid | nuclear explosion | that sort of thing.
