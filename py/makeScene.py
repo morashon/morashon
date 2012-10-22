@@ -34,20 +34,22 @@ CHANGES = False
 PLAY = False
 for e in sys.argv[1:]:
     if e[:2] == "--":
-        if e == "--changes":
-            CHANGES = True
-        elif e == "--play":
-            PLAY = True
-        else:
+        try:
             opt, val = e.split("=")
-            if opt == "--force":
-                BUILDJUST = val
-                try:
-                    BUILDJUST = int(BUILDJUST)
-                except:
-                    pass
+        except:
+            opt = e
+            val = True
+        if opt == "--force":
+            BUILDJUST = val
+            try:
+                BUILDJUST = int(BUILDJUST)
+            except:
+                pass
+        else:
+            globals()[opt[2:].upper()] = val
     else:
         scene = e
+print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY
 
 f = open(scene)
 lines = f.readlines()
@@ -178,3 +180,8 @@ if (BUILDJUST == None) and (buildMaster and errors == 0):
 
 if errors:
     print errors, "errors encountered -- will not rebuild master"
+else:
+    if PLAY:
+        cmd = "mplayer " + scene + ".wav"
+        print cmd
+        os.system(cmd)
