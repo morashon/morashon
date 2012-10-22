@@ -1,9 +1,9 @@
 {include:../actors.txt}
 
 {Pianoman}
-105%3;More 158%2;eh 113%1;shun || 70%5;oy | 110%2;what a 81%1;cad.
+95%3;More 142%2;eh 103%1;shun || 70%5;oy | 110%2;what a 81%1;cad.
 ||
-2.5;Does 130%2_2,2_2,2_2;anyone 111%1.5_1.5,1.5_1.5,1.5;remember 3.2;that 160%4.5;get 5_4;up?
+130%2_2,2_2,2_2;anyone 111%1.5_1.5,1.5_1.5,1.5;remember 3.2;that 160%4.5;get 5_4;up?
 ||||
 {Morashon}
 88%120%95%6,4,3;Everyone |0.01| 133%2;is 100%3.5;king 2.5;for 93%a 88%1;day.

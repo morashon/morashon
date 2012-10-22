@@ -1,18 +1,24 @@
-Intro
-Lounge1
-Concert1
-Salon1
-Lounge2
-Salon2
-ThiPlace1
-ThiPlace2
-Restaurant
-Salon3
-AnnPlace
-Concert2
-Salon4
-Lounge3
-ThiPlace3
-Ballroom
-Concert3
-Lounge4
+    Intro (Pianoman)
+    Lounge1 (Thisone & Annai first meet)
+    Concert1 (Changing Time)
+     (add VIP?)
+    Salon1 (Give It All To Me)
+--- break --- 0:24:00
+    Lounge2 ("You drink for real?")
+    Salon2 ("What? You said it was a rave." -- Mouth of Truth)
+    ThiPlace1 ("You came!")
+    ThiPlace2 (Half In Love)
+--- break (ACTS?) --- 1:01:05
+    Restaurant ("Hey stranger")
+    Salon3 (Mr Happy)
+    AnnPlace ("About time")
+--- poss. break --- 1:20:10
+    Concert2 (Like Am I Real)
+    Salon4 (VIP!)
+    Lounge3 ("This place again")
+--- poss. break --- 1:49:50
+    ThiPlace3
+    Ballroom (Ballad)
+    Concert3 (You / Mouth reprise)
+    Lounge4
+--- end --- 2:19:37
