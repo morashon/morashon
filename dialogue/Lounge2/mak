@@ -1,2 +1,2 @@
 #!/bin/bash
-../../py/makeScene.py lounge2.txt
+../../py/makeScene.py lounge2.txt $1 $2 $3 $4 $5

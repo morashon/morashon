@@ -14,7 +14,8 @@ import sys, os
 from findPy import *
 from ordereddict import OrderedDict
 
-BUILDPARTS = True
+BUILDPARTS = False
+BUILDJUST = None
 BUILDDIR = "build"
 if not os.path.exists(BUILDDIR):
     cmd = "mkdir " + BUILDDIR
@@ -31,8 +32,12 @@ print "text2vox:", text2vox
 
 scene = sys.argv[1]
 CHANGES = False
-if len(sys.argv) > 2 and sys.argv[2].lower() == "changes":
-    CHANGES = True
+if len(sys.argv) > 2:
+    if sys.argv[2].lower() == "changes":
+        CHANGES = True
+    else:
+        BUILDJUST = sys.argv[2]
+
 f = open(scene)
 lines = f.readlines()
 f.close()
@@ -96,6 +101,9 @@ for fil in files:
     else:
         rewrite = True
 
+    if BUILDJUST:
+        rewrite = BUILDJUST == fil
+
     if rewrite:
         buildMaster = True
         print "-------->", fil, "is new or has changed -- writing to disk:"
@@ -123,7 +131,8 @@ for fil in files:
                 print cmd
                 os.system(cmd)
     else:
-        print "++++++++>", fil, "is unchanged"
+        if not BUILDJUST:
+            print "++++++++>", fil, "is unchanged"
 
 if buildMaster and errors == 0:
     print "Building master wav file"
