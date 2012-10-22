@@ -36,15 +36,15 @@ for e in sys.argv[1:]:
     if e[:2] == "--":
         try:
             opt, val = e.split("=")
+            try:
+                val = int(val)
+            except:
+                pass
         except:
             opt = e
             val = True
         if opt == "--force":
             BUILDJUST = val
-            try:
-                BUILDJUST = int(BUILDJUST)
-            except:
-                pass
         else:
             globals()[opt[2:].upper()] = val
     else:
@@ -183,5 +183,7 @@ if errors:
 else:
     if PLAY:
         cmd = "mplayer " + scene + ".wav"
+        if type(PLAY) == type(0):
+            cmd += " -ss " + str(PLAY)
         print cmd
         os.system(cmd)
