@@ -30,21 +30,24 @@ if len(sys.argv) < 2:
 text2vox = findPy("text2vox.py")
 print "text2vox:", text2vox
 
-scene = sys.argv[1]
 CHANGES = False
-if len(sys.argv) > 2:
-    for e in sys.argv[2:]:
-        if e[:2] == "--":
-            if e == "--changes":
-                CHANGES = True
-            else:
-                opt, val = e.split("=")
-                if opt == "--force":
-                    BUILDJUST = val
-                    try:
-                        BUILDJUST = int(BUILDJUST)
-                    except:
-                        pass
+PLAY = False
+for e in sys.argv[1:]:
+    if e[:2] == "--":
+        if e == "--changes":
+            CHANGES = True
+        elif e == "--play":
+            PLAY = True
+        else:
+            opt, val = e.split("=")
+            if opt == "--force":
+                BUILDJUST = val
+                try:
+                    BUILDJUST = int(BUILDJUST)
+                except:
+                    pass
+    else:
+        scene = e
 
 f = open(scene)
 lines = f.readlines()

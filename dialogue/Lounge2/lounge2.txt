@@ -200,7 +200,12 @@ Exactly.
 For your generation | real life | top side | anything but the Grid is just |0.4| irrelevant.
 
 {Annai}
-Ok. Sort of. Not totally irrelevant.
+Ok. Sort of. Not totally 
+
+{Annai;voice=ogi_as_diphone}
+irrelevant.
+
+{Annai}
 Just || obsolete. Off line.
 
 {Thisone}
