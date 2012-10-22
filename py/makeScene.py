@@ -33,10 +33,18 @@ print "text2vox:", text2vox
 scene = sys.argv[1]
 CHANGES = False
 if len(sys.argv) > 2:
-    if sys.argv[2].lower() == "changes":
-        CHANGES = True
-    else:
-        BUILDJUST = sys.argv[2]
+    for e in sys.argv[2:]:
+        if e[:2] == "--":
+            if e == "--changes":
+                CHANGES = True
+            else:
+                opt, val = e.split("=")
+                if opt == "--only":
+                    BUILDJUST = val
+                    try:
+                        BUILDJUST = int(BUILDJUST)
+                    except:
+                        pass
 
 f = open(scene)
 lines = f.readlines()
@@ -88,7 +96,9 @@ while i < len(lines):
 
 buildMaster = False
 errors = 0
+index = -1
 for fil in files:
+    index += 1
 ##    print "-----------------------", fil
 ##    print files[fil],
     rewrite = False
@@ -101,8 +111,11 @@ for fil in files:
     else:
         rewrite = True
 
-    if BUILDJUST:
-        rewrite = BUILDJUST == fil
+    if BUILDJUST != None:
+        if type(BUILDJUST) == type(0):
+            rewrite = BUILDJUST == index
+        else:
+            rewrite = BUILDJUST == fil
 
     if rewrite:
         buildMaster = True
@@ -131,10 +144,10 @@ for fil in files:
                 print cmd
                 os.system(cmd)
     else:
-        if not BUILDJUST:
+        if BUILDJUST == None:
             print "++++++++>", fil, "is unchanged"
 
-if (not BUILDJUST) and (buildMaster and errors == 0):
+if (BUILDJUST == None) and (buildMaster and errors == 0):
     print "Building master wav file"
     cmd = "sox "
     for fil in files:

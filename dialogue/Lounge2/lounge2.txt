@@ -30,7 +30,7 @@ But there was significance in what he was saying | as well as the images. Do you
 Of course I listen to the lyrics. I listen to everything. I breathe it in. Doesn't it move you?
 
 {Thisone}
-It scares me | a bit. Music and lyrics like that have to be... alive. Even if software could think | it wouldn't come up with anything like that.
+It scares me | a bit. Music and lyrics like that have to be | alive. Even if software could think | it wouldn't come up with anything like that.
 
 {Annai}
 How do you know what software would or wouldn't do?
@@ -58,7 +58,7 @@ As a 4^rationalist | that's a much better hypothesis than buying this A I crap.
 Have you ever known Finns to be that creepy | as you say?
 
 {Thisone}
-definitely.
+Definitely.
 
 {Annai}
 You're just prejudiced against Finland. They invented the grid | and everyone else is still jealous.
@@ -77,7 +77,7 @@ Where are you from | anyway?
 in real life?
 
 {Annai}
-(smiles) yes | your other life. Outside.
+Yes | your other life. Outside.
 
 {Thisone}
 Let's just say I'm not from Finland.
@@ -167,7 +167,7 @@ What did you mean just now?
  You think I sound old | right?
 
 {Annai}
-(cocks head) Well | I think it's obvious you're older than me.
+Well | I think it's obvious you're older than me.
 
 {Thisone}
 How can you tell?
@@ -207,7 +207,10 @@ Just || obsolete. Off line.
 Off line | heh. I get it.
 
 {Annai}
-maybe you do | but you've still got that meme tucked away || that we're just here for the short term. It's a fix up for a problem. One day | top side will be restored | and real life will be meaningful again.
+Maybe you do.
+But you've still got that meme tucked away || that we're just here for the short term. 
+It's a fix up for a problem. 
+One day | top side will be restored | and real life will be meaningful again.
 
 {Thisone}
 Don't you believe that?
@@ -224,13 +227,16 @@ For you | this is life. It's everything.
 Precisely. And for you | too. You just can't admit it.
 
 {Thisone}
-Maybe you're right. Even as the interface gear gets better and better | I never feel like this is home. I'm homesick | I guess.
+Maybe you're right. 
+Even as the interface gear gets better and better | I never feel like this is home. 
+I'm homesick | I guess.
 
 {Annai}
 But this is my home. I never had anything else.
 
 {Thisone}
-We're probably only a few years apart. In age | I mean.
+We're probably only a few years apart. 
+In age | I mean.
 
 {Annai}
 It might as well be light years.
@@ -239,10 +245,12 @@ It might as well be light years.
 Distance is a vec four.
 
 {Annai}
-Yes | space and time. 3^Minkowski metric. You know the grid is non relativistic?
+Yes | space and time. 
+3^Minkowski metric. You know the grid is non relativistic?
 
 {Thisone}
-Not exactly. There's still network lag. They work it into the physics somehow.
+Not exactly. There's still network lag. 
+They work it into the physics somehow.
 
 {Annai}
 You wanna catch More eh shun tonight?
@@ -257,26 +265,26 @@ You should give him a chance. He's really changed my life.
 What do you mean | changed your life?
 
 {Annai}
-I mean what I say. I was drifting. More eh shun keeps me grounded. The music | the people. We have a special bond.
+I mean what I say. I was drifting. More eh shun keeps me grounded. 
+The music | the people. We have a special bond.
 
 {Thisone}
 Well | I think he's some sort of 3^Svengali.
 
 {Annai}
-What? (blank expression as she looks it up) Oh ||
- I see. No | it's not like that.
+What? |||| Oh || I see. No | it's not like that.
 
 {Thisone}
 Jim jones then | or David Koresh.
 
 {Annai}
 |||
-That's terrible
- He's not like that at all. You think he wants to kill us?
+That's terrible.
+He's not like that at all. You think he wants to kill us?
 
 {Thisone}
 Maybe not 4^literally.
-I think he || or it || whatever | they | I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
+I think he || or it || whatever ||| they I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
 
 {Annai}
 |||
@@ -289,7 +297,9 @@ I hear he was.
 Founded his own nation at sea.
 
 {Thisone}
-Chained people to desks for minor infractions. Swindled millions out of their life savings | separated them from their 3^families.
+Chained people to desks for minor infractions. 
+Swindled millions out of their life savings.
+Separated them from their 3^families.
 
 {Annai}
 Well | I don't think that More eh shun has any plans like that. Plus | his music is good. Hubbard's writing was terrible | apparently.
@@ -299,7 +309,7 @@ Yeah | he didn't cut it as an artist. But he was a pretty good cult leader.
 
 {Annai}
 Do you see the good in anyone?
- Or are you always on the defensive?
+Or are you always on the defensive?
 
 {Thisone}
 I see good in you.
@@ -319,10 +329,10 @@ Whatever. All is forgiven.
 
 {Annai}
 All will be revealed.
-||
+|
 
 {Thisone}
-oh. Him again.
+Oh. Him again.
 
 {Annai}
 You should talk to him someday. He's brilliant. It's not just the music. He has ideas that will change the world.
@@ -338,7 +348,7 @@ You mean he's planning to go grid wide?
 
 {Annai}
 Well it's all viral of course. His stats are growing slowly but steadily. He's not in a hurry.
-||||
+|||
 
 {Annai}
 He's running multiples | you know. It's not just are little group.
