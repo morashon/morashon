@@ -41,12 +41,14 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 145%3;Just 120%140%because you 110%6_1;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
 
 {Thisone}
-I've heard all the arguments || going back to Dennett | refuting Searle | etcetera and so on. 
+110%I've heard |0.01| 194%ah 93%all 99%the 101%4,1,1;arguments || 111%3.5;going back to 120%90%5,2_1;Dennett | 
+3;refuting 5_-1;Searle | 100%80%77%3;etcetera |0.03| 110%and 5;so 90%1.5;on. 
+
+{Thisone}
 Code writes code | data is code. 
 Evolution works its magic | explicitly or implicitly. 
 Complexity leads to emergence. 
 
-{Thisone}
 But it's all theoretical. 
 There's never been any evidence that it could really exist. 
 Even though the grid has been on line for thirty plus years | running peta flops of simulated evolution per second.
