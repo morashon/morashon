@@ -4,7 +4,7 @@
 122%3;Do you 111%4;drink 143%2;for 91%3_5.5;real?
 
 {Thisone}
-Just water or juice. I can't take alcohol.
+Just water 2;or juice. I can't take alcohol.
 
 {Annai}
 You left without saying goodbye.
