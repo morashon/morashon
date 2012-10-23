@@ -14,9 +14,9 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 
 {Annai}
 90%11_-8;Heh. 114%3;I 5;wish 3;it were that 105%90%6,2;simple.
-|||
+||
 
-{Thisone;speed=1.03}
+{Thisone;speed=1.01}
 120%4;What 125%was that 100%6;song 3;about?
 ||
 114%4;What 158%was 107%3.8;he 136%5.85;take 112%3;ing |0.025| 115%from 118%you 110%and 120%the 88%3.2;rest?
@@ -27,7 +27,7 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 4;Why shouldn't we 4,5.5;indulge 2;in 2,2,2,5,2;imagination?
 
 {Thisone;speed=1.04}
-111%But 144%there 122%was 112%4,5,2;significance 110%in what 130%he was 120%5.5;say 90%2;ing | 115%as 120%well as 111%the 100%78%4.5,2.5,1.5;images. Do you listen to the lyrics?
+111%But 144%there 122%was 112%4,5,2;significance 110%in what 130%he was 120%5.5;say 90%2;ing | 115%as 120%well as 61%the 100%78%4.5,2.5,1.5;images. Do you listen to the lyrics?
 
 {Annai}
 111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 100%6,3,2.5;everything. I 70%5_4;breathe 100%it 2;in. 116%3;Doesn't it 92%2;move 4_5;you?
@@ -52,7 +52,7 @@ Complexity leads to 4,4,1;emergence.
 {Thisone;speed=1.04}
 3;But it's 163%3_3.5;a 98%3_1.6;all 3^3,5,2_-1;theoretical. 
 3;There's 4;never been any 4,2,2;evidence that it could really 2,5;exist. 
-1^5;Even 2.3;though the grid has been on line for thirty plus 4.5;years | 3;running 5,2;peta flops of 3.5;simulated 3.5,3.5,3.5,2.5;evolution 3.5;per 5,2_2;second.
+1^5;Even 2.3;though 110%the grid 135%has been 153%onn 105%line for 135%thirty plus 100%4.5;years | 3;running 5,2;peta flops of 3.5;simulated 3.5,3.5,3.5,2.5;evolution 3.5;per 5,2_2;second.
 
 {Thisone;speed=0.99}
 108%2.5;The 4;most 3;I've 133%heard 110%2;of 119%104%3;getting 133%out 105%of 85%the 110%4;lab |0.05| 115%3;is somewhere 115%100%between a 4.5;rat 133%2;and 100%a 120%highly 110%2,3,4;autistic 5,1;savant.
@@ -61,9 +61,6 @@ Complexity leads to 4,4,1;emergence.
 140%3;So you 111%5;still 2;think 145%it's 111%a bunch of Finnish 105.5%jokers with some new 119%113%5,1;body 90%gear.
 
 {Thisone}
-There's never been any evidence that it could really exist. 
-Even though the grid has been on line for thirty plus years | running peta flops of simulated evolution per second.
-The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
 As a 4^rationalist | that's a much better hypothesis than buying this A I crap.
 
 {Annai}
