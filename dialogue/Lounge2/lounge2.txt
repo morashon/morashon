@@ -4,7 +4,7 @@
 122%3;Do you 111%4;drink 143%2;for 91%3_5.5;real?
 
 {Thisone}
-Just water 2.5;or juice. 122%I can't take 4,1;alcohol.
+Just 120%44%water 111%2.5;or 90%juice. 122%3;I 168%4;can't 120%take 110%110%80%3,1.5,1_-2;alcohol.
 
 {Annai}
 122%You 5;left 3;without saying 122%64%2,7.5_-2;goodbye.
@@ -14,12 +14,12 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 
 {Annai}
 90%11_-8;Heh. 114%3;I 5;wish 3;it were that 105%90%6,2;simple.
-||||
+|||
 
 {Thisone}
-120%3;What 125%was that 100%5;song 2;about?
+120%4;What 125%was that 100%6;song 3;about?
 ||
-114%3;What 132%was he 113%5.5;take 102%2;ing 115%from 118%you 110%and 120%the 88%3.2;rest?
+114%4;What 158%was 107%3.8;he 123%5.85;take 95%3;ing |0.025| 115%from 108%you 110%and 120%the 88%3.2;rest?
 
 {Annai}
 125%3;It's just 125%125%90%3,5.6,2;expression. 
@@ -33,7 +33,7 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 100%6,3,2.5;everything. I 70%4_4;breathe 100%it 2;in. 116%3;Doesn't it 92%2;move 4_5;you?
 
 {Thisone}
-4;It 6;scares 3;me a bit. 4;Music 2;and 3;lyrics 2;like 4;that |0.11| 123%3;have to 122%be 80%60%2,4;alive. 
+4;It 6;scares 3;me a bit. 4;Music 2;and 3;lyrics 2;like 4;that | 123%3;have to 122%be 80%60%2,4;alive. 
 1^110%3;Even if 2^software could 88%6_2;think | 112%2.7;it 1^wouldn't come up with 5,3,2;anything 1.1;like 90%4_1;that.
 
 {Annai}
