@@ -41,23 +41,29 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 145%3;Just 120%140%because you 110%6_1;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
 
 {Thisone}
-110%I've heard |0.01| 194%ah 93%all 99%the 101%4,1,1;arguments || 111%3.5;going back to 120%90%5,2_1;Dennett | 
+110%I've heard |0.01| 163%5_3.5;ah 98%3_1.6;all 99%4;the 101%4,1,1;arguments || 111%3.5;going back to 120%90%5,2_1;Dennett | 
 3;refuting 5_-1;Searle | 100%80%77%3;etcetera |0.03| 110%and 5;so 90%1.5;on. 
 
-{Thisone}
-Code writes code | data is code. 
-Evolution works its magic | explicitly or implicitly. 
-Complexity leads to emergence. 
+{Thisone;speed=1.036}
+5;Code 4;writes |0.03| 2_1;code | 95%5;data 3;is 2_1;code. 
+Evolution works its 4_-2;magic | 3;explicitly or 4,2,2,4_5;implicitly. 
+Complexity leads to 4,4,1;emergence. 
 
-But it's all theoretical. 
-There's never been any evidence that it could really exist. 
-Even though the grid has been on line for thirty plus years | running peta flops of simulated evolution per second.
+{Thisone;speed=1.04}
+3;But it's 163%3_3.5;a 98%3_1.6;all 3^3,5,2_-1;theoretical. 
+3;There's 4;never been any 4,2,2;evidence that it could really 2,5;exist. 
+5,2;Even though the grid has been on line for thirty plus 5;years | 3;running 5,2;peta flops of simulated evolution per 5,2;second.
+
+{Thisone}
 The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
 
 {Annai}
 So you still think it's a bunch of Finnish jokers with some new body gear.
 
 {Thisone}
+There's never been any evidence that it could really exist. 
+Even though the grid has been on line for thirty plus years | running peta flops of simulated evolution per second.
+The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
 As a 4^rationalist | that's a much better hypothesis than buying this A I crap.
 
 {Annai}
