@@ -75,6 +75,9 @@ def main(scene):
     index = -1
     for fil in files:
         index += 1
+        if kbhit():
+            print "******************************** USER BREAK ************************************"
+            break
     ##    print "-----------------------", fil
     ##    print files[fil],
         rewrite = False
