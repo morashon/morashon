@@ -1,7 +1,7 @@
 {include:../actors.txt}
 
 {Annai}
-Do you drink for real?
+122%3;Do you 111%4;drink 143%2;for 91%3_5.5;real?
 
 {Thisone}
 Just water or juice. I can't take alcohol.
@@ -181,11 +181,10 @@ I'm not pre grid. I'm not that old.
 
 {Annai}
 No | I don't mean biologically | that you're 4^literally older than the grid.
-
-{Thisone}
 That would be old. I just mean | it's not everything to you. You still think about real life || top side.
 
-real life and top side are two very different things.
+{Thisone}
+Real life and top side are two very different things.
 
 {Annai}
 Exactly.

@@ -32,6 +32,7 @@ print "text2vox:", text2vox
 
 CHANGES = False
 PLAY = False
+
 for e in sys.argv[1:]:
     if e[:2] == "--":
         try:
@@ -50,6 +51,7 @@ for e in sys.argv[1:]:
     else:
         scene = e
 print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY
+
 
 f = open(scene)
 lines = f.readlines()
