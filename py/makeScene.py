@@ -123,7 +123,7 @@ def main(scene):
             if (not NOBUILD) and (BUILDJUST == None):
                 print "++++++++>", fil, "is unchanged"
 
-    if BUILD or ((not NOBUILD) and (BUILDJUST == None) and (buildMaster and errors == 0)):
+    if (not NOBUILD) and (BUILDJUST == None) and (buildMaster and errors == 0):
         print "Building master wav file"
         cmd = "sox "
         for fil in files:
@@ -177,7 +177,6 @@ print "text2vox:", text2vox
 CHANGES = False
 PLAY = False
 WATCH = False
-BUILD = False
 NOBUILD = False
 
 for e in sys.argv[1:]:
