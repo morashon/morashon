@@ -4,24 +4,26 @@
 122%3;Do you 111%4;drink 143%2;for 91%3_5.5;real?
 
 {Thisone}
-Just water 2.5;or juice. I can't take 4,1;alcohol.
+Just water 2.5;or juice. 122%I can't take 4,1;alcohol.
 
 {Annai}
-You left without saying goodbye.
+122%You 5;left 3;without saying 122%64%2,7.5_-2;goodbye.
 
 {Thisone}
-That was creepy. More eh shun is some sort of scam.
+That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115%sort of 81%7_-2;scam.
 
 {Annai}
-Heh. I wish it were that simple.
+90%11_-8;Heh. 114%3;I 5;wish 3;it were that 105%90%6,2;simple.
 ||||
 
 {Thisone}
-What was that song about?
- What was he taking from you and the rest?
+120%3;What 125%was that 100%5;song 1.5;about?
+||
+114%3;What 132%was he 121%90%5.5,1.5;taking |0.03| 105%from 120%you and the 88%2.5;rest?
 
 {Annai}
-It's just expression. We live in a fantasy world | why shouldn't we indulge in imagination?
+125%3;It's just 125%125%90%3,5,2;expression. 
+We live in a fantasy world | why shouldn't we indulge in imagination?
 
 {Thisone}
 But there was significance in what he was saying | as well as the images. Do you listen to the lyrics?

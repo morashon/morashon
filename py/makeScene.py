@@ -120,10 +120,10 @@ def main(scene):
                     print cmd
                     os.system(cmd)
         else:
-            if BUILDJUST == None:
+            if (not NOBUILD) and (BUILDJUST == None):
                 print "++++++++>", fil, "is unchanged"
 
-    if (BUILDJUST == None) and (buildMaster and errors == 0):
+    if (not NOBUILD) and (BUILDJUST == None) and (buildMaster and errors == 0):
         print "Building master wav file"
         cmd = "sox "
         for fil in files:
@@ -176,6 +176,8 @@ print "text2vox:", text2vox
 
 CHANGES = False
 PLAY = False
+WATCH = False
+NOBUILD = False
 
 for e in sys.argv[1:]:
     if e[:2] == "--":
@@ -198,9 +200,12 @@ print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY, "WATCH:", WAT
 
 if WATCH:
     t = time.time()
+    print "waiting for changes to", scene
     while not kbhit():
         if os.stat(scene).st_mtime > t:
+            t = time.time()
             main(scene)
+            print "waiting for changes to", scene
         time.sleep(0.5)
 else:
     main(scene)
