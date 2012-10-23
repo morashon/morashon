@@ -27,17 +27,17 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 4;Why shouldn't we 4,5.5;indulge 2;in 2,2,2,5,2;imagination?
 
 {Thisone;speed=1.04}
-111%But 144%there 122%was 112%4,5,2;significance 110%in what 130%he was 120%5.5;say 90%2;ing | 115%as 120%well as 61%the 100%78%4.5,2.5,1.5;images. Do you listen to the lyrics?
+111%But 144%there 122%was 112%4,5,2;significance 110%in what 130%he was 120%5.5;say 90%2;ing | 115%as 124%well as 61%the 100%78%4.5,2.5,1.5;images. Do you listen to the lyrics?
 
 {Annai}
-111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 100%6,3,2.5;everything. I 70%5_4;breathe 100%it 2;in. 116%3;Doesn't it 92%2;move 4_5;you?
+111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 105%6,3,2.5;everything. I 70%5_4;breathe 100%it 52%2;in. 122%3;Doesn't it 92%2;move 4_5;you?
 
 {Thisone;speed=1.02}
 4;It 6;scares 3;me a bit. 4;Music 2;and 3;lyrics 2;like 4;that |0.2| 123%3;have to 122%be 80%60%2,4;alive. 
 1^110%3;Even if 2^software could 88%6_2;think | 112%2.7;it 1^wouldn't come up with 5,3,2;anything 1.1;like 90%4_1;that.
 
-{Annai;speed=1.04}
-110%How 118%do 96%5_3;you 128%2.6;know what software 91%would 122%or wouldn't 82%6_-2;do?
+{Annai;speed=1.05}
+110%How 128%do 96%5_3;you 128%2.6;know what software 91%would 122%or wouldn't 82%6_-2;do?
 145%3;Just 120%140%because you 110%6_1;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
 
 {Thisone}
@@ -53,45 +53,45 @@ Complexity leads to 4,4,1;emergence.
 3;But it's 163%3_3.5;a 98%3_1.6;all 3^3,5,2_-1;theoretical. 
 3;There's 4;never been any 4,2,2;evidence that it could really 2,5;exist. 
 
-{Thisone;speed=0.98}
+{Thisone}
 1^5;Even 2.3;though 110%the grid 135%has been 153%onn 105%line for 135%thirty plus 100%4.5;years | 3;running 5,2;peta flops of 3.5;simulated 3.5,3.5,3.5,2.5;evolution 3.5;per 5,2_2;second.
-
-{Thisone;speed=0.99}
+|
+{Thisone}
 108%2.5;The 4;most 3;I've 133%heard 110%2;of 119%104%3;getting 133%out 105%of 85%the 110%4;lab |0.05| 115%3;is somewhere 115%100%between a 4.5;rat 133%2;and 100%a 120%highly 110%2,3,4;autistic 5,1;savant.
 
 {Annai;speed=1.04}
 140%3;So you 111%5;still 2;think 145%it's 111%a bunch of Finnish 105.5%jokers with some new 119%113%5,1;body 90%gear.
 
-{Thisone}
-As a 4^rationalist | that's a much better hypothesis than buying this A I crap.
+{Thisone;speed=1.04}
+As a 4^5,2.5;rationalist | that's a much better 2,4,2;hypothesis than buying this 95%3;A |0.03| 5;I |0.02| 1.5;crap.
 
 {Annai}
-Have you ever known Finns to be that creepy | as you say?
+110%3;Have you 122%5;ever 110%2;known 102%6_-2;Finns 178%1_1;to 133%2.5;be that 118%6,5_3;creepy | 3_3;as 3_3;you 3_4;say?
 
 {Thisone}
-Definitely.
+5,1;Definitely.
 
 {Annai}
-You're just prejudiced against Finland. They invented the grid | and everyone else is still jealous.
+125%5;You're 2;just 133%prejudiced against 164%116%5,2;Finland. 115%5;They 3;invented the 90%5;grid | 118%3;and 5,5,2;everyone 4;else 2;is still 5,1.5;jealous.
 ||||
 
 {Annai}
-I might be Finnish | you know. Apologize to Finland.
+125%3;I might be 125%101%6,2;Finnish 153%you 120%know. 119%3,5,2,1;Apologize |0.02| 187%0_1;to 144%100%6,2_-5;Finland.
 
 {Thisone}
-Ok | I apologize. To Finland. Can we move on now?
+O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 90%5;on 5_3;now?
 
 {Annai}
-Where are you from | anyway?
+132%3;Where are 120%2;you 100%8_-2;from |.1| 120%120%91%5,2_2;anyway?
 
 {Thisone}
-in real life?
+106%3;in 5;real 90%5_3;life?
 
 {Annai}
-Yes | your other life. Outside.
+90%6_-5;Yes. 110%3;your 118%5,2;other life. 5,2;Outside.
 
 {Thisone}
-Let's just say I'm not from Finland.
+120%3;Let's just say I'm 133%not from 144%82%5.6,3_-5;Finland.
 
 {Annai}
 I guessed as much. I suppose it doesn't matter anymore | unless you're silly enough to care about time zones.
