@@ -10,13 +10,16 @@ rebuild xml & wav for any file that is changed (ala make)
 combine wavs into master wav
 
 """
-import sys, os
-from findPy import *
+import sys, os, time
 from ordereddict import OrderedDict
+from findPy import *
+from kbhit_safe import *
 
 BUILDPARTS = False
 BUILDJUST = None
 BUILDDIR = "build"
+
+ORIGDIR = os.path.abspath(".")
 
 def main(scene):
     f = open(scene)
@@ -155,6 +158,8 @@ def main(scene):
                 cmd += " -ss " + str(PLAY)
             print cmd
             os.system(cmd)
+    os.chdir(ORIGDIR)
+#end main
 
 if not os.path.exists(BUILDDIR):
     cmd = "mkdir " + BUILDDIR
@@ -189,6 +194,14 @@ for e in sys.argv[1:]:
             globals()[opt[2:].upper()] = val
     else:
         scene = e
-print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY
+print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY, "WATCH:", WATCH
 
-main(scene)
+if WATCH:
+    t = time.time()
+    while not kbhit():
+        if os.stat(scene).st_mtime > t:
+            main(scene)
+        time.sleep(0.5)
+else:
+    main(scene)
+
