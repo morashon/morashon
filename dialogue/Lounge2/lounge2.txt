@@ -4,39 +4,39 @@
 122%3;Do you 111%4;drink 143%2;for 91%3_5.5;real?
 
 {Thisone}
-Just 120%44%water 111%2.5;or 90%juice. 122%3;I 168%4;can't 120%take 110%110%80%3,1.5,1_-2;alcohol.
+Just 120%44%water 111%2.5;or 90%juice. 122%3;I 168%4;can't 120%take 117%110%80%3,1.5,1_-2;alcohol.
 
-{Annai}
+{Annai;speed=1.02}
 122%You 5;left 3;without saying 122%64%2,7.5_-2;goodbye.
 
-{Thisone}
+{Thisone;speed=1.04}
 That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115%sort of 81%7_-2;scam.
 
 {Annai}
 90%11_-8;Heh. 114%3;I 5;wish 3;it were that 105%90%6,2;simple.
 |||
 
-{Thisone}
+{Thisone;speed=1.03}
 120%4;What 125%was that 100%6;song 3;about?
 ||
-114%4;What 158%was 107%3.8;he 123%5.85;take 95%3;ing |0.025| 115%from 108%you 110%and 120%the 88%3.2;rest?
+114%4;What 158%was 107%3.8;he 136%5.85;take 112%3;ing |0.025| 115%from 118%you 110%and 120%the 88%3.2;rest?
 
-{Annai}
+{Annai;speed=1.1}
 125%3;It's just 125%125%90%3,5.6,2;expression. 
 4;We live in a 5,3,2;fantasy 91%world.
 4;Why shouldn't we 4,5.5;indulge 2;in 2,2,2,5,2;imagination?
 
-{Thisone}
+{Thisone;speed=1.04}
 111%But 144%there 122%was 112%4,5,2;significance 110%in what 130%he was 120%5.5;say 90%2;ing | 115%as 120%well as 111%the 100%78%4.5,2.5,1.5;images. Do you listen to the lyrics?
 
 {Annai}
-111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 100%6,3,2.5;everything. I 70%4_4;breathe 100%it 2;in. 116%3;Doesn't it 92%2;move 4_5;you?
+111%Of 7;curse 3;I listen to the 90%lyrics. I 133%listen to 100%6,3,2.5;everything. I 70%5_4;breathe 100%it 2;in. 116%3;Doesn't it 92%2;move 4_5;you?
 
-{Thisone}
-4;It 6;scares 3;me a bit. 4;Music 2;and 3;lyrics 2;like 4;that | 123%3;have to 122%be 80%60%2,4;alive. 
+{Thisone;speed=1.02}
+4;It 6;scares 3;me a bit. 4;Music 2;and 3;lyrics 2;like 4;that |0.2| 123%3;have to 122%be 80%60%2,4;alive. 
 1^110%3;Even if 2^software could 88%6_2;think | 112%2.7;it 1^wouldn't come up with 5,3,2;anything 1.1;like 90%4_1;that.
 
-{Annai}
+{Annai;speed=1.06}
 110%How do 96%5_3;you 128%2.6;know what software would or wouldn't 82%6_-2;do?
 145%3;Just 120%140%because you 110%6_1;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
 
