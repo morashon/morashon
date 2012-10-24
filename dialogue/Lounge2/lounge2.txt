@@ -144,7 +144,7 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 
 {Thisone}
 5;I'm 90%3;sorry.
-111%3;I don't know your 100%54%100%100%3,2.2,5,2;situation. 
+111%3;I don't know your 100%44%104%100%3,2.2,5,2;situation. 
 3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%some thing.
 
 {Annai;speed=1.05;pitch=0.6}
@@ -249,39 +249,48 @@ You 5;still 3;think about 5;real 3;life.
 For 6;your 3;generation | 6;real 3;life | 6;top 3;side | 4;anything but the 6;Grid | 3;is just |0.4| 3,6,2;irrelevant.
 
 {Annai}
-Ok. Sort of. Not totally irrelevant.
+Ok. Sort of. Not totally 4,5,3;irrelevant.
 Just || obsolete. Off line.
 
 {Thisone}
-Off line | heh. I get it.
+95%Off 70%3_-1;line.
+108%6_-4;heh. 99%I 2;get it.
 
 {Annai}
-Maybe you do.
-But you've still got that meme tucked away || that we're just here for the short term. 
-It's a fix up for a problem. 
-One day | top side will be restored | and real life will be meaningful again.
+Maybe you 80%5_-2;do.
+110%3;But you've 5;still 3;got that 120%meme tucked 120%90%away || 115%that 133%we're 117%just 126%hear fur the 100%5;shurt 95%2;term.
+115%3;It's a fix up for a 5,2;problem. 
+118%One 3;day |0.4| top side will be 4,2;restored | and 2.7;real life will be 112%6,2;meaningful 110%99%again.
 
-{Thisone}
-Don't you believe that?
- If not in are time | then someday.
+{Thisone;pitch=-.5}
+110%Don't 133%you 111%4,6;believe 100%that?
+If not in 6;are 2;time | 3;then 5,2;someday.
+
+{Annai;speed=1.1}
+71%9_-2;Hah. 
+3;You listen to the 139%5;blog 155%2;go 100%heads. 
+The 4,6,3,2;establishment || the folks who 5;run 2;everything. 
+|
+3;They've got a 5;vested 2^2;interest in are 3,5,2;believing. 
+But 70%5.5;we || 100%3;I mean | 3;those of us who have 4;little 5,3;memory of 3,5;before || 4;we see it 6,3,2;differently.
+
+{Thisone;pitch=-.5}
+For 70%6_-2;you | 101%3;this is 5;life. It's 6,3,2;everything.
+
+{Annai;speed=1.1}
+3,5,2;Precisely.
+108%2.5;And 133%for 90%4;you |0.03| 70%8_-1;too. 
+123%You just can't 3,6;admit 2;it |0.06| 100%yet.
+
+{Thisone;speed=1.06}
+Maybe you're 80%6;right. 
+1^Even as the interface gear gets better and 100%80%6,3;better.
+3;I never feel like this is 80%5.6;home. 
+I'm 6,2.5_-3;homesick |0.11| 80%I guess.
 
 {Annai}
-Hah. You listen to the blog go heads. The establishment | the folks who run everything. 
-They've got a vested interest in are believing. But we || I mean | those of us who have little memory of before || we see it differently.
-
-{Thisone}
-For you | this is life. It's everything.
-
-{Annai}
-Precisely. And for you | too. You just can't admit it.
-
-{Thisone}
-Maybe you're right. 
-Even as the interface gear gets better and better | I never feel like this is home. 
-I'm homesick | I guess.
-
-{Annai}
-But this is my home. I never had anything else.
+But this 6;is 3;my home.
+115%I never had anything 90%5.5_-3;else.
 
 {Thisone}
 We're probably only a few years apart. 
