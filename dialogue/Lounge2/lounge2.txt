@@ -38,7 +38,7 @@ That 2;was 5,1;creepy. | 133%5;More 177%2;eh 120%2;shun 85%is |0.04| 100%sum 115
 
 {Annai;speed=1.05}
 110%How 128%do 96%5_3;you 128%2.6;know what software 91%would 122%or wouldn't 82%6_-2;do?
-145%3;Just 120%140%because you 110%6_1;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
+145%3;Just 120%140%because you 110%8_-2;code | 148%3;doesn't mean you 140%know 5_4;squat 2;about 144%your 100%4;code. 122%Any 6;real 3;coder 2;knows 80%5_1;that.
 
 {Thisone}
 110%I've heard |0.01| 163%5_3.5;ah 98%3_1.6;all 99%4;the 101%4,1,1;arguments || 111%3.5;going back to 120%90%5,2_1;Dennett | 
@@ -55,7 +55,7 @@ Complexity leads to 4,4,1;emergence.
 
 {Thisone}
 1^5;Even 2.3;though 110%the grid 135%has been 153%onn 105%line for 135%thirty plus 100%4.5;years | 3;running 5,2;peta flops of 3.5;simulated 3.5,3.5,3.5,2.5;evolution 3.5;per 5,2_2;second.
-|
+
 {Thisone}
 108%2.5;The 4;most 3;I've 133%heard 110%2;of 119%104%3;getting 133%out 105%of 85%the 110%4;lab |0.05| 115%3;is somewhere 115%100%between a 4.5;rat 133%2;and 100%a 120%highly 110%2,3,4;autistic 5,1;savant.
 
@@ -91,40 +91,50 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 90%6_-5;Yes. 110%3;your 118%5,2;other life. 5,2;Outside.
 
 {Thisone}
-120%3;Let's just say I'm 133%not from 144%82%5.6,3_-5;Finland.
+174%3;Let's 155%just 115%say 144%I'm 133%not from 144%82%5.6,3_-5;Finland.
 
-{Annai}
-I guessed as much. I suppose it doesn't matter anymore | unless you're silly enough to care about time zones.
-
-{Thisone}
-I'm not.
-
-{Annai}
-Me either.
+{Annai;speed=1.06;pitch=0.5}
+111%3;I 5;guessed 2;as much. 111%I suppose 2;it doesn't 4.6,2;matter anymore | unless you're 4;silly 2;enough to 133%care about 111%5;time 2;zones.
 
 {Thisone}
-I'm on line most of the time I'm awake at this point. I jack out and sleep when I'm tired. Real life doesn't have much left for me. I think I'd call it quits if the grid ever went down.
+2;I'm 80%4;not.
 
 {Annai}
-What do you mean | went down?
+3;Me 50%5,2;either.
 
-{Thisone}
-The grid.
-This ||| are virtual world.
-It's based on real life infrastructure. 
-Never forget that. I'm old enough to remember hardware failure.
-
-{Annai}
-I've never heard anyone even consider something like that before.
-
-{Thisone}
-Well there's tons of redundancy | and it's hyper distributed | so || the chances are certainly remote. Asteroid | nuclear explosion | that sort of thing.
+{Thisone;speed=1.04;pitch=.6}
+3;I'm 93%onn 122%4;line 100%3;most of the time I'm 3,5;awake 2_0;at this 3;point. 
+3;I 120%jack 110%4;out |0.02| 162%3;and 100%5;sleep 120%2;when I'm 80%4_1;tired. 
+5;Real 3;life 1^doesn't have much 5;left 2;for 81%3;me. 
+105%2;I 4;think 3;I'd call it 5;quits 2;if 3;the 4;grid 2;ever went 70%3_-0.5;down.
 
 {Annai}
-Well I don't think I could handle it.
+122%4;What 144%do you 101%6;mean |0.11| 108%3;went down?
 
 {Thisone}
-We've still got are bodies | we keep them alive. I hope you're running Twitch || got to keep those muscles toned.
+60%6_-6;This.
+80%3;The 6_3;grid.
+|| 
+100%3;are 2^virtual 5;world.
+110%It's based on real life 110%110%120%80%5.5,2.7,2.7,2.7_0.5;infrastructure. 
+
+{Annai}
+108%I've never heard 118%anyone even 106%4,6.5,3;consider something 115%like that 92%2;before.
+
+{Thisone;speed=1.08}
+3;Well there's 5;tons 3;of 100%100%100%80%3,5,2;redundancy | 105%3;and it's 5,3;hyper 110%3,5,2;distributed.
+60%7_-3;so.
+||
+3;The 5,3;chances 3;are 2^certainly 3,5_-2;remote. 
+
+{Annai}
+90%5.5_0;Well.
+130%5;I 3;don't think I could 5,2;handle it.
+
+{Thisone;pitch=0.3}
+110%3.5;We've still got are 80%5,2;bodies | 110%3;we keep them 100%80%3,5;alive. 
+110%3;I hope you're running |0.02| 185%Too 110%5;witch.
+177%3;Got to 112%keep those 5,2;muscles toned.
 
 {Annai}
 Sure.
