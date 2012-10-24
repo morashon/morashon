@@ -106,7 +106,7 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 3;I'm 103%onn 83%4;line 100%3;most 109%of the time I'm 3,5;awake 2_0;at this 3;point. 
 3;I 120%2;jack 90%4.5;out |0.05| 162%3;and 110%5;sleep 120%2;when I'm 60%97%4_-2;tired. 
 5;Real 3;life 1^doesn't have much 5;left 2;for 81%3;me. 
-105%2;I 4;think 3;I'd call it 5;quits 2;if 3;the 4;grid 2;ever went 70%3_-0.5;down.
+105%2;I 4;think 115%3;I'd call it 5;quits 106%2;if 3;the 4;grid 2;ever went 70%3_-0.5;down.
 
 {Annai}
 122%4;What 144%do you 101%6;mean |0.11| 108%3;went down?
@@ -145,19 +145,19 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 {Thisone}
 5;I'm 90%3;sorry.
 111%3;I don't know your 100%54%100%100%3,2.2,5,2;situation. 
-3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%something.
+3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%some thing.
 
 {Annai;speed=1.05;pitch=0.6}
 73%5.5_1;No |0.08| 90%4;no. 
 5;Nothing 4;like 3;that. 
 110%3;I just 5;like 2;it here. 
-110%I don't 120%have 112%much 5;life |0.03| 2;outside.
+112.5%I don't 124%have 118%much 5;life |0.03| 2;outside.
 
 {Thisone;speed=1.05}
 66%6_-1;Well | 90%4;same 80%6_-1;here. 
 3;The 5;jet 2^3;bloggers go 5;on 2.4;about it | 3.5_5.5;right?
 3;Bragging about their brief 4;bike 3;rides 5;top 3;side.
-80%With 200%a 92%all 100%that 5;life 3;support 82%3_1;gear.
+80%With 200%a 92%all 103%that 111%5;life 3;support 82%3_1;gear.
 110%Sounds like a 66%7_-5;chore | 100%3;and an 4^95%95%95%91%3,5,2,3;unnecessary 77%5_-4;risk.
 
 {Annai}
@@ -173,13 +173,13 @@ I know a great 4;trail.
 {Annai}
 90%5_3;Sure. 5.5;Some 4_1;day.
 
-{Thisone;pitch=0.3}
+{Thisone;pitch=0.3;speed=1.05}
 108%3;You don't 5;sound 2;so 80%2_-1.6;sure.
 
 {Annai}
 97%6;Sure 103%3;of 91%5;what?
 
-{Thisone}
+{Thisone;speed=1.06}
 117%3;You don't 100%4.5;sound 112%2.5;like you 122%really 170%want to 100%go 5,2;biking.
 
 {Annai}
@@ -188,8 +188,8 @@ I know a great 4;trail.
 {Thisone}
 101%3;I never 92%5;said 3_-1;that.
 
-{Annai}
-No | but 2^113%229%4.5_3,1;eyecan 91%4;tell. It's your 117%5,2;attitude.
+{Annai;speed=1.07}
+No | but 2^113%229%4.5_3,1;eyecan 91%4;tell. 100%It's your 123%5,2;attitude.
 
 {Thisone}
 5;What 3;at 222%2;et |0.03| 90%3_0;ude?
@@ -198,7 +198,7 @@ No | but 2^113%229%4.5_3,1;eyecan 91%4;tell. It's your 117%5,2;attitude.
 111%111%101%5,5,2_1;Nevermind.
 ||||
 
-{Thisone;speed=1.08}
+{Thisone;speed=1.11}
 What did you 5;mean 3;just 90%3_-2;now?
 |
 You think I sound 80%5_-3;old | 1_6;right?
@@ -207,16 +207,16 @@ You think I sound 80%5_-3;old | 1_6;right?
 82%5.6_1;Well.
 110%3;I think it's 115%5,3,3;obvious you're 120%older than 71%5.5_2;me.
 
-{Thisone}
+{Thisone;speed=1.07}
 103%5;How 130%3;can you 71%6.6_-1;tell?
 
 {Annai;speed=1.05}
 114%3;Your'e 122%take on the 100%5;Grid |0.08| 118%2;fur one. 
-4^111%Scepticism about 133%5;More 177%2;eh 120%2;shun. 109%Just the whole 1^87%5_0;tude.
+4^111%Scepticism about 133%5;More 177%2;eh 120%2;shun. 109%Just the whole |0.06| 1^83%5_0;tude.
 ||
-It's 80%4_5;pre |0.01| 82%2;grid.
+It's || 93%3_3;pre |0.01| 85%2;grid.
 
-{Thisone}
+{Thisone;speed=1.04}
 3;I'm not 5;pre 2_-0.5;grid. 3;I'm 4;not 5.2;that 80%2.6_0;old.
 
 {Annai}
@@ -224,24 +224,29 @@ It's 80%4_5;pre |0.01| 82%2;grid.
 104%3;I 5;don't 3;mean 3,3,5;2;biologically.
 
 {Annai}
-106%3;That you're 4^literally 5,2;older than the 5;grid.
+106%3;That you're 4^91%81%71%91%literally 104%5,2;older than the 71%5;grid.
+5;That 2;would be 67%5;old.
+111%5;I 3;just 4;mean | it's not 118%6,3;everything |0.06| 113%to 100%5;you.
+You 5;still 3;think about 5;real 3;life.
+4;Top 2;side.
 
 {Thisone}
-That would be old. I just mean | it's not everything to you. You still think about real life || top side.
-Real life and top side are two very different things.
+118%5;Real 3;life |0.1| 114%and 110%6;top 120%3;side | are two very 2^120%different 80%7_-3;things.
 
 {Annai}
-Exactly.
+4,6,2;Exactly.
 
-{Thisone}
-Oh | I get it. Since we fucked up top side | and real life is just are little cub ease | and only the mega rich can go anywhere for real
+{Thisone;speed=1.03}
 |||
+60%Oh | 100%6;I 3;get it. 
+110%Since we fucked up 6;top 3;side | and real life is just are 1^little 6;cub 2;ease | 105%3;and only the 5,3;mega 100%5.5;rich 110%3;can go anywhere 90%for 73%5.6_0;real
+||
 
 {Annai}
-Exactly.
+4,2,5_4;Exactly.
 
 {Thisone}
-For your generation | real life | top side | anything but the Grid is just |0.4| irrelevant.
+For 6;your 3;generation | 6;real 3;life | 6;top 3;side | 4;anything but the 6;Grid | 3;is just |0.4| 3,6,2;irrelevant.
 
 {Annai}
 Ok. Sort of. Not totally irrelevant.
