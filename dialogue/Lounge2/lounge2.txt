@@ -158,31 +158,35 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 110%Sounds like a 66%7_-5;chore | 100%3;and an 4^95%95%95%91%3,5,2,3;unnecessary 77%5_-4;risk.
 
 {Annai}
-5;I 3;bike. 3;Well | you know | 4;here. For exercise. It's healthier than just relying on Twitch.
+108%5;I 3;bike. 3;Well | 120%4;you 2;know | 70%7_-1;here. 
+117%3;For 5,2,2;exercise. 
+118%3;It's 5.5,3;healthier than 101%just relying on 87%7_-4;Twitch.
 
-{Thisone}
-Sure. We should bike sometimes. I know a great trail | it's in 3^Germondo.
-
-{Annai}
-Sure. Some day.
-
-{Thisone}
-You don't sound sure.
+{Thisone;speed=1.04}
+70%6_-3;Sure. 111%We should bike 2.5;some time. 
+I know a great 4;trail.
+2.4;It's in 3^110%97%101%3,4.2,1.8;Germaundo.
 
 {Annai}
-Sure of what?
+90%5_3;Sure. 5.5;Some 4_1;day.
 
-{Thisone}
-You don't sound like you really want to go biking.
-
-{Annai}
-Well it's all bullshit | as you say.
-
-{Thisone}
-I never said that.
+{Thisone;pitch=0.3}
+108%3;You don't 5;sound 2;so 80%2_-1.6;sure.
 
 {Annai}
-No | but I can tell. It's your attitude.
+97%6;Sure 103%3;of 91%5;what?
+
+{Thisone}
+111%3;You don't 100%4.5;sound 112%2.5;like you 122%really 170%want to 100%go 5,2;biking.
+
+{Annai}
+111%Well | it's all 5,3;bullshit | as you 4_1;say.
+
+{Thisone}
+101%3;I never 92%5;said 3_-1;that.
+
+{Annai}
+No | but 151%4.5;I 3;can 91%tell. It's your 117%5,2;attitude.
 
 {Thisone}
 What attitude?
