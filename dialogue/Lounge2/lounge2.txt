@@ -292,57 +292,71 @@ I'm 6,2.5_-3;homesick |0.11| 80%I guess.
 But this 6;is 3;my home.
 115%I never had anything 90%5.5_-3;else.
 
-{Thisone}
-We're probably only a few years apart. 
-In age | I mean.
+{Thisone;speed=1.08}
+We're 108%5,3;probably 100%only a few years 3,5;apart. 
+In 80%5_-3;age |0.05| 3;I 80%2;mean.
 
-{Annai}
-It might as well be light years.
-
-{Thisone}
-Distance is a vec four.
-
-{Annai}
-Yes | space and time. 
-3^Minkowski metric. You know the grid is non relativistic?
+{Annai;speed=1.1}
+115%3;It 181%5;might 98%2.4;as 110%well 3;be 100%6;light 3;years.
 
 {Thisone}
-Not exactly. There's still network lag. 
-They work it into the physics somehow.
+Distance is a vec 70%5_-4;four.
 
-{Annai}
-You wanna catch More eh shun tonight?
-
-{Thisone}
-Not really.
-
-{Annai}
-You should give him a chance. He's really changed my life.
+{Annai;speed=1.1}
+80%4_4;Yes.
+Space and 90%6_-2;time. 
+3^4,6,2.8;Minkowski metric. 
+You 6;know 3;the grid is non 3,3,3,6,2;relativistic?
 
 {Thisone}
-What do you mean | changed your life?
+105%Not 4,6,3;exactly. 
+111%3.5;There's still 5,3;network lag. 
+110%They work it 125%into the 105%6,3;physics somehow.
 
-{Annai}
-I mean what I say. I was drifting. More eh shun keeps me grounded. 
-The music | the people. We have a special bond.
-
-{Thisone}
-Well | I think he's some sort of 3^Svengali.
-
-{Annai}
-What? |||| Oh || I see. No | it's not like that.
+{Annai;speed=1.08;pitch=.5}
+3.5;You 133%wanna 100%catch 133%3;More 177%5;eh 120%5;shun 5,5_5;tonight?
 
 {Thisone}
-Jim jones then | or David Koresh.
+Not 5,3;really.
+
+{Annai;speed=1.1}
+You should 120%give him a 99%5.5;chance. 3;He's 115%really changed my 92%5;life.
+
+{Thisone;speed=1.1}
+What do you 72%5_-1;mean | 100%3;changed your 80%4;life?
+
+{Annai;speed=1.04}
+115%I mean 163%what 133%3;I 90%8_-2;say. 
+117%3;I was 111%5,2;drifting. 
+133%5;More 177%2;eh 120%2;shun |0.1| keeps me 5,2;grounded. 
+||
+The 5,3;music | the 5,2;people. 
+111%We have a special 81%5_-5;bond.
+
+{Thisone}
+Well || 115%I think he's some 133%sort of 111%Sven 90%6,2.5;galley.
 
 {Annai}
+90%4_7;What? 
+|||| 
+77%6_-3;Oh.
+|| 
+5;I 3.5_1;see. 
+No | it's 133%5;not 2;like 81%4,-8;that.
+
+{Thisone}
+Jim 6;jones 2.5;then | or 4;David 100%79%4,5_-7;Koresh.
+
+{Annai;speed=1.04}
 |||
-That's terrible.
-He's not like that at all. You think he wants to kill us?
+50%8_-8;Uh.
+That's 7,2.5;terrible.
+115%He's 3;not like 128%that at 89%5.5;all. 
+100%You 135%think |0.06| 116%3;he 193%wants 151%to 115%3;kill 5_6;us?
 
 {Thisone}
-Maybe not 4^literally.
-I think he || or it || whatever ||| they I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
+Maybe not 4^6,3;literally.
+I think 5.5;he || or it || whatever ||| they I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
 
 {Annai}
 |||
