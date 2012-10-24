@@ -186,37 +186,46 @@ I know a great 4;trail.
 101%3;I never 92%5;said 3_-1;that.
 
 {Annai}
-No | but 151%4.5;I 3;can 91%tell. It's your 117%5,2;attitude.
+No | but 2^113%229%4.5_3,1;eyecan 91%4;tell. It's your 117%5,2;attitude.
 
 {Thisone}
-What attitude?
+5;What 3;at 222%2;et |0.03| 90%3_0;ude?
 
 {Annai}
-Nevermind.
+111%111%101%5,5,2_1;Nevermind.
 ||||
 
-{Thisone}
-What did you mean just now?
- You think I sound old | right?
+{Thisone;speed=1.08}
+What did you 5;mean 3;just 90%3_-2;now?
+|
+You think I sound 80%5_-3;old | 1_6;right?
 
 {Annai}
-Well | I think it's obvious you're older than me.
+82%5.6_1;Well.
+110%3;I think it's 115%5,3,3;obvious you're 120%older than 71%5.5_2;me.
 
 {Thisone}
-How can you tell?
+103%5;How 130%3;can you 71%6.6_-1;tell?
 
-{Annai}
-Your take on the Grid | for one. 
-4^Scepticism about More eh shun. Just the whole 1^tude. It's pre grid.
+{Annai;speed=1.05}
+114%3;Your'e 122%take on the 100%5;Grid |0.08| 118%2;fur one. 
+4^111%Scepticism about 133%5;More 177%2;eh 120%2;shun. 109%Just the whole 1^87%5_0;tude.
+||
+It's 80%4_5;pre |0.01| 82%2;grid.
 
 {Thisone}
-I'm not pre grid. I'm not that old.
+3;I'm not 5;pre 2_-0.5;grid. 3;I'm 4;not 5.2;that 80%2.6_0;old.
 
 {Annai}
-No | I don't mean biologically | that you're 4^literally older than the grid.
+70%5_1;No.
+104%3;I 5;don't 3;mean 3,3,5;2;biologically.
+
+{Annai}
+106%3;That you're 4^literally 5,2;older than the 5;grid.
+
+{Thisone}
+ | that you're 4^literally older than the grid.
 That would be old. I just mean | it's not everything to you. You still think about real life || top side.
-
-{Thisone}
 Real life and top side are two very different things.
 
 {Annai}
