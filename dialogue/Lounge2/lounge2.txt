@@ -137,20 +137,28 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 177%3;Got to 112%keep those 5,2;muscles toned.
 
 {Annai}
-Sure.
+70%7_-2;Sure.
 
 {Thisone}
-I'm sorry | I don't know your situation. Maybe you're sick | or on life support or something.
+5;I'm 90%3;sorry.
+111%3;I don't know your 100%54%100%100%3,2.2,5,2;situation. 
+3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%something.
+
+{Annai;speed=1.05;pitch=0.6}
+73%5.5_1;No |0.08| 90%4;no. 
+5;Nothing 4;like 3;that. 
+110%3;I just 5;like 2;it here. 
+110%I don't 120%have 112%much 5;life |0.03| 2;outside.
+
+{Thisone;speed=1.05}
+66%6_-1;Well | 90%4;same 80%6_1;here. 
+3;The 5;jet 2^3;bloggers go 5;on 2.4;about it | 3.5_5.5;right?
+3;Bragging about their brief 4;bike 3;rides 5;top 3;side.
+80%With 200%a 92%all 100%that 5;life 3;support 82%3_1;gear.
+110%Sounds like a 66%7_-5;chore | 100%3;and an 4^95%95%95%91%3,5,2,3;unnecessary 77%5_-4;risk.
 
 {Annai}
-No | no. Nothing like that. I just like it here. I don't have much life outside.
-
-{Thisone}
-Well | same here. The jet 2^bloggers go on about it | right?
-Bragging about their brief bike rides top side | with all that life support gear || sounds like a chore | and an unnecessary risk.
-
-{Annai}
-I bike. Well | you know | here. For exercise. It's healthier than just relying on Twitch.
+5;I 3;bike. 3;Well | you know | 4;here. For exercise. It's healthier than just relying on Twitch.
 
 {Thisone}
 Sure. We should bike sometimes. I know a great trail | it's in 3^Germondo.
