@@ -387,6 +387,7 @@ Chained 1^people to 5.5;desks 115%3.8;for minor 3^3.5,5,5_4.6;infractions.
 3;Or are you 5,3;always on the 3,5,2;defensive?
 
 {Thisone;pitch=-.5}
+||
 94%3_2;I 3_2;see 3_3;good 2.6_1;in 50%4_1;you.
 
 {Annai}
@@ -404,37 +405,44 @@ Chained 1^people to 5.5;desks 115%3.8;for minor 3^3.5,5,5_4.6;infractions.
 4,3,2;Whatever. 
 100%awl is 80%4,2;forgiven.
 
-{Annai;scale=12;speed=.92;volume=0.7}
-70%8_7.7;All 7_6.6;will 50%3_2.89;be 60%50%0_0,7_6.8;revealed.
-|
+{Annai;scale=12;speed=.92;volume=0.55}
+||||
+77%5.5_2.5;All |0.04| 100%3;will 80%3_2.5;be 60%50%0_0,7_6.6;revealed.
+
+{Thisone;pitch=.5}
+|||
+60%Oh. 80%5;Him 2;again.
+
+{Annai;speed=1.12}
+3.5;You 114%should 125%5;talk 144%3;to 118%him 110%90%someday. He's 5,3;brilliant. It's 5.5;not 3;just the 5,3;music. 
+3.5;He has 130%94%3,5;ideas 110%3;that could 112%4;change 3;the 80%6_-4;world.
 
 {Thisone}
-Oh. Him again.
+105%3;You mean change the 80%2_4;Grid.
 
-{Annai}
-You should talk to him someday. He's brilliant. It's not just the music. He has ideas that will change the world.
-
-{Thisone}
-You mean change the Grid.
-
-{Annai}
-Same thing. He could have an impact. Everything is so fractured now.
+{Annai;speed=1.1}
+3;Same 77%6;thing. 
+He 143%could 118%have 150%an 90%5,3;impact. 
+3.5;Everything is so 5,3;fractured now.
 
 {Thisone}
-You mean he's planning to go grid wide?
+115%3;You mean he's 133%planning to 105%go 100%grid 88%3_5;wide?
 
-{Annai}
-Well it's all viral of course. His stats are growing slowly but steadily. He's not in a hurry.
+{Annai;speed=1.1}
+Well | it's all 90%5,3;viral 104%of 115%coarse. 113%3.5;His stats are 125%growing 4,3;slowly 100%but 5,3,3;steadily. 
+90%He's not in a 80%5,3;hurry.
 |||
 
-{Annai}
-He's running multiples | you know. It's not just are little group.
+{Annai;speed=1.12}
+He's 112%running 100%5,3;multiples |0.1| you know. 108%4;It's 115%not just 100%3.4;are little 93%5_2;group.
 
-{Thisone}
-So when we hang out with him | each time it's a different team of Finnish mind fuckers?
+{Thisone;speed=1.05}
+104%3;So 134%when 90%we 128%hang 100%out 115%3;with 56%6_0;him.
+2.4;Each 80%4.5_0;time.
+104%3;It's a 4,2.4;different team of Finnish 4;mind 4,4_4;fuckers?
 
 {Annai}
-Whatever | as the ancients used to say.
+5,5,3_3;Whatever | as the ancients used to say.
 
 {Thisone}
 That stings.
