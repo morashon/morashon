@@ -224,8 +224,8 @@ It's || 93%3_3;pre |0.01| 85%2;grid.
 104%3;I 5;don't 3;mean 3,3,5;2;biologically.
 
 {Annai}
-106%3;That you're 4^91%81%71%91%literally 104%5,2;older than the 71%5;grid.
-5;That 2;would be 67%5;old.
+106%3;That you're 4^91%81%71%91%literally 104%4.5,2;older than the 71%5;grid.
+5;That 2;would be 67%4_-2;old.
 111%5;I 3;just 4;mean | it's not 118%6,3;everything |0.06| 113%to 100%5;you.
 You 5;still 3;think about 5;real 3;life.
 4;Top 2;side.
@@ -355,8 +355,10 @@ That's 7,2.5;terrible.
 100%You 135%think |0.06| 116%3;he 193%wants 151%to 115%3;kill 5_6;us?
 
 {Thisone}
-Maybe not 4^6,3;literally.
-I think 5.5;he || or it || whatever ||| they I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
+3.5;Maybe not 4^5,2.5;literally.
+I think 50%5;hee || 100%2.5;or 4.5;it || 100%100%32%5,5,1;whatever ||| 60%4_4;they | 100%2.5;I suspect || have 3^ulterior 5,2;motives.
+|| 
+106%5;I'll 1^3.5;settle for L Ron 2^5,2;Hubbard.
 
 {Annai;speed=1.2}
 |||
@@ -423,7 +425,7 @@ Chained 1^people to 5.5;desks 115%3.8;for minor 3^3.5,5,5_4.6;infractions.
 {Annai;speed=1.1}
 3;Same 77%6;thing. 
 He 143%could 118%have 150%an 90%5,3;impact. 
-3.5;Everything is so 5,3;fractured now.
+3.5;Everything is so |0.22| 5,3;fractured now.
 
 {Thisone}
 115%3;You mean he's 133%planning to 105%go 100%grid 88%3_5;wide?
@@ -434,7 +436,7 @@ Well | it's all 90%5,3;viral 104%of 115%coarse. 113%3.5;His stats are 125%growin
 |||
 
 {Annai;speed=1.12}
-He's 112%running 100%5,3;multiples |0.1| you know. 108%4;It's 115%not just 100%3.4;are little 93%5_2;group.
+He's 112%running 100%5,3;multiples |0.1| you know. 108%4;It's 115%not just 107%3.4;are little 93%5_2;group.
 
 {Thisone;speed=1.05}
 104%3;So 134%when 90%we 128%hang 100%out 115%3;with 56%6_0;him.
