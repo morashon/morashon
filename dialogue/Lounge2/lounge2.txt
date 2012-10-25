@@ -142,10 +142,10 @@ O |0.02| K. 5;I 5,5,2;apologize. 3;To 144%100%6,2_-5;Finland. 120%3;Can we move 
 |||
 70%7_-2;Sure.
 
-{Thisone}
+{Thisone;speed=1.05}
 5;I'm 90%3;sorry.
-111%3;I don't know your 100%44%104%100%3,2.2,5,2;situation. 
-3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%some thing.
+111%3;I don't know your 100%76%104%100%3,2.2,5,2;situation. 
+110%3;Maybe 1^you're 6_3;sick | 3.5;or on 5.6;life 115%2.3;support or 100%some thing.
 
 {Annai;speed=1.05;pitch=0.6}
 73%5.5_1;No |0.08| 90%4;no. 
@@ -358,40 +358,43 @@ That's 7,2.5;terrible.
 Maybe not 4^6,3;literally.
 I think 5.5;he || or it || whatever ||| they I suspect || have ulterior motives. || I'll settle for L Ron 2^Hubbard.
 
+{Annai;speed=1.2}
+|||
+3;He sounds like a 5,2;character.
+
+{Thisone}
+I hear he 62%5.5_-4;was.
+
+{Annai;speed=1.17}
+3;Founded his own nation 2;at 67%2_5;sea.
+
+{Thisone;speed=1.14;pitch=-.2}
+Chained 1^people to 5.5;desks 115%3.8;for minor 3^3.5,5,5_4.6;infractions. 
+1^Swindled 5.5,3;millions 120%out of their life 90%5,2;savings.
+5.5;3;Separated them 110%from their 3^90%80%60%5,3,2_-5;families.
+
+{Annai;speed=1.15}
+70%5_2;Well ||| 110%4;I don't think 133%5;More 177%2;eh 120%2;shun 2.5;has any plans like 80%5_-3;that. 
+5;Plus || 3.5;his music is 60%7_-4.5;good. 
+105%3;Hubbard's writing was 5,2;terrible | 95%2.5;apparently.
+
+{Thisone}
+70%5_1;Yes | 115%3.6;he didn't cut it as an 90%5,2;artist. 
+114%3;But he was a 4;pretty good 5.5;cult 80%37%2.2;leader.
+
+{Annai}
+3;Do you see the good in 5;anyone?
+3;Or are you 5,3;always on the 3,5,2;defensive?
+
+{Thisone;pitch=-.5}
+94%3_2;I 3_2;see 3_3;good 2.6_1;in 50%4_1;you.
+
 {Annai}
 |||
-He sounds like a character.
+5;Thanks. 110%3;That was 86%4.5_-2;nice.
 
 {Thisone}
-I hear he was.
-
-{Annai}
-Founded his own nation at sea.
-
-{Thisone}
-Chained people to desks for minor infractions. 
-Swindled millions out of their life savings.
-Separated them from their 3^families.
-
-{Annai}
-Well | I don't think that More eh shun has any plans like that. Plus | his music is good. Hubbard's writing was terrible | apparently.
-
-{Thisone}
-Yeah | he didn't cut it as an artist. But he was a pretty good cult leader.
-
-{Annai}
-Do you see the good in anyone?
-Or are you always on the defensive?
-
-{Thisone}
-I see good in you.
-
-{Annai}
-|||
-Thanks. That was nice.
-
-{Thisone}
-I can be nice. Even if I'm old.
+114%I 133%can 112%be 90%3_-4;nice. 1^110%2.5;Even if I'm 80%3.5_-4;old.
 
 {Annai}
 I'm sorry | I 2^didn't mean to be age ist.
