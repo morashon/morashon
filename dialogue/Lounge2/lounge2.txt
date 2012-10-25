@@ -397,13 +397,15 @@ Chained 1^people to 5.5;desks 115%3.8;for minor 3^3.5,5,5_4.6;infractions.
 114%I 133%can 112%be 90%3_-4;nice. 1^110%2.5;Even if I'm 80%3.5_-4;old.
 
 {Annai}
-I'm sorry | I 2^didn't mean to be age ist.
+4.5;I'm 3;sorry.
+118%3;I 2^didn't 133%4;mean 2.4;to be 106%4;age 2;ist.
 
 {Thisone}
-Whatever. All is forgiven.
+4,3,2;Whatever. 
+100%awl is 80%4,2;forgiven.
 
-{Annai}
-All will be revealed.
+{Annai;scale=12;speed=.92;volume=0.7}
+70%8_7.7;All 7_6.6;will 50%3_2.89;be 60%50%0_0,7_6.8;revealed.
 |
 
 {Thisone}
