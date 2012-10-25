@@ -442,23 +442,29 @@ He's 112%running 100%5,3;multiples |0.1| you know. 108%4;It's 115%not just 100%3
 104%3;It's a 4,2.4;different team of Finnish 4;mind 4,4_4;fuckers?
 
 {Annai}
-5,5,3_3;Whatever | as the ancients used to say.
+||
+90%6.4,3_3,3_3;Whatever.
+115%As the 115%168%5,3;ancients 125%used 192%to 100%3_1;say.
 
 {Thisone}
-That stings.
+88%Ouch. 1_1.5;That 77%6_0;stings.
 
 {Annai}
-Sorry. I just wish you would give him a chance.
+88%5.6,3.6;Sorry.
+111%3;I just 5;wish 133%3;you would give 114%him a 90%5;chance.
 
 {Thisone}
-If it makes you happy | I'll come to another concert. A big one | like the first though. I don't want to sit around in that creepy room.
+108%3;If it 122%4;makes 3;you 99%72%5,3;happy || 104%I'll come to another 100%91%5,2;concert. 
+136%3;Ah 100%4.5;big 2.6;one though | like the 5;first. 
+113%I 117%5;don't 3;want 144%to 122%sit around 107%in that creepy 5;room.
 
 {Annai}
-Ok. Be there or be square.
+O K. 
+93%Be there | 104%oar be 90%square.
 
 {Thisone}
-Talk about ancient!
+Talk 2.6;about 5,2;ancient!
 
 {Annai}
-If it's old enough | it's cool.
+110%If it's 5;old 3;enough ||| 104%it's 72%6_-1;cool.
 
