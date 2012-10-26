@@ -11,6 +11,7 @@ exc = {
     "contextual" : 3,
     "probably" : 3,
     "interest" : 3,
+    "different" : 3,
 }
 
 def nsyl(word):
