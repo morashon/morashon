@@ -62,7 +62,7 @@ As 3;you've been 4;told | 3;my situation is 106%4.5,2;different 1;than 88%2;your
 72%5_-3;Code.
 
 {Morashon}
-74%6_-1;Code | 92%3.5;if you 2;please.
+74%6_-1;Code | 98%3.5;if you 91%2;please.
 105%3,5,3;However | not code of the typical |0.07| 4.25;hand 3.5;written 3,3,1;variety.
 
 {Thisone;speed=1.04}
@@ -79,10 +79,10 @@ Who set this in 5,2;motion?
 
 {Morashon;speed=1.03}
 Various 4,2_0;agents.
-5,2.5;Human agents | 3,3,1;initially | 3;have 122%been 120%100%working onn this in 4,2;earnest for many 5_-4;years.
+5,2.5;Human agents | 3,3,1;initially |0.18| 3;have 122%been 120%100%working onn this in 4,2;earnest for many 5_-4;years.
 3.7;It was 4.5;thought 3;by the majority of 5,3;researchers in the 4;past 2;that the key 4.5,2;problems were ones of 5,1;paradigm.
-4,3;Qualitative 3,2;barriers | if you 2_-3;will.
-3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing 3;before the advent 1.5;of 90%the 70%5_-4;Grid.
+4,3;Qualitative 3,2;barriers | if you 84%2_-3;will.
+3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing |0.13| 3;before 2.6;thee |0.01| 97%3,1;advent 1.5;of 90%the 70%5_-4;Grid.
 
 {Morashon;speed=1.03;pitch=-.6}
 Only when an 100%100%144%100%4,2.4;infrastructure of 3^sufficient 88%6_-2;scale | 100%3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
@@ -110,7 +110,7 @@ That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragme
 73%8_-1;So | 93%3;someone 5.5;tried.
 
 {Morashon;speed=0.97}
-88%Yes | 93%2;they 73%5;did.
+88%Yes | 99%2;they 77%5;did.
 105%And | 2.5;I daresay | they succeeded 111%124%5,1;fabulously.
 
 {Thisone}
@@ -130,7 +130,7 @@ That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragme
 98%3;Feeling 3;4_5.5;lonely?
 
 {Morashon}
-Not at 3;all.
+110%Not at 3;all.
 3;I have my 4.5;friends 3;and 3,5,3;admirers.
 3;In 4.5;some 2.5;sense | 93%I am 4;them | 2.5;I am 5_-4;you.
 
