@@ -1,83 +1,85 @@
 {include:../actors.txt}
 
 {Thisone}
-What?
-You said it was a rave.
+3_5;What?
+3;You said 2.5;it was a 5;rave.
 
 {Morashon}
-Tea sewn | please sit down for a moment.
-I won't bite.
+5;Tea 3;sewn | please sit 4;down 2.5;for a moment.
+5;I 4;won't 3;bite.
 
 {Thisone}
-An I | what's this about?
+An I | 3;what's this 3,5;about?
 
 {Morashon}
-An I is meditating.
+An I is 5,3;meditating.
 
 {Thisone}
-I don't give a fuck.
-I want to hear her say something.
+5;I don't give 3;a fuck.
+I want to hear her 5;say 3,2;something.
 
 {Annai}
-I'm ok.
-Just open your mind for a second.
-You can port whenever you feel like it.
+I'm 4;o 4_-3;k.
+3.5;Just open your 4.5;mind 3;for a 3,2.5;second.
+3.5;You can 5;port 3;whenever you 5;feel 2;like it.
 
 {Thisone}
-Ok | I'm listening.
-Just know that I'm not your typical target personality.
+4;O 2;k | 3;I'm 4,2;listening.
+Just know that I'm 5;not 3;your typical target 3,3,5,2;personality.
 
 {Morashon}
-I have no weapon.
-I seek no target.
+4.5;I have no weapon.
+3.5;I seek no 4,2;target.
 
 {Thisone}
-Whatever | let's get on with it.
+5,5,3_3;Whatever | let's get 5;on 2;with it.
 
 {Morashon}
-We're just relaxing | talking.
-There is no agenda.
+We're just 5,3;relaxing | 4,2;talking.
+3;There is 4;no 4,4,2;agenda.
 
 {Thisone}
-So you're some sort of A I.
-Code.
+So 3;you're some sort of A 5;I.
+5_-3;Code.
 
 {Morashon}
-I exist here | in the Grid.
-As do you | and An I | and everyone and everything we interact with here.
+3.5;I exist 5;here | 3;in the 4.5;Grid.
+3;As do 5;you | 3;and An 5;I | 3;and 5,3;everyone and 5,3;everything we 3,3,5;interact 2;with here.
 
 {Thisone}
-Sure | but most of us are actual old school homosapiens | sitting or more likely lying in some creche somewhere.
-In my case | it's two hundred square feet of boredom | with a food dispenser | a waste facility | and my grid gear.
-What's your real life spread look like?
+5_-4;Sure.
+3;But 4;most of us 3;are actual old school 3,3,5,2;homosapiens | 4;sitting 2.5;or more likely 3.5;lying in some 4.5;creche 2.5;somewhere.
+3.5;In 4.5;my 3;case | it's two hundred square 4;feet 2.5;of 4.5,2;boredom | with a 4;food 2;dispenser | a 4;waste 2;facility | and my 4.5;grid 2;gear.
+3.5;What's 5;your 2.3;real life spread look like?
 
 {Morashon}
-As you've been told | my situation is different than yours.
-What presents to you | as me | is the result of the interaction of a large number of logic nodes | distributed among the grid infrastructure.
+As 3;you've been 4;told | 3;my situation is 4.5,2;different 1;than 2;yours.
+3.5;What presents to 4.5;you | 2;as 4.5;me | 2.5;is the result of the 3;interaction of a large number of 4,2.2;logic nodes | distributed among the grid 4.1,1,1,2;infrastructure.
 
 {Thisone}
-Code.
+5_-2;Code.
 
 {Morashon}
-Code | if you will.
-However | not code of the typical | hand written variety.
+5_-3;Code | 3.5;if you 2;will.
+3,5,3;However | not code of the typical |0.07| 4.25;hand 3.5;written 3,3,1;variety.
 
 {Thisone}
-Sure | gen code.
-I've worked with it.
+3.5;Sure | 4.5;jen 2;code.
+I've 3;worked 2;with 1;it.
 
 {Morashon}
-Perhaps.
-It's unlikely you've been exposed to these particular design patterns.
+3,4;Perhaps.
+It's 4,4,2.5;unlikely you've been exposed to 3;these 3,5,4;particular 2.8,5;design 1;patterns.
 
 {Thisone}
-So who developed you?
-Who set this in motion?
+4.5;So | 3.5;who 3,5,2;developed you?
+Who set this in 5,2;motion?
 
 {Morashon}
-Various agents | Human agents | initially | have been working on this in earnest for many years.
-It was thought by the majority of researchers in the past that the key problems were ones of paradigm | qualitative barriers | if you will.
-However | that hypothesis was never amenable to testing | before the advent of the Grid.
+Various 4,2;agents | 5,2.5;Human agents | initially | 3;have been working on this in 4,2;earnest for many 5_-4;years.
+3.7;It was 4.5;thought 3;by the majority of 5,3;researchers in the 4;past 2;that the key 4.5,2;problems were ones of 5,1;paradigm.
+4,3;Qualitative 3,2;barriers | if you 2_-3;will.
+3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,2;testing | 3;before the advent of the 5_-4;Grid.
 
 {Morashon}
 Only when an infrastructure of 3^sufficient scale | with the 3^required parameters of robustness | distribution | topology | and the rest of it |
