@@ -82,8 +82,10 @@ Various 4,2;agents | 5,2.5;Human agents | initially | 3;have been working on thi
 3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,2;testing | 3;before the advent of the 5_-4;Grid.
 
 {Morashon}
-Only when an infrastructure of 3^sufficient scale | with the 3^required parameters of robustness | distribution | topology | and the rest of it |
-all that has made the Grid so useful in other ways | only when this came into existence | for very different reasons | was the alternative hypothesis 3^testable.
+Only when an 4,2.4;infrastructure of 3^3;sufficient 4.5;scale | 3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
+| 3,5,2;topology | 3.5;and the 4.5;rest 3;of it |
+3.5;all that has made the 5;Grid 3;so 5;3;useful in other 5_-1;ways | 
+3;only when 5;this 3;came into 3,5,3;existence | for very different 5,3;reasons | was the alternative hypothesis 3^5,2,1;testable.
 
 {Morashon}
 That 4,4,2.5;hypothesis 3.2;was | 2;in 4;brief | 2;that the 4;critical barrier 2;to 3^4;general A 4_1;I 2;was simply 5,2,1;quantitative.
@@ -109,39 +111,40 @@ Yes | 2;they 5;did.
 And | 2.5;I daresay | they succeeded 5,1;fabulously.
 
 {Thisone}
-and you're the result.
+3;and you're the 3,4.5;result.
 
 {Morashon}
-I am an instance of the result.
+3;I am an 4,2;instance of the 2,1;result.
 
 {Thisone}
-The only one?
+3;The only 3_5;one?
 
 {Morashon}
-That is an excellent question.
-One to which I would dearly like an answer.
+4.5;That 2.5;is an excellent 4,2;question.
+3;One to which 5;I 2.4;would dearly like an 4.3,1;answer.
 
 {Thisone}
-Feeling lonely?
+3;Feeling 3;4_5.5;lonely?
 
 {Morashon}
-Not at all.
-I have my friends and admirers.
-In some sense | I am them | I am you.
+Not at 3;all.
+3;I have my 4.5;friends 3;and 3,5,3;admirers.
+3;In 4.5;some 2.5;sense | I am 4;them | 2.5;I am 5_-4;you.
 
 {Thisone}
-Come again?
+3;Come 3,4_6;again?
 
 {Morashon}
-As it turns out | personality | individuality | is an artifact of your biological makeup.
-I have no such limitations.
-My personality can morph | change | adapt to its surroundings.
-I can absorb and shed components | attributes | at will.
-I can do this as easily as you can morph your avatar.
-I become what I need to be | in order to further my core goals | which are | to protect and serve those who brought me into being.
+3.6;As it turns 2;out | 3,3,4.5,2;personality | 3,3,3,3,4.5,2;individuality | 2.5;are artifacts of your biological 4.2,1;makeup.
+3;I have no such 3,3,5,1;limitations.
+2;My 3,3,3.2,1.5;personality can 2;morph | 2.5;change | 1,2.5;adapt 1.68;to its 2,4,1;surroundings.
+2.2;I can absorb and shed 2,3;components | attributes | 1;at 3.5;will.
+2;I can do this as easily as you can morph your 4,1,0.4;avatar.
+2;I become what I 3.5;need to 3_-1;be | 1.5;in order to further my 2;core 3.5;goals.
+2.4;Which are | to 2.5,4;protect 1;and 4;serve 2.5;those who brought me into 5,1;being.
 
 {Thisone}
-And they are?
+And they would be?
 |
 
 {Morashon}
