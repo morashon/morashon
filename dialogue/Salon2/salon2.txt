@@ -78,10 +78,23 @@ Who set this in motion?
 Various agents    Human agents | initially    have been working on this in earnest for many years.
 It was thought by the majority of researchers in the past that the key problems were ones of paradigm    qualitative barriers | if you will.
 However | that hypothesis was never amenable to testing | before the advent of the Grid.
-Only when an infrastructure of sufficient scale    with the required parameters of robustness | distribution | topology | and the rest of it | all that has made the Grid so useful in other ways    only when this came into existence | for very different reasons | was the alternative hypothesis testable.
-That hypothesis was | in brief | that the critical barrier to general AI was simply quantitative.
-That | among our arsenal of tools    the various code fragments in use already to accomplish devilish feats of control | prediction | simulation | induction | pattern recognition and so on    existed the requisite set of building blocks on which to base a successful approach to the problem.
-All that was missing was the scale    the speed | the breadth | the scope    necessary to run it on.
+
+{Morashon}
+Only when an infrastructure of 3^sufficient scale | with the 3^required parameters of robustness | distribution | topology | and the rest of it |
+all that has made the Grid so useful in other ways | only when this came into existence | for very different reasons | was the alternative hypothesis 3^testable.
+
+{Morashon}
+That hypothesis was | in brief | that the critical barrier to 3^general A I was simply quantitative.
+
+
+{Morashon}
+That | among 2^our arsenal of tools | the various code fragments in use already to accomplish devilish feats of control | prediction | simulation | induction | pattern recognition 
+and so on 
+||
+existed the requisite set of building blocks on which to base a successful approach to the problem.
+
+{Morashon}
+All that was missing was the scale | the speed | the breadth | the scope | necessary to run it on.
 And the gumption to try.
 
 {Thisone}
