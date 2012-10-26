@@ -86,25 +86,27 @@ Only when an infrastructure of 3^sufficient scale | with the 3^required paramete
 all that has made the Grid so useful in other ways | only when this came into existence | for very different reasons | was the alternative hypothesis 3^testable.
 
 {Morashon}
-That hypothesis was | in brief | that the critical barrier to 3^general A I was simply quantitative.
+That 4,4,2.5;hypothesis 3.2;was | 2;in 4;brief | 2;that the 4;critical barrier 2;to 3^4;general A 4_1;I 2;was simply 5,2,1;quantitative.
 
 
 {Morashon}
-That | among 2^our arsenal of tools | the various code fragments in use already to accomplish devilish feats of control | prediction | simulation | induction | pattern recognition 
-and so on 
+That | 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragments in use 2,4,3;already to accomplish devilish feats of 3,4.5;control | 2,4.5;prediction | 2,2,4;simulation | 2,4;induction | 4;pattern 2;recognition 
+and 5;so 1;on 
 ||
-existed the requisite set of building blocks on which to base a successful approach to the problem.
+3,5,2;existed the requisite set of 4.5,2.4;building blocks on which to base a successful approach to the 5,1;problem.
 
 {Morashon}
-All that was missing was the scale | the speed | the breadth | the scope | necessary to run it on.
-And the gumption to try.
+All that was 5,2.5;missing was the 4.5;scale
+|
+2;The 4.5;speed | 2;the 4.5;breadth | 2;the 4.5;scope | 2.5;necessary to 4.5;run 1;it on.
+3;And the 4,2;gumption to 5_-4;try.
 
 {Thisone}
-So someone tried.
+So someone 6;tried.
 
 {Morashon}
-Yes | they did.
-And | I daresay | they succeeded fabulously.
+Yes | 2;they 5;did.
+And | 2.5;I daresay | they succeeded 5,1;fabulously.
 
 {Thisone}
 and you're the result.
