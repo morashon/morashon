@@ -77,18 +77,18 @@ I've 3;worked 2;with 1;it.
 70%4.5_-2.5;So | 100%3.5;who 3,5,2;developed you?
 Who set this in 5,2;motion?
 
-{Morashon}
-Various 4,2;agents.
-5,2.5;Human agents | initially | 3;have been working on this in 4,2;earnest for many 5_-4;years.
+{Morashon;speed=1.03}
+Various 4,2_0;agents.
+5,2.5;Human agents | 3,3,1;initially | 3;have 122%been 120%100%working onn this in 4,2;earnest for many 5_-4;years.
 3.7;It was 4.5;thought 3;by the majority of 5,3;researchers in the 4;past 2;that the key 4.5,2;problems were ones of 5,1;paradigm.
 4,3;Qualitative 3,2;barriers | if you 2_-3;will.
-3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,2;testing | 3;before the advent of the 5_-4;Grid.
+3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing | 3;before the advent 1.5;of 90%the 70%5_-4;Grid.
 
-{Morashon}
-Only when an 4,2.4;infrastructure of 3^3;sufficient 4.5;scale | 3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
-| 3,5,2;topology | 3.5;and the 4.5;rest 3;of it |
-3.5;all that has made the 5;Grid 3;so 5;3;useful in other 5_-1;ways | 
-3;only when 5;this 3;came into 3,5,3;existence | for very different 5,3;reasons | was the alternative hypothesis 3^5,2,1;testable.
+{Morashon;speed=1.03;pitch=-.6}
+Only when an 100%100%144%100%4,2.4;infrastructure of 3^sufficient 88%6_-2;scale | 100%3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
+| 3,5,2;topology | 3.5;and the 4.5;rest 2;of it |
+131%2.5;all that has made 100%the 4;Grid 2;so 4;2;useful in other 5_-2;ways | 
+103%3;only when 5;this 3;came into 3,5,3;existence | 111%for very different 4,2;reasons | 100%was the alternative hypothesis even 3^5,2,1;testable.
 
 {Morashon}
 That 4,4,2.5;hypothesis 3.2;was | 2;in 4;brief | 2;that the 4;critical barrier 2;to 3^4;general A 4_1;I 2;was simply 5,2,1;quantitative.
