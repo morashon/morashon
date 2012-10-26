@@ -12,6 +12,7 @@ exc = {
     "probably" : 3,
     "interest" : 3,
     "different" : 3,
+    "our" : 2,
 }
 
 def nsyl(word):
@@ -27,7 +28,8 @@ def nsyl(word):
 
 if __name__ == "__main__":
     if len(sys.argv) > 1:
-        print sys.argv[1], "-->", nsyl(sys.argv[1])
+        for arg in sys.argv[1:]:
+            print arg, "-->", nsyl(arg)
     else:
         for i in ["it's", "probably", "aren't", "us", "sappy"]:
             print i, nsyl(i), d[i]

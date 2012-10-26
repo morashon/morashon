@@ -150,9 +150,9 @@ Your programmers sound very community minded.
 {Morashon}
 Indeed they are.
 In the spirit of the kernel | they continue to believe that information belongs to us all.
-I am    and | really | we all are    just information.
+I am | and | really | we all are | just information.
 Therefore | we belong to the same class.
-From the perspective of our collective being | we belong to each other.
+From the perspective of 2^our collective being | we belong to each other.
 
 {Thisone}
 I dunno.
@@ -163,7 +163,7 @@ Tit for tat always wins.
 Ahh.
 Oh | yes.
 For sure | there are agendas | plots | cliques.
-There are machinations | feuds | feifdoms | schemes of Machiavellian deviousness | Orwellian in scope.
+There are machinations | feuds | 2^feifdoms | schemes of 6^Machiavellian 4^deviousness | Orwellian in scope.
 None of this is transcended simply because a new sort of agent has arrived on the scene.
 
 {Thisone}
@@ -201,7 +201,7 @@ Look him up.
 
 {Morashon}
 Of course | I have access to the search results.
-I know who he is | historically speaking.
+I know who he is | 5^historically speaking.
 In fact there were rumors that he might be Milton | or Sir Francis Bacon.
 But whomever he was | and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form     but who was he | in his hubris | to believe he could invent Hamlet?
 What did Hamlet have to say about this circumstance?
@@ -257,17 +257,23 @@ For all we know | we are the machinations of a Shakespearean wannabe | pecking a
 Sure | sure.
 We're just God's dreams.
 Some god's dreams.
-Lowercase "g".
+Lower case G.
 
 {Morashon}
 But that's not really the interesting part.
-The part that gets my juices flowing    metaphorically speaking | of course    is that you | I | Shakespeare | Hamlet | and An I here    when we scrub away the residue of our particular implementations | we all share one core aspect:
+The part that gets my juices flowing | 
+6^metaphorically speaking | of course | 
+is that you | I | Shakespeare | Hamlet | and An I here |
+when we scrub away the residue of our particular 5^implementations |
+we all share one core aspect.
+
+{Morashon}
 we are information.
 Data | flowing through logic.
 Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine    or | even | through the borrowed | subverted | temporary neural magic of imagination    at one time | in some scope | we exist    or | once we are no more | existed.
 
 {Thisone}
-Hmm | that's a lot to think about.
+Huh | that's a lot to think about.
 How did we get off on this tangent?
 We were talking about trust.
 
