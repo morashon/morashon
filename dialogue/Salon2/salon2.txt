@@ -1,42 +1,42 @@
 {include:../actors.txt}
 
 {Thisone}
-3_5;What?
-3;You said 2.5;it was a 5;rave.
+80%3_5;What?
+3;You said 2.5;it was a 70%5;rave.
 
 {Morashon}
-5;Tea 3;sewn | please sit 4;down 2.5;for a moment.
-5;I 4;won't 3;bite.
+110%5;Tea 3;sewn | please sit 4;down 2.5;for a 122%moment.
+110%5;I 4;won't 3;bite.
 
 {Thisone}
-An I | 3;what's this 3,5;about?
+96%5;Ann 2;I | 115%3;what's this 3,5;about?
 
 {Morashon}
-An I is 5,3;meditating.
+102%3.5;Ann I is 5,3;meditating.
 
 {Thisone}
-5;I don't give 3;a fuck.
-I want to hear her 5;say 3,2;something.
+107%5;I don't give 3;a fuck.
+I want 118%to 111%hear her 5;say 3,2;something.
 
 {Annai}
-I'm 4;o 4_-3;k.
-3.5;Just open your 4.5;mind 3;for a 3,2.5;second.
-3.5;You can 5;port 3;whenever you 5;feel 2;like it.
+102%I'm 4;o 4_-3;k.
+108%3.5;Just open 122%yur 4.5;mind 110%3;for a 3,2.5;second.
+115%3.5;You 163%can 125%5;port 110%118%3;whenever you 5;feel 2;like it.
 
-{Thisone}
+{Thisone;pitch=1.03}
 4;O 2;k | 3;I'm 4,2;listening.
-Just know that I'm 5;not 3;your typical target 3,3,5,2;personality.
+Just know 135%that I'm 100%5;not 3;your typical target 110%110%100%80%3,3,4.5,0,1;personality.
 
 {Morashon}
-4.5;I have no weapon.
+103%4.5;I have no weapon.
 3.5;I seek no 4,2;target.
 
 {Thisone}
-5,5,3_3;Whatever | let's get 5;on 2;with it.
+100%80%30%%5,5,3_3;Whatever | 100%3.88;let's get 5;on 2;with it.
 
 {Morashon}
-We're just 5,3;relaxing | 4,2;talking.
-3;There is 4;no 4,4,2;agenda.
+103%Were 100%just 4,4.2;relax 3;ing |0.6| 4;talk 2;ing.
+3;There is 4;no 100%96%70%4,4,1;agenda.
 
 {Thisone}
 So 3;you're some sort of A 5;I.
@@ -44,7 +44,7 @@ So 3;you're some sort of A 5;I.
 
 {Morashon}
 3.5;I exist 5;here | 3;in the 4.5;Grid.
-3;As do 5;you | 3;and An 5;I | 3;and 5,3;everyone and 5,3;everything we 3,3,5;interact 2;with here.
+3;As do 5;you | 3;and Ann 5;I | 3;and 5,3;everyone and 5,3;everything we 3,3,5;interact 2;with here.
 
 {Thisone}
 5_-4;Sure.
@@ -237,7 +237,7 @@ of his 1.5;time that he was 3.4;most 1.5;likely of 4.5,1;human 0;form
 
 {Morashon}
 5,2.5;Excellent!
-2,5,3;Insightful as 5,2;ever | beautiful An 4;I.
+2,5,3;Insightful as 5,2;ever | beautiful Ann 4;I.
 ||
 2.5;Hamlet 2,5,2;existed | to the degree he existed at 5_-3;all | 
 2.4;as a pattern of neural 4,2;firing in the brain of one we call William 5,1.2;Shakespeare | 2;of Stratford on 5,1;Avon.
@@ -297,7 +297,7 @@ I think 3;I see 2;where you're 4,1.5;going with this.
 2;that's not really the 4,2;interesting part.
 2.5;The part that gets my 5,2;juices flowing | 
 6^metaphorically speaking | 1.4;of course | 
-2.5;is that 4;you || I || 4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and An 5;I 2;here |
+2.5;is that 4;you || I || 4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and Ann 5;I 2;here |
 1;when we 4;scrub 2;away the residue of our particular 5^2,2,2,5,1;implementations |
 1.4;we all share one core 4,0;aspect.
 
