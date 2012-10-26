@@ -144,42 +144,45 @@ Not at 3;all.
 2.4;Which are | to 2.5,4;protect 1;and 4;serve 2.5;those who brought me into 5,1;being.
 
 {Thisone}
-And they would be?
+2.25;And they 3;would 70%3_4.5;be?
 |
 
 {Morashon}
-Why | you | of course.
-Human beings.
+2;Why | 4;you | 1;of course.
+2.5;Human 4.5,1;beings.
 
 {Thisone}
-All human beings?
-Your programmers sound very community minded.
+2;Awl 4;human 4,3_5.5;beings?
+3;Your programmers sound very community 5,1;minded.
 
 {Morashon}
-Indeed they are.
-In the spirit of the kernel | they continue to believe that information belongs to us all.
-I am | and | really | we all are | just information.
-Therefore | we belong to the same class.
-From the perspective of 2^our collective being | we belong to each other.
+80%2;Indeed 100%they 88%4;are.
+2;In the spirit of the 4,1;kernel | 2.5;they continue to 2,3;believe that 2;information belongs to 2.78;us 70%4.5;all.
+I 1;am | 3;and | 3,1;really | 2;we 4;all 1;are | just 1,1,4,0.6;information.
+4,2;Therefore | we belong to the same 90%5_-6;class.
+2.7;From the 2,3,2;perspective of 2^2;our collective 4,1.5;being | we 1,4_-3;belong 86%0_0;to 100%1;each other.
 
 {Thisone}
-I dunno.
-I've studied game theory.
-Tit for tat always wins.
+3;I don't 4_-5;know.
+2.5;I've studied 4;game 1;theory.
+Tit for tat |0.1| 5,1.5;always wins.
 
 {Morashon}
-Ahh.
-Oh | yes.
-For sure | there are agendas | plots | cliques.
-There are machinations | feuds | 2^feifdoms | schemes of 6^Machiavellian 4^deviousness | Orwellian in scope.
-None of this is transcended simply because a new sort of agent has arrived on the scene.
+40%5_-4;Ahh.
+50%3;Oh | 80%3_-6;yes.
+180%2;Four 100%4;sure | 3;there are 3,4.5,2;agendas | 3;plots | 80%5_-5;cliques.
+2.5;There will be 2,2,4,2;machinations | 5_-1;feuds | 2^4,2;feifdoms | 3;schemes of 6^4;Machiavellian 4^4,2;deviousness | 2,4.5;1;Orwellian in scope.
+4.5;None 2;of this is 2,4,1;transcended |0.1| 3,1;simply 1,2;because a 4;new 2;sort of 4,1;agent 1.7;has arrived 2;on the 80%5.5_-6;scene.
 
 {Thisone}
-So how do I know we are on the same side?
-Why should I trust you?
-Even if I believe you | believe in you | even if I accept that you are what you say you are | I still have no way to know the agenda of those who created you.
-And since your code is too complex to reverse engineer | even if the source is available | which I've been told it is | I have no choice but to treat you as a black box.
-I can only judge you by your actions.
+3;So how do I know we are 2;on the same 5;side?
+3;Why should I 5;trust 2;you?
+1^3;Even if I 3,4.5;believe 2;you | 3;believe 5;in 2.4;you | 
+1^3;even if I 3,5;accept 2;that you are what you 5;say 2;you are | 
+3.5;I 5;still 2;have no way to know the 4,2;agenda of those who 5,2;created 1;you.
+2.4;And since your 4;code 3;is too complex to reverse 3,3,4;engineer | 1^2;even if the source is 3^4,2;available | which I've been told it 4;is | 
+3;I have no choice but to 5;treat 2;you as a black 5;box.
+3;I  can only 5;judge 3;you by your 5,1.4;actions.
 
 {Morashon}
 Indeed.
