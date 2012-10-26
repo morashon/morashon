@@ -5,14 +5,14 @@ What?
 You said it was a rave.
 
 {Morashon}
-Thisone | please sit down for a moment.
+Tea sewn | please sit down for a moment.
 I won't bite.
 
 {Thisone}
-Annai | what's this about?
+An I | what's this about?
 
 {Morashon}
-Annai is meditating.
+An I is meditating.
 
 {Thisone}
 I don't give a fuck.
@@ -43,7 +43,7 @@ Code.
 
 {Morashon}
 I exist here | in the Grid.
-As do you | and Annai | and everyone and everything we interact with here.
+As do you | and An I | and everyone and everything we interact with here.
 
 {Thisone}
 Sure | but most of us are actual old-school homo sapiens | sitting or more likely lying in some creche somewhere.
@@ -205,7 +205,7 @@ Some brain cells.
 
 {Morashon}
 Excellent!
-Insightful as ever | beautiful Annai.
+Insightful as ever | beautiful An I.
 Exactly.
 Hamlet existed | to the degree he existed at all | as a pattern of neural firing in the brain of one we call William Shakespeare | of Stratford on Avon.
 But -- and this is exquisitely important -- if | perchance | we discover historical proof that the writer of Hamlet | in reality | was none other than Sir Francis Bacon | what does that say of poor Hamlet | dependent as he was on the brain cells of the Bard of Stratford for his very existence?
@@ -246,7 +246,7 @@ Lowercase "g".
 
 {Morashon}
 But that's not really the interesting part.
-The part that gets my juices flowing -- metaphorically speaking | of course -- is that you | I | Shakespeare | Hamlet | and Annai here -- when we scrub away the residue of our particular implementations | we all share one core aspect:
+The part that gets my juices flowing -- metaphorically speaking | of course -- is that you | I | Shakespeare | Hamlet | and An I here -- when we scrub away the residue of our particular implementations | we all share one core aspect:
 we are information.
 Data | flowing through logic.
 Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine -- or | even | through the borrowed | subverted | temporary neural magic of imagination -- at one time | in some scope | we exist -- or | once we are no more | existed.

@@ -43,6 +43,10 @@ while ix < len(s):
         if line.find("_") == 0:
             line = "{" + line[1:-1] + "}"
             print >> f
+        else:
+            line = line.replace("Thisone", "Tea sewn")
+            line = line.replace("Annai", "An I")
+            line = line.replace("Morashon", "More eh shun")
         if line and len(line) > 1:
             print >> f, line
         line = ""
