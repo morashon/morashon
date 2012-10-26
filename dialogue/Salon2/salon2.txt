@@ -182,162 +182,190 @@ Tit for tat |0.1| 5,1.5;always wins.
 3.5;I 5;still 2;have no way to know the 4,2;agenda of those who 5,2;created 1;you.
 2.4;And since your 4;code 3;is too complex to reverse 3,3,4;engineer | 1^2;even if the source is 3^4,2;available | which I've been told it 4;is | 
 3;I have no choice but to 5;treat 2;you as a black 5;box.
-3;I  can only 5;judge 3;you by your 5,1.4;actions.
+3;I can only 5;judge 3;you by your 5,1.4;actions.
 
 {Morashon}
-Indeed.
-And I can only judge you by yours.
-So we are in the same boat.
-Same as it ever was | to quote an influence.
+2,4;Indeed.
+3;And I can only judge you by 5_-5;yours.
+2.5;So we are in the same 4.5;boat.
+3;Same as it 5,1;ever was ||| 
+2.5;to quote an 2,0,0_-4;influence.
 
 {Thisone}
-So the truth is | whether you are code | or a bunch of whacked out hackers | or something else | I can't imagine what | whatever you are | I have to deal with you as if you are what you say you are.
-For all I know | you think you are that thing.
-Wait | that doesn't make sense.
-If you're just the collective improvisation of some art troupe | then you can't be thinking for yourself.
+3.5;So the 5;truth 2;is | whether you are 5;code | 2;or a bunch of whacked out 5,2;hackers | 
+3;or something else 3,5,2,1;entirely | 2.5;I can't imagine 4;what | 4,4,2;whatever you are |
+I have to 4;deal 2;with you as if you are what you 5;say 1;you 1;are.
+3.5;For all I know | you think you 5;are 2;that 3;thing.
+Wait | that 1^2;doesn't make 4_-5;sense.
+3;If you're just the collective improvisation of some 5;art 2;troupe | then you 4;can't 3;be thinking for 3,5_-6;yourself.
 
 {Morashon}
-So Hamlet never existed.
+3;So 5,3;Hamlet never 3,5,2;existed.
 
 {Thisone}
-Of course not.
-He was invented | by Shakespeare.
+3;Of 5;course 1.5;not.
+2.5;He was invented by 4.5,2_-4;Shakespeare.
 
 {Morashon}
-And who | pray tell | was Shakespeare?
+3;And 5;who | 2;pray tell | was 5,1;Shakespeare?
 
 {Thisone}
-well | you're tapped into the Grid | obviously.
-Look him up.
+5_-6;well | 4;you're 2.5;tapped into the 4.5;Grid | 3^2,2,2_0;obviously.
+||
+2;Look 3;him 5;up.
 
 {Morashon}
-Of course | I have access to the search results.
-I know who he is | 5^historically speaking.
-In fact there were rumors that he might be Milton | or Sir Francis Bacon.
-But whomever he was | and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form |  but who was he | in his hubris | to believe he could invent Hamlet?
-What did Hamlet have to say about this circumstance?
+2;Of 4;course | 2.4;I have access to the 4;search 1;results.
+2.5;I know who he 5.5_-3;is | 5^3,3,2;historically 4.5,1.4;speaking.
+2;In 4;fact | 3;there were rumors that he might be 5,2;Milton | or Sir Francis 5,1;Bacon.
+5_-5;But | 3,5,2;whomever he was | 1.4;and we can surmise through 3,1.6;knowledge of the technological 2,2,2,1;limitations 
+of his 1.5;time that he was 3.4;most 1.5;likely of 4.5,1;human 0;form
+|||
+2;Who 1_0;was 4.5;he | 2.5;in his 4.5,2;hubris | 1.5;to believe that 4;he 2;could invent 5,1;Hamlet?
+2.25;What did 4.5,2;Hamlet have to say about this 3,1;circumstance?
 
 {Thisone}
-I don't get it.
-Hamlet doesn't exist.
-He was a figment of Shakespeare's imagination.
+3;I don't 5;get 1;it.
+5,2;Hamlet 1^doesn't 5_-6;exist.
+2.5;He was a 5,2;figment of 2.4;Shakespeare's 2,3,2,5,1;imagination.
 
 {Morashon}
-Which was?
+2;Which 2_5;was?
+
+{Annai;pitch=0.6}
+3;Some 5;brain 1;cells.
+
+{Morashon}
+5,2.5;Excellent!
+2,5,3;Insightful as 5,2;ever | beautiful An 4;I.
+||
+2.5;Hamlet 2,5,2;existed | to the degree he existed at 5_-3;all | 
+2.4;as a pattern of neural 4,2;firing in the brain of one we call William 5,1.2;Shakespeare | 2;of Stratford on 5,1;Avon.
+||
+{Morashon}
+6_-6;But | 2;and this is exquisitely 2,3.5,1;important | 4;if | 2;perchance | we discover historical 4;proof
+||
+2;that the writer of 4,1;Hamlet | 
+2;in reality was none other than Sir Francis 5,2;Bacon | what does that say of poor 5,1;Hamlet | 
+dependent as he 1.4;was on the brain cells of the 1.8;Bard of 4,1.7;Stratford 2;for 2.2;his 2.4;very 3,5,0.5;existence?
+
+{Thisone}
+5_-4;Well | 3^5,2;obviously | 2.2;it just means that 5,3;Bacon's brain cells were Hamlet | not 5,1.5;Shakespeare's.
+
+{Morashon}
+8_-5;So. 
+3;We simply change the 5_-3;name || 
+2;a pointer to a particular 4,2;human | who lived in a place 1;and 0_4;time ||| 
+2.2;who wrote 0;a 4.5_3;play.
+2;But the 5,2;essence is not changed at 4_-7;all.
+
+{Thisone}
+No | 2;I suppose 4.6;not.
+
+{Morashon}
+3;So in 4,2;principle | 
+2.2;it matters not whether Hamlet 2,4,2;existed in the imagination of 3;one 2;person or 2,4,1;another.
+1.8;What 4,2;matters is that he existed at 5_-4;all.
+2;The 2.5;brain cells 4,2;fired ||
+the internal 2,2,2,4,2;representation that was 4.5,2;Hamlet || 
+thought 2,1;Hamlet 4.5;thoughts || 
+2;made 2,1;Hamlet 4.5;speeches | 
+2;and 4.5;tried | 2;or 3.8;failed | 1;as it happened | to make important Hamlet 1,4,0;decisions.
+
+{Thisone}
+I think 3;I see 2;where you're 4,1.5;going with this.
+
+{Morashon}
+100%60%2,5_-7;Indeed | 100%2;we've come so far 2,4,2;already | there is not much further to 4;go.
+3;The destination should be 4.5,2;obvious | to one as gifted as 80%5_-6;you.
+
+{Thisone}
+2.5;I don't 3.5;know 2;how 4,2;gifted I am.
+
+{Morashon}
+3;We are all 4.5,2;gifted | to even be able to have this 2,2,5,1;conversation.
+2;For all we 3.5;know | 2;we are the machinations of a Shakespearean 4,1;wannabe | pecking away at a 1,4,0;computer somewhere.
+
+{Thisone}
+5;Sure | 4;sure.
+3;We're just God's 2_-4;dreams.
+5;Some 2;god's 1;dreams.
+2_2,2_2;Lower 2_1;case 2;G.
+
+{Morashon}
+4;But |||
+2;that's not really the 4,2;interesting part.
+2.5;The part that gets my 5,2;juices flowing | 
+6^metaphorically speaking | 1.4;of course | 
+2.5;is that 4;you || I || 4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and An 5;I 2;here |
+1;when we 4;scrub 2;away the residue of our particular 5^2,2,2,5,1;implementations |
+1.4;we all share one core 4,0;aspect.
+
+{Morashon}
+2.5;we are 2,2,4,1;information.
+4,1;Data.
+2.8;Flowing through 4.5,1;logic.
+2.2;Whether through the 3.2;wet 4,2;chemistry of one's evolved 3.4;brain | 2;as in 4;your 1;case | 
+1.3;or the bits and bytes of 4,1;silicon | as in 4;mine.
+5_-4;Or | 2,2_1;even | through the borrowed | 2,4,2;subverted | temporary neural 4,1;magic of 1,1,1,4,0;imagination | 
+2.5;at 4;one 2;time | in 4.5;sum 2;scope | we 2,4.2;exist | 1;or | once we are no 3.5;more | 2,3.1,1;existed.
+
+{Thisone}
+Huh | 2;that's a lot to 4.4;think 1;about.
+2.5;How did we get off on this 4,1;tangent?
+2;We were talking about 5;trust.
+
+{Morashon}
+4_-4;Trust | 2;indeed.
+2.4;Indeed we 4;were.
+Trust 1.5;is really just another aspect 0.7;of 4;truth.
+
+{Thisone}
+2.5;How 4_4;so?
+
+{Morashon}
+2;To 4;each 1;of us | truth is simply what we 1,4;believe.
+
+{Thisone}
+77%1_4.5;yes.
+
+{Morashon}
+2.4;And whether we believe each 4,1;other | is a matter of 93%3.5_-7;trust.
+
+{Thisone;pitch=-1}
+60%-1_4.5;So.
 
 {Annai}
-Some brain cells.
+3;Trust is our 4,2;confidence in the truth of each 4,1;other.
 
 {Morashon}
-Excellent!
-Insightful as ever | beautiful An I.
-Exactly.
-Hamlet existed | to the degree he existed at all | as a pattern of neural firing in the brain of one we call William Shakespeare | of Stratford on Avon.
-But | and this is exquisitely important | if | perchance | we discover historical proof that the writer of Hamlet | in reality | was none other than Sir Francis Bacon | what does that say of poor Hamlet | dependent as he was on the brain cells of the Bard of Stratford for his very existence?
-
-{Thisone}
-Well | obviously | it just means that Bacon's brain cells were Hamlet | not Shakespeare's.
-
-{Morashon}
-So | we simply change the name | a pointer to a particular human | who lived in a place and time | who wrote a play.
-But the essence is not changed at all.
-
-{Thisone}
-No | I suppose not.
-
-{Morashon}
-So | in principle | it matters not whether Hamlet existed in the imagination of one person or another.
-What matters is that he existed | the brain cells fired.
-the internal representation that was Hamlet thought Hamlet thoughts | made Hamlet speeches | and tried | or failed | as it happened | to make important Hamlet decisions.
-
-{Thisone}
-I think I see where you're going with this.
-
-{Morashon}
-Indeed | we've come so far already | there is not much further to go.
-The destination must be obvious | to one as gifted as you.
-
-{Thisone}
-I don't know how gifted I am.
-
-{Morashon}
-We are all gifted | to even be able to have this conversation.
-For all we know | we are the machinations of a Shakespearean wannabe | pecking away at a computer somewhere.
-
-{Thisone}
-Sure | sure.
-We're just God's dreams.
-Some god's dreams.
-Lower case G.
-
-{Morashon}
-But that's not really the interesting part.
-The part that gets my juices flowing | 
-6^metaphorically speaking | of course | 
-is that you | I | Shakespeare | Hamlet | and An I here |
-when we scrub away the residue of our particular 5^implementations |
-we all share one core aspect.
-
-{Morashon}
-we are information.
-Data | flowing through logic.
-Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine | or | even | through the borrowed | subverted | temporary neural magic of imagination | at one time | in some scope | we exist | or | once we are no more | existed.
-
-{Thisone}
-Huh | that's a lot to think about.
-How did we get off on this tangent?
-We were talking about trust.
-
-{Morashon}
-Trust | indeed.
-Indeed we were.
-Trust is really just another aspect of truth.
-
-{Thisone}
-How so?
-
-{Morashon}
-To each of us | truth is simply what we believe.
-
-{Thisone}
-yes.
-
-{Morashon}
-And whether we believe each other | is a matter of trust.
-
-{Thisone}
-So.
+5;Well 3;put | 4;well 2;put!
+4,2.5;Better 2;than I could have said 2,5_-7;myself.
 
 {Annai}
-Trust is our confidence in the truth of each other.
+2;I 3.5;doubt 2;that.
 
 {Morashon}
-Well put | well put!
-Better than I could have said myself.
+2.5,4;Believe 1;it.
+3;You have depths you are not 3,5;aware 2;of | my girl.
+
+{Thisone}
+3;So what does any of this have to do with 5,2;music?
+
+{Morashon}
+3;All is 3,2,1;connected.
+2;All will be 2,4_-7;revealed.
+2;Will you 3;join 4_5;us?
+
+{Thisone}
+80%2.5;In 5_2;what?
 
 {Annai}
-I doubt that.
-
-{Morashon}
-Believe it.
-You have depths you are not aware of | my girl.
+4,2;Music.
 
 {Thisone}
-So what does any of this have to do with music?
+2.4;Do I know the 4_4;song?
 
 {Morashon}
-All is connected.
-All will be revealed.
-Will you join us?
+80%1.5;You 3.8;will.
 
-{Thisone}
-In what?
-
-{Annai}
-Music.
-
-{Thisone}
-Do I know the song?
-
-{Morashon}
-You will.
