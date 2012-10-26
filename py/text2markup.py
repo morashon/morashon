@@ -34,8 +34,16 @@ while ix < len(s):
         c = " |"
     if c == ";":
         c = "."
+    if c == ":":
+        c = "."
     if c == "-":
-        c = " "
+        if s[ix:ix+1] == "-":
+            c = "|"
+            while s[ix:ix+1] == "-":
+                print s[ix:ix+10]
+                ix += 1
+        else:
+            c = " "
     line += c
     if c in ("\n", ".", "!", "?", ":"):
         line = line.strip()
