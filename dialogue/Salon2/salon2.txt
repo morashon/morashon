@@ -47,37 +47,39 @@ So 3;you're 92%3_3;sum 143%sort 88%1;of |0.03| 80%3;A 60%5;eye.
 98%2;I exist 70%5.5_-1;hear | 2.5;in the 4.5;Grid.
 97%3;As do 5;you | 3;and Ann 5;I | 105%3;and 114%5,3;everyone 100%and 111%5,3;everything we 3,3,5;interact 2;with here.
 
-{Thisone}
-5_-4;Sure.
-3;But 4;most of us 3;are actual old school 3,3,5,2;homosapiens | 4;sitting 2.5;or more likely 3.5;lying in some 4.5;creche 2.5;somewhere.
+{Thisone;speed=1.076;pitch=0.3}
+60%7_-4;Sure.
+3;But 4;most of us 3;are actual old school 3,3;homo 5,2;sapiens | 80%4;sit ing || 100%2.5;or more likely 80%3.5;lying | 100%in some 89%4.5;creche 2.5;somewhere.
 3.5;In 4.5;my 3;case | it's two hundred square 4;feet 2.5;of 4.5,2;boredom | with a 4;food 2;dispenser | a 4;waste 2;facility | and my 4.5;grid 2;gear.
 3.5;What's 5;your 2.3;real life spread look like?
 
 {Morashon}
-As 3;you've been 4;told | 3;my situation is 4.5,2;different 1;than 2;yours.
-3.5;What presents to 4.5;you | 2;as 4.5;me | 2.5;is the result of the 3;interaction of a large number of 4,2.2;logic nodes | distributed among the grid 4.1,1,1,2;infrastructure.
+As 3;you've been 4;told | 3;my situation is 4.5,2;different 1;than 88%2;yours.
+110%3.5;What 111%presents 78%to 70%4.5;you | 88%2;as 70%4.5;me | 101%2.5;is the result of the 3;interaction of a large number of 4,2.2;logic nodes |
+105%distributed among the grid 112%118%132%99%4.1,1,1,2;infrastructure.
 
 {Thisone}
-5_-2;Code.
+72%5_-3;Code.
 
 {Morashon}
-5_-3;Code | 3.5;if you 2;will.
-3,5,3;However | not code of the typical |0.07| 4.25;hand 3.5;written 3,3,1;variety.
+74%6_-1;Code | 92%3.5;if you 2;will.
+105%3,5,3;However | not code of the typical |0.07| 4.25;hand 3.5;written 3,3,1;variety.
 
-{Thisone}
-3.5;Sure | 4.5;jen 2;code.
+{Thisone;speed=1.045}
+67%3.5;Sure | 100%4.5;jen 2;code.
 I've 3;worked 2;with 1;it.
 
 {Morashon}
-3,4;Perhaps.
-It's 4,4,2.5;unlikely you've been exposed to 3;these 3,5,4;particular 2.8,5;design 1;patterns.
+4,2;Perhaps.
+103%3;It's 4;un 4,2;likely you've been exposed to 3;these 3,5,4;particular 2.8,5;design 1;patterns.
 
-{Thisone}
-4.5;So | 3.5;who 3,5,2;developed you?
+{Thisone;speed=1.05}
+70%4.5_-2.5;So | 100%3.5;who 3,5,2;developed you?
 Who set this in 5,2;motion?
 
 {Morashon}
-Various 4,2;agents | 5,2.5;Human agents | initially | 3;have been working on this in 4,2;earnest for many 5_-4;years.
+Various 4,2;agents.
+5,2.5;Human agents | initially | 3;have been working on this in 4,2;earnest for many 5_-4;years.
 3.7;It was 4.5;thought 3;by the majority of 5,3;researchers in the 4;past 2;that the key 4.5,2;problems were ones of 5,1;paradigm.
 4,3;Qualitative 3,2;barriers | if you 2_-3;will.
 3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,2;testing | 3;before the advent of the 5_-4;Grid.
