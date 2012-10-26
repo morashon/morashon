@@ -75,8 +75,8 @@ So who developed you?
 Who set this in motion?
 
 {Morashon}
-Various agents    Human agents | initially    have been working on this in earnest for many years.
-It was thought by the majority of researchers in the past that the key problems were ones of paradigm    qualitative barriers | if you will.
+Various agents | Human agents | initially | have been working on this in earnest for many years.
+It was thought by the majority of researchers in the past that the key problems were ones of paradigm | qualitative barriers | if you will.
 However | that hypothesis was never amenable to testing | before the advent of the Grid.
 
 {Morashon}
@@ -123,21 +123,22 @@ Feeling lonely?
 {Morashon}
 Not at all.
 I have my friends and admirers.
-In some sense | I am them    I am you.
+In some sense | I am them | I am you.
 
 {Thisone}
 Come again?
 
 {Morashon}
-As it turns out | personality    individuality    is an artifact of your biological makeup.
+As it turns out | personality | individuality | is an artifact of your biological makeup.
 I have no such limitations.
-My personality can morph | change    adapt to its surroundings.
+My personality can morph | change | adapt to its surroundings.
 I can absorb and shed components | attributes | at will.
 I can do this as easily as you can morph your avatar.
-I become what I need to be | in order to further my core goals    which are | to protect and serve those who brought me into being.
+I become what I need to be | in order to further my core goals | which are | to protect and serve those who brought me into being.
 
 {Thisone}
-And they are    ?
+And they are?
+|
 
 {Morashon}
 Why | you | of course.
@@ -169,8 +170,8 @@ None of this is transcended simply because a new sort of agent has arrived on th
 {Thisone}
 So how do I know we are on the same side?
 Why should I trust you?
-Even if I believe you    believe in you    even if I accept that you are what you say you are | I still have no way to know the agenda of those who created you.
-And since your code is too complex to reverse engineer    even if the source is available | which I've been told it is    I have no choice but to treat you as a black box.
+Even if I believe you | believe in you | even if I accept that you are what you say you are | I still have no way to know the agenda of those who created you.
+And since your code is too complex to reverse engineer | even if the source is available | which I've been told it is | I have no choice but to treat you as a black box.
 I can only judge you by your actions.
 
 {Morashon}
@@ -180,9 +181,9 @@ So we are in the same boat.
 Same as it ever was | to quote an influence.
 
 {Thisone}
-So the truth is | whether you are code | or a bunch of whacked out hackers | or something else    I can't imagine what    whatever you are | I have to deal with you as if you are what you say you are.
+So the truth is | whether you are code | or a bunch of whacked out hackers | or something else | I can't imagine what | whatever you are | I have to deal with you as if you are what you say you are.
 For all I know | you think you are that thing.
-Wait    that doesn't make sense.
+Wait | that doesn't make sense.
 If you're just the collective improvisation of some art troupe | then you can't be thinking for yourself.
 
 {Morashon}
@@ -203,7 +204,7 @@ Look him up.
 Of course | I have access to the search results.
 I know who he is | 5^historically speaking.
 In fact there were rumors that he might be Milton | or Sir Francis Bacon.
-But whomever he was | and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form     but who was he | in his hubris | to believe he could invent Hamlet?
+But whomever he was | and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form |  but who was he | in his hubris | to believe he could invent Hamlet?
 What did Hamlet have to say about this circumstance?
 
 {Thisone}
@@ -222,13 +223,13 @@ Excellent!
 Insightful as ever | beautiful An I.
 Exactly.
 Hamlet existed | to the degree he existed at all | as a pattern of neural firing in the brain of one we call William Shakespeare | of Stratford on Avon.
-But    and this is exquisitely important    if | perchance | we discover historical proof that the writer of Hamlet | in reality | was none other than Sir Francis Bacon | what does that say of poor Hamlet | dependent as he was on the brain cells of the Bard of Stratford for his very existence?
+But | and this is exquisitely important | if | perchance | we discover historical proof that the writer of Hamlet | in reality | was none other than Sir Francis Bacon | what does that say of poor Hamlet | dependent as he was on the brain cells of the Bard of Stratford for his very existence?
 
 {Thisone}
 Well | obviously | it just means that Bacon's brain cells were Hamlet | not Shakespeare's.
 
 {Morashon}
-So | we simply change the name    a pointer to a particular human | who lived in a place and time | who wrote a play.
+So | we simply change the name | a pointer to a particular human | who lived in a place and time | who wrote a play.
 But the essence is not changed at all.
 
 {Thisone}
@@ -236,14 +237,14 @@ No | I suppose not.
 
 {Morashon}
 So | in principle | it matters not whether Hamlet existed in the imagination of one person or another.
-What matters is that he existed    the brain cells fired.
-the internal representation that was Hamlet thought Hamlet thoughts | made Hamlet speeches | and tried    or failed | as it happened    to make important Hamlet decisions.
+What matters is that he existed | the brain cells fired.
+the internal representation that was Hamlet thought Hamlet thoughts | made Hamlet speeches | and tried | or failed | as it happened | to make important Hamlet decisions.
 
 {Thisone}
 I think I see where you're going with this.
 
 {Morashon}
-Indeed | we've come so far already    there is not much further to go.
+Indeed | we've come so far already | there is not much further to go.
 The destination must be obvious | to one as gifted as you.
 
 {Thisone}
@@ -270,7 +271,7 @@ we all share one core aspect.
 {Morashon}
 we are information.
 Data | flowing through logic.
-Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine    or | even | through the borrowed | subverted | temporary neural magic of imagination    at one time | in some scope | we exist    or | once we are no more | existed.
+Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine | or | even | through the borrowed | subverted | temporary neural magic of imagination | at one time | in some scope | we exist | or | once we are no more | existed.
 
 {Thisone}
 Huh | that's a lot to think about.
