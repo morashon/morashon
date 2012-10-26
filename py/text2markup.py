@@ -1,6 +1,7 @@
 #this script attempts a rough first pass at cleaning up dialogue extracted from the script in preparation for markup
 
 import sys, os
+from findPy import *
 
 try:
     fin = sys.argv[1]
@@ -10,7 +11,7 @@ except:
     exit()
 ftmp = fin + "__"
 
-cmd = "python plainAscii.py " + fin + " " + ftmp
+cmd = "python " + findPy("plainAscii.py") + " " + fin + " " + ftmp
 print cmd
 os.system(cmd)
 
@@ -23,13 +24,14 @@ print cmd
 os.system(cmd)
 
 f = open(fout, "w")
-
+print >> f, "{include:../actors.txt}"
 ix = 0
 line = ""
 while ix < len(s):
     c = s[ix]
-##    print hex(ord(c))
     ix += 1
+    if c == ",":
+        c = " |"
     line += c
     if c in ("\n", ".", "!", "?", ":"):
         line = line.strip()
@@ -41,7 +43,7 @@ while ix < len(s):
         if line.find("_") == 0:
             line = "{" + line[1:-1] + "}"
             print >> f
-        if line:
+        if line and len(line) > 1:
             print >> f, line
         line = ""
 

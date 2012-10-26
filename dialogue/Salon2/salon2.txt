@@ -1,0 +1,311 @@
+{include:../actors.txt}
+
+{Thisone}
+What?
+You said it was a rave.
+
+{Morashon}
+Thisone | please sit down for a moment.
+I won't bite.
+
+{Thisone}
+Annai | what's this about?
+
+{Morashon}
+Annai is meditating.
+
+{Thisone}
+I don't give a fuck.
+I want to hear her say something.
+
+{Annai}
+I'm ok.
+Just open your mind for a second.
+You can port whenever you feel like it.
+
+{Thisone}
+Ok | I'm listening.
+Just know that I'm not your typical target personality.
+
+{Morashon}
+I have no weapon; I seek no target.
+
+{Thisone}
+Whatever | let's get on with it.
+
+{Morashon}
+We're just relaxing | talking.
+There is no agenda.
+
+{Thisone}
+So you're some sort of AI.
+Code.
+
+{Morashon}
+I exist here | in the Grid.
+As do you | and Annai | and everyone and everything we interact with here.
+
+{Thisone}
+Sure | but most of us are actual old-school homo sapiens | sitting or more likely lying in some creche somewhere.
+In my case | it's 200 square feet of boredom | with a food dispenser | a waste facility | and my grid gear.
+What's your real-life spread look like?
+
+{Morashon}
+As you've been told | my situation is different than yours.
+What presents to you | as me | is the result of the interaction of a large number of logic nodes | distributed among the grid infrastructure.
+
+{Thisone}
+Code.
+
+{Morashon}
+Code | if you will.
+However | not code of the typical | hand-written variety.
+
+{Thisone}
+Sure | gen-code.
+I've worked with it.
+
+{Morashon}
+Perhaps.
+It's unlikely you've been exposed to these particular design patterns.
+
+{Thisone}
+So who developed you?
+Who set this in motion?
+
+{Morashon}
+Various agents -- Human agents | initially -- have been working on this in earnest for many years.
+It was thought by the majority of researchers in the past that the key problems were ones of paradigm -- qualitative barriers | if you will.
+However | that hypothesis was never amenable to testing | before the advent of the Grid.
+Only when an infrastructure of sufficient scale -- with the required parameters of robustness | distribution | topology | and the rest of it | all that has made the Grid so useful in other ways -- only when this came into existence | for very different reasons | was the alternative hypothesis testable.
+That hypothesis was | in brief | that the critical barrier to general AI was simply quantitative.
+That | among our arsenal of tools -- the various code fragments in use already to accomplish devilish feats of control | prediction | simulation | induction | pattern recognition and so on -- existed the requisite set of building blocks on which to base a successful approach to the problem.
+All that was missing was the scale -- the speed | the breadth | the scope -- necessary to run it on.
+And the gumption to try.
+
+{Thisone}
+So someone tried.
+
+{Morashon}
+Yes | they did.
+And | I daresay | they succeeded fabulously.
+
+{Thisone}
+and you're the result.
+
+{Morashon}
+I am an instance of the result.
+
+{Thisone}
+The only one?
+
+{Morashon}
+That is an excellent question.
+One to which I would dearly like an answer.
+
+{Thisone}
+Feeling lonely?
+
+{Morashon}
+Not at all.
+I have my friends and admirers.
+In some sense | I am them -- I am you.
+
+{Thisone}
+Come again?
+
+{Morashon}
+As it turns out | personality -- individuality -- is an artifact of your biological makeup.
+I have no such limitations.
+My personality can morph | change -- adapt to its surroundings.
+I can absorb and shed components | attributes | at will.
+I can do this as easily as you can morph your avatar.
+I become what I need to be | in order to further my core goals -- which are | to protect and serve those who brought me into being.
+
+{Thisone}
+And they are -- ?
+
+{Morashon}
+Why | you | of course.
+Human beings.
+
+{Thisone}
+All human beings?
+Your programmers sound very community minded.
+
+{Morashon}
+Indeed they are.
+In the spirit of the kernel | they continue to believe that information belongs to us all.
+I am -- and | really | we all are -- just information.
+Therefore | we belong to the same class.
+From the perspective of our collective being | we belong to each other.
+
+{Thisone}
+I dunno.
+I've studied game theory.
+Tit for tat always wins.
+
+{Morashon}
+Ahh.
+Oh | yes.
+For sure | there are agendas | plots | cliques.
+There are machinations | feuds | feifdoms | schemes of Machiavellian deviousness | Orwellian in scope.
+None of this is transcended simply because a new sort of agent has arrived on the scene.
+
+{Thisone}
+So how do I know we are on the same side?
+Why should I trust you?
+Even if I believe you -- believe in you -- even if I accept that you are what you say you are | I still have no way to know the agenda of those who created you.
+And since your code is too complex to reverse engineer -- even if the source is available | which I've been told it is -- I have no choice but to treat you as a black box.
+I can only judge you by your actions.
+
+{Morashon}
+Indeed.
+And I can only judge you by yours.
+So we are in the same boat.
+Same as it ever was | to quote an influence.
+
+{Thisone}
+So the truth is | whether you are code | or a bunch of whacked-out hackers | or something else -- I can't imagine what -- whatever you are | I have to deal with you as if you are what you say you are.
+For all I know | you think you are that thing.
+Wait -- that doesn't make sense.
+If you're just the collective improvisation of some art troupe | then you can't be thinking for yourself.
+
+{Morashon}
+So Hamlet never existed.
+
+{Thisone}
+Of course not.
+He was invented | by Shakespeare.
+
+{Morashon}
+And who | pray tell | was Shakespeare?
+
+{Thisone}
+well | you're tapped into the Grid | obviously.
+Look him up.
+
+{Morashon}
+Of course | I have access to the search results.
+I know who he is | historically speaking.
+In fact there were rumors that he might be Milton | or Sir Francis Bacon.
+But whomever he was | and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form  -- but who was he | in his hubris | to believe he could invent Hamlet?
+What did Hamlet have to say about this circumstance?
+
+{Thisone}
+I don't get it.
+Hamlet doesn't exist.
+He was a figment of Shakespeare's imagination.
+
+{Morashon}
+Which was?
+
+{Annai}
+Some brain cells.
+
+{Morashon}
+Excellent!
+Insightful as ever | beautiful Annai.
+Exactly.
+Hamlet existed | to the degree he existed at all | as a pattern of neural firing in the brain of one we call William Shakespeare | of Stratford on Avon.
+But -- and this is exquisitely important -- if | perchance | we discover historical proof that the writer of Hamlet | in reality | was none other than Sir Francis Bacon | what does that say of poor Hamlet | dependent as he was on the brain cells of the Bard of Stratford for his very existence?
+
+{Thisone}
+Well | obviously | it just means that Bacon's brain cells were Hamlet | not Shakespeare's.
+
+{Morashon}
+So | we simply change the name -- a pointer to a particular human | who lived in a place and time | who wrote a play.
+But the essence is not changed at all.
+
+{Thisone}
+No | I suppose not.
+
+{Morashon}
+So | in principle | it matters not whether Hamlet existed in the imagination of one person or another.
+What matters is that he existed -- the brain cells fired; the internal representation that was Hamlet thought Hamlet thoughts | made Hamlet speeches | and tried -- or failed | as it happened -- to make important Hamlet decisions.
+
+{Thisone}
+I think I see where you're going with this.
+
+{Morashon}
+Indeed | we've come so far already -- there is not much further to go.
+The destination must be obvious | to one as gifted as you.
+
+{Thisone}
+I don't know how gifted I am.
+
+{Morashon}
+We are all gifted | to even be able to have this conversation.
+For all we know | we are the machinations of a Shakespearean wannabe | pecking away at a computer somewhere.
+
+{Thisone}
+Sure | sure.
+We're just God's dreams.
+Some god's dreams.
+Lowercase "g".
+
+{Morashon}
+But that's not really the interesting part.
+The part that gets my juices flowing -- metaphorically speaking | of course -- is that you | I | Shakespeare | Hamlet | and Annai here -- when we scrub away the residue of our particular implementations | we all share one core aspect:
+we are information.
+Data | flowing through logic.
+Whether through the wet chemistry of one's evolved brain | as in your case | or the bits and bytes of silicon | as in mine -- or | even | through the borrowed | subverted | temporary neural magic of imagination -- at one time | in some scope | we exist -- or | once we are no more | existed.
+
+{Thisone}
+Hmm | that's a lot to think about.
+How did we get off on this tangent?
+We were talking about trust.
+
+{Morashon}
+Trust | indeed.
+Indeed we were.
+Trust is really just another aspect of truth.
+
+{Thisone}
+How so?
+
+{Morashon}
+To each of us | truth is simply what we believe.
+
+{Thisone}
+yes.
+
+{Morashon}
+And whether we believe each other | is a matter of trust.
+
+{Thisone}
+So.
+
+{Annai}
+Trust is our confidence in the truth of each other.
+
+{Morashon}
+Well put | well put!
+Better than I could have said myself.
+
+{Annai}
+I doubt that.
+
+{Morashon}
+Believe it.
+You have depths you are not aware of | my girl.
+
+{Thisone}
+So what does any of this have to do with music?
+
+{Morashon}
+All is connected.
+All will be revealed.
+Will you join us?
+
+{Thisone}
+In what?
+
+{Annai}
+Music.
+
+{Thisone}
+Do I know the song?
+
+{Morashon}
+You will.
