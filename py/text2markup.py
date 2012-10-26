@@ -32,6 +32,10 @@ while ix < len(s):
     ix += 1
     if c == ",":
         c = " |"
+    if c == ";":
+        c = "."
+    if c == "-":
+        c = " "
     line += c
     if c in ("\n", ".", "!", "?", ":"):
         line = line.strip()
