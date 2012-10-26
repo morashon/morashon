@@ -14,7 +14,7 @@
 {Morashon}
 102%3.5;Ann I is 5,3;meditating.
 
-{Thisone}
+{Thisone;speed=1.03}
 107%5;I don't give 3;a fuck.
 120%I 143%want 118%to 111%hear her 5;say 3,2;something.
 
@@ -23,7 +23,7 @@
 108%3.5;Just open 122%yur 4.5;mind 110%3;for a 3,2.5;second.
 115%3.5;You 163%can 125%5;port 110%118%3;whenever you 5;feel 2;like it.
 
-{Thisone;pitch=1.01}
+{Thisone}
 4;O 2;k | 3;I'm 4,2;listening.
 105%Just know 135%that I'm 100%5;not 108%3;your typical target 110%110%100%80%3,3,4.5,0,1;personality.
 
