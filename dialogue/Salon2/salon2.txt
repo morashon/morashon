@@ -16,29 +16,29 @@
 
 {Thisone}
 107%5;I don't give 3;a fuck.
-I want 118%to 111%hear her 5;say 3,2;something.
+120%I 143%want 118%to 111%hear her 5;say 3,2;something.
 
 {Annai}
 102%I'm 4;o 4_-3;k.
 108%3.5;Just open 122%yur 4.5;mind 110%3;for a 3,2.5;second.
 115%3.5;You 163%can 125%5;port 110%118%3;whenever you 5;feel 2;like it.
 
-{Thisone;pitch=1.03}
+{Thisone;pitch=1.01}
 4;O 2;k | 3;I'm 4,2;listening.
-Just know 135%that I'm 100%5;not 3;your typical target 110%110%100%80%3,3,4.5,0,1;personality.
+105%Just know 135%that I'm 100%5;not 108%3;your typical target 110%110%100%80%3,3,4.5,0,1;personality.
 
 {Morashon}
 103%4.5;I have no weapon.
 3.5;I seek no 4,2;target.
 
-{Thisone}
+{Thisone;speed=1.03}
 100%80%30%%5,5,3_3;Whatever | 100%3.88;let's get 5;on 2;with it.
 
 {Morashon}
 103%Were 100%just 4,4.2;relax 3;ing |0.6| 4;talk 2;ing.
 3;There is 4;no 100%96%70%4,4,1;agenda.
 
-{Thisone}
+{Thisone;speed=1.06}
 So 3;you're 92%3_3;sum 143%sort 88%1;of |0.03| 80%3;A 60%5;eye.
 |||
 72%5_-3;Code.
@@ -47,14 +47,14 @@ So 3;you're 92%3_3;sum 143%sort 88%1;of |0.03| 80%3;A 60%5;eye.
 98%2;I exist 70%5.5_-1;hear | 2.5;in the 4.5;Grid.
 97%3;As do 5;you | 3;and Ann 5;I | 105%3;and 114%5,3;everyone 100%and 111%5,3;everything we 3,3,5;interact 2;with here.
 
-{Thisone;speed=1.076;pitch=0.3}
+{Thisone;speed=1.07;pitch=0.3}
 60%7_-4;Sure.
-3;But 4;most of us 3;are actual old school 3,3;homo 5,2;sapiens | 80%4;sit ing || 100%2.5;or more likely 80%3.5;lying | 100%in some 89%4.5;creche 2.5;somewhere.
+106%3;But 4;most of us 3;are actual old school 3,3;homo 5,2;sapiens | 80%4;sit ing || 100%2.5;or more likely 80%3.5;lying | 100%in some 89%4.5;creche 2.5;somewhere.
 3.5;In 4.5;my 3;case | it's two hundred square 4;feet 2.5;of 4.5,2;boredom | with a 4;food 2;dispenser | a 4;waste 2;facility | and my 4.5;grid 2;gear.
 3.5;What's 5;your 2.3;real life spread look like?
 
 {Morashon}
-As 3;you've been 4;told | 3;my situation is 4.5,2;different 1;than 88%2;yours.
+As 3;you've been 4;told | 3;my situation is 106%4.5,2;different 1;than 88%2;yours.
 110%3.5;What 111%presents 78%to 70%4.5;you | 88%2;as 70%4.5;me | 101%2.5;is the result of the 3;interaction of a large number of 4,2.2;logic nodes |
 105%distributed among the grid 112%118%132%99%4.1,1,1,2;infrastructure.
 
@@ -62,10 +62,10 @@ As 3;you've been 4;told | 3;my situation is 4.5,2;different 1;than 88%2;yours.
 72%5_-3;Code.
 
 {Morashon}
-74%6_-1;Code | 92%3.5;if you 2;will.
+74%6_-1;Code | 92%3.5;if you 2;please.
 105%3,5,3;However | not code of the typical |0.07| 4.25;hand 3.5;written 3,3,1;variety.
 
-{Thisone;speed=1.045}
+{Thisone;speed=1.04}
 67%3.5;Sure | 100%4.5;jen 2;code.
 I've 3;worked 2;with 1;it.
 
@@ -82,7 +82,7 @@ Various 4,2_0;agents.
 5,2.5;Human agents | 3,3,1;initially | 3;have 122%been 120%100%working onn this in 4,2;earnest for many 5_-4;years.
 3.7;It was 4.5;thought 3;by the majority of 5,3;researchers in the 4;past 2;that the key 4.5,2;problems were ones of 5,1;paradigm.
 4,3;Qualitative 3,2;barriers | if you 2_-3;will.
-3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing | 3;before the advent 1.5;of 90%the 70%5_-4;Grid.
+3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing 3;before the advent 1.5;of 90%the 70%5_-4;Grid.
 
 {Morashon;speed=1.03;pitch=-.6}
 Only when an 100%100%144%100%4,2.4;infrastructure of 3^sufficient 88%6_-2;scale | 100%3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
@@ -95,8 +95,8 @@ That 4,4,2.5;hypothesis 80%3.2_-3;was | 90%2;in 4;brief |
 100%2;that the 110%4;critical 100%barrier 2;to 3^94%4;general |0.01| 53%2;A 63%4_1;I |0.01| 100%2;was simply 125%105%4,1,2,1;quantitative.
 
 {Morashon;speed=1.03}
-That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragments in use 2,4,3;already to accomplish devilish feats of 3,4.5;control | 2,4.5;prediction | 2,2,4;simulation | 2,4;induction | 4;pattern 2;recognition |
-and 5;so 1;on 
+That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragments in use 2,4,3;already to accomplish devilish feats of 3,4.5;control | 2,4.5;prediction | 2,2,4;simulation | 2,4;induction | 111%4;pattern 2;recognition |
+100%and 5;so 1;on 
 ||
 3,5,2;existed the requisite set of 4.5,2.4;building blocks on which to base a successful approach to the 5,1;problem.
 
@@ -111,7 +111,7 @@ and 5;so 1;on
 
 {Morashon;speed=0.97}
 88%Yes | 93%2;they 73%5;did.
-And | 2.5;I daresay | they succeeded 111%124%5,1;fabulously.
+105%And | 2.5;I daresay | they succeeded 111%124%5,1;fabulously.
 
 {Thisone}
 94%2.6;and 92%you're the 3,4.5;result.
@@ -120,24 +120,24 @@ And | 2.5;I daresay | they succeeded 111%124%5,1;fabulously.
 3;I am an 4,2;instance of the 2,1;result.
 
 {Thisone}
-3;The only 3_5;one?
+96%3;The only 3_5;one?
 
 {Morashon}
 4.5;That 2.5;is an excellent 4,2;question.
 3;One to which 5;I 2.4;would dearly like an 4.3,1;answer.
 
 {Thisone}
-3;Feeling 3;4_5.5;lonely?
+98%3;Feeling 3;4_5.5;lonely?
 
 {Morashon}
 Not at 3;all.
 3;I have my 4.5;friends 3;and 3,5,3;admirers.
-3;In 4.5;some 2.5;sense | I am 4;them | 2.5;I am 5_-4;you.
+3;In 4.5;some 2.5;sense | 93%I am 4;them | 2.5;I am 5_-4;you.
 
 {Thisone}
 3;Come 3,4_6;again?
 
-{Morashon}
+{Morashon;speed=1.015}
 3.6;As it turns 2;out | 3,3,4.5,2;personality | 3,3,3,3,4.5,2;individuality | 2.5;are artifacts of your biological 4.2,1;makeup.
 3;I have no such 3,3,5,1;limitations.
 2;My 3,3,3.2,1.5;personality can 2;morph | 2.5;change | 1,2.5;adapt 1.68;to its 2,4,1;surroundings.
