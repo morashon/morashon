@@ -1,0 +1,468 @@
+{include:../actors.txt}
+
+{Thisone}
+Hi.
+You look alot like your av.
+
+{Annai}
+Very funny.
+I think I found something.
+
+{Thisone}
+I thought you were working on the monitor code.
+
+{Annai}
+I did.
+I let it run all night.
+
+{Thisone}
+Hmm.
+I thought we said we'd review it |
+
+{Annai}
+Sorry.
+It looked solid | so I let it fly.
+Guess what?
+
+{Thisone}
+mm hmm?
+
+{Annai}
+You were right.
+It's not AI.
+It's an interface.
+
+{Thisone}
+so some hackers |
+
+{Annai}
+somebody | somewhere | runs it.
+Not Finland | AFAICT.
+
+{Thisone}
+I assume it's masked |
+
+{Annai}
+Yep | serious wicked firewall.
+Impossible to tell who's controlling it.
+But |
+
+{Thisone}
+We could intercept.
+
+{Annai}
+Yes.
+Now that we know what's going on | we could | take over.
+Be More eh shun.
+
+{Thisone}
+but the interface gear | all the heads and limbs and stuff.
+Multiple conversations?
+
+{Annai}
+That's the interesting part.
+It's not real AI | but there is some tasty interface code.
+It seems like it probably uses available stuff.
+Advanced | expensive | but not something totally new.
+
+{Thisone}
+So we could insert ourselves | man in the middle.
+
+{Annai}
+We can take over the interface | and play More eh shun for a while.
+Anonymously | using the same firewall they use.
+
+{Thisone}
+but with our own hashes.
+
+{Annai}
+So they can't find us | same as we can't find them.
+
+{Thisone}
+And they won't report us | start an investigation.
+
+{Annai}
+That would be suicide.
+The investigation will lead to them as the primary source.
+
+{Thisone}
+I dunno | this sounds a bit dangerous.
+We don't know who these people are.
+
+{Annai}
+This is the only way to find out.
+Use their own code to send a message.
+
+{Thisone}
+What about the music?
+
+{Annai}
+There's a huge database of stuff they must be cribbing from.
+Obscure releases that were never popular.
+Then they run algorithms to extrapolate new tunes from a style mix.
+But you would need real talent to make it into anything.
+
+{Thisone}
+So they have an artist.
+
+{Annai}
+At least one.
+I have to believe that.
+This isn't your run of the mill bunch of hackers.
+
+{Thisone}
+more like an anarcho performance troupe with hacker skillz.
+
+{Annai}
+If you say so.
+But I want to know who he | she | they | really are.
+I feel betrayed.
+
+{Thisone}
+Because he lied to you?
+
+{Annai}
+Because he preaches about trust | transparency | cooperation versus defection.
+And he's hiding something.
+"He".
+That's rich.
+
+{Thisone}
+I still don't know if you're a she.
+
+{Annai}
+You know I am.
+
+{Thisone}
+I think so.
+
+{Annai}
+Well I am | if it matters so much.
+And bytheway | I know you're a dude.
+
+{Thisone}
+How can you be so sure?
+
+{Annai}
+You're a mega dude.
+Mega nerdy dude.
+
+{Thisone}
+(virtual blush?
+) Thanks for the compliment.
+
+{Annai}
+No | it's ok.
+I like it.
+
+{Thisone}
+Um | ah.
+I guess we never traded pics.
+
+{Annai}
+I just look like this.
+
+{Thisone}
+That's what they all say.
+
+{Annai}
+No | really.
+I even have all the clothes.
+
+{Thisone}
+Well still.
+
+{Annai}
+There you go again.
+You know we'll never meet  "in real life" | unless we win the megalot or something.
+
+{Thisone}
+No | I know | but.
+
+{Annai}
+So who cares what's "real"?
+I could send you pics | vids even | and how would you know they weren't shopped up?
+
+{Thisone}
+I guess.
+
+{Annai}
+Anyway | why are we talking about this?
+Are we flirting?
+Is this a date or something?
+
+{Thisone}
+No | An I | I mean | well | I dunno.
+I um | I don't know what to say.
+
+{Annai}
+Say what you feel.
+Mean what you say.
+
+{Thisone}
+I've never been good at this.
+I | since the breakdown | I've never.
+
+{Annai}
+That's a long time.
+To be alone.
+
+{Thisone}
+Yeah.
+Well | it just | never felt right.
+
+{Annai}
+I was 11.
+
+{Thisone}
+so you never |
+
+{Annai}
+Never.
+Offline | I mean.
+
+{Thisone}
+so online |
+
+{Annai}
+There were some guys.
+At least I think they were guys.
+And a girl.
+
+{Thisone}
+Maybe I am old.
+
+{Annai}
+It's just sex.
+And technologly.
+Gridsex | you know.
+It's a release.
+Why be embarrassed?
+It's no big deal.
+
+{Thisone}
+It just never felt real to me.
+I tried a couple times.
+It was so | awkward.
+An I teleports in to the sim
+
+{Thisone}
+Oh.
+Hi there.
+
+{Annai}
+Do you have all the gear?
+
+{Thisone}
+You mean | um | you know | for sex?
+
+{Annai}
+That's what we were just talking about | right?
+Or maybe I missed something.
+
+{Thisone}
+Yes | I have the gear.
+
+{Annai}
+We can be anyone we want.
+
+{Thisone}
+That's what makes it hard for me.
+I think | if you had experienced.
+
+{Annai}
+Real sex?
+
+{Thisone}
+Ack | you're so | um | it's so easy for you to talk about this stuff.
+
+{Annai}
+It's just something we can do | you know.
+Like music | or hacking.
+It's just another part of life.
+
+{Thisone}
+No | I can't believe that.
+I don't see it that way.
+It's something different.
+In real life |
+
+{Annai}
+There you go again.
+Can't you get it into your head that "real life" is over?
+
+{Thisone}
+Not when it comes to this.
+Something so | so personal.
+It can't be the same.
+
+{Annai}
+It's not the same | I guess.
+Some people say it's better.
+I wouldn't know.
+
+{Thisone}
+I've always figured those were people who never did it right in the first place.
+Never met the right one.
+
+{Annai}
+Did you meet the right one?
+
+{Thisone}
+There was someone | before.
+
+{Annai}
+Before all this.
+
+{Thisone}
+Right before.
+We were only together for a few months.
+Then.
+
+{Annai}
+Did she make it?
+
+{Thisone}
+She was across the universe.
+
+{Annai}
+Oh.
+Separated.
+
+{Thisone}
+yeah.
+
+{Annai}
+And you couldn't afford to |
+
+{Thisone}
+Well | at first travel was restricted to government officials | remember.
+They kept saying they would open it up to everyone | but | you know the rest.
+
+{Annai}
+Eventually they did | sort of.
+
+{Thisone}
+three years pay for a single trip | on a standard salary.
+Even then | no guarantee you'd be allowed to resettle.
+
+{Annai}
+That sucks.
+
+{Thisone}
+We kept saying we'd save up.
+A few years went by | but we never managed to get it together.
+
+{Annai}
+Sorry.
+
+{Thisone}
+It's ok.
+I'm not sure she really wanted to.
+She met someone local.
+They had a large shelter | a few thousand.
+
+{Annai}
+wow.
+That's | well | it sucks.
+
+{Thisone}
+So what about you?
+Aren't there any boys where you live?
+
+{Annai}
+One or two.
+Duds.
+Completely boring.
+Anyway | who said I only like boys?
+
+{Thisone}
+Well | or girls | whatever.
+I mean men | women.
+
+{Annai}
+Don't worry | I'm of age.
+Like I said | no one clicked.
+It's the grid life for me.
+An I touches Tea sewn's thigh.
+
+{Annai}
+Do you feel that?
+
+{Thisone}
+Yes | of course.
+I told you | I'm geared.
+
+{Annai}
+Why do you gear | if you don't | if there's nobody?
+
+{Thisone}
+well | there's | I | um |
+
+{Annai}
+Bots?
+You do botsex | but not gridsex?
+
+{Thisone}
+Look | this is getting embarrassing.
+
+{Annai}
+That's so funny.
+I'm sorry.
+I didn't mean to laugh.
+
+{Thisone}
+Ok | enough fun and games.
+
+{Annai}
+You're right.
+Let's not get silly here.
+
+{Thisone}
+Well | maybe | I could | try again.
+Someday.
+
+{Annai}
+Did I offer myself?
+Am I that easy?
+
+{Thisone}
+I didn't mean that.
+
+{Annai}
+Well | I did.
+Sort of.
+Offer.
+
+{Thisone}
+So you don't care what I really look like?
+
+{Annai}
+I see you.
+I feel you.
+I know who you are.
+
+{Thisone}
+I could be fat | sick | older than I'm saying.
+Just plain ugly.
+
+{Annai}
+Maybe.
+But you would still be you.
+And I like you.
+
+{Thisone}
+I | thanks.
+
+{Annai}
+Sure.
+Anytime.
+I mean | I don't mean | my moods change.
+I'm not promising anything.
+But I'll like you | until I don't.
+And I hope I don't.
+Stop liking you | I mean.
+They move closer | and kiss gently on the lips.
+
+{Annai}
+Bye for now.
