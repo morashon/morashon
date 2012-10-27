@@ -186,7 +186,7 @@ So you're going to check your changes in and add a log entry?
 {Thisone}
 well | not yet.
 I want to see what's going on first.
-I could claim that I'm just researching some dodgy patches.
+I could claim that I'm just researching some 2^dodgy patches.
 Checking for security holes | that sort of thing.
 
 {Annai}
@@ -223,7 +223,7 @@ They may be protecting some proprietary IP through obfuscation.
 There's some case law about that | if it's hard enough to decipher | you can claim trade secret.
 
 {Annai}
-Hmm.
+Him.
 Maybe.
 But he's not what he says he is.
 A lie is a lie.
@@ -245,7 +245,7 @@ I don't know.
 I guess if it means something to you | it means something.
 His motivations could be complex.
 He may contradict himself morally | but still be a great artist.
-I keep calling him "he" | but it's probably "them".
+I keep calling him he || but it's probably them.
 I don't know anymore.
 I'm out of my depth.
 
@@ -259,7 +259,7 @@ I contain multitudes.
 Walt Whitman?
 
 {Annai}
-20th century poet.
+Twentieth century poet.
 
 {Thisone}
 Oh.
@@ -289,4 +289,5 @@ An I ports away.
 {Thisone}
 Oh | ok.
 Nice seeing you.
-Bubbye for now.
+Bub bye for now.
+
