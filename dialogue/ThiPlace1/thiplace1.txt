@@ -1,6 +1,7 @@
 {include:../actors.txt}
 
-{Thisone  You came}
+{Thisone}
+You came.
 
 {Annai}
 Here I am.
@@ -16,7 +17,7 @@ Will you help me?
 
 {Annai}
 Ok | I'll help.
-I don't think we'll find anything | but as he says | he's got nothing to hide.
+I don't think 2^we'll find anything | but as he says | he's got nothing to hide.
 
 {Thisone}
 Right.
