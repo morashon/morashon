@@ -300,35 +300,38 @@ thought 2,1;Hamlet 4.5;thoughts ||
 
 {Morashon}
 103%3;We are all 4.5,2;gifted | to even be able to have this 2,2,5,1;conversation.
-133%2;For all 100%we 3.5;know | 111%2;we are the machinations 105%of a Shakespearean 4,1;wannabe | pecking away at a 1,4,0;computer somewhere.
+133%2;For all 100%we 91%3.5;know | 111%2;we are the machinations 105%of a Shakespearean 4,1;wannabe | pecking away at a 1,4,0;computer somewhere.
 
 {Thisone}
 88%5;Sure | 4;sure.
-3;We're just God's 2_-4;dreams.
+113%3;We're 100%just God's 2_-4;dreams.
 95%5;Sum 2;god's 1;dreams.
 95%2_2,2_2;Lower 2_1;case 77%2;G.
 
 {Morashon}
-4;But |||
-2;that's not really the 4,2;interesting part.
-107%2.5;The part that gets my 5,2;juices flowing | 
-6^metaphorically speaking | 1.4;of course | 
-2.5;is that 4;you || I || 4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and Ann 5;I 2;here |
-1;when we 4;scrub 2;away the residue of our particular 5^2,2,2,5,1;implementations |
-1.4;we all share one core 4,0;aspect.
+84%5_-2;But |||
+118%2;that's not really 109%the 4,2;interesting part.
+107%2.5;The 118%part 133%that 115%gets my 5,2;juices flowing | 
+6^122%metaphorically speaking 1.4;of course | 
+106%2.5;is 92%that 4;you || I || 97%4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and Ann 5;I 2;here |
+106%1;when we 110%4;scrub 2;away the residue of our particular 5^2,2,2,5,1;implementations |
+1.4;we all share 100%one core 4,0;aspect.
 
 {Morashon}
 2.5;we are 2,2,4,1;information.
-4,1;Data.
-2.8;Flowing through 4.5,1;logic.
-2.2;Whether through the 3.2;wet 4,2;chemistry of one's evolved 3.4;brain | 2;as in 4;your 1;case | 
-1.3;or the bits and bytes of 4,1;silicon | as in 4;mine.
-5_-4;Or | 2,2_1;even | through the borrowed | 2,4,2;subverted | temporary neural 4,1;magic of 1,1,1,4,0;imagination | 
-2.5;at 4;one 2;time | in 4.5;sum 2;scope | we 2,4.2;exist | 1;or | once we are no 3.5;more | 2,3.1,1;existed.
+101%80%4,1;Data.
+102%2.8;Flowing through 4.5,1;logic.
+103%2.2;Whether through 94%1;the 93%2.4;wet 103%4,2;chemistry of one's evolved 3.4;brain | 2;as in 4;your 1;case || 
+104%1.3;or the bits and bytes of 4,1;silicon | as in 4;mine.
+91%5_-4;Or | 98%2,2_1;even | 105%through the borrowed | 2,4,2;subverted | temporary neural 4,1;magic of 1,1,1,4,0;imagination
+|||
+2.5;at 4;one 2;time | in 4.5;sum 2;scope | we 2,4.2;exist | 1;or | once we are no 3.5;more ||| 97%2,3.1,1;existed.
 
-{Thisone}
-Huh | 2;that's a lot to 4.4;think 1;about.
-2.5;How did we get off on this 4,1;tangent?
+{Thisone;speed=1.03;pitch=0.3}
+83%4_-2;Huh 
+||| 
+100%2;that's a lot 122%to 4.4;think 100%1;about.
+110%2.5;How did 122%we get off on this 101%4,1;tangent?
 2;We were talking about 5;trust.
 
 {Morashon}
@@ -340,13 +343,13 @@ Trust 1.5;is really just another aspect 0.7;of 4;truth.
 2.5;How 4_4;so?
 
 {Morashon}
-2;To 4;each 1;of us | truth is simply what we 1,4;believe.
+102%2;To 4;each 1;of us | 127%truth is 117%simply 101%what we 1,4;believe.
 
 {Thisone}
 77%1_4.5;yes.
 
 {Morashon}
-2.4;And whether we believe each 4,1;other | is a matter of 93%3.5_-7;trust.
+109%2.4;And whether we believe each 4,1;other | is a matter of 93%3.5_-7;trust.
 
 {Thisone;pitch=-1}
 60%-1_4.5;So.
@@ -355,18 +358,18 @@ Trust 1.5;is really just another aspect 0.7;of 4;truth.
 3;Trust is our 4,2;confidence in the truth of each 4,1;other.
 
 {Morashon}
-5;Well 3;put | 4;well 2;put!
-4,2.5;Better 2;than I could have said 2,5_-7;myself.
+105%5;Well 3;put | 4;well 2;put!
+111%4,2.5;Better 2;than I could have said 2,5_-7;myself.
 
 {Annai}
-2;I 3.5;doubt 2;that.
+102%2;I 3.5;doubt 2;that.
 
 {Morashon}
 2.5,4;Believe 1;it.
-3;You have depths you are not 3,5;aware 2;of | my girl.
+3;You have 111%depths you 117%are not 118%78%3,4;aware 103%2;of | my girl.
 
 {Thisone}
-3;So what does any of this have to do with 5,2;music?
+103%3;So what does |0.04| 91%any 109%of this have to do with 5,2;music?
 
 {Morashon}
 3;All is 3,2,1;connected.
