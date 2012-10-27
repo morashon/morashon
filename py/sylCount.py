@@ -13,6 +13,8 @@ exc = {
     "interest" : 3,
     "different" : 3,
     "our" : 2,
+    "trying" : 2, #really? one syllable?
+    "history" : 3,
 }
 
 def nsyl(word):
