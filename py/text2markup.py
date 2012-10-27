@@ -30,6 +30,8 @@ line = ""
 while ix < len(s):
     c = s[ix]
     ix += 1
+    if c == '"':
+        continue
     if c == ",":
         c = " |"
     if c == ";":
