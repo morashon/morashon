@@ -132,7 +132,7 @@ Maybe | but not easily.
 You could only change a few ops at a time.
 They do random testing.
 too slow to brute force every op every cycle.
-So you might pass occasionally | but you'd still fail some percentage of the time.
+So you might pass 5^occasionally | but you'd still fail some percentage of the time.
 
 {Annai}
 It gets trickier.
@@ -144,7 +144,9 @@ If security flags anything as suspicious | it checks the patch logs and sees tha
 
 {Annai}
 Right.
-But by cleverly choosing a specific sequence of patches | he eventually generates code that passes security | but with a few custom ops.
+But by cleverly choosing a specific sequence of patches | 
+he 5^eventually generates code that passes security | 
+but with a few custom ops.
 
 {Thisone}
 that's pretty clever.
@@ -152,7 +154,7 @@ And wholly illegal.
 
 {Annai}
 What's it for?
-What's the code actually do?
+What's the code 4^actually do?
 
 {Thisone}
 We can't figure that out from the source.
@@ -162,7 +164,7 @@ We'd have to put a monitor in there.
 {Annai}
 Hold on.
 I said I'd help you analyze.
-That's outright hackery.
+That's outright 3^hackery.
 
 {Thisone}
 Look | you've seen that there's something fishy.
@@ -170,7 +172,7 @@ Above board open source doesn't have wicked masking code like this.
 
 {Annai}
 Well | no.
-It wouldn't | usually.
+It wouldn't | 4^usually.
 
 {Thisone}
 So we know there's something else going on.
