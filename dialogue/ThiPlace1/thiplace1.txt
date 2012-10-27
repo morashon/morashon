@@ -1,0 +1,292 @@
+{include:../actors.txt}
+
+{Thisone  You came}
+
+{Annai}
+Here I am.
+
+{Thisone}
+So you thought about what I said?
+
+{Annai}
+I thought about it.
+
+{Thisone}
+Will you help me?
+
+{Annai}
+Ok | I'll help.
+I don't think we'll find anything | but as he says | he's got nothing to hide.
+
+{Thisone}
+Right.
+We'll see.
+
+{Annai}
+So are you reviewing his code?
+
+{Thisone}
+We're talking petaLOCs.
+Over a quadrillion lines of code equivalent.
+Practically all of it algorithmically generated.
+
+{Annai}
+So what's the line of attack?
+I just reviewed his kernel | the part that started it off.
+Lots of tricky corner cases | but the core ideas are manageable.
+
+{Thisone}
+Yeah | I checked that part out.
+But keep in mind | that just bootstraps the process.
+Each iteration generates orders of magnitude more code | which then generates more code | and so on.
+
+{Annai}
+Right | that's the only way you could get a logic base that huge.
+
+{Thisone}
+Of course.
+And it's massively parallel.
+He must be using a noticeable portion of our local grid coords.
+I'd be surprised if the authorities didn't know about him.
+
+{Annai}
+I'm sure they do.
+I guess they're all for it.
+
+{Thisone}
+Maybe.
+Actually | he seems to mask a significant percentage from inspection.
+There are a few core libs that don't register themselves in the normal way.
+
+{Annai}
+Really?
+I didn't notice that.
+Let me see.
+Tea sewn pulls up a display.
+As An I looks at it | it morphs into a 3D data representation.
+The camera zooms and careens through a forest of multicolored textured prims.
+
+{Annai}
+That's really wierd.
+I've never seen a mask like that before.
+It's kind of amateurish.
+
+{Thisone}
+Almost as if he's trying a bit too hard to look suspicious.
+
+{Annai}
+Exactly.
+Misdirection?
+
+{Thisone}
+Lull you into a false sense of superiority?
+So the real mask is somewhere else.
+
+{Annai}
+Pull up the kernel again.
+Screens close | new ones open.
+Perspectives shift and warp.
+
+{Annai}
+Wait | check this out.
+Does that ring a bell?
+
+{Thisone}
+Ack | that's grid kernel code from maybe 15 years ago.
+How did you even know to look for it?
+It's before your time.
+
+{Annai}
+I'm a student of history.
+I've disassembled the kernel back ten major revs.
+
+{Thisone}
+You're quite the hacker | for
+
+{Annai}
+A girl?
+
+{Thisone}
+I was going to say | for someone so young.
+I associate youth with talent | energy | and inexperience.
+
+{Annai}
+I've been coding since before I could talk.
+
+{Thisone}
+Typical.
+Still.
+
+{Annai}
+Anyway | check this out.
+I diffed it against the original.
+
+{Thisone}
+Why would he start with some old cruft like this?
+It's completely obsolete.
+
+{Annai}
+Yes | but the security mods have this stuff whitelisted.
+Maybe | if you just change an op here or there | you can get something by them?
+
+{Thisone}
+Maybe | but not easily.
+You could only change a few ops at a time.
+They do random testing.
+too slow to brute force every op every cycle.
+So you might pass occasionally | but you'd still fail some percentage of the time.
+
+{Annai}
+It gets trickier.
+The diffs all look like patches from one old version to another.
+
+{Thisone}
+Even better.
+If security flags anything as suspicious | it checks the patch logs and sees that it matches.
+
+{Annai}
+Right.
+But by cleverly choosing a specific sequence of patches | he eventually generates code that passes security | but with a few custom ops.
+
+{Thisone}
+that's pretty clever.
+And wholly illegal.
+
+{Annai}
+What's it for?
+What's the code actually do?
+
+{Thisone}
+We can't figure that out from the source.
+It's too fluid.
+We'd have to put a monitor in there.
+
+{Annai}
+Hold on.
+I said I'd help you analyze.
+That's outright hackery.
+
+{Thisone}
+Look | you've seen that there's something fishy.
+Above board open source doesn't have wicked masking code like this.
+
+{Annai}
+Well | no.
+It wouldn't | usually.
+
+{Thisone}
+So we know there's something else going on.
+All I'm suggesting is | we find out what it is.
+It's open source anyway | we have as much right to hack on it as anyone else.
+
+{Annai}
+Oh | right.
+So you're going to check your changes in and add a log entry?
+
+{Thisone}
+well | not yet.
+I want to see what's going on first.
+I could claim that I'm just researching some dodgy patches.
+Checking for security holes | that sort of thing.
+
+{Annai}
+Hah.
+Let's see who believes it.
+
+{Thisone}
+Well | if it comes to that | More eh shun | or his dev team | whoever he really is | they'll have some explaining to do themselves.
+
+{Annai}
+Tit for tat?
+
+{Thisone}
+Exactly.
+What's good for the goose.
+
+{Annai}
+I suppose.
+This is just the sort of thinking More eh shun hates.
+
+{Thisone}
+How convenient.
+Espouse a philosophy of trust.
+Do as I say | not as I do.
+
+{Annai}
+I guess I'm in | for now.
+I | I trusted him.
+I never expected something like this.
+
+{Thisone}
+Maybe there's an innocent explanation.
+They may be protecting some proprietary IP through obfuscation.
+There's some case law about that | if it's hard enough to decipher | you can claim trade secret.
+
+{Annai}
+Hmm.
+Maybe.
+But he's not what he says he is.
+A lie is a lie.
+
+{Thisone}
+Well | the other scenarios are even darker.
+
+{Annai}
+L Ron?
+
+{Thisone}
+Something like that.
+
+{Annai}
+So when I listen to his music | and it moves me | makes me feel like he understands me | what's in my soul | is that real?
+
+{Thisone}
+I don't know.
+I guess if it means something to you | it means something.
+His motivations could be complex.
+He may contradict himself morally | but still be a great artist.
+I keep calling him "he" | but it's probably "them".
+I don't know anymore.
+I'm out of my depth.
+
+{Annai}
+".
+I contradict myself.
+I am large.
+I contain multitudes.
+
+{Thisone}
+Walt Whitman?
+
+{Annai}
+20th century poet.
+
+{Thisone}
+Oh.
+Not bad.
+
+{Annai}
+I'll do it.
+
+{Thisone}
+The monitor?
+I thought I |
+
+{Annai}
+Let me do it.
+I know him better.
+I'll be able to mask it.
+
+{Thisone}
+Umm | ok.
+Let me review it before you take it live.
+
+{Annai}
+Sure.
+I'll ping you when it's done.
+An I ports away.
+
+{Thisone}
+Oh | ok.
+Nice seeing you.
+Bubbye for now.
