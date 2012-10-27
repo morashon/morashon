@@ -40,7 +40,6 @@ while ix < len(s):
         if s[ix:ix+1] == "-":
             c = "|"
             while s[ix:ix+1] == "-":
-                print s[ix:ix+10]
                 ix += 1
         else:
             c = " "
