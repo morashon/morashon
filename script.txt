@@ -1068,7 +1068,7 @@ Thisone is sitting in a lounge chair, with heads-up displays, code and visualiza
 
 Annai ports in, on a stool nearby
 
-_Thisone (still looking at his screens) You came.
+_Thisone: (still looking at his screens) You came.
 
 _Annai: Here I am.
 
