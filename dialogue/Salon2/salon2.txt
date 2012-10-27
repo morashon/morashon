@@ -86,10 +86,10 @@ Various 4,2_0;agents.
 3,5,2;However | 4;that 4,4,2.5;hypothesis was 4,2.4;never amenable to 4,1.2;testing |0.13| 3;before 2.6;thee |0.01| 97%3,1;advent 1.5;of 90%the 70%5_-4;Grid.
 
 {Morashon;speed=1.03;pitch=-.6}
-Only when an 100%100%144%100%4,2.4;infrastructure of 3^sufficient 88%6_-2;scale | 100%3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
+Only when an 100%100%124%94%4,2.4;architecture of 3^sufficient 88%6_-2;scale | 100%3;with the 3^required parameters of 3,5,2;robustness | 3,3,5,2;distribution 
 | 3,5,2;topology | 3.5;and the 4.5;rest 2;of it |
 131%2.5;all that has made 100%the 4;Grid 2;so 4;2;useful in other 5_-2;ways | 
-103%3;only when 5;this 3;came into 3,5,3;existence | 111%for very different 4,2;reasons | 100%was the alternative hypothesis even 3^5,2,1;testable.
+103%3;only when 5;this 3;came into 3,5,3;existence | 111%for very different 4,2;reasons | 100%was thee alternative hypothesis even 3^5,2,1;testable.
 
 {Morashon}
 That 4,4,2.5;hypothesis 80%3.2_-3;was | 90%2;in 4;brief | 
@@ -111,7 +111,7 @@ That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragme
 73%8_-1;So | 93%3;someone 5.5;tried.
 
 {Morashon;speed=0.97}
-88%Yes | 99%2;they 77%5;did.
+88%Yes | 99%2;they 59%5.5_-6.5;did.
 105%And | 2.5;I daresay | they succeeded 121%138%138%101%5,1;fabulously.
 
 {Thisone}
@@ -132,8 +132,8 @@ That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragme
 
 {Morashon}
 110%Not at 3;all.
-3;I have my 4.5;friends 3;and 3,5,3;admirers.
-3;In 4.5;some 2.5;sense | 93%I am 4;them | 2.5;I am 5_-4;you.
+104%3;I have my 4.5;friends | 3;and 100%100%90%3,5,2;admirers.
+3;In 4.5;sum 2.5;sense | 93%I 90%4.5_4;am 97%2.2;them || 93%2.5;I am 5_-4;you.
 
 {Thisone}
 3;Come 108%99%3,4_6;again?
@@ -142,12 +142,13 @@ That |0.55| 2;among 2^our arsenal of 3.5;tools | 2.4;the various code 4,2;fragme
 3.6;As 108%it turns 2;out | 103%3,3,4.5,2;personality | 3,3,3,3,4.5,2;individuality | 2.5;are 111%124%131%artifacts 113%of your biological 4.2,1;makeup.
 107%3;I have no such 3,3,5,1;limitations.
 2;My 116%3,3,3.2,1.5;personality can 101%2;morph | 2.5;change | 1,2.5;adapt 1.68;to its 2,4,1;surroundings.
-2.2;I can 115%absorb |0.05| 120%and shed 2,3;components | 111%attributes | 100%1;at 3.5;will.
-111%2;I can do this as easily as you can morph your 104%70%90%4,1,0.4;avatar.
-111%2;I become 118%what I 3.5;need 103%to 3_-1;be | 111%1.5;in order to further my 2;core 89%3.5;goals.
+2.2;I 115%can absorb |0.05| 120%and shed 2,3;components | 111%attributes | 100%1;at 67%4_-3;will.
+111%2;I can do this as easily as you can 119%morph 112%your 104%70%70%4,1,1;avatar.
+111%2;I 117%become 118%what I 3.5;need 103%to 3_-1;be | 111%1.5;in order to further my 2;core 89%3.5;goals.
+| 
 85%2.4;Which 78%5_-6;are 
 |0.6| 
-109%to 2.5,4;protect |0.055| 1;and 4;serve 2.5;those who brought me into 90%5,1;being.
+109%to 2.5,4;protect |0.055| 119%1;and 102%4;serve |0.16| 68%2.5;those | 102%who 109%brought me into 90%5,1;being.
 
 {Thisone}
 2.25;And 69%4;they 103%3;would 70%3_4.5;be?
@@ -206,7 +207,7 @@ I 1;am | 3;and | 3,1;really | 2;we 4;all 1;are | just 1,1,4,0.6;information.
 3;or something else 3,5,2,1;entirely | 2.5;I can't imagine 4;what || 4,4,2;whatever you are |
 |||
 144%I have 98%to 92%4;deal 100%2;with 90%you |0.04| 132%as if 100%you are what you 5;say 1;you 1;are.
-3.5;For all I know || 95%you think you 5;are 2;that 3;thing.
+3.5;For 191%awl 100%I know || 95%you think you 5;are 2;that 3;thing.
 |||
 111%Wait | 127%that 1^2;doesn't 106%make 4_-5;sense.
 114%3;If you're just the collective improvisation of some 5;art 2;troupe 
@@ -218,24 +219,23 @@ then you 4;can't 3;be thinking for 3,5_-6;yourself.
 
 {Thisone}
 3;Of 5;course 1.5;not.
-107%2.5;He was invented | by 4.5,2_-4;Shakespeare.
+107%2.5;He was invented by 4.5,2_-4;Shakespeare.
 
 {Morashon}
 3;And 82%5;who | 100%2;pray 113%tell | was 94%5,1;Shakespeare?
 
 {Thisone}
-5_-6;well | 4;you're 2.5;tapped into the 4.5;Grid | 3^2,2,2_0;obviously.
-||
+5_-6;well | 4;you're 2.5;tapped into the 4.5;Grid |0.1| 3^2,2,2_0;obviously.
 103%2;Look 3;him 5;up.
 
 {Morashon}
-102%2;Of 4;course | 110%2.4;I have access to the 4;search 1;results.
-2.5;I know 122%who 100%he 90%5.5_-3;is | 5^123%3,3,2;historically 4.5,1.4;speaking.
+102%2;Of 4;course |0.1| 110%2.4;I have access to the 4;search 1;results.
+2.5;I know 122%who 100%he 90%5.5_-3;was | 5^123%3,3,2;historically 4.5,1.4;speaking.
 2;In 4;fact | 119%3;there were rumors that he might be 5,2;Milton | or Sir Francis 5,1;Bacon.
 5_-5;But | 3,5,2;whomever he was | 128%1.4;and 174%we can 119%surmise through 3,1.6;knowledge of the technological 2,2,2,1;limitations 
-of his 1.5;time that he was 3.4;most 1.5;likely of 100%4.5,1;human 0;form
+of his 1.5;time |0.13| that he was 3.4;most 1.5;likely of 100%4.5,1;human 0;form
 |||
-2;Who 1_0;was 4.5;he | 2.5;in his 4.5,2;hubris | 1.5;to believe that 4;he 119%2;could invent 98%5,1;Hamlet?
+2;Who 1_0;was 70%5.7_-0.6;he | 100%2.5;in his 4.5,2;hubris | 1.5;to believe that 4;he 119%2;could invent 98%5,1;Hamlet?
 108%2.25;What did 4.5,2;Hamlet have to say about this 3,1;circumstance?
 
 {Thisone}
@@ -254,7 +254,7 @@ of his 1.5;time that he was 3.4;most 1.5;likely of 100%4.5,1;human 0;form
 2,5,3;Insightful as 5,2;ever | 133%beautiful 93%Ann 4;I.
 ||
 2.5;Hamlet 2,5,2;existed | 110%to the degree he existed at 91%5_-3;all | 
-100%2.4;as a pattern of 106%neural 118%4,2;firing 114%in the brain 101%of 110%one we call 105%William 5,1.2;Shakespeare | 109%2;of Stratford on 5,1;Avon.
+100%2.4;as a pattern of 106%neural 113%4,2;firing 114%in the brain 101%of 110%one we call 105%William 5,1.2;Shakespeare | 109%2;of Stratford on 5,1;Avon.
 ||
 
 {Morashon;speed=1.11}
@@ -311,7 +311,7 @@ thought 2,1;Hamlet 4.5;thoughts ||
 {Morashon}
 4;But |||
 2;that's not really the 4,2;interesting part.
-2.5;The part that gets my 5,2;juices flowing | 
+107%2.5;The part that gets my 5,2;juices flowing | 
 6^metaphorically speaking | 1.4;of course | 
 2.5;is that 4;you || I || 4,2.4;Shakespeare | 4.5,2.3;Hamlet | 2;and Ann 5;I 2;here |
 1;when we 4;scrub 2;away the residue of our particular 5^2,2,2,5,1;implementations |
