@@ -27,9 +27,9 @@ We'll see.
 So are you reviewing his code?
 
 {Thisone}
-We're talking petaLOCs.
-Over a quadrillion lines of code equivalent.
-Practically all of it algorithmically generated.
+We're talking pet a L O seas.
+Over a 4^quadrillion lines of code equivalent.
+Practically all of it 6^algorithmically generated.
 
 {Annai}
 So what's the line of attack?
@@ -39,7 +39,7 @@ Lots of tricky corner cases | but the core ideas are manageable.
 {Thisone}
 Yeah | I checked that part out.
 But keep in mind | that just bootstraps the process.
-Each iteration generates orders of magnitude more code | which then generates more code | and so on.
+Each 4^iteration generates orders of magnitude more code | which then generates more code | and so on.
 
 {Annai}
 Right | that's the only way you could get a logic base that huge.
@@ -47,7 +47,7 @@ Right | that's the only way you could get a logic base that huge.
 {Thisone}
 Of course.
 And it's massively parallel.
-He must be using a noticeable portion of our local grid coords.
+He must be using a noticeable portion of our local grid co ords.
 I'd be surprised if the authorities didn't know about him.
 
 {Annai}
@@ -56,19 +56,16 @@ I guess they're all for it.
 
 {Thisone}
 Maybe.
-Actually | he seems to mask a significant percentage from inspection.
+3^Actually | he seems to mask a significant percentage from inspection.
 There are a few core libs that don't register themselves in the normal way.
 
 {Annai}
 Really?
-I didn't notice that.
+I 2^didn't notice that.
 Let me see.
-Tea sewn pulls up a display.
-As An I looks at it | it morphs into a 3D data representation.
-The camera zooms and careens through a forest of multicolored textured prims.
 
 {Annai}
-That's really wierd.
+That's really weird.
 I've never seen a mask like that before.
 It's kind of amateurish.
 
@@ -77,7 +74,7 @@ Almost as if he's trying a bit too hard to look suspicious.
 
 {Annai}
 Exactly.
-Misdirection?
+Miss direction?
 
 {Thisone}
 Lull you into a false sense of superiority?
@@ -93,12 +90,12 @@ Wait | check this out.
 Does that ring a bell?
 
 {Thisone}
-Ack | that's grid kernel code from maybe 15 years ago.
+Ack | that's grid kernel code from maybe fifteen years ago.
 How did you even know to look for it?
 It's before your time.
 
 {Annai}
-I'm a student of history.
+I'm a student of 3^history.
 I've disassembled the kernel back ten major revs.
 
 {Thisone}
@@ -127,7 +124,7 @@ Why would he start with some old cruft like this?
 It's completely obsolete.
 
 {Annai}
-Yes | but the security mods have this stuff whitelisted.
+Yes | but the security mods have this stuff white listed.
 Maybe | if you just change an op here or there | you can get something by them?
 
 {Thisone}
