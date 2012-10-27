@@ -328,6 +328,7 @@ thought 2,1;Hamlet 4.5;thoughts ||
 2.5;at 4;one 2;time | in 4.5;sum 2;scope | we 2,4.2;exist | 1;or | once we are no 3.5;more ||| 97%2,3.1,1;existed.
 
 {Thisone;speed=1.03;pitch=0.3}
+||||
 83%4_-2;Huh 
 ||| 
 100%2;that's a lot 122%to 4.4;think 100%1;about.
@@ -335,7 +336,7 @@ thought 2,1;Hamlet 4.5;thoughts ||
 2;We were talking about 5;trust.
 
 {Morashon}
-4_-4;Trust | 2;indeed.
+4_-4;Trust | 91%2;indeed.
 2.4;Indeed we 4;were.
 Trust 1.5;is really just another aspect 0.7;of 4;truth.
 
@@ -355,7 +356,7 @@ Trust 1.5;is really just another aspect 0.7;of 4;truth.
 60%-1_4.5;So.
 
 {Annai}
-3;Trust is our 4,2;confidence in the truth of each 4,1;other.
+103%3;Trust is our 4,2;confidence in the truth of each 4,1;other.
 
 {Morashon}
 105%5;Well 3;put | 4;well 2;put!
@@ -369,12 +370,13 @@ Trust 1.5;is really just another aspect 0.7;of 4;truth.
 3;You have 111%depths you 117%are not 118%78%3,4;aware 103%2;of | my girl.
 
 {Thisone}
-103%3;So what does |0.04| 91%any 109%of this have to do with 5,2;music?
+103%3;So what does 109%annie of this have to do with 5,2;music?
 
 {Morashon}
 3;All is 3,2,1;connected.
-2;All will be 2,4_-7;revealed.
-2;Will you 3;join 4_5;us?
+2;All will be 91%2,4_-7;revealed.
+|0.66|
+2;Will you 105%3;join 4_5;us?
 
 {Thisone}
 80%2.5;In 5_2;what?
@@ -386,5 +388,6 @@ Trust 1.5;is really just another aspect 0.7;of 4;truth.
 2.4;Do I know the 4_4;song?
 
 {Morashon}
+|||
 80%1.5;You 3.8;will.
 
