@@ -2,7 +2,7 @@
 
 {Thisone}
 80%3_5;What?
-3;You said 2.5;it was a 70%5;rave.
+3;You 122%said 2.5;it 100%was a 70%5;rave.
 
 {Morashon}
 110%5;Tea 3;sewn | please sit 4;down 2.5;for a 122%moment.
@@ -16,14 +16,15 @@
 
 {Thisone;speed=1.015}
 107%5;I don't give 3;a fuck.
-120%I 143%want 118%to 111%hear her 5;say 3,2;something.
+120%I 193%want 118%to 102%hear her 5;say 3,2;something.
 
 {Annai}
-102%I'm 4;o 4_-3;k.
+102%I'm 112%4;o 4_-3;k.
 108%3.5;Just open 122%yur 4.5;mind 110%3;for a 3,2.5;second.
-115%3.5;You 163%can 125%5;port 110%118%3;whenever you 5;feel 2;like it.
+115%3.5;You 176%can 138%5;port 110%118%3;whenever you 5;feel 2;like it.
 
 {Thisone}
+|0.4|
 4;O 2;k | 3;I'm 4,2;listening.
 105%Just know 135%that I'm 100%5;not 108%3;your typical target 110%110%100%80%3,3,4.5,0,1;personality.
 
