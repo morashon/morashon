@@ -89,33 +89,35 @@ Advanced | 4,4,2;expensive | 3;but not something totally 83%5_-3;new.
 105%3;That would be 6,2;suicide.
 5,3;Any 3,3,3,5.7,3.5;investigation |0.2| would 133%leed 109%to 101%5;them 100%3;as the primary 7.6_-5;source.
 
-{Thisone}
-I dunno | this sounds a bit dangerous.
-We don't know who these people are.
+{Thisone;speed=1.07}
+75%5;I 90%5,4_-4;dunno.
+3;this sounds a bit 5,3,2;dangerous.
+3;We 4;don't 5.6;know 3;who these 1^people 68%6_-4;are.
 
-{Annai}
-This is the only way to find out.
-Use their own code to send a message.
-
-{Thisone}
-What about the music?
-
-{Annai}
-There's a huge database of stuff they must be cribbing from.
-Obscure releases that were never popular.
-Then they run algorithms to extrapolate new tunes from a style mix.
-But you would need real talent to make it into anything.
+{Annai;speed=1.07}
+3;This is the 122%only way 155%to 105%find 81%5;out.
+Use their 5;own 5_1;code 155%3;to 101%send a 5,2;message.
 
 {Thisone}
-So they have an artist.
+3.5;What about 105%the 5,2;music?
 
-{Annai}
-At least one.
-I have to believe that.
-This isn't your run of the mill bunch of hackers.
+{Annai;speed=1.16;pitch=.3}
+3;There's a 5;huge 5,3;database 2.5;of 3;stuff they must be 5,2;cribbing from.
+Obscure 4,5,3;releases that were never 5,2;popular.
+Then they 3;run 5,3;algorithms to extrapolate new 5;tunes 3;from a 5;style 2;mix.
+||
+3.5;But 122%you still need some 106%5,3;talent  to 119%make it into some thing 4^110%110%110%92%5,2;listenable.
 
-{Thisone}
-more like an 3^anarcho performance troupe with hacker skills.
+{Thisone;speed=1.1}
+3;So they have an 5,2;artist.
+
+{Annai;speed=1.18}
+At least 90%one.
+I 5;have 122%3;to 100%believe 4.5;that.
+3;This 5;isn't 2.7;your run of the mill bunch of 5,2;hackers.
+
+{Thisone;speed=1.1}
+3;more like an 3^anachro 3,5,3;performance troupe | with 5,2;hacker skills.
 
 {Annai}
 If you say so.
