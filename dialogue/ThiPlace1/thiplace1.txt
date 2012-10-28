@@ -1,80 +1,84 @@
 {include:../actors.txt}
 
 {Thisone}
-You came.
+3;You 88%6;came.
 
 {Annai}
-Here I am.
+2.5;Here I 5;am.
 
 {Thisone}
-So you thought about what I said?
+5;So | 3;you thought about 122%what I 99%6;said?
 
 {Annai}
-I thought about it.
+118%6;I 3;thought about it.
 
 {Thisone}
-Will you help me?
+77%6;So.
+|
+117%3;Will you 4;help 88%5.5;me?
 
 {Annai}
-Ok | I'll help.
-I don't think 2^we'll find anything | but as he says | he's got nothing to hide.
+88%5;O 3;k.
+5;I'll 4;help.
+132%3;I don't think 2^we'll 5;find 2;anything | 121%3.5;but as he says | he's got nothing to 82%5.5_-4;hide.
 
 {Thisone}
-Right.
-We'll see.
+5.5_-4;Right.
+5.5;We'll 83%3.5;see.
 
 {Annai}
-So are you reviewing his code?
+78%7_0;So | 100%3;are you 122%reviewing his 92%5.5_4.5;code?
 
 {Thisone}
-We're talking pet a L O seas.
-Over a 4^quadrillion lines of code equivalent.
-Practically all of it 6^algorithmically generated.
+112%3.5;We're talking 101%5;pet 3;a 88%L O 5.5_-2;seas.
+110%3;Over a 3^3,5,3;quadrillion lines of code 122%3,4,3,2;equivalent.
+128%3;Practically 101%5;awl 3;of it 6^152%algorithmically 99%5,2;generated.
+
+{Annai;speed=1.2}
+80%So | 100%what's the line of 3,5.5;attack?
+109%I just reviewed his 100%5,3;kernel | the part 2.5;that starts it 5.5_-4.5;off.
+Lots of tricky 130%100%5,3;corner cases | but the core ideas are 5,2;manageable.
+
+{Thisone;speed=1.14;pitch=0.3}
+75%6_-4;Yes | 114%3;I checked that part 5;out.
+But keep in 4_-5;mind | 106%3;that just bootstraps the 5,2;process.
+98%Each 4^iteration generates orders of 4,2.5;magnitude more 3.5;code | 2.5;which then generates 5;more 3;code | and so 1;on.
+
+{Annai;speed=1.14}
+5_-5;Right.
+110%3.2;that's the only way you could get a 101%4.5,2.6;logic base that 88%6_-6;huge.
+
+{Thisone;speed=1.15}
+80%2;Of 5_2;course.
+3;And it's massively 5,2;parallel.
+He 3.5;must be using a 3^5,3.5;noticeable portion of our 1^3;local 5;grid 2.5;co 1^ords.
+3;I'd 3;be 3,5;surprised 4;if the 3;authorities didn't 5;know 2;about him.
 
 {Annai}
-So what's the line of attack?
-I just reviewed his kernel | the part that started it off.
-Lots of tricky corner cases | but the core ideas are manageable.
+105%I'm 4.5;sure 84%2.7;they 5.5;do.
+110%3;I guess they're all 5;for 2.5;it.
 
-{Thisone}
-Yeah | I checked that part out.
-But keep in mind | that just bootstraps the process.
-Each 4^iteration generates orders of magnitude more code | which then generates more code | and so on.
+{Thisone;speed=1.1}
+82%75%5,2_5;Maybe.
+3^5,3;Actually | 3.5;he seems 142%to 120%mask 100%a 3,5,3;significant percentage from 3,5,2;inspection.
+122%3;There are a 100%5.5;few 3;core libs 3.22;that don't 5,3;register themselves in 3;the 1^normal 80%6_-4;way.
 
-{Annai}
-Right | that's the only way you could get a logic base that huge.
+{Annai;speed=1.1}
+62%92%3.2,5_3;Really?
+3.5;I 2^didn't 5.5,2.5;notice that.
+3.5;Let me 77%8_-3;see.
 
-{Thisone}
-Of course.
-And it's massively parallel.
-He must be using a noticeable portion of our local grid co ords.
-I'd be surprised if the authorities didn't know about him.
+{Annai;speed=1.1}
+5;That's 3;really 80%5;weird.
+3.5;I've never seen a 5;mask 119%2.667;like 4;that 105%3.4,2_0;before.
+107%It's kind of 5,2.4;amateurish.
 
-{Annai}
-I'm sure they do.
-I guess they're all for it.
+{Thisone;speed=1.1}
+110%Almost as if he's 4,3;trying a 90%5;bit too 100%5_0;hard 117%3;to look 100%3,5,2;suspicious.
 
-{Thisone}
-Maybe.
-3^Actually | he seems to mask a significant percentage from inspection.
-There are a few core libs that don't register themselves in the normal way.
-
-{Annai}
-Really?
-I 2^didn't notice that.
-Let me see.
-
-{Annai}
-That's really weird.
-I've never seen a mask like that before.
-It's kind of amateurish.
-
-{Thisone}
-Almost as if he's trying a bit too hard to look suspicious.
-
-{Annai}
-Exactly.
-Miss direction?
+{Annai;speed=1.15}
+3,5,2;Exactly.
+3;Miss 3,4,6_4;direction?
 
 {Thisone}
 Lull you into a false sense of superiority?
