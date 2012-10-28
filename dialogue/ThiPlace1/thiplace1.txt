@@ -247,65 +247,77 @@ If it's hard 4.5,3;enough to 100%100%56%3,5,2;decipher | 139%3;you 155%can 115%c
 
 {Thisone}
 90%7_-3;Well | 
-3;thee other 91%sin 111%5,2;airy 101%owes 87%3;are |0.08| 1^even 95%71%5,1;darker.
+3;thee other 91%sin 111%5;air 2;E 101%owes 87%3;are |0.08| 1^even 95%71%5,1;darker.
 
 {Annai}
-L Ron?
+90%2;L |0.02| 3_5;Ron?
+
+{Thisone;pitch=.4}
+5;Sum 3;thing 2;like 91%2.5;that.
+
+{Annai;speed=1.09;pitch=.22}
+75%8_-1.5;So.
+108%3;When I 5;listen 100%3;to his 5,2;music 
+||| 
+3;and it 5;moves 3;me 
+||
+111%makes me 108%feel like he 3,3,5;understands 3;me
+|||
+what's in my 78%6_2;soul 
+|||||
+100%2.6;is that 4_6;real?
+
+{Thisone;speed=1.1}
+3;I don't 81%4.6;know.
+100%3;I 5;guess |
+3;if it means sum thing to 68%5;you | 
+100%3;then it 5;means 2.2;sum thing.
+His 4,4,4,3;motivations may be com 5.8;plex.
+3;He may 98%contradict 110%himself 102.5%5,2;morally | but still be a great 5,1;artist.
+I keep calling him 5.5_3;he 3;e || 100%3;but it's probably 80%5;them.
+3;I don't 5;know 3,2;anymore.
+109%3;I'm out of my 78%5.5_-5;depth.
+
+{Annai;speed=1.08}
+I contradict 2;myself.
+I am 2;large.
+I contain 4,2;multitudes.
 
 {Thisone}
-Something like that.
+4;Walt |0.01| 5,5_3;Whitman?
 
 {Annai}
-So when I listen to his music | and it moves me | makes me feel like he understands me | what's in my soul | is that real?
+120%Twentieth century 92%4.6,1;poet.
 
 {Thisone}
-I don't know.
-I guess if it means something to you | it means something.
-His motivations could be complex.
-He may contradict himself morally | but still be a great artist.
-I keep calling him he || but it's probably them.
-I don't know anymore.
-I'm out of my depth.
+80%6_-3;Oh.
+|||
+92%2;Not 4.5;bad.
 
 {Annai}
-".
-I contradict myself.
-I am large.
-I contain multitudes.
+3;I'll 5;do 2;it.
 
-{Thisone}
-Walt Whitman?
+{Thisone;speed=1.1}
+92%3;The 5;monitor?
+3;I thought 90%5;I 2_1;would
 
 {Annai}
-Twentieth century poet.
+3;Let 5.5;me 2.5;do it.
+110%3;I know him 5,2;better.
+111%I'll 2.5;be 119%able 100%to 5;mask 2;it.
 
 {Thisone}
-Oh.
-Not bad.
+Ohm. 
+O K.
+114%Let me 4,5;review 2.7;it before 121%you take it 110%lie 150%ev.
 
 {Annai}
-I'll do it.
+90%9_-3;Sure.
+118%3;I'll 5;ping 3.5;you |0.01| 111%when it's 2;done.
 
 {Thisone}
-The monitor?
-I thought I |
-
-{Annai}
-Let me do it.
-I know him better.
-I'll be able to mask it.
-
-{Thisone}
-Umm | ok.
-Let me review it before you take it live.
-
-{Annai}
-Sure.
-I'll ping you when it's done.
-An I ports away.
-
-{Thisone}
-Oh | ok.
-Nice seeing you.
-Bub bye for now.
+80%7_-3;Oh ||| 
+90%5.5;o k 2.7;then.
+Nice 117%5;see 103%3;ing 87%2_1;you.
+137%Bye 90%bye |0.03| 106%for 91%3;now | 88%2;I guess.
 
