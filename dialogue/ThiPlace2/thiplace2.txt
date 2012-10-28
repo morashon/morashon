@@ -1,15 +1,15 @@
 {include:../actors.txt}
 
 {Thisone}
-Hi.
-3;You look a lot like 130%your |0.001| 100%4.5_1;ah 1_-7;avv.
+78%7_-3;Hi.
+109%3;You look a lot like 130%your |0.001| 100%4.5_1;ah 1_-7;avv.
 
 {Annai;speed=1.1}
 2.5_2.5;Very 4,2;funny.
 110%3;I think I 5;found 2;something.
 
 {Thisone;speed=1.1}
-I thought 132%you 96%were 103%working on the 4,2;monitor code.
+I thought 132%you 106%were 113%4,3;working on the 4,2;monitor code.
 
 {Annai;speed=1.1}
 I 80%6_-5;was.
@@ -183,21 +183,24 @@ I guess 3;we never traded 5;pics.
 122%You 5;know 2^100%3;we'll never meet in 5;real 2.6;life | 3;unless we win the 122%5,2;mega lot |.1| 100%or something.
 
 {Thisone}
-No | I know | but.
+93%No | 5;I 3;know | but 77%8_-3;still.
 
-{Annai}
-So who cares what's real?
-I could send you picks | 1^vids even | and how would you know they 2^weren't shopped up?
-
-{Thisone}
-I guess.
-
-{Annai}
-Anyway | why are we talking about this?
-Are we flirting?
-Is this a date or something?
+{Annai;speed=1.07}
+87%2_5.5;So? 
+5;who 5_4;cares 3.5;what's |.175| 89%7_0;real?
+125%I could 133%send you 100%5;picks | 1^vids 3;even | 133%how would you know 101%they 2^weren't shopped 5;up?
 
 {Thisone}
+70%5;Ohm.
+3;I 80%6_0;guess.
+
+{Annai;speed=1.1}
+111%4,4,4_4;Anyway | why are we 5,3;talking about this?
+115%Are we 2,5_6;flirting?
+3;Is this a 93%5_5.6;date |0.02| 98%5.6_5.5;or 5.5_5.5,5.5_5.5;something?
+
+{Thisone;speed=1.08}
+72%Ohm.
 No | An I | I mean | well | I dunno.
 I um | I don't know what to say.
 
