@@ -45,7 +45,7 @@ so some 80%5,3_0;hackers
 
 {Annai}
 Yep | serious wicked 4,2.5;firewall.
-122%Impossible 111%to 3;tell who's 3,5,2;controlling it.
+122%Impossible 141%to 111%3;tell who's 3,5,2;controlling it.
 78%6_-5;But.
 
 {Thisone}
@@ -82,12 +82,12 @@ Advanced | 4,4,2;expensive | 3;but not something totally 83%5_-3;new.
 3;So 108%they 100%can't find 90%6_4;us | 125%3;same as 100%we can't find 7_-5;them.
 
 {Thisone;speed=1.1}
-3;And they won't 3,5;report 5_5;us?
+3;And they won't 111%3,5;report 5_5;us?
 3;Start an 3,3,3,5_5;investigation?
 
 {Annai;speed=1.07}
 105%3;That would be 6,2;suicide.
-5,3;Any 3,3,3,5.7,3.5;investigation |0.2| would 133%leed 109%to 101%5;them 100%3;as the primary 7.6_-5;source.
+5,3;Any 3,3,3,5.7,3.5;investigation |0.2| would 133%leed 109%to 111%5;them 100%3;as the primary 7.6_-5;source.
 
 {Thisone;speed=1.07}
 75%5;I 90%5,4_-4;dunno.
@@ -96,7 +96,7 @@ Advanced | 4,4,2;expensive | 3;but not something totally 83%5_-3;new.
 
 {Annai;speed=1.07}
 3;This is the 122%only way 155%to 105%find 81%5;out.
-Use their 5;own 5_1;code 155%3;to 101%send a 5,2;message.
+Use their 122%5;own 5_1;code 155%3;to 101%send a 5,2;message.
 
 {Thisone}
 3.5;What about 105%the 5,2;music?
@@ -121,7 +121,7 @@ I 5;have 122%3;to 100%believe 4.5;that.
 
 {Annai;speed=1.085}
 3.5;If you 4.5;say 2.5;so.
-122%But 71%5;I 130%3;want 166%to 100%know 70%who 90%5;he | she | they | 2.5;really 5_-4.5;are.
+122%But 71%5;I 140%3;want 166%to 100%know 70%who 90%5;he | she | they | 2.5;really 5_-4.5;are.
 3;I feel 3,5.5_-4;betrayed.
 
 {Thisone;speed=1.1}
@@ -201,7 +201,7 @@ I guess 3;we never traded 5;pics.
 
 {Thisone;speed=1.08}
 72%Ohm.
-No | An I | I mean | well | I dunno.
+80%5;No | An I | I mean | well | I dunno.
 I um | I don't know what to say.
 
 {Annai}
