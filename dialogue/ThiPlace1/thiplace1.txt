@@ -194,53 +194,60 @@ So we 90%5.4;know 100%2.5;there's something else go ing 70%5;onn.
 1^132%2.5;you're 144%going 122%to 5.5;check your changes 70%5_0;in ||
 112%3;and add a 100%4;log 5,5_5;entry?
 
-{Thisone}
-well | not yet.
-I want to see what's going on first.
-I could claim that I'm just researching some 2^dodgy patches.
-Checking for security holes | that sort of thing.
+{Thisone;speed=1.1}
+82%3;well || 88%4;not 5;yet.
+126%3.5;I 103%want 150%to 98%3.2;see what's 110%going 5;onn 2.5;first.
+106%3;I could 5;claim 3;that 140%I'm 100%just 120%researching some 2^104%dodgy 5,2;patches.
+110%Checking 3;for 122%3,5,2;security 105%holes | 5;that 3;sort of 90%3_0;thing.
 
 {Annai}
-Hah.
-Let's see who believes it.
+72%9_-3;Hah.
+160%3.6;Let's 133%see 111%who 3,5;believes 3;it.
 
 {Thisone}
-Well | if it comes to that | More eh shun | or his dev team | whoever he really is | they'll have some explaining to do themselves.
+70%7.2_-1;Well || 
+104%3;if it comes to 80%5;that || 
+150%5;More 3;eh 108%shun | 
+96%or his 80%5;dev 94%3;team | 90%whoever he 5,4;really 2;is | 
+111%2.6;they'll have some explaining to do 3,5_-4;themselves.
 
 {Annai}
-Tit for tat?
+104%4;Tit 156%for 100%6;tat?
+
+{Thisone;speed=1.1}
+4,5.5,3;Exactly.
+3;What's 105%good for the 90%5;goose.
+
+{Annai;speed=1.06}
+I 3,5,2;suppose.
+This is 5;just 3;the 131%sort of 111%thinking 160%More eh 100%shun 5;hates.
 
 {Thisone}
-Exactly.
-What's good for the goose.
+How 105%105%152%4,5.5,2.5;convenient.
+3.5;Espouse a philosophy of 5;trust.
+3;Do as I 80%4.5;say | 121%3;not as 106%I 80%5.5_-4.4;do.
 
 {Annai}
-I suppose.
-This is just the sort of thinking More eh shun hates.
+90%5;I 104%guess 106%I'm 88%3;inn | 107%four 2;now.
+70%I 110%really 102%4,2.4;trusted him.
+110%3.2;I never 3,5,2;expected something like 80%4.5_-4;this.
 
-{Thisone}
-How convenient.
-Espouse a philosophy of trust.
-Do as I say | not as I do.
-
-{Annai}
-I guess I'm in | for now.
-I | I trusted him.
-I never expected something like this.
-
-{Thisone}
-Maybe there's an innocent explanation.
-They may be protecting some proprietary IP through obfuscation.
-There's some case law about that | if it's hard enough to decipher | you can claim trade secret.
+{Thisone;speed=1.06}
+5,3;Maybe there's an 2^innocent 3,3,5,2;explanation.
+104%They may be protecting some 4^proprietary 3;I 70%8_-2;P |0.1| 100%3;through 3,3,5,2;obfuscation.
+105%3.5;There's some 4.7;case 2.5;law about that.
+If it's hard 4.5,3;enough to 100%100%56%3,5,2;decipher | 139%3;you 155%can 115%claim 104%trade 5,1;secret.
 
 {Annai}
-Him.
-Maybe.
-But he's not what he says he is.
-A lie is a lie.
+93%5_-4;Huh.
+5,2.5;Maybe.
+87%3;But | 117%he's 96%5;not |0.11| 128%3;what 147%he 101%5;says 2.5;he 66%2_-6;is.
+|
+73%2.5;Ah 5;lie 2;is a 5_-5;lie.
 
 {Thisone}
-Well | the other scenarios are even darker.
+90%7_-3;Well | 
+3;thee other 91%sin 111%5,2;airy 101%owes 87%3;are |0.08| 1^even 95%71%5,1;darker.
 
 {Annai}
 L Ron?
