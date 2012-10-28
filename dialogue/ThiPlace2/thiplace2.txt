@@ -134,53 +134,53 @@ I 5;have 122%3;to 100%believe 4.5;that.
 He.
 That's rich.
 
-{Thisone}
-I still don't know if you're a she.
+{Thisone;speed=1.05;pitch=0.3}
+3;I 85%6_5;still 1^100%3;don't know if 2;you're 3;a 55%6.5_1;she.
+
+{Annai;speed=1.03;pitch=0.2}
+3.5;You 6_5;know 3;I am.
+
+{Thisone;speed=1.06;pitch=0.3}
+3;I 5.5_4;think 3.7_-1;so.
 
 {Annai}
-You know I am.
+3.5;Well I 83%5;am | 119%3;if it 133%5;matters 111%2;so much.
+3;And by the 5_2.5;way || 3;I know 96%you're a 88%7_-3;dude.
 
 {Thisone}
-I think so.
+128%3.5;How 162%can you 98%be 101%so 93%5_3;sure?
+
+{Annai;speed=1.11}
+3;You're 133%ah 100%5,2;mega 2;dude.
+4;Mega |0.04| 5.5,3;nerdy 2.5;dude.
+
+{Thisone;speed=1.14}
+3.8;Thanks 132%for the 100%5,5,5_5;compliment?
 
 {Annai}
-Well I am | if it matters so much.
-And by the way | I know you're a dude.
+4;No | it's 4.6;o 2.6;k.
+I 5;like 2.4;it.
+
+{Thisone;speed=1.1}
+78%Ohm ||| 83%3_-3;ohm.
+I guess 3;we never traded 5;pics.
+
+{Annai;speed=1.07}
+5;I 3;just 122%look 3.6;like 80%7_-2.5;this.
+
+{Thisone;speed=1.07}
+3.5;That's what they 5;awl 2.5;say.
+
+{Annai;pitch=1.05}
+3.5_3.5;No | 90%5,2;really.
+3.7;I 111%even have 128%all the 100%7.5_-4;clothes.
 
 {Thisone}
-How can you be so sure?
+3.5;Well | 82%7.9_-3;still.
 
-{Annai}
-You're a mega dude.
-Mega nerdy dude.
-
-{Thisone}
-Thanks for the compliment.
-
-{Annai}
-No | it's ok.
-I like it.
-
-{Thisone}
-Um | ah.
-I guess we never traded pics.
-
-{Annai}
-I just look like this.
-
-{Thisone}
-That's what they all say.
-
-{Annai}
-No | really.
-I even have all the clothes.
-
-{Thisone}
-Well still.
-
-{Annai}
-There you go again.
-You know 2^we'll never meet in real life | unless we win the mega lot or something.
+{Annai;speed=1.1;pitch=.4}
+3;There you go again.
+122%You 5;know 2^100%3;we'll never meet in 5;real 2.6;life | 3;unless we win the 122%5,2;mega lot |.1| 100%or something.
 
 {Thisone}
 No | I know | but.
