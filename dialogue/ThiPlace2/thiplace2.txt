@@ -2,88 +2,92 @@
 
 {Thisone}
 Hi.
-You look alot like your av.
+3;You look a lot like 130%your |0.001| 100%4.5_1;ah 1_-7;avv.
 
-{Annai}
-Very funny.
-I think I found something.
+{Annai;speed=1.1}
+2.5_2.5;Very 4,2;funny.
+110%3;I think I 5;found 2;something.
 
-{Thisone}
-I thought you were working on the monitor code.
+{Thisone;speed=1.1}
+I thought 132%you 96%were 103%working on the 4,2;monitor code.
 
-{Annai}
-I did.
-I let it run all night.
+{Annai;speed=1.1}
+I 80%6_-5;was.
+3;I 122%let it 100%run all 6_-5;night.
 
-{Thisone}
-Him.
-I thought we said we'd review it |
+{Thisone;speed=1.1}
+80%Ohm.
+3;I thought we 122%said 100%we'd 3,5;review 81%2;it
 
-{Annai}
-Sorry.
-It looked solid | so I let it fly.
-Guess what?
-
-{Thisone}
-M him?
-
-{Annai}
-You were right.
-It's not AI.
-It's an interface.
+{Annai;speed=1.1}
+91%5,3;Sorry.
+3.5;It looked 4,2;solid | 111%3;so I 133%let 111%it 91%5;fly.
+2.6;Guess 92%5_5;what?
 
 {Thisone}
-so some hackers |
+70%2_0;Ohm | 5_-4;what?
 
-{Annai}
-somebody | somewhere | runs it.
-Not Finland | as far as I know.
-
-{Thisone}
-I assume it's masked |
-
-{Annai}
-Yep | serious wicked firewall.
-Impossible to tell who's controlling it.
-But |
+{Annai;speed=1.06}
+3;You were 5;right.
+116%3;It's 101%not |0.04| 90%A 5;I.
+115%3;It's 138%an 114%5,2;interface.
 
 {Thisone}
-We could intercept.
+so some 80%5,3_0;hackers
+|||
 
-{Annai}
-Yes.
-Now that we know what's going on | we could | take over.
-Be More eh shun.
-
-{Thisone}
-but the interface gear | all the heads and limbs and stuff.
-Multiple conversations?
-
-{Annai}
-That's the interesting part.
-It's not real AI | but there is some tasty interface code.
-It seems like it probably uses available stuff.
-Advanced | expensive | but not something totally new.
+{Annai;speed=1.08}
+5,3;somebody | somewhere | 4.5;runs 2;it.
+3;Not 100%150%5.5,3;Finland | 128%2.67;as far as 122%I can 2;tell.
 
 {Thisone}
-So we could insert 3^ourselves | man in the middle.
+110%3.5;I assume it's 5;masked.
 
 {Annai}
-We can take over the interface | and play More eh shun for a while.
-Anonymously | using the same firewall they use.
+Yep | serious wicked 4,2.5;firewall.
+122%Impossible 111%to 3;tell who's 3,5,2;controlling it.
+78%6_-5;But.
 
 {Thisone}
-but with our own hashes.
+4;We could 3,3,5;intercept.
 
-{Annai}
-So they can't find us | same as we can't find them.
+{Annai;speed=1.1}
+80%6.5_-7;Yes.
+122%5;Now 145%that 105%we 109%know 3;what's |0.04| going 90%4_-1;on | 111%3;we could take 90%5,2;over.
+Be 155%5;More 111%2;eh shun.
+
+{Thisone;speed=1.02}
+3;but the 5,2;interface 2_-5;gear || 
+104%2.7;awl 2.8;the 122%3.2;heads 104%and 4.5;limbs |0.02| 2;and stuff.
+108%2.5;Multiple 3,2,5;conversations?
+
+{Annai;speed=1.08}
+3.5;That's the 5,3;interesting part.
+It's not real 88%3;A 78%5;I | 111%3;but 115%there's 103%some tasty 5,2;interface code.
+105%3.5;It seems like they 3;use available 7_-3;stuff.
+Advanced | 4,4,2;expensive | 3;but not something totally 83%5_-3;new.
+
+{Thisone;speed=1.07}
+3;So we could 3,5;insert 3^128%91%2;ourselves.
+3;Man in the 88%4.6_-4;middle.
+
+{Annai;speed=1.06;pitch=0.3}
+111%3;We 172%can 122%take 100%4.5;over the 5,3;interface | and play 155%5;More 2;eh 111%shun for a while.
+3,5,3,3,2;Anonymously | 2.6;using the same firewall 5;they 1.2;use.
 
 {Thisone}
-And they won't report us | start an investigation.
+3;but with our 5;own 5,2;hashes.
 
-{Annai}
-That would be suicide.
-The investigation will lead to them as the primary source.
+{Annai;speed=1.2}
+3;So 108%they 100%can't find 90%6_4;us | 125%3;same as 100%we can't find 7_-5;them.
+
+{Thisone;speed=1.1}
+3;And they won't 3,5;report 5_5;us?
+3;Start an 3,3,3,5_5;investigation?
+
+{Annai;speed=1.07}
+105%3;That would be 6,2;suicide.
+5,3;Any 3,3,3,5.7,3.5;investigation |0.2| would 133%leed 109%to 101%5;them 100%3;as the primary 7.6_-5;source.
 
 {Thisone}
 I dunno | this sounds a bit dangerous.
