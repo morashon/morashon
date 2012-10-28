@@ -67,6 +67,7 @@ He 3.5;must be using a 3^5,3.5;noticeable portion of our 1^3;local 5;grid 2.5;co
 62%92%3.2,5_3;Really?
 3.5;I 2^didn't 5.5,2.5;notice that.
 3.5;Let me 77%8_-3;see.
+|||
 
 {Annai;speed=1.1}
 5;That's 3;really 80%5;weird.
@@ -96,7 +97,7 @@ Check this 3;out.
 {Thisone;speed=1.14}
 70%6_-4;Ak.
 That's 3;grid 1^4.5_2;kernel 3;code from maybe 2^3.5;fifteen 5;years 2.5;ago.
-110%How 3;did you 1^even know to 5;look 2;for it?
+110%How 122%3;did you 1^110%even know to 5;look 2;for it?
 It's 4,3;before your 80%6_-4;time.
 
 {Annai;speed=1.1}
@@ -115,62 +116,62 @@ I was 119%5,3;going to 100%say | for someone so 70%5_-4;young.
 I 3^3;associate youth with 5;talent | 4;energy | 3;and 3,3,6,2_-3.5;inexperience.
 
 {Annai;speed=1.1}
-I've 3;been coding since 111%before I could 93%5;talk.
+I've 3;been coding since 126%before I could 93%5;talk.
 
 {Thisone;speed=1.1}
 2^5,4_-1;Typical.
 70%6_0;Still.
 
-{Annai}
-Anyway | check this out.
-I diffed it against the original.
+{Annai;speed=1.1}
+5,3;Anyway | check this 5;out.
+I 145%5;diffed 100%3;it against the 3,5,2;original.
+
+{Thisone;speed=1.1}
+5;Why 3;would he start with some old cruft like 71%5;this?
+3;It's completely 3,3,5_1;obsolete.
+
+{Annai;speed=1.11}
+80%4.6;Yes | 100%3;but the 140%3;sick 5;cure 3;it tea 100%mauds have this stuff 5;white 2;listed.
+90%5,3;Maybe | 117%2.5;if you 131%just 153%change 171%an 128%3.5;op 113%2.5;here or 101%4.3;there | 163%2.5;you can 119%get 131%something 100%5;by 90%2;them.
+
+{Thisone;speed=1.06}
+97%5,3;Maybe | but not 4.5,2;easily.
+108.5%You could only change a 5;few 2.5;wops 94%at a 4;time.
+3.5;They do random 5,2;testing.
+107%too slow 3;to 122%brute force 106%every op | every 1^5;cycle.
+107%You might pass 5^3,5,3;occasionally | but you'd still 5;fail 101%3;some percentage of the 90%5_-5;time.
+
+{Annai;speed=1.08}
+2.5;It gets 5,2;trickier.
+55%3;The 150%4.5;diffs 100%3;all look like 4.5,2.5;patches 113%from 3;one old version 101%to 3,5,2;another.
+
+{Thisone;speed=1.1}
+1^2.5;Even 5,2;better.
+70%2.5;If 100%3,5,3;security flags anything as 3,5,3;suspicious | it checks the 5;patch 3;logs and sees that it 5.5,2;matches.
+
+{Annai;speed=1.11}
+76%5_-4;Right.
+3;But by 4.5;cleverly 3;choosing a specific sequence of 5,2;patches | 
+he 5^2,5,3;eventually generates code that passes 3,6,2;security | 
+4;but with a 80%few 100%custom 78%6_-10;ops.
 
 {Thisone}
-Why would he start with some old cruft like this?
-It's completely obsolete.
+3;that's pretty 5,3;clever.
+3;And wholly 100%100%80%4,5_-4;illegal.
 
-{Annai}
-Yes | but the security mods have this stuff white listed.
-Maybe | if you just change an op here or there | you can get something by them?
+{Annai;speed=1.06}
+3;What's it 90%8_-2;four?
+3;What's the code 4^actually 72%8_-2;do?
 
-{Thisone}
-Maybe | but not easily.
-You could only change a few ops at a time.
-They do random testing.
-too slow to brute force every op every cycle.
-So you might pass 5^occasionally | but you'd still fail some percentage of the time.
+{Thisone;speed=1.08}
+3;We 5;can't 3;figure that out from the 81%5.6;source.
+3.5;It's too 5;flue 2;id.
+100%3;We'll have to put a 5,3;monitor in 90%1.4;there.
 
-{Annai}
-It gets trickier.
-The diffs all look like patches from one old version to another.
-
-{Thisone}
-Even better.
-If security flags anything as suspicious | it checks the patch logs and sees that it matches.
-
-{Annai}
-Right.
-But by cleverly choosing a specific sequence of patches | 
-he 5^eventually generates code that passes security | 
-but with a few custom ops.
-
-{Thisone}
-that's pretty clever.
-And wholly illegal.
-
-{Annai}
-What's it for?
-What's the code 4^actually do?
-
-{Thisone}
-We can't figure that out from the source.
-It's too fluid.
-We'd have to put a monitor in there.
-
-{Annai}
-Hold on.
-I said I'd help you analyze.
-That's outright 3^hackery.
+{Annai;speed=1.05}
+102%6;Hold 80%4;on.
+117%3.5;I 122%said 111%I'd 107%help you 5,3;analyze.
+109%5;That's 2;outright 3^5,2;hackery.
 
 {Thisone}
 Look | you've seen that there's something fishy.
