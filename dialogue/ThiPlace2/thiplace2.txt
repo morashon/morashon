@@ -199,51 +199,57 @@ I guess 3;we never traded 5;pics.
 115%Are we 2,5_6;flirting?
 3;Is this a 93%5_5.6;date |0.02| 98%5.6_5.5;or 5.5_5.5,5.5_5.5;something?
 
-{Thisone;speed=1.08}
-72%Ohm.
-80%5;No | An I | I mean | well | I dunno.
-I um | I don't know what to say.
+{Thisone;speed=0.85}
+92%Ohm.
+90%5;No || 
+103%5;Ann 2.5;I ||| 
+100%I mean | 3.1;well || 
+70%4_3;I || 
+100%2.2;ohm ||| 
+145%3;I 155%don't 150%know what to 93%5_-4;say.
+
+{Annai;speed=1.17}
+3;Say 133%what you 100%5_5;feel.
+111%5;Mean 103%3;what you 91%5;say.
+
+{Thisone;speed=0.98}
+83%I've 108%never been 83%good 119%3;at 100%this.
+83%I || 100%since the 4.5,2.5;breakdown ||| 
+94%I've 88%51%4,2_-3;never.
+
+{Annai;speed=1.05}
+3;That's a 88%long 6_3.5;time.
+To 91%be 80%73%4,5.3_0;alone.
+
+{Thisone;speed=.9}
+78%7_-5;Yeah.
+Well || it just | 111%never felt 5_-4;right.
 
 {Annai}
-Say what you feel.
-Mean what you say.
+110%I was 3.4,5,3;eleven.
 
 {Thisone}
-I've never been good at this.
-I | since the breakdown | I've never.
+so you 90%50%5,3;never |
 
 {Annai}
-That's a long time.
-To be alone.
+88%5,2;Never.
+3;Off 5_3;line |.14| 2.2;I mean.
+
+{Thisone;speed=.975}
+so |0.02| 84%3.5;onn 3_5;line |
+
+{Annai;speed=1.13}
+3.8;There were 5;some 3;guys.
+3;At least I 5;think 3;they were guys.
+3.4;And a 5;girl.
 
 {Thisone}
-Yeah.
-Well | it just | never felt right.
+71%Ohm.
+110%3.4;I think I'm getting 100%4.5_-2.5;old.
 
-{Annai}
-I was eleven.
-
-{Thisone}
-so you never |
-
-{Annai}
-Never.
-Off line | I mean.
-
-{Thisone}
-so online |
-
-{Annai}
-There were some guys.
-At least I think they were guys.
-And a girl.
-
-{Thisone}
-Maybe I am old.
-
-{Annai}
-It's just sex.
-And 5^technologly.
+{Annai;speed=1.1}
+107%3;It's just 5;sex.
+3.5;And 120%tech 130%5;knoll 120%3;oh 93%G.
 Grid sex | you know.
 It's a release.
 Why be embarrassed?
