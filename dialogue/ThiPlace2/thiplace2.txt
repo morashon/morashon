@@ -437,7 +437,7 @@ Yes ||| of 4_-3;course.
 3;I 2^didn't 113%5;mean 141%2;to 101%laugh.
 
 {Thisone;speed=1.02}
-5;O 3;k | 3,5;enough 111%fun 104%and 3_1;games.
+5;O 3;k | 3,5;enough |0.04| 101%fun 104%and 3_1;games.
 
 {Annai;speed=1.1}
 You're right.
@@ -472,26 +472,36 @@ I see 3;you.
 {Thisone;speed=1.02}
 3;I could be 5;fat || 
 4.5;sick || 
-120%38%3.8;older 100%than I'm 5,2;saying.
+120%3.8;old 130%er |0.04| 130%than 100%I'm 5,2;saying.
 105%Just plain 5,3;ugly.
 
 {Annai}
-Maybe.
-But you would still be you.
-And I like you.
+5,3;Maybe.
+113%But you would still 100%be 90%5;you.
+And I 5;like 3;you.
 
 {Thisone}
-I | thanks.
+55%4_-1;I.
 
-{Annai}
-Sure.
-Anytime.
-I mean | I don't mean | my moods change.
-I'm not promising anything.
-But I'll like you | until I don't.
-And I hope I don't.
-Stop liking you | I mean.
-They move closer | and kiss gently on the lips.
+{Thisone;volume=1.2}
+4.5;thank 3_-2;you.
 
-{Annai}
-Bye for now.
+{Annai;speed=1.06}
+80%8_-2;Sure.
+5,3.5;Any time.
+|||
+I 5;mean | 3;I don't mean || 
+my 5;moods 3;change.
+||
+110%I'm not 5,3;promising anything.
+3;But ||
+I'll 5;like 3;you | until I 5;don't.
+|||
+112%3;And I 5;hope I 3.5;don't.
+|
+92%Stop 100%4.5;liking 3;you ||| 
+I 96%mean.
+
+{Annai;speed=.9}
+5;Bye |.16| 133%four 110%3;now.
+
