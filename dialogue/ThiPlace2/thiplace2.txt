@@ -288,180 +288,192 @@ Yes | I 5;have 3.6;the 81%4_0;gear.
 3;I 5;think || 3;if you had 3,5,3,3_1;experienced.
 
 {Annai}
-80%2_4;Real 93%4_6.6;sex?
+83%2_4;Real 93%4_6.6;sex?
+
+{Thisone;speed=.97}
+81%5;Ak | 3.4;you're so | 80%um
+||| 
+111%it's 100%so 104.5%88%easy 151%for 131%you 133%to 111%5_5;talk 3;about this stuff.
+
+{Annai;speed=1.16}
+3;It's just 122%something we 107%can 90%5;do | 3;you 84%know.
+3;Like 5,4.3_1;music | 2;or 5,2;hacking.
+3.4;It's just 122%another 100%part 3;of 83%5;life.
+
+{Thisone;speed=1.07}
+83%5_1;No || 
+108%3;I can't 3,5;believe 2;that.
+I 1^don't 5_5;see 3;it that 80%way.
+It's sum thing 2^5,3;different.
+3;In 5;real 3_2;life |
+
+{Annai;speed=1.08}
+93%3.4;There you go 4,3;again.
+Can't you 133%get it into 100%your head 2;that 5;real 3;life is 5,2;over?
+
+{Thisone;speed=1.05}
+105%5;Not 3;when it comes 74%too |0.18| 60%5_-5;this.
+|
+3;Something so ||| 2^5,2;personal.
+It 5;can't 3;be the same.
+
+{Annai;speed=1.1}
+3;It's 4;not 3;the same | I 3_-4;guess.
+110%Some people say 100%it's 5,2;better.
+I wouldn't 7_-5;know.
 
 {Thisone}
-Ack | you're so | um | it's so easy for you to talk about this stuff.
+106%4.5;I've always 5,3;figured 105%those 122%were 1^100%people 111%who never did it right in the 116%5;first 98%2;place.
+109%3.5;Never met the right 88%5_-5;one.
 
 {Annai}
-It's just something we can do | you know.
-Like music | or hacking.
-It's just another part of life.
+3;Did 95%3_5;you 100%5.5;meet the 111%right 94%5_4;one?
 
 {Thisone}
-No | I can't believe that.
-I don't see it that way.
-It's something different.
-In real life |
+105%5;There was 5,3;someone || 81%4,3_0;before.
 
 {Annai}
-There you go again.
-Can't you get it into your head that real life is over?
+3;Before all 5_5;this?
+
+{Thisone;speed=.97}
+5;Right 3;before.
+We 161%were 90%135%3.4;only 118%4,2.5;together 108%for a 3;few 99%5_-5;months.
+3;And 73%5_-4;then.
+
+{Annai}
+3;Did she 4.5;make it?
+
+{Thisone;pitch=.33}
+3;She was across the 5,2;universe.
+
+{Annai}
+80%5_-3;Oh.
+115%5,2;Separated.
 
 {Thisone}
-Not when it comes to this.
-Something so | so personal.
-It can't be the same.
+90%5.5_-5.5;Right.
+
+{Annai;speed=1.09}
+3.5;And you couldn't afford to |
+
+{Thisone;speed=1.1}
+90%6_-6;Well.
+3;At 5;first | 3.25;travel was restricted to government 2^3,5;officials | 100%100%70%3,4,2;remember.
+They kept 5,3;saying they would open it up to 5,3;everyone | but | 5;you 3;know the 4;rest.
+
+{Annai;speed=1.08}
+5^4,5,3;Eventually they 77%5_-1;did | 104%4.5;sort 2.5;of.
+
+{Thisone;speed=1.07;pitch=.3}
+three years pay 2.5;for a single 4;trip | 3;on a standard 5,3;salary.
+Even 5;then | 3;no guarantee you'd be allowed to 3,5,2;resettle.
 
 {Annai}
-It's not the same | I guess.
-Some people say it's better.
-I wouldn't know.
+3;That |0.04| 5;sucks.
+
+{Thisone;speed=1.08}
+We kept 110%5,3;saying we'd save 100%5;up.
+121%3;Ah 110%few years 100%went 80%5;bye | 103%3;but we never managed to 113%get it 100%100%60%3,5,2;together.
+||||
+
+{Annai}
+83%5,3;Sorry.
+|||
+
+{Thisone;speed=1.07}
+It's o k.
+107%3;I'm not sure she really wanted to.
+She met someone 1^local.
+They had a large 100%60%5,2;shelter || 106%a few 1^88%5_-1;thousand.
+
+{Annai}
+5;wow.
+3;That's || well || it 5;sucks.
+
+{Thisone;speed=1.08}
+3;So what about 80%5_-3;you?
+110%3.2;Aren't there any 100%4.5;boys where you 4.5_4.5;live?
+
+{Annai;speed=1.07}
+109%5;One or 3;two.
+2;Duds.
+107%3,5;Completely 4,2;boring.
+108%5,3;Anyway | 133%who said I 111%only like 91%5;boys?
 
 {Thisone}
-I've always figured those were people who never did it right in the first place.
-Never met the right one.
+Well | boys | or girls | 4,4,2;whatever.
+3;I mean 5;men | 5,2;women.
+
+{Annai;speed=1.05}
+5;Don't 3;worry | 4.6;I'm of 2;age.
+115%3.5;Like I 100%5;said | 3;no one 7_-5;clicked.
+3;It's the 5;grid life 145%four 100%4;me.
+||||
 
 {Annai}
-Did you meet the right one?
+3.3;Do you 3_5;feel 5_5;that?
 
 {Thisone}
-There was someone | before.
+Yes ||| of 4_-3;course.
+3;I 5;told 2;you | I'm 90%5;geared.
+
+{Annai;speed=1.05}
+3;Why 111%do you 86%5;gear || 101%3;if you don't ||| if there's 5,2;nobody?
+
+{Thisone;speed=.9}
+107%well | 100%there's | 90%I | 80%um |
 
 {Annai}
-Before all this.
+3_5;Bots?
+2.5;You do 4;bot 4_2;sex | 110%3;but not 5.5;grid sex?
 
 {Thisone}
-Right before.
-We were only together for a few months.
-Then.
+5;Look ||| 3;this is getting 3,5,2;embarrassing.
 
-{Annai}
-Did she make it?
+{Annai;speed=1.1;pitch=.5}
+110%3;That's so 5,2;funny.
+5;I'm 3;sorry.
+|
+3;I 2^didn't 113%5;mean 141%2;to 101%laugh.
 
-{Thisone}
-She was across the universe.
+{Thisone;speed=1.02}
+5;O 3;k | 3,5;enough 111%fun 104%and 3_1;games.
 
-{Annai}
-Oh.
-Separated.
-
-{Thisone}
-yeah.
-
-{Annai}
-And you couldn't afford to |
-
-{Thisone}
-Well | at first travel was restricted to government officials | remember.
-They kept saying they would open it up to everyone | but | you know the rest.
-
-{Annai}
-5^Eventually they did | sort of.
-
-{Thisone}
-three years pay for a single trip | on a standard salary.
-Even then | no guarantee you'd be allowed to resettle.
-
-{Annai}
-That sucks.
-
-{Thisone}
-We kept saying we'd save up.
-A few years went by | but we never managed to get it together.
-
-{Annai}
-Sorry.
-
-{Thisone}
-It's ok.
-I'm not sure she really wanted to.
-She met someone local.
-They had a large shelter | a few thousand.
-
-{Annai}
-wow.
-That's | well | it sucks.
-
-{Thisone}
-So what about you?
-Aren't there any boys where you live?
-
-{Annai}
-One or two.
-Duds.
-Completely boring.
-Anyway | who said I only like boys?
-
-{Thisone}
-Well | or girls | whatever.
-I mean men | women.
-
-{Annai}
-Don't worry | I'm of age.
-Like I said | no one clicked.
-It's the grid life for me.
-An I touches Tea sewn's thigh.
-
-{Annai}
-Do you feel that?
-
-{Thisone}
-Yes | of course.
-I told you | I'm geared.
-
-{Annai}
-Why do you gear | if you don't | if there's nobody?
-
-{Thisone}
-well | there's | I | um |
-
-{Annai}
-Bots?
-You do bot sex | but not grid sex?
-
-{Thisone}
-Look | this is getting embarrassing.
-
-{Annai}
-That's so funny.
-I'm sorry.
-I 2^didn't mean to laugh.
-
-{Thisone}
-Ok | enough fun and games.
-
-{Annai}
+{Annai;speed=1.1}
 You're right.
-Let's not get silly here.
+111%3;Let's not get 103%5.5,4;silly 3;here.
 
 {Thisone}
-Well | maybe | I could | try again.
-Someday.
+92%Well | 5,3;maybe | 110%3;I could 100%try | 90%2,5;again.
+90%3.4;Sum |0.01| 3_0;day.
+
+{Annai;speed=1.06}
+3;Did I 5;offer 5,5_5;myself?
+97%3.5;Am I that 5,5_5;easy?
+
+{Thisone}
+I didn't mean 2.3;that.
 
 {Annai}
-Did I offer myself?
-Am I that easy?
+Well | 80%I 5_4;did.
+105%6;Sort 3;of.
+5,3;Offer.
 
-{Thisone}
-I didn't mean that.
+{Thisone;speed=1.08}
+3.5;So you don't really care what I 5;look 5_5;like?
 
-{Annai}
-Well | I did.
-Sort of.
-Offer.
+{Annai;speed=.88;pitch=1.6}
+I see 3;you.
+||
+3.5;I feel 2.4;you.
+||
+105%3;I know 116%who 106%you 80%3_-4;are.
 
-{Thisone}
-So you don't care what I really look like?
-
-{Annai}
-I see you.
-I feel you.
-I know who you are.
-
-{Thisone}
-I could be fat | sick | older than I'm saying.
-Just plain ugly.
+{Thisone;speed=1.02}
+3;I could be 5;fat || 
+4.5;sick || 
+120%38%3.8;older 100%than I'm 5,2;saying.
+105%Just plain 5,3;ugly.
 
 {Annai}
 Maybe.
