@@ -168,7 +168,7 @@ I guess 3;we never traded 5;pics.
 {Annai;speed=1.07}
 5;I 3;just 122%look 3.6;like 80%7_-2.5;this.
 
-{Thisone;speed=1.07}
+{Thisone;speed=1.09}
 3.5;That's what they 5;awl 2.5;say.
 
 {Annai;pitch=1.05}
@@ -180,7 +180,7 @@ I guess 3;we never traded 5;pics.
 
 {Annai;speed=1.1;pitch=.4}
 3;There you go again.
-122%You 5;know 2^100%3;we'll never meet in 5;real 2.6;life | 3;unless we win the 122%5,2;mega lot |.1| 100%or something.
+122%You 5;know 2^115%3;we'll 100%never meet in 5;real 2.6;life | 3;unless we win the 122%5,2;mega lot |.1| 100%or something.
 
 {Thisone}
 93%No | 5;I 3;know | but 77%8_-3;still.
@@ -224,6 +224,7 @@ To 91%be 80%73%4,5.3_0;alone.
 {Thisone;speed=.9}
 78%7_-5;Yeah.
 Well || it just | 111%never felt 5_-4;right.
+||
 
 {Annai}
 110%I was 3.4,5,3;eleven.
@@ -245,47 +246,49 @@ so |0.02| 84%3.5;onn 3_5;line |
 
 {Thisone}
 71%Ohm.
-110%3.4;I think I'm getting 100%4.5_-2.5;old.
+110%3.4;I think I'm beginning to feel 100%4.5_-2.5;old.
 
 {Annai;speed=1.1}
-107%3;It's just 5;sex.
-3.5;And 120%tech 130%5;knoll 120%3;oh 93%G.
-Grid sex | you know.
-It's a release.
-Why be embarrassed?
-It's no big deal.
+107%3;It's just 5_2.5;sex.
+3.5;And 120%tech 150%5;nah 120%3;la 93%G.
+|.1|
+82%5;Grid 100%3;sex |.05| 122%you 2;know.
+95%3;It's a 90%3,5;release.
+Why be 4,6_5,3_1;embarrassed?
+|
+121%3.5;It's 100%no big 82%5_-3;deal.
+
+{Thisone;speed=1.07;pitch=0.2}
+3.5;It just never felt 110%5.5;real 2.5;to 93%me.
+3.5;I tried a 1^4_2;couple 2;times.
+It was so || 5,2_-2;awkward.
 
 {Thisone}
-It just never felt real to me.
-I tried a couple times.
-It was so | awkward.
+83%7_-5;Ohm.
+5;Hi 3;there.
 
-{Thisone}
-Oh.
-Hi there.
+{Annai;speed=1.05}
+3.4;Do you 122%have all 100%the 90%5_6;gear?
+
+{Thisone;speed=.95}
+3.5;You mean | 80%ohm |.15| 100%you 3;know | 4;for 5_6;sex?
+
+{Annai;speed=1.19}
+3.4;That's what we were just 5_6,2.5;talking about | 3_6;right?
+Or maybe I 5.5;missed 3;something.
+
+{Thisone;speed=.86}
+Yes | I 5;have 3.6;the 81%4_0;gear.
+
+{Annai;speed=1.15}
+3;We can be anyone we 5.5;want.
+
+{Thisone;speed=1.1}
+106%That's 3;what makes it 5;hard 2;for me.
+3;I 5;think || 3;if you had 3,5,3,3_1;experienced.
 
 {Annai}
-Do you have all the gear?
-
-{Thisone}
-You mean | um | you know | for sex?
-
-{Annai}
-That's what we were just talking about | right?
-Or maybe I missed something.
-
-{Thisone}
-Yes | I have the gear.
-
-{Annai}
-We can be anyone we want.
-
-{Thisone}
-That's what makes it hard for me.
-I think | if you had experienced.
-
-{Annai}
-Real sex?
+80%2_4;Real 93%4_6.6;sex?
 
 {Thisone}
 Ack | you're so | um | it's so easy for you to talk about this stuff.
