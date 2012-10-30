@@ -216,23 +216,24 @@ The fans 3;might know something's 5_1;up.
 2^3.3;We'll 5.8;fake 2.7;it |0.3| 122%and 111%see 99%what 87%5.6,2;happens.
 
 {Thisone}
-Then | after.
+74%6_-3;Then.
+99%66%6,5_-7;After.
 
-{Annai}
-We disconnect | let him take over again | after the show.
-
-{Thisone}
-He's going to be mad as hell.
-
-{Annai}
-He won't say anything in front of the crowd.
-He won't know exactly what happened | just that he was locked out of his own avatar for a few minutes.
+{Annai;speed=1.09}
+We 5,5_5;disconnect || 132%3;let 122%him take 106%5,2.7;over again ||| 101%3;after the 92%5;show.
 
 {Thisone}
-It should be interesting to see his reaction.
+122%3.6;He's going to be 101%4;mad as 6;hell.
 
-{Annai}
-I can't wait.
+{Annai;speed=1.12}
+4.5;He 5;won't say 5,3;anything 2.5;in front of the 6_-5;crowd.
+3.5;He won't know exactly what 5,3;happened | 2.5;just that he was 4;locked out of his own 5.6,3;avatar for a 4;few 5,2;minutes.
+
+{Thisone;speed=1.1}
+It should be 2^5,3;interest ing 2.7;to see his 111%2.5;ree 123%99%5,2.5;action.
+
+{Annai;speed=1.13}
+3;I can't 5;wait.
 
 {Thisone}
 He'll be disoriented for a bit.
