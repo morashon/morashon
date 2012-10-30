@@ -21,7 +21,7 @@ I 144%want to 122%5;talk 3;about stuff.
 5;That's 3;why you ordered a private 89%5.35;booth.
 
 {Thisone;speed=1.08}
-3;I thought 5,3;someone might have bugged my 80%5_3;sim.
+3;I thought 5,3;someone 143%might 133%have 122%bugged 101%my 80%5_3;sim.
 3;Compromised my 80%67%5,3;server.
 Ah 122%place like 100%5;this | 3;picked at 5,3;random | is harder to 5;jack 3;without leaving a 80%5;trail.
 3.5;Lately I feel like I'm being 5.35;watched.
