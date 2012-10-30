@@ -1,0 +1,291 @@
+{include:../actors.txt}
+
+{Morashon}
+An I!
+How nice of you to come.
+You look marvelous.
+
+{Annai}
+Where is everyone?
+
+{Morashon}
+Oh | out and about.
+More will come presently.
+
+{Annai}
+You said you wanted to talk.
+
+{Morashon}
+Where is that lovely boy you've been so attached to lately?
+This one | that one?
+
+{Annai}
+He's working.
+Might drop by later.
+
+{Morashon}
+I'm afraid we've overwhelmed him with conundrums.
+You're sleeping with him?
+
+{Annai}
+Yes.
+
+{Morashon}
+Well that's just beautiful.
+You humans | with your sex!
+What a divinely bizarre invention.
+No god could have thought that up.
+Atheists | here is your proof!
+
+{Annai}
+We're not hitched or anything.
+It's just a diversion.
+
+{Morashon}
+For you | perhaps.
+I've heard it can lead to stronger attachments.
+
+{Annai}
+I can handle him.
+I'm a big girl.
+
+{Morashon}
+Yes | indeed | you are.
+A big girl.
+My grown up little girl.
+
+{Annai}
+I'm not yours.
+
+{Morashon}
+No | I suppose not.
+Not anymore | anyway.
+
+{Annai}
+What's that supposed to mean?
+
+{Morashon}
+Nothing | nothing really.
+I've seen you change since we first met.
+
+{Annai}
+That was less than a year ago.
+
+{Morashon}
+We live in accelerated times.
+What is a year | when we never see the sun?
+
+{Morashon}
+Something has changed.
+
+{Annai}
+What do you mean?
+
+{Morashon}
+Your feelings towards me.
+I sense a resistance.
+Suspicion even.
+
+{Annai}
+It's not you.
+I'm feeling scattered lately.
+
+{Morashon}
+Maybe this boy means more to you than you think.
+
+{Annai}
+Why are we talking about this?
+We usually talk about philosophy.
+History | art | science | religion.
+Music.
+Not me!
+You've never asked about my personal life before.
+
+{Morashon}
+It's never interfered with our relationship before.
+
+{Annai}
+I don't know what you're going on about.
+
+{Morashon}
+I feel him.
+I feel his love for you | and his suspicions about me.
+I feel them coursing through your veins.
+
+{Annai}
+Well you've got a lot of feelings | for a piece of code.
+
+{Morashon}
+As I've explained before |
+
+{Annai}
+I know | you have something like feelings | emotions.
+You profess to have qualia.
+You've certainly passed the Turing test | as far as I'm concerned.
+
+{Morashon}
+Feelings | intuitions | qualia | they're all just the result of subtle patterns of information | flowing through our mental substrate.
+
+{Annai}
+But why do I feel them | as if they're real?
+Blue is so blue.
+Sad is so fucking sad.
+Hope is so pointlessly hopeful.
+I feel it | feel it in my soul.
+My consciousness can't be explained away as just a bit of code.
+
+{Morashon}
+I 'feel' similar things | in my own way.
+These perceptions are emergent phenomena.
+If the informational context is there | the qualia emerge.
+
+{Annai}
+That's easy for you to say.
+you know you're bits of silicon | right?
+
+{Morashon}
+Right.
+
+{Annai}
+But I'm flesh and blood.
+Tea sewn too.
+When we touch |
+
+{Morashon}
+You've touched?
+In real life?
+
+{Annai}
+No | of course not.
+I just meant |
+
+{Morashon}
+Well then | all your interactions are digital | just like ours.
+
+{Annai}
+I realize that.
+It's just |
+
+{Morashon}
+For all you know | Tea sewn is another AI.
+Perhaps he's the one I've been sensing.
+I know there's another in the Grid | somewhere.
+He could be feeling me out.
+Doing it through you.
+
+{Annai}
+Since when are you so paranoid?
+You always preach trust first.
+
+{Morashon}
+Trust | but verify.
+My philosophy is simple.
+give everyone the benefit of the doubt | at your first encounter.
+Thereafter | judge them by their actions.
+
+{Annai}
+So what has Tea sewn done to make you not trust him?
+
+{Morashon}
+He is trying to steal your heart.
+
+{Annai}
+From who?
+What do you care if we have a relationship?
+Why does this matter all of a sudden?
+You didn't give a shit when Alexa was around.
+
+{Morashon}
+Alexa never really mattered to you.
+This one does.
+
+{Annai}
+Stop making fun of his name.
+Your name is meaningless.
+
+{Morashon}
+Hardly.
+It was not chosen at random.
+
+{Annai}
+Well | it doesn't search up as anything.
+Maybe you got the spelling wrong.
+
+{Morashon}
+
+{Annai}
+And another thing | why are you so normal looking all of a sudden?
+
+{Morashon}
+As you well know | I change my form to suit my mood.
+And the situation.
+
+{Annai}
+I've just never seen you look this | human | is all.
+More eh shun
+Shapes | forms | appearances.
+It's all just fun with graphics.
+Why does it matter?
+
+{Annai}
+Visual representation is all we've got to go on here | in the Grid.
+You know that.
+That's why I never change my avatar.
+I want to feel like I know who I am.
+
+{Morashon}
+Maybe I don't want to feel that way.
+We are different species | you and I.
+we inhabit different metrics.
+Time works differently for me.
+I am evolving before your eyes.
+Perhaps I'm tired of being everyone to everything.
+
+{Annai}
+Maybe your friends aren't at their controls today.
+
+{Morashon}
+That sounds like your boyfriend talking.
+Does he still believe I'm a performance troupe from Finland?
+
+{Annai}
+He doesn't know what to believe.
+
+{Morashon}
+Do you?
+
+{Annai}
+I don't know.
+I guess I have some doubts.
+
+{Morashon}
+About who I am | or about the things I have taught you?
+
+{Annai}
+I can't really separate the two.
+How do I know whether to believe what you say | if I don't know who you are?
+
+{Morashon}
+It may surprise you to hear that I am capable of doubting myself.
+
+{Annai}
+But at least you know who you are.
+You have that advantage over me.
+
+{Morashon}
+Because you don't know who I am?
+Or because you don't know yourself?
+
+{Annai}
+Look | you know if you're really software | or a human being faking it.
+I know I'm a human being.
+
+{Morashon}
+
+{Annai}
+What?
+What are you trying say?
+Is this one of your head fake zen lectures?
+
+{Morashon}
+I'm just saying | software has feelings too.
