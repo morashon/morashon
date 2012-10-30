@@ -1,0 +1,478 @@
+{include:../actors.txt}
+
+{Annai}
+Hey stranger.
+Come here often?
+
+{Thisone}
+Hey.
+
+{Annai}
+Why here?
+Your place has been fun lately.
+
+{Thisone}
+I dunno.
+I want to talk about stuff.
+Paranoid I guess.
+
+{Annai}
+Oh.
+That's why you ordered a private booth.
+
+{Thisone}
+I thought someone might have bugged my sim.
+Compromised my server.
+A place like this | picked at random | is harder to jack without leaving a trail.
+Lately I feel like I'm being watched.
+
+{Annai}
+You probably are.
+Nothing's private anymore.
+I'm sure someone is getting off spying on us during our most intimate | private moments.
+
+{Thisone}
+Ugh!
+that's | the idea makes me nauseous.
+I've really beefed up my firewall | but I just don't know.
+I thought we should take precautions.
+
+{Annai}
+This is exciting!
+Like a spy vid!
+
+{Thisone}
+I'm serious.
+We don't know who we're dealing with.
+Did you order the equipment?
+
+{Annai}
+Yep.
+
+{Thisone}
+Everything?
+
+{Annai}
+I told you I would.
+
+{Thisone}
+That must have cost a fortune.
+
+{Annai}
+Put it on my school cred.
+I've got three years left.
+
+{Thisone}
+Awk | I don't want to jeopardize your education with all this.
+
+{Annai}
+Don't worry.
+I wasn't planning on going back.
+
+{Thisone}
+Well like I said | when this is all over | we'll sell the equipment and get your money back.
+
+{Annai}
+Sure.
+Unless we like it.
+We could design a More eh shun competitor.
+Make a mint.
+
+{Thisone}
+Start our own cult!
+
+{Annai}
+Why not?
+He did it.
+How hard can it be?
+
+{Thisone}
+So how is this going to work?
+
+{Annai}
+We'll be getting the stuff in a couple weeks.
+I need your real address.
+
+{Thisone}
+Sure.
+Now you know where I live.
+
+{Annai}
+don't worry | I won't stalk you.
+That would cost real money.
+
+{Thisone}
+I wouldn't mind.
+
+{Annai}
+let's keep it real.
+
+{Thisone}
+you mean fake?
+
+{Annai}
+it works for me.
+Seemed to work for you last night.
+
+{Thisone}
+Sure | it's been | great.
+Better than I expected.
+
+{Annai}
+the gear gets better every year.
+
+{Thisone}
+It's not the gear.
+
+{Annai}
+remember | it's just sex.
+Gridsex.
+
+{Thisone}
+I know.
+But don't you feel | something?
+A little more than just |
+
+{Annai}
+Let's keep it caz.
+
+{Thisone}
+Right.
+Special friends.
+
+{Annai}
+Exactly.
+You're learning.
+
+{Thisone}
+I'm trying.
+
+{Annai}
+you're OK | for an old dude.
+
+{Thisone}
+So when the equipment comes.
+
+{Annai}
+We intercept at the end of one of his concerts.
+
+{Thisone}
+What do we do?
+What do we say to everyone?
+
+{Annai}
+Do what he would do.
+We sing.
+
+{Thisone}
+A song?
+One of his?
+He almost never repeats material.
+
+{Annai}
+I'm working on it.
+
+{Thisone}
+You play?
+
+{Annai}
+I mix.
+Same thing really.
+The voices are all synthed.
+The only thing we need is lyrics.
+
+{Thisone}
+I could try to come up with something.
+
+{Annai}
+It won't sound exactly like him.
+The fans might know something's up.
+
+{Thisone}
+Isn't that the point?
+
+{Annai}
+Not really.
+I think we just want to send him | them | a message.
+
+{Thisone}
+So maybe he had a bad night.
+It happens.
+
+{Annai}
+Sure.
+Not all his stuff is perfect.
+And the sound is always changing.
+We'll fake it and see what happens.
+
+{Thisone}
+Then | after.
+
+{Annai}
+We disconnect | let him take over again | after the show.
+
+{Thisone}
+He's going to be mad as hell.
+
+{Annai}
+He won't say anything in front of the crowd.
+He won't know exactly what happened | just that he was locked out of his own avatar for a few minues.
+
+{Thisone}
+It should be interesting to see his reaction.
+
+{Annai}
+I can't wait.
+
+{Thisone}
+He'll be disoriented for a bit.
+Someone might notice.
+
+{Annai}
+He'll recover.
+He's good.
+
+{Thisone}
+Do we go backstage | like nothing happened?
+
+{Annai}
+Have to.
+Otherwise | he might suspect us.
+
+{Thisone}
+Do you think he'll say something?
+
+{Annai}
+Not to you.
+He might talk to me privately.
+I think he trusts me.
+As much as he trusts anyone.
+
+{Thisone}
+I guess you've betrayed him.
+
+{Annai}
+No.
+He betrayed me.
+Took advantage of my naivete.
+My youthful inexperience.
+
+{Thisone}
+Could have happened to anyone.
+
+{Annai}
+I guess age and experience count for something.
+
+{Thisone}
+You gain wisdom | and lose your innocence.
+
+{Annai}
+I guess that's what's happening to me.
+One quantum of innocence | traded for a quantum of experience.
+People are shit.
+don't trust anyone.
+
+{Thisone}
+He's not even a person.
+
+{Annai}
+That's the part that has me stumped.
+As much as I know now | I still think of him as if he's some sort of individual | particular | unique.
+
+{Thisone}
+Well | whoever put this together obviously has a strong personality.
+The ego of the artist always shows through.
+
+{Annai}
+So More eh shun is a work of art?
+
+{Thisone}
+Transgressive art | yes.
+He's got me thinking | that's for sure.
+
+{Annai}
+Yeah | he has me thinking too.
+I think I want revenge.
+
+{Thisone}
+Revenge is not a healthy emotion.
+
+{Annai}
+We evolved it for a reason.
+
+{Thisone}
+Deterrence?
+
+{Annai}
+Fighting the moral hazard.
+If someone takes something from you and destroys it | responding in kind gets you nothing back.
+
+{Thisone}
+But |
+
+{Annai}
+It's altruistic | you're helping the next potential victim.
+
+{Thisone}
+By teaching the defector a lesson.
+
+{Annai}
+Tit for tat.
+
+{Thisone}
+Prisoner's dilemma | in a community setting.
+
+{Annai}
+I guess we read the same stuff.
+
+{Thisone}
+So | An I.
+
+{Annai}
+Yes?
+
+{Thisone}
+Well | um | I was wondering.
+
+{Annai}
+What am I doing tonight?
+
+{Thisone}
+We could hang out at my place | later.
+After we talk.
+
+{Annai}
+Sure.
+Nothing cooking at my end.
+
+{Thisone}
+Have you seen him?
+
+{Annai}
+Since we found out?
+No.
+I've stayed away.
+
+{Thisone}
+You probably should show up once or twice.
+Stick to your routine.
+
+{Annai}
+I don't know if I can face him.
+
+{Thisone}
+Just be yourself.
+
+{Annai}
+I'm afraid he'll know something is wrong.
+
+{Thisone}
+You're a big girl.
+You can handle it.
+Make an excuse.
+
+{Annai}
+That time of the month?
+
+{Thisone}
+Whatever.
+You know him.
+Whoever he is | they are | they can't read your mind.
+
+{Annai}
+Ok.
+But I want you to come.
+
+{Thisone}
+No | that's not a good idea.
+
+{Annai}
+Why not?
+
+{Thisone}
+Well | for one thing | he might figure out about us | that we're | um |
+
+{Annai}
+Fucking?
+
+{Thisone}
+In a word.
+
+{Annai}
+So what?
+He's not my lover.
+What's it to him?
+As far as I'm supposed to believe | he's not even human.
+
+{Thisone}
+I don't know.
+I have a hunch.
+
+{Annai}
+You think he likes me?
+You think he could be jealous?
+
+{Thisone}
+We still don't know who's behind this.
+A jilted lover?
+
+{Annai}
+Trust me | if anyone I ever slept with had this kind of talent | I'd still be with them.
+In any case | I would know.
+It's not anyone from my life | real or grid.
+
+{Thisone}
+How 'bout I piggyback?
+
+{Annai}
+So you'll come with | as a ghost?
+
+{Thisone}
+I'll see and feel what you do | and be able to talk to you.
+
+{Annai}
+But no one else will know.
+
+{Thisone}
+Right.
+Just me and you.
+
+{Annai}
+From sea to shining sea.
+
+{Thisone}
+heh | right.
+Stuff sticks in your head.
+
+{Annai}
+Like a virus.
+
+{Thisone}
+I'm hungry.
+Let's eat.
+
+{Annai}
+Ok.
+Waiter brings food on cue
+
+{Annai}
+This stuff is great.
+My compliments to the chef.
+
+{Thisone}
+One thing they haven't got down yet.
+
+{Annai}
+Yeah.
+I'm really eating a yeastburger.
+
+{Thisone}
+ugh.
+I've got mac and cheese.
+
+{Annai}
+but it looks beautiful.
+Presentation is everything.
+
+{Thisone}
+Mmm.
