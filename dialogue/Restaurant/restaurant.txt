@@ -144,67 +144,70 @@ The 80%gear 101%gets better 3^every 81%5.4;year.
 122%3.4;Let's keep it 88%5.24;cazz.
 
 {Thisone}
-Right.
-Special friends.
+7_-4;Right.
+1^6_4;Special 4_0;friends.
 
 {Annai}
-Exactly.
-You're learning.
+3,5,2;Exactly.
+3;You're 70%100%1.4_5.2,4_2;learning.
 
-{Thisone}
-I'm trying.
+{Thisone;pitch=.5}
+3;I'm 109%80%5,2;trying.
 
-{Annai}
-you're OK | for an old dude.
+{Annai;speed=1.07}
+5_4;you're 3;O 3_2;K || 155%3.5;for an 88%old 2.2_-1;dude.
 
-{Thisone}
-So when the equipment comes.
-
-{Annai}
-We intercept at the end of one of his concerts.
-
-{Thisone}
-What do we do?
-What do we say to everyone?
+{Thisone;speed=1.1}
+78%7.5_-3;So.
+When the 4,5,3;equipment 81%4;comes.
 
 {Annai}
-Do what he would do.
-We sing.
+3;We 3,3,5;intercept | 111%3;at 122%the end 101%of 133%one of 99%his 5,2.5;concerts.
+
+{Thisone;pitch=.8;speed=1.04}
+3.4;What do we 64%7.5_-4;do?
+3;What do we 80%5.7_5;say |0.03| 100%3;to 100%100%80%3,3,3.3;everyone?
+
+{Annai;pitch=.8;speed=1.1}
+Do what 77%7_5.5;he 100%3;would do.
+78%2.8_2.99;We |0.005| 81%11_-2;sing.
+
+{Thisone;pitch=.15}
+110%4.3;Ah 95%5.6_6.3;song?
+One of 80%6_6;his?
+He almost 6,3;never repeats 3,3,2;material.
+
+{Annai;speed=1.09}
+5;I'm 5,3;working on it.
 
 {Thisone}
-A song?
-One of his?
-He almost never repeats material.
+3.4;You 76%6_2;play?
 
 {Annai}
-I'm working on it.
+88%5_6;I 3_3;mix.
+3.8;Same 5_4.8;thing 3;really.
 
-{Thisone}
-You play?
+{Annai;speed=1.11}
+The 111%5,4;voices 100%are 144%all 111%101%5.5,3;synthesized.
+3.6;The only thing we need is 5.5,2.8;lyrics.
 
-{Annai}
-I mix.
-Same thing really.
-The voices are all 2^synthed.
-The only thing we need is lyrics.
+{Thisone;speed=1.08}
+5;I 3;could 133%try 135%an 104%come up with 95%6;sum 3_2;thing.
 
-{Thisone}
-I could try to come up with something.
+{Annai;speed=1.237}
+It won't sound 3,4,3;exactly 5;like 3_1;him.
+The fans 3;might know something's 5_1;up.
 
-{Annai}
-It won't sound exactly like him.
-The fans might know something's up.
-
-{Thisone}
-Isn't that the point?
+{Thisone;speed=1.1}
+1^3;Isn't that the 5.5_2;point?
 
 {Annai}
-Not really.
-I think we just want to send him | them | a message.
+3.5;Not 5,2;really.
+122%I think 3;we 144%just 154%want 166%to 151%send 93%4;him |.7| 7_-4;them || 3;a 6,2.6;message.
 
-{Thisone}
-So maybe he had a bad night.
-It happens.
+{Thisone;speed=1.1}
+3.3;So maybe he had a bad 82%5;night.
+3;It 5,2;happens.
 
 {Annai}
 Sure.
