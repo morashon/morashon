@@ -503,5 +503,5 @@ I'll 5;like 3;you | until I 5;don't.
 I 96%mean.
 
 {Annai;speed=.9}
-5;Bye |.16| 133%four 110%3;now.
+5;Bye |.16| 163%four 110%3;now.
 
