@@ -386,108 +386,110 @@ I'm afraid 3.3;he'll know 3.3,3.3_1;something's 5;wrong.
 5;You can 5,2.7;handle it.
 Make up 3;an 2,5;excuse.
 
+{Annai;speed=1.08}
+3;That 128%time of the 100%5;month?
+
+{Thisone;speed=1}
+100%75%42%5,5,3.6;Whatever.
+You 82%5;know 100%4;him.
+84%72%66%4,5;Whoever 74%2.4;he is | 93%5;they 3;are | 111%they can't reed 2;your 5;mind.
+
 {Annai}
-That time of the month?
+5;O 3;k.
+3;But 144%I 162%5;want 154%choo 131%to 98%3;come.
 
 {Thisone}
-Whatever.
-You know him.
-Whoever he is | they are | they can't read your mind.
+87%5_3;No.
+107%3;that's not a good 88%2.2;idea.
 
 {Annai}
-Ok.
-But I want you to come.
+4;Why 5_5;not?
 
 {Thisone}
-No | that's not a good idea.
+5_4;Well.
+108%3;For 5;one 2.7;thing | 3;he might figure out about 100%5_3;us | 3;that we're |.36| 77%ohm |
 
 {Annai}
-Why not?
+3,5_6;Fucking?
 
 {Thisone}
-Well | for one thing | he might figure out about us | that we're | um |
+74%3.4;In a 5;word.
 
-{Annai}
-Fucking?
-
-{Thisone}
-In a word.
-
-{Annai}
-So what?
-He's not my lover.
-What's it to him?
-As far as I'm supposed to believe | he's not even human.
+{Annai;speed=1.14}
+88%3;So 5;what?
+5_5;He's not my 88%2_5;lover.
+111%3;What's 128%it 111%to 6;him?
+As 113%far as 125%5.5;I'm 3;supposed 111%to 101%believe | he's not even 6,3;human.
 
 {Thisone}
-I don't know.
-I have a hunch.
+111%5;I don't know.
+3;I have a 5;hunch.
+
+{Annai;speed=1.16}
+105%3;You 133%think 111%he 104%could be 80%72%5,5_5;jealous?
+
+{Thisone;speed=1.07}
+We 5_4;still 3;don't know who's 3,5;behind 2;this.
+3;A jilted 82%5;love 155%5_4;er?
+
+{Annai;speed=1.1}
+5;Trust 4;me.
+106%If anyone 6_4;I 3;ever slept with had 5_4;this 3;kind of talent | I'd still be 6;with 3;them.
+In any case | I would 85%8_-4;know.
+104%3.4;It's not 5,3;anyone from 5;my 3_-3;life |.4| 88%4;real or 3;grid.
+
+{Thisone;speed=1.1;pitch=.4}
+4;How about 3;I 6,2;piggy back?
+
+{Annai;speed=1.1}
+3.3;So you'll come 5;with || 3.6;as a 5_6;ghost?
+
+{Thisone;speed=1.05}
+I'll 5_5;see 3;and 5_5;feel 90%4;what 80%you 72%4.5_-3;do.
+107%3.4;And be 1^able 144%to 135%6;talk 111%3;to 99%you.
 
 {Annai}
-You think he likes me?
-You think he could be jealous?
+3.5;But 121%no one else 111%will 92%3_5;know?
 
 {Thisone}
-We still don't know who's behind this.
-A jilted lover?
+80%6_-5;Right.
+Just 5;you and 71%6_-4;me.
+
+{Annai;speed=.95}
+121%2;From 70%6_5;sea 99%2;to 103%6;shining 70%4;sea.
+
+{Thisone;speed=1.1}
+6_-4;right.
+4;Stuff sticks in your 90%6;head.
 
 {Annai}
-Trust me | if anyone I ever slept with had this kind of talent | I'd still be with them.
-In any case | I would know.
-It's not anyone from my life | real or grid.
+108%Like a 88%5,3;virus.
+
+{Thisone;speed=1.06}
+I'm 5,3;hungry.
+Let's 6;eat.
+
+{Annai}
+5_5;O 3;K.
+
+{Annai;speed=1.09}
+3.5;This stuff is 5.5;great.
+My 125%compliments to the 91%6;chef.
+
+{Thisone;pitch=-1}
+5;One thing they 1^haven't gotten right 2.5;yet.
+
+{Annai}
+75%4.6_2.5;Yeah.
+104%3;I'm really eating a 5.6;yeast 2,2_0;burger.
 
 {Thisone}
-How 'bout I piggyback?
+55%6_-3;ugh.
+106%3.4;I've got mac 3.4_1;and 70%7_-3;cheese.
 
-{Annai}
-So you'll come with | as a ghost?
-
-{Thisone}
-I'll see and feel what you do | and be able to talk to you.
-
-{Annai}
-But no one else will know.
-
-{Thisone}
-Right.
-Just me and you.
-
-{Annai}
-From sea to shining sea.
-
-{Thisone}
-heh | right.
-Stuff sticks in your head.
-
-{Annai}
-Like a virus.
-
-{Thisone}
-I'm hungry.
-Let's eat.
-
-{Annai}
-Ok.
-Waiter brings food on cue
-
-{Annai}
-This stuff is great.
-My compliments to the chef.
-
-{Thisone}
-One thing they haven't got down yet.
-
-{Annai}
-Yeah.
-I'm really eating a yeast burger.
-
-{Thisone}
-ugh.
-I've got mac and cheese.
-
-{Annai}
-but it looks beautiful.
-Presentation is everything.
+{Annai;speed=1.06}
+Well | it looks 5.5_5,3;beautiful.
+Presentation is 6,2;everything.
 
 {Thisone}
 Ohm.
