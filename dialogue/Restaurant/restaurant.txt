@@ -72,72 +72,76 @@ I've got 109%three years 4_-4;left.
 5_4;Don't 93%3_1;worry.
 110%I wasn't 5,3;planning 103%on going 5;back.
 
-{Thisone}
-Well like I said | when this is all over | we'll sell the equipment and get your money back.
+{Thisone;speed=1.07}
+Well 3;like we 4.5_4;said || 
+94%3;when this is awl 90%71%5,3;over || 
+103%we'll sell the 3,5,3;equipment | 111%2.3;and get your money 4.5;back.
 
-{Annai}
-Sure.
-Unless we like it.
-We could design a More eh shun competitor.
-Make a mint.
+{Annai;speed=1.06}
+77%10_0;Sure.
+3;Unless we 5;like 2;it.
+104%3.5;We could design a 156%5;More 3;eh 111%shun 3,5,2;competitor.
+98%3;Make a 93%5_-4;mint.
 
-{Thisone}
-Start our own cult!
+{Thisone;speed=.98}
+122%3.5;Start 165%our own 106%5_4;cult!
 
-{Annai}
-Why not?
-He did it.
-How hard can it be?
+{Annai;speed=1.02}
+97%Why 5.3_4.5;not?
+70%6_5.5;He 99%3;did 3;it.
+How 138%hard 155%can 100%3;it 88%7_4;be?
 
-{Thisone}
-So how is this going to work?
+{Thisone;speed=1.09}
+3.5;So how is this going to 5;work?
 
-{Annai}
-2^We'll be getting the stuff in a couple weeks.
-I need your real address.
-
-{Thisone}
-Sure.
-Now you know where I live.
-
-{Annai}
-don't worry | I won't stalk you.
-That would cost real money.
+{Annai;speed=1.07}
+2^We'll be 122%4.5;getting the 101%stuff 3;in a couple 4;weeks.
+110%3.6;I need your 100%real 3.5,5.5;address.
 
 {Thisone}
-I wouldn't mind.
+78%9.5_-4;Sure.
+77%5;Now 164%3;you 134%know 122%2.6;where 88%3.4;I 68%7_-4.5;livv.
 
-{Annai}
-let's keep it real.
+{Annai;speed=1.07}
+5;don't 3;worry | 4;I 122%won't 4.5_3;stalk 99%2;you.
+That 133%would 111%cost 99%6;real 2.2;money.
+
+{Thisone;speed=1.09}
+4.5_4.5;I 1^wouldn't 3_1;mind.
+
+{Annai;speed=1.07}
+111%3.7;let's 118%keep it 91%3_4;real.
+
+{Thisone;speed=1.04}
+3.5;you mean 90%6.1_-6;fake?
+
+{Annai;speed=1.17;pitch=.3}
+111%3.5;works 118%four 88%5_3;me.
+113%3;Seemed 133%to work 144%for you 105%last 5;night.
+
+{Thisone;speed=1.09}
+8_-3;Sure ||| 
+3;it's been 5;great.
+Better 3;than I 3,5,2;expected.
+
+{Annai;speed=1.09}
+The 80%gear 101%gets better 3^every 81%5.4;year.
 
 {Thisone}
-you mean fake?
+3;It's 4;not 80%2.5;the 71%8_-4;gear.
 
 {Annai}
-it works for me.
-Seemed to work for you last night.
+5,5,3;Remember | it's just 5;sex.
+5;Grid 2.2;sex.
 
-{Thisone}
-Sure | it's been | great.
-Better than I expected.
-
-{Annai}
-The gear gets better 3^every year.
-
-{Thisone}
-It's not the gear.
+{Thisone;speed=1.06}
+92%6;I 3.5_0;know.
+122%But 133%don't you 101%feel ||| 
+3,5.5_5;something?
+97%Ah 123%little 111%more than 92%4_4;just.
 
 {Annai}
-Remember | it's just sex.
-Grid sex.
-
-{Thisone}
-I know.
-But don't you feel | something?
-A little more than just |
-
-{Annai}
-Let's keep it caz.
+122%3.4;Let's keep it 88%5.24;cazz.
 
 {Thisone}
 Right.
