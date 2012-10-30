@@ -1,73 +1,76 @@
 {include:../actors.txt}
 
-{Annai}
-Hey stranger.
-Come here often?
+{Annai;speed=1.11}
+5;Hey 3,2_4;stranger.
+Come here 3,5_5;often?
 
 {Thisone}
-Hey.
+68%6.5_-4;Hi.
 
 {Annai}
-Why here?
-Your place has been fun lately.
+92%3;Why |0.01| 72%5_4;here?
+166%5;Your 142%3;place has 133%been 122%fun 2,5_3;lately.
+
+{Thisone;speed=1.06}
+5;I 3;don't 3_0;know.
+I 144%want to 122%5;talk 3;about stuff.
+5,3,2;Paranoid I 3.5;guess.
+
+{Annai;speed=1.1}
+55%5_-4;Oh.
+5;That's 3;why you ordered a private 5.35;booth.
+
+{Thisone;speed=1.08}
+3;I thought 5,3;someone might have bugged my 80%5_3;sim.
+3;Compromised my 80%5,3;server.
+Ah 122%place like 100%5;this | 3;picked at 5,3;random | is harder to 5;jack 3;without leaving a 80%5;trail.
+3.5;Lately I feel like I'm being 5.35;watched.
+
+{Annai;speed=1.09}
+3;You probably 82%4.5_-4;are.
+5,3;Nothing's 3,2;private anymore.
+I'm sure 111%5,3;someone is getting 100%off spying on us during our 122%most intimate | 100%4;private 88%5,2;moments.
+
+{Thisone;speed=1.05}
+44%7_-7;Ugh!
+that's ||| 
+88%2.4;the 2^idea 99%makes me 2^115%4,2;nauseous.
+105.5%I've really beefed up my 2^5,3;fire wall | 2;but I just don't 4;know.
+106%3;I thought we should take 3,5,2;precautions.
+
+{Annai;speed=1.09}
+3.5;This is 3.5,5.5,2.4;exciting!
+3;Like a 93%5.9_5;spy 2.3;vid!
+
+{Thisone;speed=1.07}
+3;I'm 2^5,2;serious.
+105%We don't know who we're 99%5,2.5;dealing 93%with.
+Did you 2.7;order thee 77%99%76%2,3,5_4;equipment?
+
+{Annai}
+90%3_5;Yep.
 
 {Thisone}
-I dunno.
-I want to talk about stuff.
-Paranoid I guess.
+88%99%3,5,5_4.5;Everything?
 
-{Annai}
-Oh.
-That's why you ordered a private booth.
+{Annai;speed=1.08}
+3.5;I 137%5_5;told 93%2.5;you |0.02| I would.
 
-{Thisone}
-I thought someone might have bugged my sim.
-Compromised my server.
-A place like this | picked at random | is harder to jack without leaving a trail.
-Lately I feel like I'm being watched.
+{Thisone;speed=1.11}
+3.5;That 154%must 122%have 100%cost a 5,2;fortune.
 
-{Annai}
-You probably are.
-Nothing's private anymore.
-I'm sure someone is getting off spying on us during our most intimate | private moments.
+{Annai;speed=1.1}
+3.5;Put it on my 5_5;school 2.5;cred.
+I've got 109%three years 4_-4;left.
 
-{Thisone}
-Ugh!
-that's | the idea makes me nauseous.
-I've really beefed up my 2^fire wall | but I just don't know.
-I thought we should take precautions.
+{Thisone;speed=1.08}
+85%4_-4;Ohm
+|||
+100%I 132%4.6;don't 122%3;want to 100%jeopardize your 3,3,5,3;education 92%2;with |0.01| awl |0.01| this.
 
-{Annai}
-This is exciting!
-Like a spy vid!
-
-{Thisone}
-I'm serious.
-We don't know who we're dealing with.
-Did you order the equipment?
-
-{Annai}
-Yep.
-
-{Thisone}
-Everything?
-
-{Annai}
-I told you I would.
-
-{Thisone}
-That must have cost a fortune.
-
-{Annai}
-Put it on my school cred.
-I've got three years left.
-
-{Thisone}
-Awk | I don't want to jeopardize your education with all this.
-
-{Annai}
-Don't worry.
-I wasn't planning on going back.
+{Annai;speed=1.07}
+5_4;Don't 93%3_1;worry.
+110%I wasn't 5,3;planning 103%on going 5;back.
 
 {Thisone}
 Well like I said | when this is all over | we'll sell the equipment and get your money back.
