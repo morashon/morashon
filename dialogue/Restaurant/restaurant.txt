@@ -209,11 +209,11 @@ The fans 3;might know something's 5_1;up.
 3.3;So maybe he had a bad 82%5;night.
 3;It 5,2;happens.
 
-{Annai}
-Sure.
-Not all his stuff is perfect.
-And the sound is always changing.
-2^We'll fake it and see what happens.
+{Annai;speed=1.14}
+70%12_-2;Sure.
+111%Not 101%5.5;all 3;his stuff is 111%5.5,2;perfect.
+3;And the 5;sound 4;is always 6,2.4;changing.
+2^3.3;We'll 5.8;fake 2.7;it | 122%and 111%see 99%what 87%5.6,2;happens.
 
 {Thisone}
 Then | after.
