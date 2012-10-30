@@ -235,71 +235,74 @@ It should be 2^5,3;interest ing 2.7;to see his 111%2.5;ree 123%99%5,2.5;action.
 {Annai;speed=1.13}
 3;I can't 5;wait.
 
-{Thisone}
-He'll be disoriented for a bit.
-Someone might notice.
+{Thisone;speed=1.1}
+He'll 3;be 4^3,5,4;disoriented for 3;a 5;bit.
+3.5;Someone might 5,2;notice.
 
 {Annai}
-He'll recover.
-He's good.
+5;He'll 4,3;recover.
+3;He's 70%10_-5;good.
+
+{Thisone;speed=1.1}
+Do we go 4,4_0;backstage | 3;like nothing 4,5_5;happened?
+
+{Annai;speed=1.1}
+87%5;Have 3;to.
+3;Otherwise | 111%he might 111%120%3,5;suspect 80%2;us.
+
+{Thisone;pitch=.88}
+115%3.2;Do you think 106%he'll 5;say 5;sum 5_4.7;thing?
+
+{Annai;speed=1.16}
+91%3.5;Not |0.04| to 5.4;you.
+He might 142%talk 3;to 119%me 109%5,2.2;privately.
+105%3;I 5;think 123%3;he 6;trusts 99%2.6;me.
+As 111%much 133%3;as he 101%trusts 5,2;anyone.
+
+{Thisone;speed=1.08}
+I guess |.2| 3;you've 3,5,2;betrayed him.
+
+{Annai;speed=1.08}
+77%7_-5;No.
+3;He betrayed 78%5.5_3;me.
+106%3.5;Took 163%109%133%advantage 101%of my 96%3,3,3,5_4;naivete.
+My 4,2.5;youthful 100%100%100%89%2.5,2.5,6_5,2;inexperience.
+
+{Thisone;speed=1.1}
+133%3.5;Could have 101%happened to 92%5.5,3;anyone.
+
+{Annai;speed=1.1}
+I guess 111%3;age 133%and 100%experience 152%count |0.04| 142%for 100%5,2.4;something.
 
 {Thisone}
-Do we go backstage | like nothing happened?
+3;You 5;gain 5,3;wisdom | 4;and lose your 6,2;innocence.
 
-{Annai}
-Have to.
-Otherwise | he might suspect us.
-
-{Thisone}
-Do you think he'll say something?
-
-{Annai}
-Not to you.
-He might talk to me privately.
-I think he trusts me.
-As much as he trusts anyone.
+{Annai;speed=1.06}
+I 5_4;guess 128%3.5;that's 114%what's 3^100%100%128%happening 121%to 80%6_-3.3;me.
+One quantum of 5.5,3;innocence | 4;traded 3;for a quantum of 100%82%100%3,5_3.6,2;experience.
+97%People are 5;shit.
+3;don't trust 5,2.5;anyone.
 
 {Thisone}
-I guess you've betrayed him.
+3.5;He's not 1^even a 5,-4;person.
 
-{Annai}
-No.
-He betrayed me.
-Took advantage of my naivete.
-My youthful inexperience.
+{Annai;speed=1.08}
+5.2;That's 3.3;the 125%part that has 100%me 5_3.8;stumped.
+As 113%4.6;much 3;as I know 93%5;now | 100%3;I 111%5;still 131%3;think of 122%him as if 111%he's some sort of 105%3,3,6,3;individual || 
+77%4,5,3.5;particular || 
+3,5_-2;unique.
 
-{Thisone}
-Could have happened to anyone.
+{Thisone;speed=1.08}
+77%7_-4;Well | 
+4,5.6,3.3;whoever put this 3,4,2;together 3^5,3;obviously has a 111%strong 91%3,3,6_4.4,2;personality.
+73%Thee e go 3;of the 5,3;artist 101%4_3.7,2.5;always shows through.
 
-{Annai}
-I guess age and experience count for something.
+{Annai;speed=.88;pitch=.5}
+3;So 166%5.5;More 4;eh 111%shun |0.18| 120%3;is 62%a 123%work 99%of 82%3_6;art?
 
-{Thisone}
-You gain wisdom | and lose your innocence.
-
-{Annai}
-I guess that's what's 3^happening to me.
-One quantum of innocence | traded for a quantum of experience.
-People are shit.
-don't trust anyone.
-
-{Thisone}
-He's not even a person.
-
-{Annai}
-That's the part that has me stumped.
-As much as I know now | I still think of him as if he's some sort of individual | particular | unique.
-
-{Thisone}
-Well | whoever put this together obviously has a strong personality.
-The ego of the artist always shows through.
-
-{Annai}
-So More eh shun is a work of art?
-
-{Thisone}
-3^Transgressive art | yes.
-He's got me thinking | that's for sure.
+{Thisone;speed=1.07}
+3^96%3,5,3;Transgressive art |.34| 80%5;yes.
+3.6;He's got me 5.9;think 2.8;ing |.56| 5;that's 92%2.2;for sure.
 
 {Annai}
 Yeah | he has me thinking too.
