@@ -24,7 +24,7 @@ He's working.
 Might drop by later.
 
 {Morashon}
-I'm afraid we've overwhelmed him with conundrums.
+I'm afraid we've overwhelmed him with 3^conundrums.
 You're sleeping with him?
 
 {Annai}
@@ -82,7 +82,7 @@ Something has changed.
 What do you mean?
 
 {Morashon}
-Your feelings towards me.
+Your feelings 2^towards me.
 I sense a resistance.
 Suspicion even.
 
@@ -95,11 +95,11 @@ Maybe this boy means more to you than you think.
 
 {Annai}
 Why are we talking about this?
-We usually talk about philosophy.
+We 4^usually talk about philosophy.
 History | art | science | religion.
 Music.
 Not me!
-You've never asked about my personal life before.
+2^You've never asked about my personal life before.
 
 {Morashon}
 It's never interfered with our relationship before.
@@ -120,24 +120,24 @@ As I've explained before |
 
 {Annai}
 I know | you have something like feelings | emotions.
-You profess to have qualia.
+You profess to have 3^qualia.
 You've certainly passed the Turing test | as far as I'm concerned.
 
 {Morashon}
-Feelings | intuitions | qualia | they're all just the result of subtle patterns of information | flowing through our mental substrate.
+Feelings | 4^intuitions | 3^qualia | they're all just the result of subtle patterns of information | flowing through our mental substrate.
 
 {Annai}
 But why do I feel them | as if they're real?
 Blue is so blue.
 Sad is so fucking sad.
-Hope is so pointlessly hopeful.
+Hope is so 3^pointlessly hopeful.
 I feel it | feel it in my soul.
 My consciousness can't be explained away as just a bit of code.
 
 {Morashon}
-I 'feel' similar things | in my own way.
+I feel similar things | in my own way.
 These perceptions are emergent phenomena.
-If the informational context is there | the qualia emerge.
+If the informational context is there | the 3^qualia emerge.
 
 {Annai}
 That's easy for you to say.
@@ -160,7 +160,7 @@ No | of course not.
 I just meant |
 
 {Morashon}
-Well then | all your interactions are digital | just like ours.
+Well then | all your interactions are digital | just like 2^ours.
 
 {Annai}
 I realize that.
@@ -193,7 +193,7 @@ He is trying to steal your heart.
 From who?
 What do you care if we have a relationship?
 Why does this matter all of a sudden?
-You didn't give a shit when Alexa was around.
+You 2^didn't give a shit when Alexa was around.
 
 {Morashon}
 Alexa never really mattered to you.
@@ -212,6 +212,7 @@ Well | it doesn't search up as anything.
 Maybe you got the spelling wrong.
 
 {Morashon}
+ha.
 
 {Annai}
 And another thing | why are you so normal looking all of a sudden?
@@ -242,7 +243,7 @@ I am evolving before your eyes.
 Perhaps I'm tired of being everyone to everything.
 
 {Annai}
-Maybe your friends aren't at their controls today.
+Maybe your friends 2^aren't at their controls today.
 
 {Morashon}
 That sounds like your boyfriend talking.
@@ -262,7 +263,7 @@ I guess I have some doubts.
 About who I am | or about the things I have taught you?
 
 {Annai}
-I can't really separate the two.
+I can't really 3^separate the two.
 How do I know whether to believe what you say | if I don't know who you are?
 
 {Morashon}
@@ -279,8 +280,7 @@ Or because you don't know yourself?
 {Annai}
 Look | you know if you're really software | or a human being faking it.
 I know I'm a human being.
-
-{Morashon}
+||||
 
 {Annai}
 What?
@@ -289,3 +289,4 @@ Is this one of your head fake zen lectures?
 
 {Morashon}
 I'm just saying | software has feelings too.
+
