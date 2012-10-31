@@ -51,74 +51,75 @@ I've heard 122%it 111%can lead 100%to 6,3;stronger 3,5,2_-4;attachments.
 122%5;I 165%4.3;can 100%5,3;handle him.
 I'm a 5;big 2_-1;girl.
 
-{Morashon}
-Yes | indeed | you are.
-A big girl.
-My grown up little girl.
+{Morashon;speed=1.04}
+5;Yes | indeed | 4;you 3;are.
+3;A 4.6;big 2;girl.
+3;My 122%5;grown up little 99%2;girl.
 
-{Annai}
-I'm not yours.
+{Annai;pitch=.6;speed=1.1}
+3;I'm 6;not | 86%7_-5;yours.
 
-{Morashon}
-No | I suppose not.
-Not anymore | anyway.
+{Morashon;speed=1.04}
+4_4;No | I suppose not.
+111%3.4;Not 3,3,5;anymore | 3;anyway.
 
-{Annai}
-What's that supposed to mean?
+{Annai;speed=1.1}
+3;What's 6;that 100%133%3;supposed 111%to 99%4_1;mean?
 
-{Morashon}
-Nothing | nothing really.
-I've seen you change since we first met.
+{Morashon;speed=1.06}
+95%5,3;Nothing | 4;nothing 4,2.7;really.
+113%I've 133%seen 144%you 111%5.5;change 118%2.7;since we first 111%5;met.
 
-{Annai}
-That was less than a year ago.
+{Annai;speed=1.1}
+3;That |0.06| 106%was 132%less than 70%a 101%5;year 2.2;ago.
 
-{Morashon}
+{Morashon;speed=1.06}
 We live in accelerated times.
-What is a year | when we never see the sun?
+3;What is a 80%5;year | 103%2.5;when we 122%never see 101%the 86%5;sun?
 
-{Morashon}
-Something has changed.
-
-{Annai}
-What do you mean?
-
-{Morashon}
-Your feelings 2^towards me.
-I sense a resistance.
-Suspicion even.
+{Morashon;speed=1.1}
+111%3.5;Sum thing 3_1;has 81%5.6;changed.
 
 {Annai}
-It's not you.
-I'm feeling scattered lately.
+3.3;What do you 5_4;mean?
+
+{Morashon;speed=1.08}
+114%3.5;Your 5_5,3;feelings 2^133%towards 99%me.
+I sense a 3,5,2;resistance.
+3.4,6_4,2.5;Suspicion even.
+
+{Annai;speed=1.07}
+It's not 70%7_-2.5;you.
+103%I'm 122%104%feeling 6_4.5,3;scattered lately.
+
+{Morashon;speed=1.03}
+Maybe this 5;boy 3;means more to you 106%than 122%3_1;you 100%6;think.
+
+{Annai;speed=1.09}
+113%Why 122%are we 100%6;talking 2.5;about this?
+We 4^122%122%152%122%usually 100%talk about 3,5,3,3_2;philosophy.
+History | art | science | 3,5.5,3;religion.
+5.6,2.7;Music.
+3;Not 72%6.9_-3.3;me!
+1^3.3;You've 122%never asked 100%about my personal 5_5;life 4,4_0;before.
+
+{Morashon;speed=1.03}
+It's never interfered with 133%our 104%3,5,3;relationship before.
+
+{Annai;speed=1.14}
+I 103%don't know what 112%you're going 101%5;on 2.5;about.
 
 {Morashon}
-Maybe this boy means more to you than you think.
+I 5_4;feel 2;him.
+I feel his 126%5_4;love |0.06| 129%2.7;for 100%you | 111%and his 122%suspicions about 81%4;me.
+119%3.5;I feel them coursing 133%through 111%your 90%6_-4;veins.
 
-{Annai}
-Why are we talking about this?
-We 4^usually talk about philosophy.
-History | art | science | religion.
-Music.
-Not me!
-2^You've never asked about my personal life before.
+{Annai;speed=1.1}
+Well |||
+3;you've got a lot of 5_5,3_1;feelings | 3.5;for a piece 3_2;of 82%7_-2;code.
 
-{Morashon}
-It's never interfered with our relationship before.
-
-{Annai}
-I don't know what you're going on about.
-
-{Morashon}
-I feel him.
-I feel his love for you | and his suspicions about me.
-I feel them coursing through your veins.
-
-{Annai}
-Well you've got a lot of feelings | for a piece of code.
-
-{Morashon}
-As I've explained before |
+{Morashon;speed=1.06}
+As I've 4,6_4.5;explained 3,7_-1;before |
 
 {Annai}
 I know | you have something like feelings | emotions.
