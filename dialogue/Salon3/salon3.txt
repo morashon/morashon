@@ -121,13 +121,16 @@ Well |||
 {Morashon;speed=1.06}
 As I've 4,6_4.5;explained 3,7_-1;before |
 
-{Annai}
-I know | you have something like feelings | emotions.
-You profess to have 3^qualia.
-You've certainly passed the Turing test | as far as I'm concerned.
+{Annai;speed=1.08}
+5.5;I 3.3;know || 111%3;you have 5,3;something like 99%4.5;feelings | 4;emotions.
+105%You profess 128%3;to 111%have 100%5,2;qual e ah.
+3;You've 111%certainly 101%passed the 5,3;Turing test | as far as 5;I'm 2.2;concerned.
 
-{Morashon}
-Feelings | 4^intuitions | 3^qualia | they're all just the result of subtle patterns of information | flowing through our mental substrate.
+{Morashon;speed=1.03}
+5;Feelings | 4^4;intuitions | 3^88%3;qualia | 
+100%they're 5.6;all 4;just the 111%result of 100%subtle 115%patterns of 103%3.5,3.5,5.5,2.5;information 
+|| 
+flowing through 115%our mental 98%5,2.5;substrate.
 
 {Annai}
 But why do I feel them | as if they're real?
