@@ -1,53 +1,55 @@
 {include:../actors.txt}
 
 {Morashon}
-An I!
-How nice of you to come.
-You look marvelous.
+5;Ann 3;I!
+How 6;nice 3;of you to come.
+You look 6,3,2;marvelous.
 
 {Annai}
-Where is everyone?
+Where 6;is 3;everyone?
 
 {Morashon}
-Oh | out and about.
-More will come presently.
+80%6_-4;Oh.
+111%6;Out and 5,3;about.
+111%More 122%3;will come 6,3,2;presently.
 
-{Annai}
-You said you wanted to talk.
-
-{Morashon}
-Where is that lovely boy you've been so attached to lately?
-This one | that one?
-
-{Annai}
-He's working.
-Might drop by later.
+{Annai;speed=1.04}
+5;You 3;said 122%you 122%91%wanted |0.06| 100%to 5.5;talk.
 
 {Morashon}
-I'm afraid we've overwhelmed him with 3^conundrums.
-You're sleeping with him?
+3.5;Where is that 122%lovely 100%6;boy 114%3;you've been 119%so 99%attached too lately?
+5;This 3;one | 6;that 2;one?
 
 {Annai}
-Yes.
+5;He's 3,3_1;working.
+117%3.5;Might drop by 110%5.5,3_0;later.
+
+{Morashon;speed=1.03}
+3.5;I'm afraid we've 3,3,5;overwhelmed 2;him with 3^100%70%100%3,4.5,2;conundrums.
+118%2.7;You're 100%5;sleeping with 5_5;him?
+
+{Annai}
+||||
+78%Yes.
 
 {Morashon}
-Well that's just beautiful.
-You humans | with your sex!
-What a divinely bizarre invention.
-No god could have thought that up.
-Atheists | here is your proof!
+111%Well 3;that's just 5.5,2;beautiful.
+103%5;You 5,3;humans | 122%2.2;with 2.2_0;your 100%8_-5;sex!
+What a 3,5,2;divinely 2.5;bizarre 3,5,2;invention.
+5;No God 122%3;could have thought 100%6;that 2;up.
+Atheists | 2.5;here's your 5.5;proof!
+
+{Annai;speed=1.1}
+We're not 5.5;hitched 111%3;or anything.
+3.5;It's just a 3,6,3;diversion.
+
+{Morashon;speed=1.03;pitch=-.22}
+3.2;For 88%5_3;you | 101%3;perhaps.
+I've heard 122%it 111%can lead 100%to 6,3;stronger 3,5,2_-4;attachments.
 
 {Annai}
-We're not hitched or anything.
-It's just a diversion.
-
-{Morashon}
-For you | perhaps.
-I've heard it can lead to stronger attachments.
-
-{Annai}
-I can handle him.
-I'm a big girl.
+122%5;I 165%4.3;can 100%5,3;handle him.
+I'm a 5;big 2_-1;girl.
 
 {Morashon}
 Yes | indeed | you are.
