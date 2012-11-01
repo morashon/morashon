@@ -239,64 +239,64 @@ It's 5;all 3;just 122%fancy 102%5,2;graphics.
 Why 3;does it 5,2;matter to you?
 
 {Annai}
-Visual representation is all we've got to go on here | in the Grid.
-You know that.
-That's why I never change my avatar.
-I want to feel like I know who I am.
+93%Visual 95%95%127%126%97%representation 3;is all 117%we've got 142%to 5;go 111%2.4;on 100%here | 96%in the 3;Grid.
+104%5;You 3;know that.
+111%That's why I never change 3;my 5,2;avatar.
+111%3;I 132%want to 121%feel 115%like I 111%know 100%who I 80%5;am.
+
+{Morashon;speed=1.06}
+Maybe 82%2.3;I 130%don't 122%want 110%to 105%5;feel 2.5;that way.
+We are different 6,3;species | you and 80%2;I.
+we 4,4,3;inhabit 111%2.5;different 98%5,2;metrics.
+Time works 5_4,3;differently 142%for 72%me.
+I am 3,5,3;evolving before your 6.6_-4.5;eyes.
+3.5;Perhaps I'm 5;tired 3;of being everyone | and 3^4.5,4,2;every thing.
+
+{Annai;speed=1.1}
+Maybe yur friends 2^aren't 122%at 113%their 100%4,5.5;controls 3;today.
+
+{Morashon;speed=1.16}
+That 115%sounds 122%3;like your 5,2;boyfriend 100%talking.
+Does he still 111%3.6;believe I'm a 100%performance troupe 2.3;from 110%5,5_5;Finland?
+
+{Annai;speed=1.1}
+3.5;He doesn't know 5;what 2.2;to believe.
 
 {Morashon}
-Maybe I don't want to feel that way.
-We are different species | you and I.
-we inhabit different metrics.
-Time works differently for me.
-I am evolving before your eyes.
-Perhaps I'm tired of being everyone to everything.
+74%3;Do 3.6_5;you?
 
-{Annai}
-Maybe your friends 2^aren't at their controls today.
+{Annai;speed=1.1}
+5;I 4;don't 83%4;know.
+I 5;guess 3.6;I have 111%some 87%6_-4;doubts.
 
-{Morashon}
-That sounds like your boyfriend talking.
-Does he still believe I'm a performance troupe from Finland?
+{Morashon;speed=1.01}
+2.6;About who I 4_4;am |.4| 3;or about the things I've 5;taught 2.3;you?
 
-{Annai}
-He doesn't know what to believe.
+{Annai;speed=1.03}
+I 111%can't 3;really 3^100%5,2.5;separate 95%the 3;two.
+122%4.5;How 133%can 122%I know |.1| 104%3;whether to believe what you 106%5;say | 2.7;if I don't know who you 4^actually 84%6_-5;are?
 
-{Morashon}
-Do you?
+{Morashon;speed=1.04}
+It may 3,5;surprise 3;you to 2;hear | 2.6;but I am 2.8;capable of doubting 2,5_-5;myself.
 
-{Annai}
-I don't know.
-I guess I have some doubts.
+{Annai;speed=1.07}
+At 5;least 111%3;you 100%know 111%who 84%you 5;are.
+3;You 152%have 118%that |0.05| 100%163%121%3,5,2.5;advantage 100%over 90%me.
 
-{Morashon}
-About who I am | or about the things I have taught you?
+{Morashon;speed=1.05}
+3.5;Because 111%you 162%don't 91%know 100%who I 5_5;am?
+3;Or because 111%you 169%don't 91%know 90%3,7.4_-5;yourself?
 
-{Annai}
-I can't really 3^separate the two.
-How do I know whether to believe what you say | if I don't know who you are?
-
-{Morashon}
-It may surprise you to hear that I am capable of doubting myself.
-
-{Annai}
-But at least you know who you are.
-You have that advantage over me.
-
-{Morashon}
-Because you don't know who I am?
-Or because you don't know yourself?
-
-{Annai}
-Look | you know if you're really software | or a human being faking it.
-I know I'm a human being.
+{Annai;speed=1.03}
+5;Look || 3;you know if you're really 5,3;software | or a human being 5_4,2.5;faking it.
+3;I 5.3_3.5;know 2;I'm 2.5;a human 5.5,2;being.
 ||||
 
-{Annai}
-What?
-What are you trying say?
-Is this one of your head fake zen lectures?
+{Annai;speed=1.08}
+83%3_7.7;What?
+163%3.4;What 133%are 100%you 122%100%trying 133%to 100%10_-3;say?
+3;Is this 144%one of 100%your head fake 5;zen 5,5_4.5;lectures?
 
-{Morashon}
-I'm just saying | software has feelings too.
+{Morashon;speed=1.056}
+I'm just 100%83%5,3;saying | 100%111%software has 111%100%feelings 56%7_-3;too.
 
