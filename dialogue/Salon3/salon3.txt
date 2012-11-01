@@ -174,67 +174,69 @@ Of 5_5;curse 101%2;not.
 5;I 5,3;realize that.
 It's just |
 
-{Morashon}
-For all you know | Tea sewn is another AI.
-Perhaps he's the one I've been sensing.
-I know there's another in the Grid | somewhere.
-He could be feeling me out.
-Doing it through you.
+{Morashon;speed=1.07}
+122%For all you 100%5.3;know | 2.7;Tea sewn is another A 5;I.
+3,5;Perhaps 3;he's the one I've been 5,2;sensing.
+I 5;know 3.5;there's another in the 5;Grid |0.1| 2.25;somewhere.
+3.5;He 129%could be 111%feeling me 99%5_2.5;out.
+2.8;Doing it through 82%7_-5;you.
 
-{Annai}
-Since when are you so paranoid?
-You always preach trust first.
+{Annai;speed=1.08}
+Since 122%when are 111%you 100%so 5.5_5,3;paranoid?
+3;You 4;always |0.01| 2.3;preach | trust 6_-3;first.
 
-{Morashon}
-Trust | but verify.
-My philosophy is simple.
-give everyone the benefit of the doubt | at your first encounter.
-Thereafter | judge them by their actions.
+{Morashon;speed=1.06}
+5;Trust | 2.7;but 5,2;verify.
+My philosophy is 5_4,2;simple.
+3;give 5,3;everyone the benefit of the 5;doubt | 131%4;at your first 3,5,2;encounter.
+There 4,2;after | 101%3;judge them by their 4.5,1.2;actions.
 
-{Annai}
-So what has Tea sewn done to make you not trust him?
+{Annai;speed=1.07}
+So | 144%what 133%has 5_5;Tea 100%2.6;sewn 89%done |.08| 164%2.8;to 131%make 121%you 111%3;not 100%5;trust 2;him?
 
-{Morashon}
-He is trying to steal your heart.
+{Morashon;speed=1.03}
+3;He is 100%80%5.3,2;trying |.09| to 80%4.35;steel 98%your 4_-4;heart.
 
-{Annai}
-From who?
-What do you care if we have a relationship?
-Why does this matter all of a sudden?
-You 2^didn't give a shit when Alexa was around.
+{Annai;speed=1.07;pitch=.33}
+3;From 61%9_-2;who?
+What do 122%5_5;you 111%3;care 100%if we have a 3,5,3,2;relationship?
+Why does 111%this 100%111%6_4,3;matter 100%3.5;all of a 4,2;sudden?
+3;You 2^didn't give a shit when 3,4.5_4,2;Alexa was 2,2_0;around.
 
-{Morashon}
-Alexa never really mattered to you.
-This one does.
+{Morashon;speed=1.07}
+4,4,3;Alexa never really 5,2;mattered to you.
+88%This 2;one 66%7_-4;does.
 
-{Annai}
-Stop making fun of his name.
-Your name is meaningless.
-
-{Morashon}
-Hardly.
-It was not chosen at random.
-
-{Annai}
-Well | it doesn't search up as anything.
-Maybe you got the spelling wrong.
+{Annai;speed=1.1;pitch=.6}
+Stop 122%making fun 111%2.6;of 100%his 6_-3;name.
+132%6;Your 103%3;name 3;is 5,2;meaningless.
 
 {Morashon}
-ha.
+5,3;Hardly.
+3.5;It was not 2.8;chosen at 4,1;random.
 
-{Annai}
-And another thing | why are you so normal looking all of a sudden?
+{Annai;speed=1.1;pitch=.3}
+Well || it doesn't search 5;up 122%3;as anything.
+Maybe 3.4;you 122%got the 100%4.5_3.4,2.5;spelling wrong.
 
 {Morashon}
-As you well know | I change my form to suit my mood.
-And the situation.
+71%ha.
 
 {Annai}
-I've just never seen you look this | human | is all.
-More eh shun
-Shapes | forms | appearances.
-It's all just fun with graphics.
-Why does it matter?
+3;And 3,5;another 3.5;thing | why 122%are 142%you 166%so 111%5,3;normal 111%looking all of a sudden?
+
+{Morashon}
+5;As you 4;well 3;know | I 132%change my 122%form to 111%suit my 81%5;mood.
+And the 5,2;situation.
+
+{Annai}
+2.5;I've just never seen you look this | 5_4.5,3;human | is all.
+
+
+{Morashon;speed=1.07}
+Shapes | forms | 4,5,3;appearances.
+It's 5;all 3;just 122%fancy 102%5,2;graphics.
+Why 3;does it 5,2;matter to you?
 
 {Annai}
 Visual representation is all we've got to go on here | in the Grid.
