@@ -1,0 +1,34 @@
+{include:../actors.txt}
+
+{Morashon;speed=1.03}
+Thank you | 3;thank you. 
+You are 5;awl too 2.5;kind.
+|0.08|
+
+{Morashon;speed=1.06}
+5;Please 5,3.5;remember to visit the 3;site.
+105%I've 5;just 4;posted 3;a 4;new 91%5;S 3;A.
+2^142%3;Towards 131%a 122%5;Game Theoretical 110%5,3;Approach to 100%3,5,2;Morality || 
+110%4.5;Propagating 98%3;Trust.
+|||
+111%I 131%want 122%to play 3;one 90%1,5;more.
+||
+180%-8_16;Ohm
+|||||
+21%2_-6;ah
+
+{Thisone} 
+Excuse me.
+|||
+50%We
+
+{Annai}
+Ah
+
+{Thisone}
+70%ohm
+
+{Morashon} 
+133%6;I'm going to play |0.01| 101%3.5;one more song tonight.
+111%2.4;Here 4;goes 111%144%6_5,3_2;nothing.
+
