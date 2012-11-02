@@ -1,0 +1,127 @@
+{include:../actors.txt}
+
+{Annai}
+About time.
+
+{Thisone}
+Sorry.
+I've been pacing around like a madman | trying to figure things out.
+
+{Annai}
+Still want to go through with it?
+
+{Thisone}
+More than ever.
+That fucker is insane.
+I think he's in love with you.
+
+{Annai}
+That makes him insane?
+
+{Thisone}
+No | they're orthogonal statements.
+You know what I mean.
+If he's actually a he | why does he tell everyone he's an A I?
+If he's really A I | how can he be in love with you?
+
+{Annai}
+I don't think he's in love with me.
+That's ridiculous.
+
+{Thisone}
+Why do you say that?
+
+{Annai}
+What's to love?
+I'm just another grid chick.
+
+{Thisone}
+and I'm just another horny coder dude looking for gridsex.
+
+{Annai}
+Right.
+We're just stereotypes in someone's crappy vid flick.
+
+{Thisone}
+So life has no meaning?
+
+{Annai}
+I didn't say that.
+Sometimes my life feels meaningless.
+Other times not.
+I thought More eh shun meant something.
+Apparently he's just another crappy guy.
+
+{Thisone}
+Trying to sell us bogus happy?
+
+{Annai}
+He said it | not me.
+
+{Thisone}
+His music sort of grows on you.
+
+{Annai}
+Yeah.
+Like a cancer.
+
+{Thisone}
+I have all the gear.
+Tested it out today.
+
+{Annai}
+Right.
+I think we're ready.
+
+{Thisone}
+tomorrow night?
+He's been tagged you know | the audience will be orders of mag bigger than ever.
+
+{Annai}
+Well it's not like we're actually performing.
+Not like in the old days.
+We're just managing some data in real time.
+
+{Thisone}
+I know | I know.
+I'm still nervous | even if it is just glorified DJ ing.
+We'll have to react to anything unexpected.
+
+{Annai}
+If that happens | I'll just pull the plug.
+
+{Thisone}
+Leave More eh shun holding the bag?
+
+{Annai}
+Serves him right.
+I can't wait to see his face after the show.
+
+{Thisone}
+Ok.
+I guess that's it then.
+Break a leg.
+
+{Annai}
+What?
+
+{Thisone}
+It's an old saying.
+Means good luck.
+
+{Annai}
+That's fucked up.
+
+{Thisone}
+See you on stage I guess.
+
+{Annai}
+Yup.
+With such a big crowd | we won't be missed.
+
+{Thisone}
+then we slip in after our song.
+
+{Annai}
+sounds like a plan.
+Bye lover.

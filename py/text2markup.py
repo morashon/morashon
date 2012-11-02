@@ -30,8 +30,11 @@ line = ""
 while ix < len(s):
     c = s[ix]
     ix += 1
-    if c in '"' + "'":
+    if c == '"':
         continue
+    if c == "'":
+        if not (s[ix-2:ix-1].isalpha() and s[ix:ix+1].isalpha()):       #leave apostrophe, ignore single quotes with whitespace on either side
+            continue
     if c == ",":
         c = " |"
     if c == ";":
