@@ -3,125 +3,129 @@
 {Annai}
 About time.
 
+{Thisone;speed=1.1;pitch=.25}
+83%5.2,2_0;Sorry.
+I've been pacing around 91%3;like a 5,2.5;madman | 99%trying to figure things 5;out.
+
+{Annai;speed=1.13;pitch=.25}
+3.5;Still 142%want to 100%go 5;through with 5_5;it?
+
+{Thisone;speed=1.06}
+4;More than 71%88%6,3;ever.
+73%3.5;That 91%fucker 99%is 83%3,6_-3;insane.
+I 5.4_4.8;think 3;he's in 6;love 2.2;with you.
+
+{Annai;speed=1.2}
+3.5;That 122%makes 111%him 100%90%3,5.6_4.5;insane?
+
+{Thisone;speed=1.1}
+No | they're 3^orthogonal 5.5,2.6;statements.
+5;You 3;know what I 72%1_5;mean.
+If he's 3^4,3;actually a 70%5;he || 100%3;why does he tell everyone he's an 80%A 5_5;I?
+If he's 5,3;really 80%2;A 5_5;I || 110%3.5;how 120%can he 100%be in 5.5;love 2.5;with you?
+
+{Annai;speed=1.1}
+3.5;I don't 4_3.6;think 3;he's in 5;love 3;with me.
+
+{Annai;speed=1.1}
+3;That's 3,5,2.3;ridiculous.
+
+{Thisone;speed=1.07}
+Why do 164%you 84%say 6_5;that?
+
+{Annai;speed=1.16}
+3.4;What's to 5_4;love?
+3;I'm just another 5;grid 2.6;chick.
+
+{Thisone;speed=1.13}
+and 5.4;I'm 3.4;just another 88%horny 5_4,3;coder dude | looking for 5;grid 2;sex.
+
+{Annai;speed=1.2}
+70%6_-4;Right.
+145%Were 100%just 4^5_5,3;stereotypes | in someone's crappy 5.5;vid 2.2;flick.
+
+{Thisone;speed=1.12}
+3.5;So life has no 100%5,5_5;meaning?
+
+{Annai;pitch=.2;speed=1.11}
+I 2^didn't 2_1;say 6;that.
+Sum times my life feels 5,3,3_3;meaningless.
+3;Other times 6_-4;not.
+I thought 166%5;More 116%3;eh shun | 5;meant 2;something.
+3.5,5,2;Apparently | 3;he's just another crappy 6_-3;guy.
+
+{Thisone;speed=1.1}
+Trying to 111%sell 100%us |0.05| bogus 90%5,5_5;happy?
+
+{Annai;speed=1.08}
+5;He 3;said it | 95%not 6;me.
+
 {Thisone}
-Sorry.
-I've been pacing around like a madman | trying to figure things out.
+|||
+111%His 5,3;music sort of 80%6;grows 108%2.2;on you.
 
 {Annai}
-Still want to go through with it?
+67%5;Yeah.
+111%3;Like a 5,2;cancer.
 
 {Thisone}
-More than ever.
-That fucker is insane.
-I think he's in love with you.
+I have awl the 80%6;gear.
+105%3;Tested it out 100%60%3,6.9_-8;today.
 
-{Annai}
-That makes him insane?
-
-{Thisone}
-No | they're orthogonal statements.
-You know what I mean.
-If he's 3^actually a he | why does he tell everyone he's an A I?
-If he's really A I | how can he be in love with you?
-
-{Annai}
-I don't think he's in love with me.
-That's ridiculous.
-
-{Thisone}
-Why do you say that?
-
-{Annai}
-What's to love?
-I'm just another grid chick.
-
-{Thisone}
-and I'm just another horny coder dude looking for grid sex.
-
-{Annai}
+{Annai;speed=1.14;pitch=.45}
 Right.
-We're just 4^stereotypes in someone's crappy vid flick.
+3;I think 121%we're 108%5,2;ready.
+
+{Thisone;speed=1.05}
+3.5;tomorrow 5_4;night?
+3;He's been 5.5;tagged 132%3.5;you 80%know | 100%the 2^4.4,3;audience 3;will 3;be orders of 5,3;magnitude 90%bigger than 71%5,2.3;ever.
+
+{Annai;speed=1.12}
+5_2;Well || 3;it's 132%not 118%like 100%we're 4^actually 3,5,2;performing.
+3;Not like in the 5;old 2;days.
+115%Were 111%just 122%4,3;managing some 95%5,3;data |0.07| in 6;real 2;time.
+
+{Thisone;speed=1.06}
+77%I know || 82%I know.
+3;I'm 5;still 99%71%5,3;nervous | 1^100%4;even if it 6_5;is 3.5;just glorified 5_5;D 2_2;J ing.
+We'll have to 144%3.5;re 5.5_4.9;act |0.05| 101%2.8;to anything 3,3,5,2;unexpected.
+
+{Annai;speed=1.1}
+If that happens | 2.78;I'll just pull the 5;plug.
 
 {Thisone}
-So life has no meaning?
+Leave 166%122%5;Moray 100%2.5;shun |0.05| 95%holding the 5.6;bag?
 
-{Annai}
-I 2^didn't say that.
-Sum times my life feels meaningless.
-Other times not.
-I thought More eh shun meant something.
-Apparently he's just another crappy guy.
+{Annai;speed=1.1}
+3;Serves him 5;right.
+I can't 122%5_4.5;wait 133%3;to see 118%his 100%5.5;face 2.8;after the 5;show.
 
 {Thisone}
-Trying to sell us bogus happy?
-
-{Annai}
-He said it | not me.
-
-{Thisone}
-His music sort of grows on you.
-
-{Annai}
-Yeah.
-Like a cancer.
-
-{Thisone}
-I have all the gear.
-Tested it out today.
-
-{Annai}
-Right.
-I think we're ready.
-
-{Thisone}
-tomorrow night?
-He's been tagged you know | the audience will be orders of mag bigger than ever.
-
-{Annai}
-Well it's not like we're 4^actually performing.
-Not like in the old days.
-We're just managing some data in real time.
-
-{Thisone}
-I know | I know.
-I'm still nervous | even if it is just glorified D J ing.
-We'll have to react to anything unexpected.
-
-{Annai}
-If that happens | I'll just pull the plug.
-
-{Thisone}
-Leave More eh shun holding the bag?
-
-{Annai}
-Serves him right.
-I can't wait to see his face after the show.
-
-{Thisone}
-Ok.
-I guess that's it then.
+5,3;Ok.
+I guess that's 5;it 2.5;then.
 Break a leg.
 
 {Annai}
-What?
+3_5.5;What?
 
 {Thisone}
-It's an old saying.
-Means good luck.
+It's an old 5,2;saying.
+3;Means good 6_-4;luck.
 
-{Annai}
-That's fucked up.
+{Annai;speed=1.1}
+4.5_4;That's 3;fucked up.
 
-{Thisone}
-See you on stage I guess.
+{Thisone;speed=1.00}
+106%See you onn 100%5;stage 3;then | I guess.
 
 {Annai}
 Yup.
-With such a big crowd | we won't be missed.
+111%3;With such a big 5.5;crowd | 2.7;we won't be 5_0;missed.
 
-{Thisone}
-then we slip in after our song.
+{Thisone;speed=1.06}
+then we 5;slip 70%5.6;inn | 111%3;after our 81%6;song.
 
 {Annai}
-sounds like a plan.
-Bye lover.
+131%sounds like a 99%6;plan.
+70%5_5;Bye |0.07| 92%4,4_4;lover.
+
