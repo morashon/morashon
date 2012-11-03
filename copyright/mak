@@ -1,0 +1,2 @@
+#!/bin/bash
+pdftk script.pdf you.pdf outro.pdf cat output morashon.pdf
