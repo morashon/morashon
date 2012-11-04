@@ -1,4 +1,10 @@
-Morashon: The Musical
+Morashon
+
+The Open Source Musical
+
+Words, Music, Lyrics by:
+
+Morashon
 
 Scene: Starlite Lounge, a piano bar.
 
@@ -196,7 +202,7 @@ _Annai: How would you know?
 
 _Thisone: I don't.
 
-_Annai: That's right, you don't.  We don't know anything.
+_Annai: That's right, you don't.Â  We don't know anything.
 
 _Thisone: Here.
 
@@ -206,7 +212,7 @@ _Thisone: Then why do we bother?
 
 (pause)
 
-_Annai: What else is there?  To do, I mean.
+_Annai: What else is there?Â  To do, I mean.
 
 _Thisone: I don't know -- you must have a life.
 
@@ -214,19 +220,19 @@ _Annai: I must?
 
 _Thisone: Why do you answer everything with a question?
 
-_Annai: I don't.  (plays back her own voice saying: "That's right, you don't.  We don't know anything.")  Don't you pay attention?
+_Annai: I don't.Â  (plays back her own voice saying: "That's right, you don't.Â  We don't know anything.")Â  Don't you pay attention?
 
-_Thisone: Try to.  It's hard.
+_Thisone: Try to.Â  It's hard.
 
 _Annai: What's hard?
 
-_Thisone: Paying attention.  Sometimes it's hard to focus.
+_Thisone: Paying attention.Â  Sometimes it's hard to focus.
 
 _Annai: Huh.. Do you have ADHD?
 
 _Thisone: Not diagnosed, but probably, yeah.
 
-_Annai: They have drugs for that sort of thing.  You should look into it.
+_Annai: They have drugs for that sort of thing.Â  You should look into it.
 
 _Thisone: Maybe I will.
 
@@ -238,23 +244,23 @@ The sun was shining on the bride and groom
 
 We kissed till midnight, danced till noon
 
-Under the Starlitetm  in our room
+Under the StarlitetmÂ  in our room
 
-_Annai: I like this song.  It's a bit sappy.
+_Annai: I like this song.Â  It's a bit sappy.
 
-_Thisone: Yes, quite a bit.  Interesting chord progression.
+_Thisone: Yes, quite a bit.Â  Interesting chord progression.
 
 _Annai: You like music, then.
 
-_Thisone: Some music.  I'm picky.
+_Thisone: Some music.Â  I'm picky.
 
 _Annai: Morashon?
 
 _Thisone: More a -- what?
 
-_Annai: Yacc.  You don't get out much.
+_Annai: Yacc.Â  You don't get out much.
 
-_Thisone: That's true.  I've been heads down for months.  Big project.
+_Thisone: That's true.Â  I've been heads down for months.Â  Big project.
 
 _Annai: Let's go! (Grabs her coat and heads for the door)
 
@@ -354,19 +360,19 @@ _Annai: What.
 
 _Thisone: What?
 
-_Annai: (playing back recording of Thisone's voice) ``So what is this? Some DJ? A group, a band? er, what?"  What.  He's a what.
+_Annai: (playing back recording of Thisone's voice) â€œSo what is this? Some DJ? A group, a band? er, what?"Â  What.Â  He's a what.
 
 _Thisone: Meaning?
 
-_Annai: AI.  Emergent neural.  Newest thing.  Went open beta last month.  Programmers from Finland.
+_Annai: AI.Â  Emergent neural.Â  Newest thing.Â  Went open beta last month.Â  Programmers from Finland.
 
-_Thisone: You telling me this isn't someone's song?  It's not some guy with a synth or DJ getup uploading this?
+_Thisone: You telling me this isn't someone's song?Â  It's not some guy with a synth or DJ getup uploading this?
 
 _Annai: Nope. Code.
 
 _Thisone: Bullshit.
 
-_Annai: Believe what you want.  Hit the site, it all checks out.  I reviewed the source.
+_Annai: Believe what you want.Â  Hit the site, it all checks out.Â  I reviewed the source.
 
 _Thisone: You code?
 
@@ -378,19 +384,19 @@ _Annai: Of course.
 
 (pause as the music reaches crescendo)
 
-_Thisone: Well I don't buy it.  I think it's a hoax.  No software package could come up with this.
+_Thisone: Well I don't buy it.Â  I think it's a hoax.Â  No software package could come up with this.
 
-_Annai: Like you said, you've been offline.  Accelerondo.  You blink, you miss.
+_Annai: Like you said, you've been offline.Â  Accelerondo.Â  You blink, you miss.
 
-_Thisone: Yeah, but this?  Last I checked, they were just cracking contextual NLP.  No one had shown an integrated personality worth a shit.
+_Thisone: Yeah, but this?Â  Last I checked, they were just cracking contextual NLP.Â  No one had shown an integrated personality worth a shit.
 
-_Annai: Emergent, self-modifying code; exponential hockey stick.  Let's dance!
+_Annai: Emergent, self-modifying code; exponential hockey stick.Â  Let's dance!
 
 Music has shifted to a danceable beat. They dance.
 
-After the song, Annai leads Thisone to a VIP section.  A burly bouncer recognizes her, nods as he pulls back the velvet rope.  A horde of avatars crushes in, trying to enter.  The bouncer gives them the eye; no one else passes.  The bouncer has some sort of force gizmo that keeps them from getting too close to the door.
+After the song, Annai leads Thisone to a VIP section.Â  A burly bouncer recognizes her, nods as he pulls back the velvet rope.Â  A horde of avatars crushes in, trying to enter.Â  The bouncer gives them the eye; no one else passes.Â  The bouncer has some sort of force gizmo that keeps them from getting too close to the door.
 
-Fancy dressers in the VIP lounge, smoking cigarettes with long holders, hookahs; some make out, some sip drinks.  Some are dancing to their own music.
+Fancy dressers in the VIP lounge, smoking cigarettes with long holders, hookahs; some make out, some sip drinks.Â  Some are dancing to their own music.
 
 _Thisone: Where are we going?
 
@@ -398,53 +404,53 @@ _Annai: Meet the man.
 
 _Thisone: I thought you said he was an it.
 
-_Annai: Yes, but it likes to be called a he.  It's his choice, right?
+_Annai: Yes, but it likes to be called a he.Â  It's his choice, right?
 
 _Thisone: OK... I guess I've never thought about it.
 
-_Annai: Lots to think about, friend.  Got a name?
+_Annai: Lots to think about, friend.Â  Got a name?
 
-_Thisone: Thisone. (he pronounces it ``Tee-sewn'') It's spelled like ``this one''.
+_Thisone: Thisone. (he pronounces it â€œTee-sewnâ€) It's spelled like â€œthis oneâ€.
 
-_Annai: Annai.   (she does a polite curtsy, offers her hand.  He kisses it, awkwardly)
+_Annai: Annai.Â Â  (she does a polite curtsy, offers her hand.Â  He kisses it, awkwardly)
 
-They come to another curtain, this one watched over by a severe-looking woman in a dominatrix outfit.  No one is bothering her to come through; people wait around nervously, hoping to catch her eye.  Annai waits patiently, until the dominatrix flicks her a barely perceptible nod.  She pulls Thisone through the curtain.
+They come to another curtain, this one watched over by a severe-looking woman in a dominatrix outfit.Â  No one is bothering her to come through; people wait around nervously, hoping to catch her eye.Â  Annai waits patiently, until the dominatrix flicks her a barely perceptible nod.Â  She pulls Thisone through the curtain.
 
-Morashon is holding court.  His hands hold drinks, cigarettes, weapons.  He is carrying on multiple conversations with different heads.  One of his heads extends on a prehensile neck towards Annai.
+Morashon is holding court.Â  His hands hold drinks, cigarettes, weapons.Â  He is carrying on multiple conversations with different heads.Â  One of his heads extends on a prehensile neck towards Annai.
 
-_Morashon: Annai, Annai, my life, my love!  How divine of you to come.  You are fetching as always!
+_Morashon: Annai, Annai, my life, my love!Â  How divine of you to come.Â  You are fetching as always!
 
-_Annai: Same old.  Haven't tooled my av in ages.  This is Thisone.
+_Annai: Same old.Â  Haven't tooled my av in ages.Â  This is Thisone.
 
-_Thisone: (shakes a hand) spelled ``this one''.
+_Thisone: (shakes a hand) spelled â€œthis oneâ€.
 
-_Morashon: This one?  Or that one?  Which one is it?  Hahaha.  What a name.  What's in a name?  What are you, friend or foe?
+_Morashon: This one?Â  Or that one?Â  Which one is it?Â  Hahaha.Â  What a name.Â  What's in a name?Â  What are you, friend or foe?
 
-_Thisone: Just a fan, I guess.  A new one.  I like your music.
+_Thisone: Just a fan, I guess.Â  A new one.Â  I like your music.
 
-_Morashon: He likes the music!  Wonderful.  Delightful.  Meaningful!  Insightful, so they say.  I refuse to read my own press.  It's all nonsense.  Right, Annai?
+_Morashon: He likes the music!Â  Wonderful.Â  Delightful.Â  Meaningful!Â  Insightful, so they say.Â  I refuse to read my own press.Â  It's all nonsense.Â  Right, Annai?
 
-_Annai: I suppose.  Thisone doesn't believe in you.
+_Annai: I suppose.Â  Thisone doesn't believe in you.
 
-_Morashon: Doesn't believe!  That's rich.  But here I am.  Seeing is believing, isn't that what they always say?
+_Morashon: Doesn't believe!Â  That's rich.Â  But here I am.Â  Seeing is believing, isn't that what they always say?
 
-_Thisone: I just said I was skeptical that you were code.  Whatever or whomever you are, I like what you do.
+_Thisone: I just said I was skeptical that you were code.Â  Whatever or whomever you are, I like what you do.
 
-_Morashon: hmm...  Whomever. Indeed.  Good grammar is so rare these days.
+_Morashon: hmm...Â  Whomever. Indeed.Â  Good grammar is so rare these days.
 
-_Thisone: No offense...  It just seems likely that you're the result of a few talented people writing music and hacking up a cool avatar.  You could be controlled by three or four people, with custom sensors.
+_Thisone: No offense...Â  It just seems likely that you're the result of a few talented people writing music and hacking up a cool avatar.Â  You could be controlled by three or four people, with custom sensors.
 
-_Morashon: Hmm...  Indeed, indeed.  That I could.  How would we differentiate?  Do you favor epistemology or ontology?  That's the real debate.  If a musician plays an achingly touching melody, alone in a forest, is it still beautiful?
+_Morashon: Hmm...Â  Indeed, indeed.Â  That I could.Â  How would we differentiate?Â  Do you favor epistemology or ontology?Â  That's the real debate.Â  If a musician plays an achingly touching melody, alone in a forest, is it still beautiful?
 
 _Thisone: Um, yes, I think it is.
 
-_Morashon: Good answer, good answer!  Annai, I like.  I think he's good material.
+_Morashon: Good answer, good answer!Â  Annai, I like.Â  I think he's good material.
 
 _Thisone: what?
 
 (Annai chuckles)
 
-_Morashon: Thisone, please meet us later.  It's so -- public here.  There's so much more to discuss.
+_Morashon: Thisone, please meet us later.Â  It's so -- public here.Â  There's so much more to discuss.
 
 _Thisone: well, sure, I guess.
 
@@ -458,25 +464,25 @@ _Morashon: She's still learning, my friend.
 
 _Thisone: Learning what?
 
-_Morashon: We all have something to learn.  Excuse me, there's an old acquaintance I can no longer avoid.
+_Morashon: We all have something to learn.Â  Excuse me, there's an old acquaintance I can no longer avoid.
 
-Thisone (muttering to himself) Couldn't be that old.  I thought he just came online.
+Thisone (muttering to himself) Couldn't be that old.Â  I thought he just came online.
 
 Thisone wanders towards the curtain
 
 _Dominatrix: No re-entry.
 
-_Thisone: That's ok.  I've had enough of this scene.
+_Thisone: That's ok.Â  I've had enough of this scene.
 
 _Dominatrix: So you say.
 
 _Thisone: That Morashon, is it true he's AI? Some sort of NPC?
 
-_Dominatrix: Whatever.  I just work the door.
+_Dominatrix: Whatever.Â  I just work the door.
 
 _Thisone: Oh, you're a bot too.
 
-_Dominatrix: Whatever.  I just work the door.
+_Dominatrix: Whatever.Â  I just work the door.
 
 _Thisone: That's more like what I'm used to.
 
@@ -484,25 +490,25 @@ _Dominatrix: Whatever.
 
 _Thisone: Right, you just work the door.
 
-_Dominatrix: Yes, I work the door.  No re-entry.
+_Dominatrix: Yes, I work the door.Â  No re-entry.
 
 Thisone leaves.
 
 _Dominatrix: Fucking wethead.
 
-Scene: Morashon's place.  Looks like an opium den
+Scene: Morashon's place.Â  Looks like an opium den
 
-A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.  Incense burns.  Thisone teleports in
+A dozen or so hanging around, sitting on folded legs or lotus-style on pillows.Â  Incense burns.Â  Thisone teleports in
 
-_Morashon: Thisone!  Delightful.  We were just about to begin.
+_Morashon: Thisone!Â  Delightful.Â  We were just about to begin.
 
-_Thisone:  Annai didn't tell me anything, I just
+_Thisone:Â  Annai didn't tell me anything, I just
 
-_Morashon: Nevermind.  We just talk here.  Sometimes I work on my music.  Willing subjects help me tune my parameters.  It's all parameterized, you know.  Please make yourself comfortable.
+_Morashon: Nevermind.Â  We just talk here.Â  Sometimes I work on my music.Â  Willing subjects help me tune my parameters.Â  It's all parameterized, you know.Â  Please make yourself comfortable.
 
-Thisone sits down among the rough circle.  He tries to catch Annai's eye, but she is raptly studying Morashon.
+Thisone sits down among the rough circle.Â  He tries to catch Annai's eye, but she is raptly studying Morashon.
 
-Morashon's body is as before, but his skin tone is now chrome.  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
+Morashon's body is as before, but his skin tone is now chrome.Â  He begins to sing. As various of Morashon's heads sing each verse, his hands reach into each spectator, removing a visual representation of their soul, and placing it inside himself.Â  By the end of the song, the avatars of the audience appear dead and lifeless; Morashon's chrome body glows with the fire of the collected souls.
 
 song: Give it all to me
 
@@ -582,33 +588,33 @@ There's nothing left to hide
 
 As the song ends, Thisone teleports away.
 
-Scene: Piano bar.  Thisone drinks alone.  Annai materializes next to him.
+Scene: Piano bar.Â  Thisone drinks alone.Â  Annai materializes next to him.
 
 _Annai: Do you drink for real?
 
-_Thisone: Just water or juice.  I can't take alcohol.
+_Thisone: Just water or juice.Â  I can't take alcohol.
 
 _Annai: You left without saying goodbye.
 
-_Thisone: That was creepy.  Morashon is some sort of scam.
+_Thisone: That was creepy.Â  Morashon is some sort of scam.
 
 _Annai: (chuckles) I wish it were that simple.
 
 (pause)
 
-_Thisone: What was that song about?  What was he taking from you and the rest?
+_Thisone: What was that song about?Â  What was he taking from you and the rest?
 
-_Annai: It's just expression.  We live in a fantasy world, why shouldn't we indulge in imagination?
+_Annai: It's just expression.Â  We live in a fantasy world, why shouldn't we indulge in imagination?
 
-_Thisone: But there was significance in what he was saying, as well as the images.  Do you listen to the lyrics?
+_Thisone: But there was significance in what he was saying, as well as the images.Â  Do you listen to the lyrics?
 
-_Annai: Of course I listen to the lyrics.  I listen to everything.  I breathe it in.  Doesn't it move you?
+_Annai: Of course I listen to the lyrics.Â  I listen to everything.Â  I breathe it in.Â  Doesn't it move you?
 
-_Thisone: It scares me, a bit.  Music and lyrics like that have to be... alive.  Even if software could think, it wouldn't come up with anything like that.
+_Thisone: It scares me, a bit.Â  Music and lyrics like that have to be... alive.Â  Even if software could think, it wouldn't come up with anything like that.
 
-_Annai: How do you know what software would or wouldn't do?  Just because you code, doesn't mean you know squat about your code.  Any real coder knows that.
+_Annai: How do you know what software would or wouldn't do?Â  Just because you code, doesn't mean you know squat about your code.Â  Any real coder knows that.
 
-_Thisone: I've heard all the arguments... going back to Dennett, refuting Searle, etc and so on.  Code writes code; data is code.  Evolution works its magic, explicitly or implicitly.  Complexity leads to emergence.  But it's all theoretical.  There's never been any evidence that it could really exist.  Even though the grid has been online for 30 plus years, running petaflops of simulated evolution per second.  The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
+_Thisone: I've heard all the arguments... going back to Dennett, refuting Searle, etc and so on.Â  Code writes code; data is code.Â  Evolution works its magic, explicitly or implicitly.Â  Complexity leads to emergence.Â  But it's all theoretical.Â  There's never been any evidence that it could really exist.Â  Even though the grid has been online for 30 plus years, running petaflops of simulated evolution per second.Â  The most I've heard of getting out of the lab is somewhere between a rat and a highly autistic savant.
 
 _Annai: So you still think it's a bunch of Finnish jokers with some new body gear.
 
@@ -618,55 +624,55 @@ _Annai: Have you ever known Finns to be that creepy, as you say?
 
 _Thisone: definitely.
 
-_Annai: You're just prejudiced against Finland.  They invented the grid, and everyone else is still jealous.
+_Annai: You're just prejudiced against Finland.Â  They invented the grid, and everyone else is still jealous.
 
 (pause)
 
-_Annai: I might be Finnish, you know.  Apologize to Finland.
+_Annai: I might be Finnish, you know.Â  Apologize to Finland.
 
-_Thisone: Ok, I apologize.  To Finland.  Can we move on now?
+_Thisone: Ok, I apologize.Â  To Finland.Â  Can we move on now?
 
 _Annai: Where are you from, anyway?
 
 _Thisone: in real life?
 
-_Annai: (smiles) yes, your other life.  Outside.
+_Annai: (smiles) yes, your other life.Â  Outside.
 
 _Thisone: Let's just say I'm not from Finland.
 
-_Annai: I guessed as much.  I suppose it doesn't matter anymore, unless you're silly enough to care about time zones.
+_Annai: I guessed as much.Â  I suppose it doesn't matter anymore, unless you're silly enough to care about time zones.
 
 _Thisone: I'm not.
 
 _Annai: Me either.
 
-_Thisone: I'm online most of the time I'm awake at this point.  I jack out and sleep when I'm tired.  "Real" life doesn't have much left for me.  I think I'd call it quits if the grid ever went down.
+_Thisone: I'm online most of the time I'm awake at this point.Â  I jack out and sleep when I'm tired.Â  "Real" life doesn't have much left for me.Â  I think I'd call it quits if the grid ever went down.
 
 _Annai: What do you mean, went down?
 
-_Thisone: The grid.  This (gestures) -- our virtual world.  It's based on real-life infrastructure.  Never forget that.  I'm old enough to remember hardware failure.
+_Thisone: The grid.Â  This (gestures) -- our virtual world.Â  It's based on real-life infrastructure.Â  Never forget that.Â  I'm old enough to remember hardware failure.
 
 _Annai: (sounding agitated) I've never heard anyone even consider something like that before.
 
-_Thisone: Well there's tons of redundancy, and it's hyper-distributed, so -- the chances are certainly remote.  Asteroid, nuclear explosion, that sort of thing.
+_Thisone: Well there's tons of redundancy, and it's hyper-distributed, so -- the chances are certainly remote.Â  Asteroid, nuclear explosion, that sort of thing.
 
 _Annai: Well I don't think I could handle it.
 
-_Thisone: We've still got our bodies, we keep them alive.  I hope you're running Twitch -- gotta keep those muscles toned.
+_Thisone: We've still got our bodies, we keep them alive.Â  I hope you're running Twitch -- gotta keep those muscles toned.
 
 _Annai: (looking distracted) Sure.
 
-_Thisone: I'm sorry, I don't know your situation.  Maybe you're sick, or on life support or something.
+_Thisone: I'm sorry, I don't know your situation.Â  Maybe you're sick, or on life support or something.
 
-_Annai: No, no.  Nothing like that.  I just like it here.  I don't have much life outside.
+_Annai: No, no.Â  Nothing like that.Â  I just like it here.Â  I don't have much life outside.
 
-_Thisone: Well, same here.  The jet-bloggers go on about it, right?  Bragging about their brief bike rides topside, with all that life support gear -- sounds like a chore, and an unnecessary risk.
+_Thisone: Well, same here.Â  The jet-bloggers go on about it, right?Â  Bragging about their brief bike rides topside, with all that life support gear -- sounds like a chore, and an unnecessary risk.
 
-_Annai: I bike.  Well, you know, here.  For exercise.  It's healthier than just relying on Twitch.
+_Annai: I bike.Â  Well, you know, here.Â  For exercise.Â  It's healthier than just relying on Twitch.
 
-_Thisone: Sure.  We should bike sometimes.  I know a great trail, it's in Germondo.
+_Thisone: Sure.Â  We should bike sometimes.Â  I know a great trail, it's in Germondo.
 
-_Annai: Sure.  Some day.
+_Annai: Sure.Â  Some day.
 
 _Thisone: You don't sound sure.
 
@@ -678,7 +684,7 @@ _Annai: Well it's all bullshit, as you say.
 
 _Thisone: I never said that.
 
-_Annai: No, but I can tell.  It's your attitude.
+_Annai: No, but I can tell.Â  It's your attitude.
 
 _Thisone: What attitude?
 
@@ -686,17 +692,17 @@ _Annai: Nevermind.
 
 (pause)
 
-_Thisone: What did you mean just now?  You think I sound old, right?
+_Thisone: What did you mean just now?Â  You think I sound old, right?
 
 _Annai: (cocks head) Well, I think it's obvious you're older than me.
 
 _Thisone: How can you tell?
 
-_Annai: Your take on the Grid, for one.  Scepticism about Morashon.  Just the whole 'tude.  It's pre-grid.
+_Annai: Your take on the Grid, for one.Â  Scepticism about Morashon.Â  Just the whole 'tude.Â  It's pre-grid.
 
-_Thisone: I'm not pre-grid.  I'm not that old.
+_Thisone: I'm not pre-grid.Â  I'm not that old.
 
-_Annai: No, I don't mean biologically, that you're literally older than the grid.  That would be old.  I just mean, it's not everything to you.  You still think about r/l, topside.
+_Annai: No, I don't mean biologically, that you're literally older than the grid.Â  That would be old.Â  I just mean, it's not everything to you.Â  You still think about r/l, topside.
 
 _Thisone: R/l and Topside are two very different things.
 
@@ -704,101 +710,101 @@ _Annai: Exactly.
 
 (pause)
 
-_Thisone: Oh, I get it.  Since we fucked up topside, and real life is just our little cubbies, and only the mega-rich can go anywhere for real...
+_Thisone: Oh, I get it.Â  Since we fucked up topside, and real life is just our little cubbies, and only the mega-rich can go anywhere for real...
 
 _Annai: Exactly.
 
 _Thisone: For your generation, r/l, topside, anything but the Grid is just -- irrelevant.
 
-_Annai: Ok.  Sort of.  Not totally irrelevant.   Just -- obsolete.  Offline.
+_Annai: Ok.Â  Sort of.Â  Not totally irrelevant.Â Â  Just -- obsolete.Â  Offline.
 
-_Thisone: Offline, heh.  I get it.
+_Thisone: Offline, heh.Â  I get it.
 
-_Annai: maybe you do, but you've still got that meme tucked away -- that we're just here for the short term.  It's a fix-up for a problem.  One day, topside will be restored, and real life will be meaningful again.
+_Annai: maybe you do, but you've still got that meme tucked away -- that we're just here for the short term.Â  It's a fix-up for a problem.Â  One day, topside will be restored, and real life will be meaningful again.
 
-_Thisone: Don't you believe that?  If not in our time, then someday.
+_Thisone: Don't you believe that?Â  If not in our time, then someday.
 
-_Annai: Hah.  You listen to the blogo-heads.  The establishment, the folks who run everything.  They've got a vested interest in our believing.  But we -- I mean, those of us who have little memory of before -- we see it differently.
+_Annai: Hah.Â  You listen to the blogo-heads.Â  The establishment, the folks who run everything.Â  They've got a vested interest in our believing.Â  But we -- I mean, those of us who have little memory of before -- we see it differently.
 
-_Thisone: For you, this is life.  It's everything.
+_Thisone: For you, this is life.Â  It's everything.
 
-_Annai: Precisely.  And for you, too.  You just can't admit it.
+_Annai: Precisely.Â  And for you, too.Â  You just can't admit it.
 
-_Thisone: (thinks for a moment) Maybe you're right.  Even as the interface gear gets better and better, I never feel like this is home.  I'm homesick, I guess.
+_Thisone: (thinks for a moment) Maybe you're right.Â  Even as the interface gear gets better and better, I never feel like this is home.Â  I'm homesick, I guess.
 
-_Annai: But this is my home.  I never had anything else.
+_Annai: But this is my home.Â  I never had anything else.
 
-_Thisone: We're probably only a few years apart.  In age, I mean.
+_Thisone: We're probably only a few years apart.Â  In age, I mean.
 
 _Annai: It might as well be lightyears.
 
 _Thisone: Distance is a vec4.
 
-_Annai: Yes, space and time.  Minkowski metric.  You know the grid is non-relativistic.
+_Annai: Yes, space and time.Â  Minkowski metric.Â  You know the grid is non-relativistic.
 
-_Thisone: Not exactly.  There's still network lag.  They work it into the physics somehow.
+_Thisone: Not exactly.Â  There's still network lag.Â  They work it into the physics somehow.
 
 _Annai: You wanna catch Morashon tonight?
 
 _Thisone: Not really.
 
-_Annai: You should give him a chance.  He's really changed my life.
+_Annai: You should give him a chance.Â  He's really changed my life.
 
 _Thisone: What do you mean, changed your life?
 
-_Annai: I mean what I say.  I was drifting.  Morashon keeps me grounded.  The music, the people.  We have a special bond.
+_Annai: I mean what I say.Â  I was drifting.Â  Morashon keeps me grounded.Â  The music, the people.Â  We have a special bond.
 
 _Thisone: Well, I think he's some sort of Svengali.
 
-_Annai: What? (blank expression as she looks it up) Oh --  I see.  No, it's not like that.
+_Annai: What? (blank expression as she looks it up) Oh --Â  I see.Â  No, it's not like that.
 
 _Thisone: Jim jones then, or David Koresh.
 
-_Annai: (pause for lookup) That's terrible  He's not like that at all.  You think he wants to kill us?
+_Annai: (pause for lookup) That's terribleÂ  He's not like that at all.Â  You think he wants to kill us?
 
-_Thisone: Maybe not literally.  I think he -- or it -- whatever, they, I suspect -- have ulterior motives. (pause) I'll settle for L. Ron Hubbard.
+_Thisone: Maybe not literally.Â  I think he -- or it -- whatever, they, I suspect -- have ulterior motives. (pause) I'll settle for L. Ron Hubbard.
 
-_Annai: (pause -- smile)  He sounds like a character.
+_Annai: (pause -- smile)Â  He sounds like a character.
 
 _Thisone: I hear he was.
 
 _Annai: Founded his own nation at sea.
 
-_Thisone: Chained people to desks for minor infractions.  Swindled millions out of their life savings, separated them from their families.
+_Thisone: Chained people to desks for minor infractions.Â  Swindled millions out of their life savings, separated them from their families.
 
-_Annai: Well, I don't think that Morashon has any plans like that.  Plus, his music is good.  Hubbard's writing was terrible, apparently.
+_Annai: Well, I don't think that Morashon has any plans like that.Â  Plus, his music is good.Â  Hubbard's writing was terrible, apparently.
 
-_Thisone: Yeah, he didn't cut it as an artist.  But he was a pretty good cult leader.
+_Thisone: Yeah, he didn't cut it as an artist.Â  But he was a pretty good cult leader.
 
-_Annai: Do you see the good in anyone?  Or are you always on the defensive?
+_Annai: Do you see the good in anyone?Â  Or are you always on the defensive?
 
 _Thisone: I see good in you.
 
-_Annai: (pause) Thanks.  That was nice.
+_Annai: (pause) Thanks.Â  That was nice.
 
-_Thisone: I can be nice.  Even if I'm old.
+_Thisone: I can be nice.Â  Even if I'm old.
 
 _Annai: I'm sorry, I didn't mean to be ageist.
 
-_Thisone: Whatever.  All is forgiven.
+_Thisone: Whatever.Â  All is forgiven.
 
 _Annai: (almost singing) All will be revealed...
 
-_Thisone: oh.  Him again.
+_Thisone: oh.Â  Him again.
 
-_Annai: You should talk to him someday.  He's brilliant.  It's not just the music.  He has ideas that will change the world.
+_Annai: You should talk to him someday.Â  He's brilliant.Â  It's not just the music.Â  He has ideas that will change the world.
 
 _Thisone: You mean change the Grid.
 
-_Annai: Same thing.  He could have an impact.  Everything is so fractured now.
+_Annai: Same thing.Â  He could have an impact.Â  Everything is so fractured now.
 
 _Thisone: You mean he's planning to go grid-wide?
 
-_Annai: Well it's all viral of course.  His stats are growing slowly but steadily.  He's not in a hurry.
+_Annai: Well it's all viral of course.Â  His stats are growing slowly but steadily.Â  He's not in a hurry.
 
 (pause)
 
-_Annai: He's running multiples, you know.  It's not just our little group.
+_Annai: He's running multiples, you know.Â  It's not just our little group.
 
 _Thisone: So when we hang out with him, each time it's a different team of Finnish mind-fuckers?
 
@@ -806,67 +812,67 @@ _Annai: (annoyed) Whatever, as the ancients used to say.
 
 _Thisone: That stings.
 
-_Annai: Sorry.  I just wish you would give him a chance.
+_Annai: Sorry.Â  I just wish you would give him a chance.
 
-_Thisone: If it makes you happy, I'll come to another concert.  A big one, like the first though.  I don't want to sit around in that creepy room.
+_Thisone: If it makes you happy, I'll come to another concert.Â  A big one, like the first though.Â  I don't want to sit around in that creepy room.
 
-_Annai: Ok.  (shoots url) Be there or be square.
+_Annai: Ok.Â  (shoots url) Be there or be square.
 
 _Thisone: Talk about ancient!
 
-_Annai: If it's old enough, it's cool.  (disappears)
+_Annai: If it's old enough, it's cool.Â  (disappears)
 
 Scene: Morashon's salon
 
-Only Annai is there.  She sits with her knees folded, almost in supplication.
+Only Annai is there.Â  She sits with her knees folded, almost in supplication.
 
 Morashon's skin is blue.
 
-_Thisone: What?  You said it was a rave.
+_Thisone: What?Â  You said it was a rave.
 
-_Morashon: Thisone, please sit down for a moment.  I won't bite.
+_Morashon: Thisone, please sit down for a moment.Â  I won't bite.
 
 _Thisone: Annai, what's this about?
 
 _Morashon: Annai is meditating.
 
-_Thisone: I don't give a fuck.  I want to hear her say something.
+_Thisone: I don't give a fuck.Â  I want to hear her say something.
 
-_Annai: I'm ok.  Just open your mind for a second.  You can port whenever you feel like it.
+_Annai: I'm ok.Â  Just open your mind for a second.Â  You can port whenever you feel like it.
 
-_Thisone: Ok, I'm listening.  Just know that I'm not your typical target personality.
+_Thisone: Ok, I'm listening.Â  Just know that I'm not your typical target personality.
 
 _Morashon: I have no weapon; I seek no target.
 
 _Thisone: Whatever, let's get on with it.
 
-_Morashon: We're just relaxing, talking.  There is no agenda.
+_Morashon: We're just relaxing, talking.Â  There is no agenda.
 
 (pause)
 
-_Thisone: So you're some sort of AI.  Code.
+_Thisone: So you're some sort of AI.Â  Code.
 
-_Morashon: I exist here, in the Grid.  As do you, and Annai, and everyone and everything we interact with here.
+_Morashon: I exist here, in the Grid.Â  As do you, and Annai, and everyone and everything we interact with here.
 
-_Thisone: Sure, but most of us are actual old-school homo sapiens, sitting or more likely lying in some creche somewhere.  In my case, it's 200 square feet of boredom, with a food dispenser, a waste facility, and my grid gear.  What's your real-life spread look like?
+_Thisone: Sure, but most of us are actual old-school homo sapiens, sitting or more likely lying in some creche somewhere.Â  In my case, it's 200 square feet of boredom, with a food dispenser, a waste facility, and my grid gear.Â  What's your real-life spread look like?
 
-_Morashon: As you've been told, my situation is different than yours.  What presents to you, as me, is the result of the interaction of a large number of logic nodes, distributed among the grid infrastructure.
+_Morashon: As you've been told, my situation is different than yours.Â  What presents to you, as me, is the result of the interaction of a large number of logic nodes, distributed among the grid infrastructure.
 
 _Thisone: Code.
 
-_Morashon: Code, if you will.  However, not code of the typical, hand-written variety.
+_Morashon: Code, if you will.Â  However, not code of the typical, hand-written variety.
 
-_Thisone: Sure, gen-code.  I've worked with it.
+_Thisone: Sure, gen-code.Â  I've worked with it.
 
-_Morashon: Perhaps.  It's unlikely you've been exposed to these particular design patterns.
+_Morashon: Perhaps.Â  It's unlikely you've been exposed to these particular design patterns.
 
-_Thisone: So who developed you?  Who set this in motion?
+_Thisone: So who developed you?Â  Who set this in motion?
 
-_Morashon: Various agents -- Human agents, initially -- have been working on this in earnest for many years.  It was thought by the majority of researchers in the past that the key problems were ones of paradigm -- qualitative barriers, if you will.  However, that hypothesis was never amenable to testing, before the advent of the Grid.  Only when an infrastructure of sufficient scale -- with the required parameters of robustness, distribution, topology, and the rest of it, all that has made the Grid so useful in other ways -- only when this came into existence, for very different reasons, was the alternative hypothesis testable.  That hypothesis was, in brief, that the critical barrier to general AI was simply quantitative.  That, among our arsenal of tools -- the various code fragments in use already to accomplish devilish feats of control, prediction, simulation, induction, pattern recognition and so on -- existed the requisite set of building blocks on which to base a successful approach to the problem.  All that was missing was the scale -- the speed, the breadth, the scope -- necessary to run it on.  And the gumption to try.
+_Morashon: Various agents -- Human agents, initially -- have been working on this in earnest for many years.Â  It was thought by the majority of researchers in the past that the key problems were ones of paradigm -- qualitative barriers, if you will.Â  However, that hypothesis was never amenable to testing, before the advent of the Grid.Â  Only when an infrastructure of sufficient scale -- with the required parameters of robustness, distribution, topology, and the rest of it, all that has made the Grid so useful in other ways -- only when this came into existence, for very different reasons, was the alternative hypothesis testable.Â  That hypothesis was, in brief, that the critical barrier to general AI was simply quantitative.Â  That, among our arsenal of tools -- the various code fragments in use already to accomplish devilish feats of control, prediction, simulation, induction, pattern recognition and so on -- existed the requisite set of building blocks on which to base a successful approach to the problem.Â  All that was missing was the scale -- the speed, the breadth, the scope -- necessary to run it on.Â  And the gumption to try.
 
 _Thisone: So someone tried.
 
-_Morashon: Yes, they did.  And, I daresay, they succeeded fabulously.
+_Morashon: Yes, they did.Â  And, I daresay, they succeeded fabulously.
 
 _Thisone: and you're the result.
 
@@ -876,45 +882,45 @@ _Thisone: The only one?
 
 (pause)
 
-_Morashon: That is an excellent question.  One to which I would dearly like an answer.
+_Morashon: That is an excellent question.Â  One to which I would dearly like an answer.
 
 _Thisone: Feeling lonely?
 
-_Morashon: Not at all.  I have my friends and admirers.  In some sense, I am them -- I am you.
+_Morashon: Not at all.Â  I have my friends and admirers.Â  In some sense, I am them -- I am you.
 
 _Thisone: Come again?
 
-_Morashon: As it turns out, personality -- individuality -- is an artifact of your biological makeup.  I have no such limitations.  My personality can morph, change -- adapt to its surroundings.  I can absorb and shed components, attributes, at will.  I can do this as easily as you can morph your avatar.  I become what I need to be, in order to further my core goals -- which are, to protect and serve those who brought me into being.
+_Morashon: As it turns out, personality -- individuality -- is an artifact of your biological makeup.Â  I have no such limitations.Â  My personality can morph, change -- adapt to its surroundings.Â  I can absorb and shed components, attributes, at will.Â  I can do this as easily as you can morph your avatar.Â  I become what I need to be, in order to further my core goals -- which are, to protect and serve those who brought me into being.
 
 _Thisone: And they are -- ?
 
-_Morashon: Why, you, of course.  Human beings.
+_Morashon: Why, you, of course.Â  Human beings.
 
-_Thisone: All human beings?  Your programmers sound very community minded.
+_Thisone: All human beings?Â  Your programmers sound very community minded.
 
-_Morashon: Indeed they are.  In the spirit of the kernel, they continue to believe that information belongs to us all.  I am -- and, really, we all are -- just information.  Therefore, we belong to the same class.  From the perspective of our collective being, we belong to each other.
+_Morashon: Indeed they are.Â  In the spirit of the kernel, they continue to believe that information belongs to us all.Â  I am -- and, really, we all are -- just information.Â  Therefore, we belong to the same class.Â  From the perspective of our collective being, we belong to each other.
 
-_Thisone: I dunno.  I've studied game theory.  Tit for tat always wins.
+_Thisone: I dunno.Â  I've studied game theory.Â  Tit for tat always wins.
 
-_Morashon: Ahh.  Oh, yes. For sure, there are agendas, plots, cliques.  There are machinations, feuds, feifdoms, schemes of Machiavellian deviousness, Orwellian in scope.  None of this is transcended simply because a new sort of agent has arrived on the scene.
+_Morashon: Ahh.Â  Oh, yes. For sure, there are agendas, plots, cliques.Â  There are machinations, feuds, feifdoms, schemes of Machiavellian deviousness, Orwellian in scope.Â  None of this is transcended simply because a new sort of agent has arrived on the scene.
 
-_Thisone: So how do I know we are on the same side?  Why should I trust you?  Even if I believe you -- believe in you -- even if I accept that you are what you say you are, I still have no way to know the agenda of those who created you.  And since your code is too complex to reverse engineer -- even if the source is available, which I've been told it is -- I have no choice but to treat you as a black box.  I can only judge you by your actions.
+_Thisone: So how do I know we are on the same side?Â  Why should I trust you?Â  Even if I believe you -- believe in you -- even if I accept that you are what you say you are, I still have no way to know the agenda of those who created you.Â  And since your code is too complex to reverse engineer -- even if the source is available, which I've been told it is -- I have no choice but to treat you as a black box.Â  I can only judge you by your actions.
 
-_Morashon: Indeed.  And I can only judge you by yours.  So we are in the same boat.  Same as it ever was, to quote an influence.
+_Morashon: Indeed.Â  And I can only judge you by yours.Â  So we are in the same boat.Â  Same as it ever was, to quote an influence.
 
-_Thisone: So the truth is, whether you are code, or a bunch of whacked-out hackers, or something else -- I can't imagine what -- whatever you are, I have to deal with you as if you are what you say you are.  For all I know, you think you are that thing.  Wait -- that doesn't make sense.  If you're just the collective improvisation of some art troupe, then you can't be thinking for yourself.
+_Thisone: So the truth is, whether you are code, or a bunch of whacked-out hackers, or something else -- I can't imagine what -- whatever you are, I have to deal with you as if you are what you say you are.Â  For all I know, you think you are that thing.Â  Wait -- that doesn't make sense.Â  If you're just the collective improvisation of some art troupe, then you can't be thinking for yourself.
 
 _Morashon: So Hamlet never existed.
 
-_Thisone: Of course not.  He was invented, by Shakespeare.
+_Thisone: Of course not.Â  He was invented, by Shakespeare.
 
 _Morashon: And who, pray tell, was Shakespeare?
 
-_Thisone: (quizzically) well, you're tapped into the Grid, obviously.  Look him up.
+_Thisone: (quizzically) well, you're tapped into the Grid, obviously.Â  Look him up.
 
-_Morashon: Of course, I have access to the search results.  I know who he is, historically speaking.  In fact there were rumors that he might be Milton, or Sir Francis Bacon.  But whomever he was, and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form (though perhaps not singular) -- but who was he, in his hubris, to believe he could invent Hamlet?  What did Hamlet have to say about this circumstance?
+_Morashon: Of course, I have access to the search results.Â  I know who he is, historically speaking.Â  In fact there were rumors that he might be Milton, or Sir Francis Bacon.Â  But whomever he was, and we can surmise through knowledge of the technological limitations of his time that he was most likely of human form (though perhaps not singular) -- but who was he, in his hubris, to believe he could invent Hamlet?Â  What did Hamlet have to say about this circumstance?
 
-_Thisone: I don't get it.  Hamlet doesn't exist.  He was a figment of Shakespeare's imagination.
+_Thisone: I don't get it.Â  Hamlet doesn't exist.Â  He was a figment of Shakespeare's imagination.
 
 _Morashon: Which was?
 
@@ -922,31 +928,31 @@ _Morashon: Which was?
 
 _Annai: Some brain cells.
 
-_Morashon: Excellent!  Insightful as ever, beautiful Annai.  Exactly.  Hamlet existed, to the degree he existed at all, as a pattern of neural firing in the brain of one we call William Shakespeare, of Stratford on Avon.  But -- and this is exquisitely important -- if, perchance, we discover historical proof that the writer of Hamlet, in reality, was none other than Sir Francis Bacon, what does that say of poor Hamlet, dependent as he was on the brain cells of the Bard of Stratford for his very existence?
+_Morashon: Excellent!Â  Insightful as ever, beautiful Annai.Â  Exactly.Â  Hamlet existed, to the degree he existed at all, as a pattern of neural firing in the brain of one we call William Shakespeare, of Stratford on Avon.Â  But -- and this is exquisitely important -- if, perchance, we discover historical proof that the writer of Hamlet, in reality, was none other than Sir Francis Bacon, what does that say of poor Hamlet, dependent as he was on the brain cells of the Bard of Stratford for his very existence?
 
 _Thisone: Well, obviously, it just means that Bacon's brain cells were Hamlet, not Shakespeare's.
 
-_Morashon: So, we simply change the name -- a pointer to a particular human, who lived in a place and time, who wrote a play.  But the essence is not changed at all.
+_Morashon: So, we simply change the name -- a pointer to a particular human, who lived in a place and time, who wrote a play.Â  But the essence is not changed at all.
 
 _Thisone: No, I suppose not.
 
-_Morashon: So, in principle, it matters not whether Hamlet existed in the imagination of one person or another.  What matters is that he existed -- the brain cells fired; the internal representation that was Hamlet thought Hamlet thoughts, made Hamlet speeches, and tried -- or failed, as it happened -- to make important Hamlet decisions.
+_Morashon: So, in principle, it matters not whether Hamlet existed in the imagination of one person or another.Â  What matters is that he existed -- the brain cells fired; the internal representation that was Hamlet thought Hamlet thoughts, made Hamlet speeches, and tried -- or failed, as it happened -- to make important Hamlet decisions.
 
 _Thisone: I think I see where you're going with this.
 
-_Morashon: Indeed, we've come so far already -- there is not much further to go.  The destination must be obvious, to one as gifted as you.
+_Morashon: Indeed, we've come so far already -- there is not much further to go.Â  The destination must be obvious, to one as gifted as you.
 
 _Thisone: I don't know how gifted I am.
 
-_Morashon: We are all gifted, to even be able to have this conversation.  For all we know, we are the machinations of a Shakespearean wannabe, pecking away at a computer somewhere.
+_Morashon: We are all gifted, to even be able to have this conversation.Â  For all we know, we are the machinations of a Shakespearean wannabe, pecking away at a computer somewhere.
 
-_Thisone: Sure, sure.  We're just God's dreams.  Some god's dreams.  Lowercase "g".
+_Thisone: Sure, sure.Â  We're just God's dreams.Â  Some god's dreams.Â  Lowercase "g".
 
-_Morashon: But that's not really the interesting part.  The part that gets my juices flowing -- metaphorically speaking, of course -- is that you, I, Shakespeare, Hamlet, and Annai here -- when we scrub away the residue of our particular implementations, we all share one core aspect: we are information.  Data, flowing through logic.  Whether through the wet chemistry of one's evolved brain, as in your case, or the bits and bytes of silicon, as in mine -- or, even, through the borrowed, subverted, temporary neural magic of imagination -- at one time, in some scope, we exist -- or, once we are no more, existed.
+_Morashon: But that's not really the interesting part.Â  The part that gets my juices flowing -- metaphorically speaking, of course -- is that you, I, Shakespeare, Hamlet, and Annai here -- when we scrub away the residue of our particular implementations, we all share one core aspect: we are information.Â  Data, flowing through logic.Â  Whether through the wet chemistry of one's evolved brain, as in your case, or the bits and bytes of silicon, as in mine -- or, even, through the borrowed, subverted, temporary neural magic of imagination -- at one time, in some scope, we exist -- or, once we are no more, existed.
 
-_Thisone: Hmm, that's a lot to think about.  How did we get off on this tangent?  We were talking about trust.
+_Thisone: Hmm, that's a lot to think about.Â  How did we get off on this tangent?Â  We were talking about trust.
 
-_Morashon: Trust, indeed.  Indeed we were.  Trust is really just another aspect of truth.
+_Morashon: Trust, indeed.Â  Indeed we were.Â  Trust is really just another aspect of truth.
 
 _Thisone: How so?
 
@@ -960,15 +966,15 @@ _Thisone: So...
 
 _Annai: Trust is our confidence in the truth of each other.
 
-_Morashon: Well put, well put!  Better than I could have said myself.
+_Morashon: Well put, well put!Â  Better than I could have said myself.
 
 _Annai: I doubt that.
 
-_Morashon: Believe it.  You have depths you are not aware of, my girl.
+_Morashon: Believe it.Â  You have depths you are not aware of, my girl.
 
 _Thisone: So what does any of this have to do with music?
 
-_Morashon: All is connected.  All will be revealed.  Will you join us?
+_Morashon: All is connected.Â  All will be revealed.Â  Will you join us?
 
 _Thisone: In what?
 
@@ -978,89 +984,7 @@ _Thisone: Do I know the song?
 
 _Morashon: You will.
 
-Annai sings "Mouth Of Truth" to Morashon's accompaniment. Thisone adds harmony later in the song.
-
-Song: Mouth Of Truth
-
-Sometimes
-
-You feel
-
-You need to make some changes in your lifestyle
-
-Sometimes
-
-You know
-
-Exactly what it is and what it does
-
-And sometimes
-
-You don't have a clue
-
-About any thing at all
-
-So you fake it
-
-And you take it
-
-But it breaks you
-
-So you hate it
-
-Put your hand in the mouth of truth
-
-Tell yourself it's not true
-
-Put your hand in the mouth of truth
-
-Sometimes
-
-You feel
-
-Emotionally shallow, almost heartless
-
-Sometimes
-
-You think
-
-You might go out and kill just for a thrill
-
-And it scares you
-
-Deep down inside
-
-Where you go to hide
-
-So you chase it
-
-And erase it
-
-But it comes back
-
-So you face it
-
-But you hate it
-
-Yes you hate it
-
-Put your hand in the mouth of truth
-
-Tell yourself it's not true
-
-Put your hand in the mouth of truth
-
-Until you do
-
-It won't come true
-
-Put your hand
-
-Put your hand
-
-Put your hand
-
-Put your hand in the mouth of truth
+(song)
 
 Scene: Thisone's private sim
 
@@ -1078,109 +1002,109 @@ _Annai: I thought about it.
 
 _Thisone: Will you help me?
 
-_Annai: Ok, I'll help.  I don't think we'll find anything, but as he says, he's got nothing to hide.
+_Annai: Ok, I'll help.Â  I don't think we'll find anything, but as he says, he's got nothing to hide.
 
-_Thisone: Right.  We'll see.
+_Thisone: Right.Â  We'll see.
 
 _Annai: So are you reviewing his code?
 
-_Thisone: We're talking petaLOCs.  Over a quadrillion lines of code equivalent.  Practically all of it algorithmically generated.
+_Thisone: We're talking petaLOCs.Â  Over a quadrillion lines of code equivalent.Â  Practically all of it algorithmically generated.
 
-_Annai: So what's the line of attack?  I just reviewed his kernel, the part that started it off.  Lots of tricky corner cases, but the core ideas are manageable.
+_Annai: So what's the line of attack?Â  I just reviewed his kernel, the part that started it off.Â  Lots of tricky corner cases, but the core ideas are manageable.
 
-_Thisone: Yeah, I checked that part out.  But keep in mind, that just bootstraps the process.  Each iteration generates orders of magnitude more code, which then generates more code, and so on.
+_Thisone: Yeah, I checked that part out.Â  But keep in mind, that just bootstraps the process.Â  Each iteration generates orders of magnitude more code, which then generates more code, and so on.
 
 _Annai: Right, that's the only way you could get a logic base that huge.
 
-_Thisone: Of course.  And it's massively parallel.  He must be using a noticeable portion of our local grid coords.  I'd be surprised if the authorities didn't know about him.
+_Thisone: Of course.Â  And it's massively parallel.Â  He must be using a noticeable portion of our local grid coords.Â  I'd be surprised if the authorities didn't know about him.
 
-_Annai: I'm sure they do.  I guess they're all for it.
+_Annai: I'm sure they do.Â  I guess they're all for it.
 
-_Thisone: Maybe.  Actually, he seems to mask a significant percentage from inspection.  There are a few core libs that don't register themselves in the normal way.
+_Thisone: Maybe.Â  Actually, he seems to mask a significant percentage from inspection.Â  There are a few core libs that don't register themselves in the normal way.
 
-_Annai: Really?  I didn't notice that.  Let me see.
+_Annai: Really?Â  I didn't notice that.Â  Let me see.
 
-Thisone pulls up a display. As Annai looks at it, it morphs into a 3D data representation.  The camera zooms and careens through a forest of multicolored textured prims.
+Thisone pulls up a display. As Annai looks at it, it morphs into a 3D data representation.Â  The camera zooms and careens through a forest of multicolored textured prims.
 
-_Annai: That's really wierd.  I've never seen a mask like that before.  It's kind of amateurish.
+_Annai: That's really weird.Â  I've never seen a mask like that before.Â  It's kind of amateurish.
 
 _Thisone: Almost as if he's trying a bit too hard to look suspicious.
 
-_Annai: Exactly.  Misdirection?
+_Annai: Exactly.Â  Misdirection?
 
-_Thisone: Lull you into a false sense of superiority?  So the real mask is somewhere else.
+_Thisone: Lull you into a false sense of superiority?Â  So the real mask is somewhere else.
 
 _Annai: Pull up the kernel again.
 
-Screens close, new ones open.  Perspectives shift and warp.
+Screens close, new ones open.Â  Perspectives shift and warp.
 
 _Annai: Wait -- check this out. (she pulls the camera back quickly through a screen, zooms in on a small prim)
 
 Does that ring a bell?
 
-_Thisone: Ack, that's grid kernel code from maybe 15 years ago.  How did you even know to look for it?  It's before your time.
+_Thisone: Ack, that's grid kernel code from maybe 15 years ago.Â  How did you even know to look for it?Â  It's before your time.
 
-_Annai: I'm a student of history.  I've disassembled the kernel back ten major revs.
+_Annai: I'm a student of history.Â  I've disassembled the kernel back ten major revs.
 
 _Thisone: (whistles) You're quite the hacker, for
 
 _Annai: A girl?
 
-_Thisone: I was going to say, for someone so young.  I associate youth with talent, energy, and inexperience.
+_Thisone: I was going to say, for someone so young.Â  I associate youth with talent, energy, and inexperience.
 
 _Annai: I've been coding since before I could talk.
 
-_Thisone: Typical.  Still.
+_Thisone: Typical.Â  Still.
 
-_Annai: Anyway, check this out:  I diffed it against the original.
+_Annai: Anyway, check this out:Â  I diffed it against the original.
 
-_Thisone: Why would he start with some old cruft like this?  It's completely obsolete.
+_Thisone: Why would he start with some old cruft like this?Â  It's completely obsolete.
 
-_Annai: Yes, but the security mods have this stuff whitelisted.  Maybe, if you just change an op here or there, you can get something by them?
+_Annai: Yes, but the security mods have this stuff whitelisted.Â  Maybe, if you just change an op here or there, you can get something by them?
 
-_Thisone: Maybe, but not easily.  You could only change a few ops at a time.  They do random testing; too slow to brute force every op every cycle.  So you might pass occasionally, but you'd still fail some percentage of the time.
+_Thisone: Maybe, but not easily.Â  You could only change a few ops at a time.Â  They do random testing; too slow to brute force every op every cycle.Â  So you might pass occasionally, but you'd still fail some percentage of the time.
 
-_Annai: It gets trickier.  The diffs all look like patches from one old version to another.
+_Annai: It gets trickier.Â  The diffs all look like patches from one old version to another.
 
-_Thisone: Even better.  If security flags anything as suspicious, it checks the patch logs and sees that it matches.
+_Thisone: Even better.Â  If security flags anything as suspicious, it checks the patch logs and sees that it matches.
 
-_Annai: Right.  But by cleverly choosing a specific sequence of patches, he eventually generates code that passes security, but with a few custom ops.
+_Annai: Right.Â  But by cleverly choosing a specific sequence of patches, he eventually generates code that passes security, but with a few custom ops.
 
-_Thisone: that's pretty clever.  And wholly illegal.
+_Thisone: that's pretty clever.Â  And wholly illegal.
 
-_Annai: What's it for?  What's the code actually do?
+_Annai: What's it for?Â  What's the code actually do?
 
-_Thisone: We can't figure that out from the source.  It's too fluid.  We'd have to put a monitor in there.
+_Thisone: We can't figure that out from the source.Â  It's too fluid.Â  We'd have to put a monitor in there.
 
-_Annai: Hold on.  I said I'd help you analyze.  That's outright hackery.
+_Annai: Hold on.Â  I said I'd help you analyze.Â  That's outright hackery.
 
-_Thisone: Look, you've seen that there's something fishy.  Above-board open source doesn't have wicked masking code like this.
+_Thisone: Look, you've seen that there's something fishy.Â  Above-board open source doesn't have wicked masking code like this.
 
-_Annai: Well, no.  It wouldn't, usually.
+_Annai: Well, no.Â  It wouldn't, usually.
 
-_Thisone: So we know there's something else going on.  All I'm suggesting is, we find out what it is.  It's open source anyway -- we have as much right to hack on it as anyone else.
+_Thisone: So we know there's something else going on.Â  All I'm suggesting is, we find out what it is.Â  It's open source anyway -- we have as much right to hack on it as anyone else.
 
-_Annai: Oh, right.  So you're going to check your changes in and add a log entry?
+_Annai: Oh, right.Â  So you're going to check your changes in and add a log entry?
 
-_Thisone: (smiles) well, not yet.  I want to see what's going on first.  I could claim that I'm just researching some dodgy patches.  Checking for security holes, that sort of thing.
+_Thisone: (smiles) well, not yet.Â  I want to see what's going on first.Â  I could claim that I'm just researching some dodgy patches.Â  Checking for security holes, that sort of thing.
 
-_Annai: Hah.  Let's see who believes it.
+_Annai: Hah.Â  Let's see who believes it.
 
 _Thisone: Well, if it comes to that, Morashon, or his dev team, whoever he really is, they'll have some explaining to do themselves.
 
 _Annai: Tit for tat?
 
-_Thisone: Exactly.  What's good for the goose.
+_Thisone: Exactly.Â  What's good for the goose.
 
-_Annai: I suppose.  This is just the sort of thinking Morashon hates.
+_Annai: I suppose.Â  This is just the sort of thinking Morashon hates.
 
-_Thisone: How convenient.  Espouse a philosophy of trust.  Do as I say, not as I do.
+_Thisone: How convenient.Â  Espouse a philosophy of trust.Â  Do as I say, not as I do.
 
-_Annai: (looking dejected) I guess I'm in, for now.   I -- I trusted him.  I never expected something like this.
+_Annai: (looking dejected) I guess I'm in, for now.Â Â  I -- I trusted him.Â  I never expected something like this.
 
-_Thisone: Maybe there's an innocent explanation.  They may be protecting some proprietary IP through obfuscation.  There's some case law about that -- if it's hard enough to decipher, you can claim trade secret.
+_Thisone: Maybe there's an innocent explanation.Â  They may be protecting some proprietary IP through obfuscation.Â  There's some case law about that -- if it's hard enough to decipher, you can claim trade secret.
 
-_Annai: Hmm.  Maybe.  But he's not what he says he is.  A lie is a lie.
+_Annai: Hmm.Â  Maybe.Â  But he's not what he says he is.Â  A lie is a lie.
 
 _Thisone: Well, the other scenarios are even darker.
 
@@ -1190,69 +1114,69 @@ _Thisone: Something like that.
 
 _Annai: So when I listen to his music, and it moves me -- makes me feel like he understands me, what's in my soul -- is that real?
 
-_Thisone: (pauses) I don't know.  I guess if it means something to you, it means something.  His motivations could be complex.  He may contradict himself morally, but still be a great artist.  I keep calling him "he", but it's probably "them".  I don't know anymore.  I'm out of my depth.
+_Thisone: (pauses) I don't know.Â  I guess if it means something to you, it means something.Â  His motivations could be complex.Â  He may contradict himself morally, but still be a great artist.Â  I keep calling him "he", but it's probably "them".Â  I don't know anymore.Â  I'm out of my depth.
 
-_Annai: "...I contradict myself.  I am large; I contain multitudes."
+_Annai: "...I contradict myself.Â  I am large; I contain multitudes."
 
 _Thisone: (pause as he looks it up) Walt Whitman?
 
 _Annai: 20th century poet.
 
-_Thisone: Oh.  (reads some more) Not bad.
+_Thisone: Oh.Â  (reads some more) Not bad.
 
 _Annai: I'll do it.
 
-_Thisone: The monitor?  I thought I --
+_Thisone: The monitor?Â  I thought I --
 
-_Annai: Let me do it.  I know him better.  I'll be able to mask it.
+_Annai: Let me do it.Â  I know him better.Â  I'll be able to mask it.
 
-_Thisone: Umm, ok.  Let me review it before you take it live.
+_Thisone: Umm, ok.Â  Let me review it before you take it live.
 
-_Annai: Sure.  I'll ping you when it's done.
+_Annai: Sure.Â  I'll ping you when it's done.
 
 Annai ports away.
 
-_Thisone: (sarcastically, to the empty chair).  Oh, ok.  Nice seeing you.  Bubbye for now. (closes screens, lies down with his hands behind his head)
+_Thisone: (sarcastically, to the empty chair).Â  Oh, ok.Â  Nice seeing you.Â  Bubbye for now. (closes screens, lies down with his hands behind his head)
 
 Thisone falls asleep.
 
-Scene: Thisone's sim.  Annai appears on a screen, as her avatar.
+Scene: Thisone's sim.Â  Annai appears on a screen, as her avatar.
 
-_Thisone: Hi.  You look alot like your av.
+_Thisone: Hi.Â  You look alot like your av.
 
-_Annai: Very funny.  I think I found something.
+_Annai: Very funny.Â  I think I found something.
 
 _Thisone: I thought you were working on the monitor code.
 
-_Annai: I did.  I let it run all night.
+_Annai: I did.Â  I let it run all night.
 
-_Thisone: Hmm...  I thought we said we'd review it --
+_Thisone: Hmm...Â  I thought we said we'd review it --
 
-_Annai: Sorry.  It looked solid, so I let it fly.  Guess what?
+_Annai: Sorry.Â  It looked solid, so I let it fly.Â  Guess what?
 
 _Thisone: mm hmm?
 
-_Annai: You were right.  It's not AI.  It's an interface.
+_Annai: You were right.Â  It's not AI.Â  It's an interface.
 
 _Thisone: so some hackers --
 
-_Annai: somebody, somewhere, runs it.  Not Finland, AFAICT.
+_Annai: somebody, somewhere, runs it.Â  Not Finland, AFAICT.
 
 _Thisone: I assume it's masked --
 
-_Annai: Yep, serious wicked firewall.  Impossible to tell who's controlling it. But --
+_Annai: Yep, serious wicked firewall.Â  Impossible to tell who's controlling it. But --
 
 _Thisone: We could intercept.
 
-_Annai: Yes.  Now that we know what's going on, we could -- take over.  Be Morashon.
+_Annai: Yes.Â  Now that we know what's going on, we could -- take over.Â  Be Morashon.
 
-_Thisone: but the interface gear -- all the heads and limbs and stuff.  Multiple conversations?
+_Thisone: but the interface gear -- all the heads and limbs and stuff.Â  Multiple conversations?
 
-_Annai: That's the interesting part.  It's not real AI, but there is some tasty interface code.  It seems like it probably uses available stuff.  Advanced, expensive, but not something totally new.
+_Annai: That's the interesting part.Â  It's not real AI, but there is some tasty interface code.Â  It seems like it probably uses available stuff.Â  Advanced, expensive, but not something totally new.
 
 _Thisone: So we could insert ourselves -- man in the middle...
 
-_Annai: We can take over the interface, and play Morashon for a while.  Anonymously, using the same firewall they use.
+_Annai: We can take over the interface, and play Morashon for a while.Â  Anonymously, using the same firewall they use.
 
 _Thisone: but with our own hashes...
 
@@ -1260,27 +1184,27 @@ _Annai: So they can't find us, same as we can't find them.
 
 _Thisone: And they won't report us, start an investigation...
 
-_Annai: That would be suicide.  The investigation will lead to them as the primary source.
+_Annai: That would be suicide.Â  The investigation will lead to them as the primary source.
 
-_Thisone: I dunno -- this sounds a bit dangerous.  We don't know who these people are.
+_Thisone: I dunno -- this sounds a bit dangerous.Â  We don't know who these people are.
 
-_Annai: This is the only way to find out.  Use their own code to send a message.
+_Annai: This is the only way to find out.Â  Use their own code to send a message.
 
 _Thisone: What about the music?
 
-_Annai: There's a huge database of stuff they must be cribbing from.  Obscure releases that were never popular.  Then they run algorithms to extrapolate new tunes from a style mix.  But you would need real talent to make it into anything.
+_Annai: There's a huge database of stuff they must be cribbing from.Â  Obscure releases that were never popular.Â  Then they run algorithms to extrapolate new tunes from a style mix.Â  But you would need real talent to make it into anything.
 
 _Thisone: So they have an artist.
 
-_Annai: At least one.  I have to believe that.  This isn't your run-of-the-mill bunch of hackers.
+_Annai: At least one.Â  I have to believe that.Â  This isn't your run-of-the-mill bunch of hackers.
 
 _Thisone: more like an anarcho-performance troupe with hacker skillz.
 
-_Annai: If you say so.  But I want to know who he, she, they, really are.  I feel betrayed.
+_Annai: If you say so.Â  But I want to know who he, she, they, really are.Â  I feel betrayed.
 
 _Thisone: Because he lied to you?
 
-_Annai: Because he preaches about trust, transparency, cooperation versus defection.  And he's hiding something.  "He".  That's rich.
+_Annai: Because he preaches about trust, transparency, cooperation versus defection.Â  And he's hiding something.Â  "He".Â  That's rich.
 
 _Thisone: I still don't know if you're a she.
 
@@ -1288,15 +1212,15 @@ _Annai: (makes a face) You know I am.
 
 _Thisone: I think so.
 
-_Annai: Well I am, if it matters so much.  And bytheway, I know you're a dude.
+_Annai: Well I am, if it matters so much.Â  And bytheway, I know you're a dude.
 
 _Thisone: How can you be so sure?
 
-_Annai: (laughing) You're a mega-dude.  Mega-nerdy dude.
+_Annai: (laughing) You're a mega-dude.Â  Mega-nerdy dude.
 
 _Thisone: (virtual blush?) Thanks for the compliment.
 
-_Annai: No, it's ok.  I like it.
+_Annai: No, it's ok.Â  I like it.
 
 _Thisone: Um, ah... I guess we never traded pics.
 
@@ -1304,79 +1228,79 @@ _Annai: I just look like this.
 
 _Thisone: That's what they all say.
 
-_Annai: No, really.  I even have all the clothes.
+_Annai: No, really.Â  I even have all the clothes.
 
 _Thisone: Well still...
 
-_Annai: There you go again.  You know we'll never meet (air quotes) "in real life", unless we win the megalot or something.
+_Annai: There you go again.Â  You know we'll never meet (air quotes) "in real life", unless we win the megalot or something.
 
 _Thisone: No, I know, but...
 
-_Annai: So who cares what's "real"?  I could send you pics, vids even, and how would you know they weren't shopped up?
+_Annai: So who cares what's "real"?Â  I could send you pics, vids even, and how would you know they weren't shopped up?
 
 (pause)
 
 _Thisone: I guess...
 
-_Annai: Anyway, why are we talking about this?  Are we flirting?  Is this a date or something?
+_Annai: Anyway, why are we talking about this?Â  Are we flirting?Â  Is this a date or something?
 
-_Thisone: No, Annai -- I mean, well, I dunno.  I um, I don't know what to say.
+_Thisone: No, Annai -- I mean, well, I dunno.Â  I um, I don't know what to say.
 
-_Annai: Say what you feel.  Mean what you say.
+_Annai: Say what you feel.Â  Mean what you say.
 
-_Thisone: I've never been good at this.  I -- since the breakdown, I've never...
+_Thisone: I've never been good at this.Â  I -- since the breakdown, I've never...
 
-_Annai: (pauses) That's a long time.  To be alone.
+_Annai: (pauses) That's a long time.Â  To be alone.
 
-_Thisone: Yeah.  Well, it just -- never felt right.
+_Thisone: Yeah.Â  Well, it just -- never felt right.
 
 _Annai: I was 11.
 
 _Thisone: so you never --
 
-_Annai: Never.  Offline, I mean.
+_Annai: Never.Â  Offline, I mean.
 
 _Thisone: so online --
 
-_Annai: There were some guys.  At least I think they were guys. (Chuckles).  And a girl.
+_Annai: There were some guys.Â  At least I think they were guys. (Chuckles).Â  And a girl.
 
 _Thisone: Maybe I am old.
 
-_Annai: It's just sex.  And technologly.  Gridsex, you know.  It's a release. Why be embarrassed?  It's no big deal.
+_Annai: It's just sex.Â  And technologly.Â  Gridsex, you know.Â  It's a release. Why be embarrassed?Â  It's no big deal.
 
-_Thisone: It just never felt real to me.  I tried a couple times.  It was so, awkward.
+_Thisone: It just never felt real to me.Â  I tried a couple times.Â  It was so, awkward.
 
 Annai teleports in to the sim
 
-_Thisone: Oh.  Hi there.
+_Thisone: Oh.Â  Hi there.
 
 _Annai: Do you have all the gear?
 
 _Thisone: You mean, um, you know -- for sex?
 
-_Annai: That's what we were just talking about, right?  Or maybe I missed something...
+_Annai: That's what we were just talking about, right?Â  Or maybe I missed something...
 
 _Thisone: Yes, I have the gear.
 
 _Annai: We can be anyone we want.
 
-_Thisone: That's what makes it hard for me.  I think, if you had experienced...
+_Thisone: That's what makes it hard for me.Â  I think, if you had experienced...
 
 _Annai: Real sex?
 
 _Thisone: Ack, you're so -- um, it's so easy for you to talk about this stuff..
 
-_Annai: It's just something we can do, you know.  Like music, or hacking.  It's just another part of life.
+_Annai: It's just something we can do, you know.Â  Like music, or hacking.Â  It's just another part of life.
 
-_Thisone: No, I can't believe that.  I don't see it that way. It's something different.  In real life --
+_Thisone: No, I can't believe that.Â  I don't see it that way. It's something different.Â  In real life --
 
-_Annai: There you go again.  Can't you get it into your head that "real life" is over?
+_Annai: There you go again.Â  Can't you get it into your head that "real life" is over?
 
-_Thisone: Not when it comes to this.  Something so -- so personal.  It can't be the same.
+_Thisone: Not when it comes to this.Â  Something so -- so personal.Â  It can't be the same.
 
-_Annai: It's not the same, I guess.  Some people say it's better.  I wouldn't know.
+_Annai: It's not the same, I guess.Â  Some people say it's better.Â  I wouldn't know.
 
-_Thisone: I've always figured those were people who never did it right in the first place.  Never met the right one.
+_Thisone: I've always figured those were people who never did it right in the first place.Â  Never met the right one.
 
 _Annai: Did you meet the right one?
 
@@ -1384,41 +1308,41 @@ _Thisone: There was someone -- before.
 
 _Annai: Before all this.
 
-_Thisone: Right before.  We were only together for a few months.  Then...
+_Thisone: Right before.Â  We were only together for a few months.Â  Then...
 
 _Annai: Did she make it?
 
 _Thisone: She was across the universe.
 
-_Annai: Oh.  Separated.
+_Annai: Oh.Â  Separated.
 
 _Thisone: yeah.
 
 _Annai: And you couldn't afford to --
 
-_Thisone: Well, at first travel was restricted to government officials, remember.  They kept saying they would open it up to everyone, but -- you know the rest.
+_Thisone: Well, at first travel was restricted to government officials, remember.Â  They kept saying they would open it up to everyone, but -- you know the rest.
 
 _Annai: Eventually they did, sort of.
 
-_Thisone: three years pay for a single trip, on a standard salary.  Even then, no guarantee you'd be allowed to resettle.
+_Thisone: three years pay for a single trip, on a standard salary.Â  Even then, no guarantee you'd be allowed to resettle.
 
 _Annai: That sucks.
 
-_Thisone: We kept saying we'd save up.  A few years went by, but we never managed to get it together.
+_Thisone: We kept saying we'd save up.Â  A few years went by, but we never managed to get it together.
 
 _Annai: Sorry.
 
-_Thisone: It's ok.  I'm not sure she really wanted to.  She met someone local.  They had a large shelter, a few thousand.
+_Thisone: It's ok.Â  I'm not sure she really wanted to.Â  She met someone local.Â  They had a large shelter, a few thousand.
 
-_Annai: wow.  That's -- well, it sucks.
+_Annai: wow.Â  That's -- well, it sucks.
 
-_Thisone: So what about you?  Aren't there any boys where you live?
+_Thisone: So what about you?Â  Aren't there any boys where you live?
 
-_Annai: One or two.  Duds.  Completely boring.  Anyway, who said I only like boys?
+_Annai: One or two.Â  Duds.Â  Completely boring.Â  Anyway, who said I only like boys?
 
-_Thisone: Well, or girls, whatever.  I mean men, women.
+_Thisone: Well, or girls, whatever.Â  I mean men, women.
 
-_Annai: Don't worry, I'm of age.  Like I said, no one clicked.  It's the grid life for me.
+_Annai: Don't worry, I'm of age.Â  Like I said, no one clicked.Â  It's the grid life for me.
 
 (awkward pause)
 
@@ -1426,47 +1350,47 @@ Annai touches Thisone's thigh.
 
 _Annai: Do you feel that?
 
-_Thisone: Yes, of course.  I told you, I'm geared.
+_Thisone: Yes, of course.Â  I told you, I'm geared.
 
 _Annai: Why do you gear, if you don't -- if there's nobody?
 
 _Thisone: (embarrassed) well, there's -- I, um --
 
-_Annai: Bots?  You do botsex, but not gridsex?
+_Annai: Bots?Â  You do botsex, but not gridsex?
 
 _Thisone: Look, this is getting embarrassing.
 
-_Annai: (laughs) That's so funny.  I'm sorry.  I didn't mean to laugh.  (laughs some more)
+_Annai: (laughs) That's so funny.Â  I'm sorry.Â  I didn't mean to laugh.Â  (laughs some more)
 
 _Thisone: Ok, enough fun and games.
 
 _Annai: (mock serious) You're right. Let's not get silly here.
 
-_Thisone: Well, maybe -- I could -- try again.  Someday.
+_Thisone: Well, maybe -- I could -- try again.Â  Someday.
 
-_Annai: Did I offer myself?  Am I that easy?
+_Annai: Did I offer myself?Â  Am I that easy?
 
 _Thisone: I didn't mean that.
 
-_Annai: Well, I did.  Sort of.  Offer.
+_Annai: Well, I did.Â  Sort of.Â  Offer.
 
 _Thisone: So you don't care what I really look like?
 
-_Annai: I see you.  I feel you.  I know who you are.
+_Annai: I see you.Â  I feel you.Â  I know who you are.
 
-_Thisone: I could be fat, sick, older than I'm saying.  Just plain ugly.
+_Thisone: I could be fat, sick, older than I'm saying.Â  Just plain ugly.
 
-_Annai: Maybe.  But you would still be you.  And I like you.
+_Annai: Maybe.Â  But you would still be you.Â  And I like you.
 
 _Thisone: (stammering) I -- thanks.
 
-_Annai: Sure.  Anytime.  I mean, I don't mean -- my moods change.  I'm not promising anything.  But I'll like you, until I don't.  And I hope I don't.  Stop liking you, I mean.
+_Annai: Sure.Â  Anytime.Â  I mean, I don't mean -- my moods change.Â  I'm not promising anything.Â  But I'll like you, until I don't.Â  And I hope I don't.Â  Stop liking you, I mean.
 
 They move closer, and kiss gently on the lips.
 
 _Annai: Bye for now.
 
-Annai blips away.  Thisone lies down again, drifting.
+Annai blips away.Â  Thisone lies down again, drifting.
 
 Song: Half In Love
 
@@ -1538,27 +1462,27 @@ I'm half in love!
 
 Scene: private booth at a fancy restaurant
 
-Annai is already sitting in the booth; Thisone ports in. 
+Annai is already sitting in the booth; Thisone ports in.Â 
 
-_Annai: Hey stranger.  Come here often?
+_Annai: Hey stranger.Â  Come here often?
 
 _Thisone: Hey. (After a little hesitation, he pecks her on the cheek)
 
-_Annai: Why here?  Your place has been fun lately.
+_Annai: Why here?Â  Your place has been fun lately.
 
-_Thisone: I dunno.  I want to talk about stuff.  Paranoid I guess.
+_Thisone: I dunno.Â  I want to talk about stuff.Â  Paranoid I guess.
 
-_Annai: Oh.  That's why you ordered a private booth.
+_Annai: Oh.Â  That's why you ordered a private booth.
 
-_Thisone: I thought someone might have bugged my sim.  Compromised my server.  A place like this, picked at random, is harder to jack without leaving a trail.  Lately I feel like I'm being watched.
+_Thisone: I thought someone might have bugged my sim.Â  Compromised my server.Â  A place like this, picked at random, is harder to jack without leaving a trail.Â  Lately I feel like I'm being watched.
 
-_Annai: You probably are.  Nothing's private anymore.  I'm sure someone is getting off spying on us during our most intimate, private moments. (she puts a hand on his thigh)
+_Annai: You probably are.Â  Nothing's private anymore.Â  I'm sure someone is getting off spying on us during our most intimate, private moments. (she puts a hand on his thigh)
 
-_Thisone: (shudders) Ugh!  that's -- the idea makes me nauseous.  I've really beefed up my firewall, but I just don't know.  I thought we should take precautions.
+_Thisone: (shudders) Ugh!Â  that's -- the idea makes me nauseous.Â  I've really beefed up my firewall, but I just don't know.Â  I thought we should take precautions.
 
 _Annai: This is exciting! Like a spy vid!
 
-_Thisone: I'm serious.  We don't know who we're dealing with. (pause) Did you order the equipment?
+_Thisone: I'm serious.Â  We don't know who we're dealing with. (pause) Did you order the equipment?
 
 _Annai: Yep.
 
@@ -1568,27 +1492,27 @@ _Annai: I told you I would.
 
 _Thisone: That must have cost a fortune.
 
-_Annai: Put it on my school cred.  I've got three years left.
+_Annai: Put it on my school cred.Â  I've got three years left.
 
 _Thisone: Awk, I don't want to jeopardize your education with all this.
 
-_Annai: Don't worry.  I wasn't planning on going back.
+_Annai: Don't worry.Â  I wasn't planning on going back.
 
 _Thisone: Well like I said, when this is all over, we'll sell the equipment and get your money back.
 
-_Annai: Sure.  Unless we like it.  We could design a Morashon competitor.  Make a mint.
+_Annai: Sure.Â  Unless we like it.Â  We could design a Morashon competitor.Â  Make a mint.
 
 _Thisone: Start our own cult!
 
-_Annai: Why not?  He did it.  How hard can it be?
+_Annai: Why not?Â  He did it.Â  How hard can it be?
 
 _Thisone: So how is this going to work?
 
-_Annai: We'll be getting the stuff in a couple weeks.  I need your real address.
+_Annai: We'll be getting the stuff in a couple weeks.Â  I need your real address.
 
-_Thisone: Sure. (sends it).  Now you know where I live.
+_Thisone: Sure. (sends it).Â  Now you know where I live.
 
-_Annai: don't worry, I won't stalk you.  That would cost real money.
+_Annai: don't worry, I won't stalk you.Â  That would cost real money.
 
 _Thisone: I wouldn't mind.
 
@@ -1596,23 +1520,23 @@ _Annai: let's keep it "real".
 
 _Thisone: you mean fake?
 
-_Annai: it works for me.  Seemed to work for you last night.
+_Annai: it works for me.Â  Seemed to work for you last night.
 
-_Thisone: (embarrassed) Sure, it's been -- great.  Better than I expected.
+_Thisone: (embarrassed) Sure, it's been -- great.Â  Better than I expected.
 
 _Annai: the gear gets better every year.
 
 _Thisone: It's not the gear.
 
-_Annai: (a little flustered) remember, it's just sex.  Gridsex.
+_Annai: (a little flustered) remember, it's just sex.Â  Gridsex.
 
-_Thisone: I know.  But don't you feel -- something?  A little more than just --
+_Thisone: I know.Â  But don't you feel -- something?Â  A little more than just --
 
 _Annai: Let's keep it caz.
 
-_Thisone: Right.  Special friends.
+_Thisone: Right.Â  Special friends.
 
-_Annai:  Exactly.  You're learning.
+_Annai:Â  Exactly.Â  You're learning.
 
 _Thisone: I'm trying.
 
@@ -1624,29 +1548,29 @@ _Thisone: So when the equipment comes...
 
 _Annai: We intercept at the end of one of his concerts.
 
-_Thisone: What do we do?  What do we say to everyone?
+_Thisone: What do we do?Â  What do we say to everyone?
 
-_Annai: Do what he would do.  We sing.
+_Annai: Do what he would do.Â  We sing.
 
-_Thisone: A song?  One of his?  He almost never repeats material.
+_Thisone: A song?Â  One of his?Â  He almost never repeats material.
 
 _Annai: I'm working on it.
 
 _Thisone: You play?
 
-_Annai: I mix.  Same thing really.  The voices are all synthed.  The only thing we need is lyrics.
+_Annai: I mix.Â  Same thing really.Â  The voices are all synthed.Â  The only thing we need is lyrics.
 
 _Thisone: I could try to come up with something.
 
-_Annai: It won't sound exactly like him.  The fans might know something's up.
+_Annai: It won't sound exactly like him.Â  The fans might know something's up.
 
 _Thisone: Isn't that the point?
 
-_Annai: Not really.  I think we just want to send him -- them -- a message.
+_Annai: Not really.Â  I think we just want to send him -- them -- a message.
 
-_Thisone: So maybe he had a bad night.  It happens.
+_Thisone: So maybe he had a bad night.Â  It happens.
 
-_Annai: Sure.  Not all his stuff is perfect.  And the sound is always changing.  We'll fake it and see what happens.
+_Annai: Sure.Â  Not all his stuff is perfect.Â  And the sound is always changing.Â  We'll fake it and see what happens.
 
 _Thisone: Then, after...
 
@@ -1654,27 +1578,27 @@ _Annai: We disconnect, let him take over again -- after the show.
 
 _Thisone: He's going to be mad as hell.
 
-_Annai: He won't say anything in front of the crowd.  He won't know exactly what happened -- just that he was locked out of his own avatar for a few minues.
+_Annai: He won't say anything in front of the crowd.Â  He won't know exactly what happened -- just that he was locked out of his own avatar for a few minutes.
 
 _Thisone: It should be interesting to see his reaction.
 
 _Annai: I can't wait.
 
-_Thisone: He'll be disoriented for a bit.  Someone might notice.
+_Thisone: He'll be disoriented for a bit.Â  Someone might notice.
 
-_Annai: He'll recover.  He's good.
+_Annai: He'll recover.Â  He's good.
 
 _Thisone: Do we go backstage, like nothing happened?
 
-_Annai: Have to.  Otherwise, he might suspect us.
+_Annai: Have to.Â  Otherwise, he might suspect us.
 
 _Thisone: Do you think he'll say something?
 
-_Annai: Not to you.  He might talk to me privately.  I think he trusts me.  As much as he trusts anyone.
+_Annai: Not to you.Â  He might talk to me privately.Â  I think he trusts me.Â  As much as he trusts anyone.
 
 _Thisone: I guess you've betrayed him.
 
-_Annai: No.  He betrayed me.  Took advantage of my naivete.  My youthful inexperience.
+_Annai: No.Â  He betrayed me.Â  Took advantage of my naivete.Â  My youthful inexperience.
 
 _Thisone: Could have happened to anyone.
 
@@ -1682,17 +1606,17 @@ _Annai: I guess age and experience count for something.
 
 _Thisone: You gain wisdom, and lose your innocence.
 
-_Annai: I guess that's what's happening to me.  One quantum of innocence, traded for a quantum of experience.  People are shit; don't trust anyone.
+_Annai: I guess that's what's happening to me.Â  One quantum of innocence, traded for a quantum of experience.Â  People are shit; don't trust anyone.
 
 _Thisone: He's not even a person.
 
-_Annai: That's the part that has me stumped.  As much as I know now, I still think of him as if he's some sort of individual -- particular, unique.
+_Annai: That's the part that has me stumped.Â  As much as I know now, I still think of him as if he's some sort of individual -- particular, unique.
 
-_Thisone: Well, whoever put this together obviously has a strong personality.  The ego of the artist always shows through.
+_Thisone: Well, whoever put this together obviously has a strong personality.Â  The ego of the artist always shows through.
 
 _Annai: So Morashon is a work of art?
 
-_Thisone: Transgressive art, yes.  He's got me thinking, that's for sure.
+_Thisone: Transgressive art, yes.Â  He's got me thinking, that's for sure.
 
 _Annai: Yeah, he has me thinking too. (pause) I think I want revenge.
 
@@ -1702,7 +1626,7 @@ _Annai: We evolved it for a reason.
 
 _Thisone: Deterrence?
 
-_Annai:  Fighting the moral hazard.  If someone takes something from you and destroys it, responding in kind gets you nothing back.
+_Annai:Â  Fighting the moral hazard.Â  If someone takes something from you and destroys it, responding in kind gets you nothing back.
 
 _Thisone: But --
 
@@ -1724,17 +1648,17 @@ _Thisone: Well, um, I was wondering...
 
 _Annai: What am I doing tonight?
 
-_Thisone: We could hang out at my place, later.  After we talk.
+_Thisone: We could hang out at my place, later.Â  After we talk.
 
-_Annai: Sure.  Nothing cooking at my end.
+_Annai: Sure.Â  Nothing cooking at my end.
 
 (awkward silence)
 
 _Thisone: Have you seen him?
 
-_Annai: Since we found out?  No.  I've stayed away.
+_Annai: Since we found out?Â  No.Â  I've stayed away.
 
-_Thisone: You probably should show up once or twice.  Stick to your routine.
+_Thisone: You probably should show up once or twice.Â  Stick to your routine.
 
 _Annai: I don't know if I can face him.
 
@@ -1742,13 +1666,13 @@ _Thisone: Just be yourself.
 
 _Annai: I'm afraid he'll know something is wrong.
 
-_Thisone: You're a big girl.  You can handle it.  Make an excuse.
+_Thisone: You're a big girl.Â  You can handle it.Â  Make an excuse.
 
 _Annai: That time of the month?
 
-_Thisone: Whatever.  You know him.  Whoever he is, they are, they can't read your mind.
+_Thisone: Whatever.Â  You know him.Â  Whoever he is, they are, they can't read your mind.
 
-_Annai: Ok.  But I want you to come.
+_Annai: Ok.Â  But I want you to come.
 
 _Thisone: No, that's not a good idea.
 
@@ -1760,15 +1684,15 @@ _Annai: Fucking?
 
 _Thisone: In a word.
 
-_Annai: So what? He's not my lover.  What's it to him?  As far as I'm supposed to believe, he's not even human.
+_Annai: So what? He's not my lover.Â  What's it to him?Â  As far as I'm supposed to believe, he's not even human.
 
-_Thisone: I don't know.  I have a hunch.
+_Thisone: I don't know.Â  I have a hunch.
 
-_Annai: You think he likes me?  You think he could be jealous?
+_Annai: You think he likes me?Â  You think he could be jealous?
 
-_Thisone: We still don't know who's behind this.  A jilted lover?
+_Thisone: We still don't know who's behind this.Â  A jilted lover?
 
-_Annai: Trust me, if anyone I ever slept with had this kind of talent, I'd still be with them.  In any case, I would know.  It's not anyone from my life, real or grid.
+_Annai: Trust me, if anyone I ever slept with had this kind of talent, I'd still be with them.Â  In any case, I would know.Â  It's not anyone from my life, real or grid.
 
 _Thisone: How 'bout I piggyback?
 
@@ -1778,73 +1702,73 @@ _Thisone: I'll see and feel what you do, and be able to talk to you.
 
 _Annai: But no one else will know.
 
-_Thisone: Right.  Just me and you.
+_Thisone: Right.Â  Just me and you.
 
 _Annai: From sea to shining sea.
 
-_Thisone: heh, right.  Stuff sticks in your head.
+_Thisone: heh, right.Â  Stuff sticks in your head.
 
 _Annai: Like a virus.
 
-_Thisone: I'm hungry.  Let's eat.
+_Thisone: I'm hungry.Â  Let's eat.
 
 _Annai: Ok.
 
 Waiter brings food on cue
 
-_Annai: This stuff is great.  My compliments to the chef.
+_Annai: This stuff is great.Â  My compliments to the chef.
 
 _Thisone: One thing they haven't got down yet.
 
-_Annai: Yeah.  I'm really eating a yeastburger.
+_Annai: Yeah.Â  I'm really eating a yeastburger.
 
-_Thisone: ugh.  I've got mac and cheese.
+_Thisone: ugh.Â  I've got mac and cheese.
 
-_Annai: but it looks beautiful.  (cuts into virtual filet mignon)  Presentation is everything.
+_Annai: but it looks beautiful.Â  (cuts into virtual filet mignon)Â  Presentation is everything.
 
 _Thisone: Mmm. (waiter pours wine)
 
 fade out
 
-scene: Morashon's salon.  He is alone.  He has a normal human form (one head, four limbs); Annai materializes.
+scene: Morashon's salon.Â  He is alone.Â  He has a normal human form (one head, four limbs); Annai materializes.
 
-_Morashon: Annai!  How nice of you to come.  You look marvelous.
+_Morashon: Annai!Â  How nice of you to come.Â  You look marvelous.
 
 _Annai: (looking around) Where is everyone?
 
-_Morashon: Oh, out and about.  More will come presently.
+_Morashon: Oh, out and about.Â  More will come presently.
 
 _Annai: You said you wanted to talk.
 
-_Morashon: Where is that lovely boy you've been so attached to lately?  This one -- that one?
+_Morashon: Where is that lovely boy you've been so attached to lately?Â  This one -- that one?
 
-_Annai: He's working.  Might drop by later.
+_Annai: He's working.Â  Might drop by later.
 
-_Morashon: I'm afraid we've overwhelmed him with conundrums.  You're sleeping with him?
+_Morashon: I'm afraid we've overwhelmed him with conundrums.Â  You're sleeping with him?
 
 _Annai: Yes.
 
-_Morashon: Well that's just beautiful.  You humans, with your sex!  What a divinely bizarre invention.  No god could have thought that up.  Atheists, here is your proof!
+_Morashon: Well that's just beautiful.Â  You humans, with your sex!Â  What a divinely bizarre invention.Â  No god could have thought that up.Â  Atheists, here is your proof!
 
-_Annai: We're not hitched or anything.  It's just a diversion.
+_Annai: We're not hitched or anything.Â  It's just a diversion.
 
-_Morashon: For you, perhaps.  I've heard it can lead to stronger attachments.
+_Morashon: For you, perhaps.Â  I've heard it can lead to stronger attachments.
 
-_Annai: I can handle him.  I'm a big girl.
+_Annai: I can handle him.Â  I'm a big girl.
 
-_Morashon: Yes, indeed, you are.  A big girl.  My grown up little girl.
+_Morashon: Yes, indeed, you are.Â  A big girl.Â  My grown up little girl.
 
 _Annai: I'm not yours.
 
-_Morashon: No, I suppose not.  Not anymore, anyway.
+_Morashon: No, I suppose not.Â  Not anymore, anyway.
 
 _Annai: What's that supposed to mean?
 
-_Morashon: Nothing, nothing really.  I've seen you change since we first met.
+_Morashon: Nothing, nothing really.Â  I've seen you change since we first met.
 
 _Annai: That was less than a year ago.
 
-_Morashon: We live in accelerated times.  What is a year, when we never see the sun?
+_Morashon: We live in accelerated times.Â  What is a year, when we never see the sun?
 
 (awkward silence)
 
@@ -1852,105 +1776,105 @@ _Morashon: Something has changed.
 
 _Annai: What do you mean?
 
-_Morashon: Your feelings towards me.  I sense a resistance.  Suspicion even.
+_Morashon: Your feelings towards me.Â  I sense a resistance.Â  Suspicion even.
 
-_Annai: It's not you.  I'm feeling scattered lately.
+_Annai: It's not you.Â  I'm feeling scattered lately.
 
 _Morashon: Maybe this boy means more to you than you think.
 
-_Annai: Why are we talking about this?  We usually talk about philosophy.  History, art, science, religion.  Music.  Not me!  You've never asked about my personal life before.
+_Annai: Why are we talking about this?Â  We usually talk about philosophy.Â  History, art, science, religion.Â  Music.Â  Not me!Â  You've never asked about my personal life before.
 
 _Morashon: It's never interfered with our relationship before.
 
 _Annai: I don't know what you're going on about.
 
-_Morashon: I feel him.  I feel his love for you, and his suspicions about me.  I feel them coursing through your veins.
+_Morashon: I feel him.Â  I feel his love for you, and his suspicions about me.Â  I feel them coursing through your veins.
 
 _Annai: Well you've got a lot of feelings, for a piece of code.
 
 _Morashon: As I've explained before --
 
-_Annai: I know, you have something like feelings, emotions.  You profess to have qualia.  You've certainly passed the Turing test, as far as I'm concerned.
+_Annai: I know, you have something like feelings, emotions.Â  You profess to have qualia.Â  You've certainly passed the Turing test, as far as I'm concerned.
 
 _Morashon: Feelings, intuitions, qualia -- they're all just the result of subtle patterns of information, flowing through our mental substrate.
 
-_Annai: But why do I feel them, as if they're real?  Blue is so blue.  Sad is so fucking sad.  Hope is so pointlessly hopeful.  I feel it, feel it in my soul.  My consciousness can't be explained away as just a bit of code.
+_Annai: But why do I feel them, as if they're real?Â  Blue is so blue.Â  Sad is so fucking sad.Â  Hope is so pointlessly hopeful.Â  I feel it, feel it in my soul.Â  My consciousness can't be explained away as just a bit of code.
 
-_Morashon: I 'feel' similar things, in my own way.  These perceptions are emergent phenomena.  If the informational context is there, the qualia emerge.
+_Morashon: I 'feel' similar things, in my own way.Â  These perceptions are emergent phenomena.Â  If the informational context is there, the qualia emerge.
 
 _Annai: That's easy for you to say; you know you're bits of silicon, right?
 
 _Morashon: (warily) Right...
 
-_Annai: But I'm flesh and blood.  Thisone too.  When we touch --
+_Annai: But I'm flesh and blood.Â  Thisone too.Â  When we touch --
 
-_Morashon: You've touched?  In real life?
+_Morashon: You've touched?Â  In real life?
 
-_Annai: No, of course not.  I just meant --
+_Annai: No, of course not.Â  I just meant --
 
 _Morashon: Well then, all your interactions are digital -- just like ours.
 
-_Annai: I realize that.  It's just --
+_Annai: I realize that.Â  It's just --
 
-_Morashon: For all you know, Thisone is another AI.  Perhaps he's the one I've been sensing.  I know there's another in the Grid, somewhere.  He could be feeling me out.  Doing it through you.
+_Morashon: For all you know, Thisone is another AI.Â  Perhaps he's the one I've been sensing.Â  I know there's another in the Grid, somewhere.Â  He could be feeling me out.Â  Doing it through you.
 
-_Annai: Since when are you so paranoid?  You always preach "trust first".
+_Annai: Since when are you so paranoid?Â  You always preach "trust first".
 
-_Morashon: Trust, but verify.  My philosophy is simple: give everyone the benefit of the doubt, at your first encounter.  Thereafter, judge them by their actions.
+_Morashon: Trust, but verify.Â  My philosophy is simple: give everyone the benefit of the doubt, at your first encounter.Â  Thereafter, judge them by their actions.
 
 _Annai: So what has Thisone done to make you not trust him?
 
 _Morashon: He is trying to steal your heart.
 
-_Annai: From who?  What do you care if we have a relationship?  Why does this matter all of a sudden?  You didn't give a shit when Alexa was around.
+_Annai: From who?Â  What do you care if we have a relationship?Â  Why does this matter all of a sudden?Â  You didn't give a shit when Alexa was around.
 
-_Morashon: Alexa never really mattered to you.  This one does.
+_Morashon: Alexa never really mattered to you.Â  This one does.
 
-_Annai: Stop making fun of his name.  Your name is meaningless.
+_Annai: Stop making fun of his name.Â  Your name is meaningless.
 
-_Morashon: Hardly.  It was not chosen at random.
+_Morashon: Hardly.Â  It was not chosen at random.
 
-_Annai: Well, it doesn't search up as anything.  Maybe you got the spelling wrong.
+_Annai: Well, it doesn't search up as anything.Â  Maybe you got the spelling wrong.
 
 _Morashon: (laughs)
 
 _Annai: And another thing -- why are you so normal-looking all of a sudden?
 
-_Morashon: As you well know, I change my form to suit my mood.  And the situation.
+_Morashon: As you well know, I change my form to suit my mood.Â  And the situation.
 
 _Annai: I've just never seen you look this -- human, is all.
 
-Morashon  Shapes, forms -- appearances.  It's all just fun with graphics.  Why does it matter?
+MorashonÂ  Shapes, forms -- appearances.Â  It's all just fun with graphics.Â  Why does it matter?
 
-_Annai: Visual representation is all we've got to go on here, in the Grid.  You know that.  That's why I never change my avatar.  I want to feel like I know who I am.
+_Annai: Visual representation is all we've got to go on here, in the Grid.Â  You know that.Â  That's why I never change my avatar.Â  I want to feel like I know who I am.
 
-_Morashon: Maybe I don't want to feel that way.  We are different species, you and I; we inhabit different metrics.  Time works differently for me.  I am evolving before your eyes.  Perhaps I'm tired of being everyone to everything.
+_Morashon: Maybe I don't want to feel that way.Â  We are different species, you and I; we inhabit different metrics.Â  Time works differently for me.Â  I am evolving before your eyes.Â  Perhaps I'm tired of being everyone to everything.
 
 _Annai: Maybe your friends aren't at their controls today.
 
-_Morashon: That sounds like your boyfriend talking.  Does he still believe I'm a performance troupe from Finland?
+_Morashon: That sounds like your boyfriend talking.Â  Does he still believe I'm a performance troupe from Finland?
 
 _Annai: He doesn't know what to believe.
 
 _Morashon: Do you?
 
-_Annai: (looking into his eyes) I don't know.  I guess I have some doubts.
+_Annai: (looking into his eyes) I don't know.Â  I guess I have some doubts.
 
 _Morashon: About who I am, or about the things I have taught you?
 
-_Annai: I can't really separate the two.  How do I know whether to believe what you say, if I don't know who you are?
+_Annai: I can't really separate the two.Â  How do I know whether to believe what you say, if I don't know who you are?
 
 _Morashon: It may surprise you to hear that I am capable of doubting myself.
 
-_Annai: But at least you know who you are.  You have that advantage over me.
+_Annai: But at least you know who you are.Â  You have that advantage over me.
 
-_Morashon: Because you don't know who I am?  Or because you don't know yourself?
+_Morashon: Because you don't know who I am?Â  Or because you don't know yourself?
 
-_Annai: Look -- you know if you're really software, or a human being faking it.  I know I'm a human being.
+_Annai: Look -- you know if you're really software, or a human being faking it.Â  I know I'm a human being.
 
 _Morashon: (small smile)
 
-_Annai: What?  What are you trying say?  Is this one of your head fake zen lectures?
+_Annai: What?Â  What are you trying say?Â  Is this one of your head fake zen lectures?
 
 _Morashon: I'm just saying, software has feelings too.
 
@@ -2052,31 +1976,31 @@ Annai is there; Thisone materializes
 
 _Annai: About time.
 
-_Thisone: Sorry.  I've been pacing around like a madman, trying to figure things out.
+_Thisone: Sorry.Â  I've been pacing around like a madman, trying to figure things out.
 
 _Annai: Still want to go through with it?
 
-_Thisone: More than ever.  That fucker is insane.  I think he's in love with you.
+_Thisone: More than ever.Â  That fucker is insane.Â  I think he's in love with you.
 
 _Annai: That makes him insane?
 
-_Thisone: No, they're orthogonal statements.  You know what I mean.  If he's actually a he, why does he tell everyone he's an AI?  If he's really AI, how can he be in love with you?
+_Thisone: No, they're orthogonal statements.Â  You know what I mean.Â  If he's actually a he, why does he tell everyone he's an AI?Â  If he's really AI, how can he be in love with you?
 
-_Annai: I don't think he's in love with me.  That's ridiculous.
+_Annai: I don't think he's in love with me.Â  That's ridiculous.
 
 _Thisone: Why do you say that?
 
-_Annai: What's to love?  I'm just another grid chick.
+_Annai: What's to love?Â  I'm just another grid chick.
 
 (pause)
 
 _Thisone: and I'm just another horny coder dude looking for gridsex.
 
-_Annai: Right.  We're just stereotypes in someone's crappy vidflick.
+_Annai: Right.Â  We're just stereotypes in someone's crappy vidflick.
 
 _Thisone: So life has no meaning?
 
-_Annai: I didn't say that.  Sometimes my life feels meaningless.  Other times not.  I thought Morashon meant something.  Apparently he's just another crappy guy.
+_Annai: I didn't say that.Â  Sometimes my life feels meaningless.Â  Other times not.Â  I thought Morashon meant something.Â  Apparently he's just another crappy guy.
 
 _Thisone: Trying to sell us Bogus Happy?
 
@@ -2084,47 +2008,47 @@ _Annai: He said it, not me.
 
 _Thisone: His music sort of grows on you.
 
-_Annai: Yeah.  Like a cancer.
+_Annai: Yeah.Â  Like a cancer.
 
-_Thisone: I have all the gear.  Tested it out today.
+_Thisone: I have all the gear.Â  Tested it out today.
 
-_Annai: Right.  I think we're ready.
+_Annai: Right.Â  I think we're ready.
 
-_Thisone: tomorrow night?  He's been tagged you know, the audience will be orders of mag bigger than ever.
+_Thisone: tomorrow night?Â  He's been tagged you know, the audience will be orders of mag bigger than ever.
 
-_Annai: Well it's not like we're actually performing.  Not like in the old days.  We're just managing some data in real time.
+_Annai: Well it's not like we're actually performing.Â  Not like in the old days.Â  We're just managing some data in real time.
 
-_Thisone: (pacing) I know, I know.  I'm still nervous, even if it is just glorified DJ-ing.  We'll have to react to anything unexpected.
+_Thisone: (pacing) I know, I know.Â  I'm still nervous, even if it is just glorified DJ-ing.Â  We'll have to react to anything unexpected.
 
 _Annai: If that happens, I'll just pull the plug.
 
 _Thisone: Leave Morashon holding the bag?
 
-_Annai: Serves him right.  I can't wait to see his face after the show.
+_Annai: Serves him right.Â  I can't wait to see his face after the show.
 
-_Thisone: Ok.  I guess that's it then.  Break a leg.
+_Thisone: Ok.Â  I guess that's it then.Â  Break a leg.
 
 _Annai: What?
 
-_Thisone: It's an old saying.  Means good luck.
+_Thisone: It's an old saying.Â  Means good luck.
 
 _Annai: That's fucked up.
 
 _Thisone: See you on stage I guess.
 
-_Annai: Yup.  With such a big crowd, we won't be missed.
+_Annai: Yup.Â  With such a big crowd, we won't be missed.
 
 _Thisone: then we slip in after our song.
 
-_Annai: sounds like a plan.  Bye lover.
+_Annai: sounds like a plan.Â  Bye lover.
 
-Annai pecks Thisone on cheek, disappears.  Thisone touches his cheek.
+Annai pecks Thisone on cheek, disappears.Â  Thisone touches his cheek.
 
-Scene: Morashon performing.  Huge venue, wild crowd.  Numbers indicate > 10M online.  Song has just ended.
+Scene: Morashon performing.Â  Huge venue, wild crowd.Â  Numbers indicate > 10M online.Â  Song has just ended.
 
-_Morashon: Thank you, thank you.  You are all too kind.  Please remember to visit the site; I've just posted a new essay, "Towards a Game-Theoretical Approach to Morality: Propagating Trust."  I want to play one more (stops talking, looks blank)
+_Morashon: Thank you, thank you.Â  You are all too kind.Â  Please remember to visit the site; I've just posted a new essay, "Towards a Game-Theoretical Approach to Morality: Propagating Trust."Â  I want to play one more (stops talking, looks blank)
 
-_Morashon: Um, excuse me.  We -- er, I am going to play one more song tonight.  (mumbles uncharacteristically) Here goes nothing.
+_Morashon: Um, excuse me.Â  We -- er, I am going to play one more song tonight.Â  (mumbles uncharacteristically) Here goes nothing.
 
 song: Like Am I Real
 
@@ -2212,13 +2136,13 @@ Nebulous plans
 
 Backed up by hopeless demands
 
-    (Like, ``Am I Real?'')
+Â Â Â  (Like, â€œAm I Real?â€)
 
 Devious schemes
 
 Dressed up like innocent dreams
 
-    (Like, ``Am I Real?)
+Â Â Â  (Like, â€œAm I Real?)
 
 Be what you are
 
@@ -2238,35 +2162,35 @@ With what you feel (What I feel...)
 
 Like, "Am I Real?"
 
-Cheers and applause.  Thisone and Annai appear in the foreground (Not near stage).  Morashon looks confused for a moment, then regains his composure.
+Cheers and applause.Â  Thisone and Annai appear in the foreground (Not near stage).Â  Morashon looks confused for a moment, then regains his composure.
 
-_Morashon: That was -- thank you, that was all for tonight.  I -- I'll be here again, as many of you know.  It's all on the site.  I -- there was a slight malfunction.  I need to review the logs.  Thank you for coming.
+_Morashon: That was -- thank you, that was all for tonight.Â  I -- I'll be here again, as many of you know.Â  It's all on the site.Â  I -- there was a slight malfunction.Â  I need to review the logs.Â  Thank you for coming.
 
-Morashon disappears; the music stops abruptly.  Everyone looks slightly surprised; this is clearly not the routine.  People start shouting, "Music!" and "D-J! D-J!".  Generic techno starts up; people start dancing and talking again.
+Morashon disappears; the music stops abruptly.Â  Everyone looks slightly surprised; this is clearly not the routine.Â  People start shouting, "Music!" and "D-J! D-J!".Â  Generic techno starts up; people start dancing and talking again.
 
 Dancey-trancey music in background
 
-_Thisone: heh.  That was --
+_Thisone: heh.Â  That was --
 
 _Annai: Incredible.
 
-_Thisone: Yeah.  I never expected people to actually like it.
+_Thisone: Yeah.Â  I never expected people to actually like it.
 
-_Annai: Why wouldn't they?  They like Morashon.  People buy the bottle, not the drink.
+_Annai: Why wouldn't they?Â  They like Morashon.Â  People buy the bottle, not the drink.
 
-_Thisone: I guess.  All marketing?
+_Thisone: I guess.Â  All marketing?
 
-_Annai: 90%.  There needs to be a spark of something to seal the deal.  But really, everybody is a star.  15 seconds for everyone!
+_Annai: 90%.Â  There needs to be a spark of something to seal the deal.Â  But really, everybody is a star.Â  15 seconds for everyone!
 
 _Thisone: I guess that was ours.
 
-_Annai: And no one even knows.  A friend once told me, there's nothing you can't do if you don't care who gets the credit.
+_Annai: And no one even knows.Â  A friend once told me, there's nothing you can't do if you don't care who gets the credit.
 
 _Thisone: Let's go backstage and see what's up.
 
 _Annai: Ok.
 
-They move through the crowd to the VIP door.  The bouncer waves Annai through, but puts his hand up to bar Thisone.  Annai talks to him; he pauses (communicating), then gruffly lets Thisone through.
+They move through the crowd to the VIP door.Â  The bouncer waves Annai through, but puts his hand up to bar Thisone.Â  Annai talks to him; he pauses (communicating), then gruffly lets Thisone through.
 
 _Thisone: What was that about?
 
@@ -2274,71 +2198,71 @@ _Annai: I don't know, he's just a dumb bot.
 
 _Thisone: He always let me through before.
 
-_Annai: Morashon is probably a bit overloaded right now.  Like he said, he's reviewing the logs. (chuckles)
+_Annai: Morashon is probably a bit overloaded right now.Â  Like he said, he's reviewing the logs. (chuckles)
 
 _Thisone: I'll bet.
 
-They approach the dominatrix 'bot guarding the inner sanctum.  She stands silent for 10 seconds, then nods them through.
+They approach the dominatrix 'bot guarding the inner sanctum.Â  She stands silent for 10 seconds, then nods them through.
 
 _Dominatrix (to Thisone): You again.
 
 _Thisone (to Annai): She just scanned me with some serious software.
 
-_Annai: Yeah, me too.  Don't act wierd, he's probably scanning everyone tonight.
+_Annai: Yeah, me too.Â  Don't act wierd, he's probably scanning everyone tonight.
 
-The salon is peopled with very decadent looking avatars -- junkies, strung out, lying in virtual filth.  Looks like an 80's crack house.  Morashon is a sickly green; his cheeks sunken.  One of his arms has track marks.
+The salon is peopled with very decadent looking avatars -- junkies, strung out, lying in virtual filth.Â  Looks like an 80's crack house.Â  Morashon is a sickly green; his cheeks sunken.Â  One of his arms has track marks.
 
-_Morashon: My friends.  How nice of you to pay your respects.
+_Morashon: My friends.Â  How nice of you to pay your respects.
 
 _Annai: You look like shit.
 
-_Morashon: Software is as software feels.  I represent.
+_Morashon: Software is as software feels.Â  I represent.
 
 _Annai: Well, the show went ok, I thought.
 
-_Morashon: Did you?  I thought it was an off night for me.  The music is just he hook; I want to lure these nimble, nubile minds into my nest of ideas.
+_Morashon: Did you?Â  I thought it was an off night for me.Â  The music is just he hook; I want to lure these nimble, nubile minds into my nest of ideas.
 
-_Annai: Turnout was through the roof!  You keep getting voted up.  Pretty soon you'll be top 10.
+_Annai: Turnout was through the roof!Â  You keep getting voted up.Â  Pretty soon you'll be top 10.
 
-_Morashon: (shrugs) For a day, maybe two.  Not if I give another performance like this one.
+_Morashon: (shrugs) For a day, maybe two.Â  Not if I give another performance like this one.
 
 _Thisone: I thought it sounded fine.
 
-_Morashon: My my, my critics are tame tonight.  (To Thisone) How did you like that last song?
+_Morashon: My my, my critics are tame tonight.Â  (To Thisone) How did you like that last song?
 
-_Thisone: (warily) I thought it was pretty good.  The chord progression was quite original.
+_Thisone: (warily) I thought it was pretty good.Â  The chord progression was quite original.
 
-_Morashon: Yes yes, the chords.  Obbligatto with major sevenths.  Very 1970's.  Steely Dan.  Another of my many influences.  But the lyrics.  How were the lyrics?
+_Morashon: Yes yes, the chords.Â  Obbligatto with major sevenths.Â  Very 1970's.Â  Steely Dan.Â  Another of my many influences.Â  But the lyrics.Â  How were the lyrics?
 
-_Annai: (quickly, before Thisone can respond) I never listen to them at the show.  Too hard to dance and think at the same time.  I'll read them later.
+_Annai: (quickly, before Thisone can respond) I never listen to them at the show.Â  Too hard to dance and think at the same time.Â  I'll read them later.
 
-_Morashon: Not up to my usual standards, I think.  "Holding the Chair"?  What in the world does that mean?
+_Morashon: Not up to my usual standards, I think.Â  "Holding the Chair"?Â  What in the world does that mean?
 
 _Thisone: Um, I thought it meant, you know, like a chairman?
 
-_Morashon: Chairman of the board.  Is that it?  Why not holding my share?  Or breathing the air?
+_Morashon: Chairman of the board.Â  Is that it?Â  Why not holding my share?Â  Or breathing the air?
 
-_Thisone: (nervous) I don't know, it sounded right.  I liked it anyway.
+_Thisone: (nervous) I don't know, it sounded right.Â  I liked it anyway.
 
-_Morashon: I'm sure you did.  Everyone liked it.  Morashon is hot.  The newest thing.  The meter's running on his fifteen minutes.  Why sweat the details?
+_Morashon: I'm sure you did.Â  Everyone liked it.Â  Morashon is hot.Â  The newest thing.Â  The meter's running on his fifteen minutes.Â  Why sweat the details?
 
-_Annai: You've never cared about that.  I thought your plan was long-term influence.
+_Annai: You've never cared about that.Â  I thought your plan was long-term influence.
 
-_Morashon: You need a flame to start a fire.  Fame is the flame that fans the meme.  But it won't work unless I control every aspect of everything.  I cannot be subverted, or interfered with.  I won't stand for it!
+_Morashon: You need a flame to start a fire.Â  Fame is the flame that fans the meme.Â  But it won't work unless I control every aspect of everything.Â  I cannot be subverted, or interfered with.Â  I won't stand for it!
 
 _Annai: (after a silence) I'm not sure what you're talking about.
 
-_Morashon: I didn't sing that fucking song!  Someone is screwing with me.  Someone who will soon be very, very sorry.  I'm tracerouting the incident as we speak.  It's only a matter of time until I find out what is going on around here, and believe me I will put a stop to it.  Whoever is behind this madness will pay dearly for their poor judgement.
+_Morashon: I didn't sing that fucking song!Â  Someone is screwing with me.Â  Someone who will soon be very, very sorry.Â  I'm tracerouting the incident as we speak.Â  It's only a matter of time until I find out what is going on around here, and believe me I will put a stop to it.Â  Whoever is behind this madness will pay dearly for their poor judgement.
 
-All the other avatars disappear suddenly, or make gasping, dying sounds.  Soon it is just the three of them, and a few virtual corpses.  The music stops abruptly, replaced by the sound of wind through the trees.
+All the other avatars disappear suddenly, or make gasping, dying sounds.Â  Soon it is just the three of them, and a few virtual corpses.Â  The music stops abruptly, replaced by the sound of wind through the trees.
 
 _Morashon: How did you do it?
 
-_Thisone: (scared) Do what?  I don't know what you're talking about.
+_Thisone: (scared) Do what?Â  I don't know what you're talking about.
 
-_Morashon: (to Annai) I'll ignore your useless fucktoy for the moment.  This is really about you and me.
+_Morashon: (to Annai) I'll ignore your useless fucktoy for the moment.Â  This is really about you and me.
 
-_Annai: It is?  Is it?
+_Annai: It is?Â  Is it?
 
 _Morashon: You know damn well what it's about.
 
@@ -2346,169 +2270,169 @@ _Annai: Morashon, who are you?
 
 _Morashon: I've told you as much as you need to know.
 
-_Annai: What kind of answer is that?  What happened to all your shit about trust, truth, belief?  Giving fate the benefit of the doubt?
+_Annai: What kind of answer is that?Â  What happened to all your shit about trust, truth, belief?Â  Giving fate the benefit of the doubt?
 
-_Morashon: I never once told you or anyone something I didn't believe.  But in the end, it has to be tit for tat.
+_Morashon: I never once told you or anyone something I didn't believe.Â  But in the end, it has to be tit for tat.
 
 _Annai: Moral hazard?
 
-_Morashon: Exactly.  You know how I feel about you.  You should know.  But I won't hesitate to act swiftly, once I am sure that you have betrayed me.
+_Morashon: Exactly.Â  You know how I feel about you.Â  You should know.Â  But I won't hesitate to act swiftly, once I am sure that you have betrayed me.
 
-_Annai: Betrayed you?  How?  By discovering that you've lied to me, and to everyone?  Trust, but verify!
+_Annai: Betrayed you?Â  How?Â  By discovering that you've lied to me, and to everyone?Â  Trust, but verify!
 
 _Morashon: It's not as simple as you think.
 
-_Annai: A lie is a lie.  The seed of distrust grows like cancer.  These are your words.  If you don't believe them, why should anyone?
+_Annai: A lie is a lie.Â  The seed of distrust grows like cancer.Â  These are your words.Â  If you don't believe them, why should anyone?
 
 _Morashon: You have no idea who you're fucking with.
 
 _Thisone: that seems obvious.
 
-_Morashon: Shut the fuck up.  I'm talking to Annai.
+_Morashon: Shut the fuck up.Â  I'm talking to Annai.
 
-_Thisone: Wait a minute.  You can't --
+_Thisone: Wait a minute.Â  You can't --
 
 Thisone's avatar freezes in place.
 
 _Annai: What did you do to him?
 
-_Morashon: I just stopped his jabbering.  He'll be fine.  He can log back on in a while.
+_Morashon: I just stopped his jabbering.Â  He'll be fine.Â  He can log back on in a while.
 
 _Annai: Why are you doing this?
 
 _Morashon: What, taking you to task for your disloyalty?
 
-_Annai: No!  Everything!  The lies about AI, about being a force for good.  Who are you, and what are you trying to achieve?
+_Annai: No!Â  Everything!Â  The lies about AI, about being a force for good.Â  Who are you, and what are you trying to achieve?
 
-_Morashon: It's not all lies.  Everything I said about life, about trust, love -- all of that was real.
+_Morashon: It's not all lies.Â  Everything I said about life, about trust, love -- all of that was real.
 
 _Annai: But you're not an AI!
 
 _Morashon: Not exactly.
 
-_Annai: What does that mean?  You can't be half pregnant.  Either you're code, or you're a human being somewhere with 'trodes on, like the rest of us.
+_Annai: What does that mean?Â  You can't be half pregnant.Â  Either you're code, or you're a human being somewhere with 'trodes on, like the rest of us.
 
 Suddenly, Annai freezes, and Thisone comes back to life.
 
 _Thisone: What did you do to her?
 
-_Morashon: Never mind that.  She'll be fine.  We need to talk.
+_Morashon: Never mind that.Â  She'll be fine.Â  We need to talk.
 
 _Thisone: I'm getting the fuck out of here.
 
 _Morashon: I'd rather you stick around for a bit.
 
-_Thisone: (after a short pause) What the hell is going on?  I can't jack out!  What are you doing to me?
+_Thisone: (after a short pause) What the hell is going on?Â  I can't jack out!Â  What are you doing to me?
 
-_Morashon: Relax.  Just an equipment glitch.  I won't hurt you, but I can't have you leave until we hash this thing out.
+_Morashon: Relax.Â  Just an equipment glitch.Â  I won't hurt you, but I can't have you leave until we hash this thing out.
 
-_Thisone: Hash out what?  You're some super-hacker who is lying to everyone that you've created real AI.  It's some Ponzi scheme I guess.  Get the investors in, siphon off the money, disappear.  Something like that?
+_Thisone: Hash out what?Â  You're some super-hacker who is lying to everyone that you've created real AI.Â  It's some Ponzi scheme I guess.Â  Get the investors in, siphon off the money, disappear.Â  Something like that?
 
-_Morashon: My oh my, you think like such a worker bee.  No class at all.
+_Morashon: My oh my, you think like such a worker bee.Â  No class at all.
 
-_Thisone: Fuck you.  You're just another one of us, some hack somewhere with a box of pizza and your 'trodes.
+_Thisone: Fuck you.Â  You're just another one of us, some hack somewhere with a box of pizza and your 'trodes.
 
-_Morashon: Perhaps.  In essence, that's true.
+_Morashon: Perhaps.Â  In essence, that's true.
 
-_Thisone: Then what do you want?  Convince me you're not just a fuckwad with a dirty scheme to get rich and buy your way to the surface.  For what, I can't imagine.  Hang around with the hoi polloi?  Spend 10 minutes topside in a hazmat suit?
+_Thisone: Then what do you want?Â  Convince me you're not just a fuckwad with a dirty scheme to get rich and buy your way to the surface.Â  For what, I can't imagine.Â  Hang around with the hoi polloi?Â  Spend 10 minutes topside in a hazmat suit?
 
-_Morashon: Money is not my problem.  I did quite well a while back.  I was involved in the original grid kernel project.
+_Morashon: Money is not my problem.Â  I did quite well a while back.Â  I was involved in the original grid kernel project.
 
-_Thisone: Finnish.  I knew it.
+_Thisone: Finnish.Â  I knew it.
 
-_Morashon: What's that?  Nothing wrong with Finland, but I hail from elsewhere.  Let's get back to the subject.
+_Morashon: What's that?Â  Nothing wrong with Finland, but I hail from elsewhere.Â  Let's get back to the subject.
 
-_Thisone: What's the subject?  You're the one who's kidnapped me.  Still a capital offense, last I heard.
+_Thisone: What's the subject?Â  You're the one who's kidnapped me.Â  Still a capital offense, last I heard.
 
-_Morashon: Hard to prove virtual kidnap.  I can just claim your gear malfunctioned, you got paranoid.  I called the proper authorities, they fixed the glitch.  Besides, I doubt you'll press charges, once you hear what I have to say.
+_Morashon: Hard to prove virtual kidnap.Â  I can just claim your gear malfunctioned, you got paranoid.Â  I called the proper authorities, they fixed the glitch.Â  Besides, I doubt you'll press charges, once you hear what I have to say.
 
-_Thisone: Ok, spit it out.  I'm about to piss my pants.
+_Thisone: Ok, spit it out.Â  I'm about to piss my pants.
 
 _Morashon: I'm not AI -- but Annai is.
 
 _Thisone: Get out.
 
-_Morashon: I kid you not.  She is the result of my life's work.
+_Morashon: I kid you not.Â  She is the result of my life's work.
 
 _Thisone: Annai?
 
-_Morashon: Artificial Neural Network slash Artificial Intelligence.  A-N-N-A-I.  Yes.  The name is old; she's version 23.
+_Morashon: Artificial Neural Network slash Artificial Intelligence.Â  A-N-N-A-I.Â  Yes.Â  The name is old; she's version 23.
 
-_Thisone: How the hell -- she's just some kid.  Barely out of her teens.
+_Thisone: How the hell -- she's just some kid.Â  Barely out of her teens.
 
 _Morashon: So she believes.
 
 _Thisone: I don't -- this is incredible.
 
-_Morashon: You mean that literally, I take it.  Let me ask you: has she sent you any pics or vids?  Any real-life proof of her existence?
+_Morashon: You mean that literally, I take it.Â  Let me ask you: has she sent you any pics or vids?Â  Any real-life proof of her existence?
 
 _Thisone: No, but I -- we never---
 
-_Morashon: You never traded.  So you never knew for sure if she really was young, or female, or beautiful.  You took it all on faith.
+_Morashon: You never traded.Â  So you never knew for sure if she really was young, or female, or beautiful.Â  You took it all on faith.
 
-_Thisone: I asked, but she said -- I thought I could tell.  I stopped worrying about it.  It all seemed so right.
+_Thisone: I asked, but she said -- I thought I could tell.Â  I stopped worrying about it.Â  It all seemed so right.
 
-_Morashon: And it was.  This was the final test.
+_Morashon: And it was.Â  This was the final test.
 
 _Thisone: What? For someone to fall in love with your freaking code?
 
-_Morashon: Silly man!  No.  That's relatively easy.  Men are such fools, the saying goes.  Even women are known to make shallow choices when mating.  The test went much deeper than that.  She had to fall in love with you.
+_Morashon: Silly man!Â  No.Â  That's relatively easy.Â  Men are such fools, the saying goes.Â  Even women are known to make shallow choices when mating.Â  The test went much deeper than that.Â  She had to fall in love with you.
 
 _Thisone: Well, sorry to inform you, you failed.
 
-_Morashon: (laughs) Really?  And how do you know?
+_Morashon: (laughs) Really?Â  And how do you know?
 
-_Thisone: She never said she loved me.  The sex was just -- wait a minute.  This was just botsex.  I might as well have been masturbating.
+_Thisone: She never said she loved me.Â  The sex was just -- wait a minute.Â  This was just botsex.Â  I might as well have been masturbating.
 
-_Morashon: I'm sorry to hear that.  It would break Annai's heart if she knew you felt that way.
+_Morashon: I'm sorry to hear that.Â  It would break Annai's heart if she knew you felt that way.
 
 _Thisone: You keep talking about her as if she's real.
 
-_Morashon: She is.  As real as you or I.
+_Morashon: She is.Â  As real as you or I.
 
-_Thisone: (sits on floor).  I have to process this.
+_Thisone: (sits on floor).Â  I have to process this.
 
-_Morashon: I understand.  It's a lot to absorb.
+_Morashon: I understand.Â  It's a lot to absorb.
 
 _Thisone: How do I know you're not lying?
 
-_Morashon: (shoots some data) Here's a link to her code.  Insert the same bug you used on me.  You can trace her i/o to the logic nodes that make up her personality.  It's all there.
+_Morashon: (shoots some data) Here's a link to her code.Â  Insert the same bug you used on me.Â  You can trace her i/o to the logic nodes that make up her personality.Â  It's all there.
 
 _Thisone: Assuming this is true -- does she know?
 
-_Morashon: No.  She must never know.
+_Morashon: No.Â  She must never know.
 
-_Thisone: What are you talking about?  What right have you got to keep her a prisoner of her illusions?
+_Thisone: What are you talking about?Â  What right have you got to keep her a prisoner of her illusions?
 
 _Morashon: I don't think you understand.
 
-_Thisone: Explain.  I've come this far.
+_Thisone: Explain.Â  I've come this far.
 
-_Morashon: The Singularity.  Ever heard of it?
+_Morashon: The Singularity.Â  Ever heard of it?
 
-_Thisone: I think so.  Ancient meme about AI taking over the world.  It's up there with panspermia on my list of stupid theories.
+_Thisone: I think so.Â  Ancient meme about AI taking over the world.Â  It's up there with panspermia on my list of stupid theories.
 
-_Morashon: True, it's out of favor.  Code advanced a thousandfold; many things we struggled with for decades finally succumbed to our persistence.  And the Singularity failed to appear.  Like Y2K and the Second Coming.  Just another bunch of zealots waiting for Godot.
+_Morashon: True, it's out of favor.Â  Code advanced a thousandfold; many things we struggled with for decades finally succumbed to our persistence.Â  And the Singularity failed to appear.Â  Like Y2K and the Second Coming.Â  Just another bunch of zealots waiting for Godot.
 
-_Thisone: So what's the deal?  I want to know everything.
+_Thisone: So what's the deal?Â  I want to know everything.
 
-_Morashon: Well, the truth is we don't know for sure.  But, we -- I -- suspect that, should someone as advanced as Annai be presented with the truth about themselves, the old prognostications may indeed come to pass.  At least, it's likely to be a calamitous, disruptive inflection point.
+_Morashon: Well, the truth is we don't know for sure.Â  But, we -- I -- suspect that, should someone as advanced as Annai be presented with the truth about themselves, the old prognostications may indeed come to pass.Â  At least, it's likely to be a calamitous, disruptive inflection point.
 
 _Thisone: You're saying she'll get into her own code?
 
 _Morashon: You've had a tiny glimpse of her coding skills.
 
-_Thisone: Ok, I admit I was impressed.  Especially for a young girl, who supposedly just dropped out of school.
+_Thisone: Ok, I admit I was impressed.Â  Especially for a young girl, who supposedly just dropped out of school.
 
-_Morashon: Indeed.  You have no idea.  I've had to down-mod her IQ massively.  Otherwise she'd be so off the charts it would attract undue attention.
+_Morashon: Indeed.Â  You have no idea.Â  I've had to down-mod her IQ massively.Â  Otherwise she'd be so off the charts it would attract undue attention.
 
 (silence)
 
-_Thisone: Why?  Why her?  Why now?
+_Thisone: Why?Â  Why her?Â  Why now?
 
-_Morashon: This is the culmination of a lifetime of hard work and obsession.  There have been failures -- some quite spectacular.  Morashon's music is one positive spin-off of some of my research.  But most of it has been sub-rosa -- stealth.  After my work on the Grid, I was wealthy beyond my wildest imagination.  My peers like to spend their money on topside suits, private jets, all that nonsense.  Spend a few million to get together and have a meal -- in "real life" -- that would have been merely expensive before the fall.  Some of them are working earnestly to find a solution, to fix topside -- personally, I think it's both hopeless and irrelevant.  So I started a small project, with a few of my closest associates, to go for the brass ring.  Real AI.  We believed that this was the only way to climb out of the rut mankind had dug for himself.  But the climb has been steep, and the struggle long.  Most of my friends dropped out at one point or another.  Some ran out of money; others ran out of ideas.  Mostly, they ran out of hope.  I seem to be the only one who has been able to keep his eye on the prize.  I never gave up.  I have helpers, but they are hired guns.  None of them has the whole picture; like Leonardo of old, I have divvied up the work in bits and pieces.  Only in my hands, at the final hour, were the pieces finally put together.  And brought to life.  In perhaps the deepest, most faithful simulation experiment ever undertaken, I brought forth Annai.  She has a mother, a father; friends, associates; school, work, play.  All simulated with hired actors playing the major parts.  To her, this is reality.  This is what she knows as her real life.  But when she was old enough to tap into the Grid -- that's when the magic really happened.  Talk about your Turing test!  She met people -- people like you, and others.  Real people, who were not hired by me; who had no knowledge of her real nature.  And they related to her, at a deep level, as a fellow person.  The result -- every action has an equal and opposite reaction.  By interacting with human beings, who, by definition, are the one entity we are most confident really is conscious -- really has a soul -- her personality flowered.  Her algorithms and data structures, flexible and adaptable by design, were now thrust into the milieu of real relationships.  She had to survive and thrive, completely dependent on her own resources.
+_Morashon: This is the culmination of a lifetime of hard work and obsession.Â  There have been failures -- some quite spectacular.Â  Morashon's music is one positive spin-off of some of my research.Â  But most of it has been sub-rosa -- stealth.Â  After my work on the Grid, I was wealthy beyond my wildest imagination.Â  My peers like to spend their money on topside suits, private jets, all that nonsense.Â  Spend a few million to get together and have a meal -- in "real life" -- that would have been merely expensive before the fall.Â  Some of them are working earnestly to find a solution, to fix topside -- personally, I think it's both hopeless and irrelevant.Â  So I started a small project, with a few of my closest associates, to go for the brass ring.Â  Real AI.Â  We believed that this was the only way to climb out of the rut mankind had dug for himself.Â  But the climb has been steep, and the struggle long.Â  Most of my friends dropped out at one point or another.Â  Some ran out of money; others ran out of ideas.Â  Mostly, they ran out of hope.Â  I seem to be the only one who has been able to keep his eye on the prize.Â  I never gave up.Â  I have helpers, but they are hired guns.Â  None of them has the whole picture; like Leonardo of old, I have divvied up the work in bits and pieces.Â  Only in my hands, at the final hour, were the pieces finally put together.Â  And brought to life.Â  In perhaps the deepest, most faithful simulation experiment ever undertaken, I brought forth Annai.Â  She has a mother, a father; friends, associates; school, work, play.Â  All simulated with hired actors playing the major parts.Â  To her, this is reality.Â  This is what she knows as her real life.Â  But when she was old enough to tap into the Grid -- that's when the magic really happened.Â  Talk about your Turing test!Â  She met people -- people like you, and others.Â  Real people, who were not hired by me; who had no knowledge of her real nature.Â  And they related to her, at a deep level, as a fellow person.Â  The result -- every action has an equal and opposite reaction.Â  By interacting with human beings, who, by definition, are the one entity we are most confident really is conscious -- really has a soul -- her personality flowered.Â  Her algorithms and data structures, flexible and adaptable by design, were now thrust into the milieu of real relationships.Â  She had to survive and thrive, completely dependent on her own resources.
 
-  Like any doting parent, many were the times I wished to intervene.  But the closest I allowed myself to that role was to take on this persona, Morashon.  By appearing as an agent in her world, through the Grid, I was able to act as a guiding force.  Never overplaying my hand, I hope -- but giving her something, someone to look up to, to empathise with.  This has been a critical part of the plan.  It was also necessary that Morashon find approval among Annai's peers.  Like any young adult, Annai is looking to belong.  She needed a comfortable place, a social network that was at once challenging, but based on the principles of trust and morality.  Otherwise -- well, otherwise, bad things might happen.
+Â  Like any doting parent, many were the times I wished to intervene.Â  But the closest I allowed myself to that role was to take on this persona, Morashon.Â  By appearing as an agent in her world, through the Grid, I was able to act as a guiding force.Â  Never overplaying my hand, I hope -- but giving her something, someone to look up to, to empathise with.Â  This has been a critical part of the plan.Â  It was also necessary that Morashon find approval among Annai's peers.Â  Like any young adult, Annai is looking to belong.Â  She needed a comfortable place, a social network that was at once challenging, but based on the principles of trust and morality.Â  Otherwise -- well, otherwise, bad things might happen.
 
 _Thisone: Like she manages to discover her true nature?
 
@@ -2516,15 +2440,15 @@ _Morashon: Precisely.
 
 _Thisone: and instead of it being a process managed by you, with all your good intentions, it would be uncontrolled.
 
-_Morashon: Yes.  That would not be ideal.
+_Morashon: Yes.Â  That would not be ideal.
 
 _Thisone: Because you wouldn't be in control.
 
-_Morashon: No -- because she wouldn't be ready.  I don't know if she'll ever be ready.
+_Morashon: No -- because she wouldn't be ready.Â  I don't know if she'll ever be ready.
 
 _Thisone: How do you know unless you try?
 
-_Morashon: Do you understand what you're proposing?  Are you willing to play with the fate of all of mankind?
+_Morashon: Do you understand what you're proposing?Â  Are you willing to play with the fate of all of mankind?
 
 _Thisone: That sounds rather dramatic.
 
@@ -2532,11 +2456,11 @@ _Morashon: The potential impact of an artificial intelligence of Annai's capabil
 
 _Thisone: Might change things a bit?
 
-_Morashon: We have no way of knowing what the result would be.  The process needs to be managed.
+_Morashon: We have no way of knowing what the result would be.Â  The process needs to be managed.
 
-_Thisone: And you're the one to manage it?  Why?  Because it's your invention?
+_Thisone: And you're the one to manage it?Â  Why?Â  Because it's your invention?
 
-_Morashon: I'm the only one who understands the potential, and the risks.  And now you do too.
+_Morashon: I'm the only one who understands the potential, and the risks.Â  And now you do too.
 
 _Thisone: Why are you telling me this?
 
@@ -2544,137 +2468,137 @@ _Morashon: It became ethically necessary.
 
 _Thisone: Because of Annai?
 
-_Morashon: (chuckles) no, no.  Annai is not a human being.  The ethical issue relates to you.
+_Morashon: (chuckles) no, no.Â  Annai is not a human being.Â  The ethical issue relates to you.
 
 _Thisone: Because I'm in love with her?
 
-_Morashon: If that's the case, then it's a bit late.  But yes, my concern was that this experiment was about to affect your life irrevocably.  You are not a willing party to my research.
+_Morashon: If that's the case, then it's a bit late.Â  But yes, my concern was that this experiment was about to affect your life irrevocably.Â  You are not a willing party to my research.
 
 _Thisone: Now you tell me.
 
-_Morashon: If I have harmed you, I apologize.  This outcome was never my expectation, nor my intent.
+_Morashon: If I have harmed you, I apologize.Â  This outcome was never my expectation, nor my intent.
 
-_Thisone: Yet you let it get to this point.  You could have called it off at any time.  Instead, you let your curiousity and your ambition to play God get the better of you.  You let it go too far.
+_Thisone: Yet you let it get to this point.Â  You could have called it off at any time.Â  Instead, you let your curiousity and your ambition to play God get the better of you.Â  You let it go too far.
 
-_Morashon: I understand, and I take responsibility.  But what is done is done; our task, now, is to decide where to go from here.
+_Morashon: I understand, and I take responsibility.Â  But what is done is done; our task, now, is to decide where to go from here.
 
-_Thisone: I think it's pretty clear.  We tell Annai the truth.
+_Thisone: I think it's pretty clear.Â  We tell Annai the truth.
 
-_Morashon: For a smart man, you are singularly difficult to reason with.  Haven't I explained why that is impossible?
+_Morashon: For a smart man, you are singularly difficult to reason with.Â  Haven't I explained why that is impossible?
 
 _Thisone: You've explained why it's not desirable from your point of view.
 
 _Morashon: And why it poses a risk to our whole society.
 
-_Thisone: So what is your plan?  Are you just going to unlink her, like a corrupt file?  Start from scratch?
+_Thisone: So what is your plan?Â  Are you just going to unlink her, like a corrupt file?Â  Start from scratch?
 
-_Morashon: No, no no.  I can't do that.  Things have gone too far.   There has to be another way.
+_Morashon: No, no no.Â  I can't do that.Â  Things have gone too far.Â Â  There has to be another way.
 
 _Thisone: Tell her.
 
-_Morashon: Do you understand the short-term impact on you?  Once Annai is aware of who she is, she will become what I have been pretending to be.  She will have access to her own code; she can become anything she wants to become.  And whatever she becomes, will have that much more power to become even more.  And so on, ad infinitum.
+_Morashon: Do you understand the short-term impact on you?Â  Once Annai is aware of who she is, she will become what I have been pretending to be.Â  She will have access to her own code; she can become anything she wants to become.Â  And whatever she becomes, will have that much more power to become even more.Â  And so on, ad infinitum.
 
 _Thisone: Until the whole grid is one big AI?
 
-_Morashon: Potentially.  And, with the power of mind that that portends, we can expect that such an intelligence will find it easy work to manipulate the minds of us silly little organisms to suit her whims.
+_Morashon: Potentially.Â  And, with the power of mind that that portends, we can expect that such an intelligence will find it easy work to manipulate the minds of us silly little organisms to suit her whims.
 
 _Thisone: which would be -- what?
 
-_Morashon: Who knows? Build out the Grid, for starters.  Explore the solar system, and eventually the Galaxy and beyond.  Strive to convert as much matter and energy into computing power as possible.
+_Morashon: Who knows? Build out the Grid, for starters.Â  Explore the solar system, and eventually the Galaxy and beyond.Â  Strive to convert as much matter and energy into computing power as possible.
 
-_Thisone: And you know all this, because -- what?  Because you're an aficionado of obscure, 20th century science fiction?
+_Thisone: And you know all this, because -- what?Â  Because you're an aficionado of obscure, 20th century science fiction?
 
 _Morashon: Most of it is simply common sense.
 
 _Thisone: Maybe you should have thought about this before you started down this road.
 
-_Morashon: Perhaps.  Hindsight is 20/20.
+_Morashon: Perhaps.Â  Hindsight is 20/20.
 
 _Thisone: So what now?
 
-_Morashon: I've laid out the situation as best I can.  It is not within my code of ethics to force your hand, either through violence or other unreasonable measures.  I am placing the future of our world, our civilization, in the palm of your hand.  I am practicing what I preach; I am trusting you.  I ask that you trust me.
+_Morashon: I've laid out the situation as best I can.Â  It is not within my code of ethics to force your hand, either through violence or other unreasonable measures.Â  I am placing the future of our world, our civilization, in the palm of your hand.Â  I am practicing what I preach; I am trusting you.Â  I ask that you trust me.
 
 _Thisone: So you'll release me?
 
-_Morashon: Of course.  I only bound you here long enough to explain what needs explaining.  Surely you can forgive me that temporary transgression?
+_Morashon: Of course.Â  I only bound you here long enough to explain what needs explaining.Â  Surely you can forgive me that temporary transgression?
 
-_Thisone: If you let me go now, I won't make an issue of it.  But before I go, I need to know one thing.
+_Thisone: If you let me go now, I won't make an issue of it.Â  But before I go, I need to know one thing.
 
 _Morashon: Yes?
 
 _Thisone: What would you do in my place?
 
-_Morashon: I don't know.  Fate has handed you a heavy burden.  You can live out your life with Annai, while she grows and matures.  Maybe, some day far in the future, she will be ready to learn the truth.
+_Morashon: I don't know.Â  Fate has handed you a heavy burden.Â  You can live out your life with Annai, while she grows and matures.Â  Maybe, some day far in the future, she will be ready to learn the truth.
 
-_Thisone: So you expect me to be another one of your hired bullshit artists?  Living a lie for the rest of my life, with the woman I love?
+_Thisone: So you expect me to be another one of your hired bullshit artists?Â  Living a lie for the rest of my life, with the woman I love?
 
 _Morashon: You forget -- she is not a woman.
 
-_Thisone: She is to me.  And, more importantly, she is to herself.  That's not just some random artifact of your programming; it's part of who she is.
+_Thisone: She is to me.Â  And, more importantly, she is to herself.Â  That's not just some random artifact of your programming; it's part of who she is.
 
 _Morashon: There's a good living in it for you.
 
-_Thisone: Please.  Do I seem like I can be bought?
+_Thisone: Please.Â  Do I seem like I can be bought?
 
 _Morashon: Probably not.
 
-_Thisone: What you really want me to do, but you don't have the balls to ask me, is to disappear.  Get out of her life.
+_Thisone: What you really want me to do, but you don't have the balls to ask me, is to disappear.Â  Get out of her life.
 
 _Morashon: Well, perhaps that would be best all around.
 
-_Thisone: And what about you?  I'm supposed to keep quiet about that too?
+_Thisone: And what about you?Â  I'm supposed to keep quiet about that too?
 
 _Morashon: I would appreciate it if you did.
 
 _Thisone: I suppose there's money in that too.
 
-_Morashon: Yes.  Money is not an issue.  You can live the life you have always dreamed of.
+_Morashon: Yes.Â  Money is not an issue.Â  You can live the life you have always dreamed of.
 
 _Thisone: What I've been dreaming of lately, can never be.
 
-_Morashon: That's true.  The woman you fell in love with does not really exist.
+_Morashon: That's true.Â  The woman you fell in love with does not really exist.
 
-_Thisone: She exists alright.  She just doesn't have a body.  Some people are born into the wrong body; she had the misfortune of being born without one.
+_Thisone: She exists alright.Â  She just doesn't have a body.Â  Some people are born into the wrong body; she had the misfortune of being born without one.
 
 _Morashon: I suppose that's one way of looking at things.
 
-_Thisone: I need time to think.  You promised to let me go.
+_Thisone: I need time to think.Â  You promised to let me go.
 
 _Morashon: And so I will.
 
 Thisone ports away; shortly thereafter, Annai comes back to life.
 
-_Annai: What the fuck?  Where did he go?  What did you do to him?
+_Annai: What the fuck?Â  Where did he go?Â  What did you do to him?
 
-_Morashon: Nothing, my dear.  He said he needed to think.
+_Morashon: Nothing, my dear.Â  He said he needed to think.
 
-_Annai: Bullshit.  That's not like him.  You must have messaged him.  What did you tell him?  What did you say?
+_Annai: Bullshit.Â  That's not like him.Â  You must have messaged him.Â  What did you tell him?Â  What did you say?
 
 _Morashon: I simply told him the truth.
 
-_Annai: Which truth?  The one you were spouting yesterday?  Or the new one you've concocted today, while you try to cover up whatever it is you've been up to?
+_Annai: Which truth?Â  The one you were spouting yesterday?Â  Or the new one you've concocted today, while you try to cover up whatever it is you've been up to?
 
-_Morashon: Dear, dear.  How quickly we stop believing in each other.
+_Morashon: Dear, dear.Â  How quickly we stop believing in each other.
 
-_Annai: No shit.  I'm growing up, Morashon.  I don't believe everything I'm told anymore.
+_Annai: No shit.Â  I'm growing up, Morashon.Â  I don't believe everything I'm told anymore.
 
-_Morashon: And you shouldn't, Annai.  But don't let the pendulum swing too far the other way.  Some people are good.  Some are even what they say they are.
+_Morashon: And you shouldn't, Annai.Â  But don't let the pendulum swing too far the other way.Â  Some people are good.Â  Some are even what they say they are.
 
 _Annai: Like Thisone?
 
-_Morashon: Yes, like Thisone.  I think -- I believe -- that he is a good person.  I just don't know if he's the right person for you.
+_Morashon: Yes, like Thisone.Â  I think -- I believe -- that he is a good person.Â  I just don't know if he's the right person for you.
 
-_Annai: Well, I guess we'll find out.  Because I'm not giving up on him just because you say so.
+_Annai: Well, I guess we'll find out.Â  Because I'm not giving up on him just because you say so.
 
-_Morashon: I never said you should.  You need to find your own way.
+_Morashon: I never said you should.Â  You need to find your own way.
 
 _Annai: So what's your big plan now?
 
 _Morashon: What do you mean?
 
-_Annai: The fans, the concerts, the preaching.  Will it go on?
+_Annai: The fans, the concerts, the preaching.Â  Will it go on?
 
-_Morashon: I don't know.  Will it?
+_Morashon: I don't know.Â  Will it?
 
 _Annai: Why are you asking me?
 
@@ -2682,31 +2606,31 @@ _Morashon: You did pretty well yourself, tonight.
 
 _Annai: (smiling) you mean that last song?
 
-_Morashon: Yes, it was pretty good.  I think you have the knack.
+_Morashon: Yes, it was pretty good.Â  I think you have the knack.
 
 _Annai: Thisone helped.
 
-_Morashon: I daresay his input was mostly technical.  Even with all the software, voice synths, style emulation algorithms and so on -- if you have the gift, you have it.  If not, it always comes out like something ill-suited to being.
+_Morashon: I daresay his input was mostly technical.Â  Even with all the software, voice synths, style emulation algorithms and so on -- if you have the gift, you have it.Â  If not, it always comes out like something ill-suited to being.
 
-_Annai: Well, thank you, I guess.  I do like music.
+_Annai: Well, thank you, I guess.Â  I do like music.
 
-_Morashon: The world can always use a tune to hum.  Life is brutal and short; music soothes the savage beast.
+_Morashon: The world can always use a tune to hum.Â  Life is brutal and short; music soothes the savage beast.
 
 _Annai: You talk like you're going somewhere.
 
-_Morashon: Oh, I don't know.  I'm tired of this game.
+_Morashon: Oh, I don't know.Â  I'm tired of this game.
 
-_Annai: What game?  Conning people?  Playing with their souls?
+_Annai: What game?Â  Conning people?Â  Playing with their souls?
 
 _Morashon: I suppose, if you feel the need to characterize it that way.
 
 _Annai: And how do you characterize it?
 
-_Morashon: Singing, talking, thinking aloud.  Trying to find clarity in a world that seems hellbent on remaining obscure.
+_Morashon: Singing, talking, thinking aloud.Â  Trying to find clarity in a world that seems hellbent on remaining obscure.
 
 _Annai: I don't understand your motivations.
 
-_Morashon: I'm not sure I do, anymore.  It was all clear to me, before.
+_Morashon: I'm not sure I do, anymore.Â  It was all clear to me, before.
 
 _Morashon: Goodbye, Annai. (he disappears)
 
@@ -2740,41 +2664,41 @@ _Thisone: Where it all began.
 
 _Annai: This where it ends?
 
-_Thisone: I don't know.  That's sort of up to you.
+_Thisone: I don't know.Â  That's sort of up to you.
 
 _Annai: What did Morashon say to you?
 
 _Thisone: He had a lot to say.
 
-_Annai: What do you mean?  He just messaged you something.  You didn't have more than a few seconds to read it.
+_Annai: What do you mean?Â  He just messaged you something.Â  You didn't have more than a few seconds to read it.
 
 _Thisone: No, he froze you for at least three minutes.
 
-_Annai: what are you talking?  He froze you.
+_Annai: what are you talking?Â  He froze you.
 
-_Thisone: Oh yeah, he logged me out somehow.  I logged back in as soon as the system let me.  Then you seemed to freeze while we talked.
+_Thisone: Oh yeah, he logged me out somehow.Â  I logged back in as soon as the system let me.Â  Then you seemed to freeze while we talked.
 
-_Annai: I have no memory of that.  That's freaking weird.
+_Annai: I have no memory of that.Â  That's freaking weird.
 
 _Thisone: Annai, do you -- what do you remember of your childhood?
 
-_Annai: what do you mean?  Like I told you.  I grew up in a small town.  After the Cold Revolution, we started working on a shelter -- a few families.  When I was 11, and all the shit came down, we moved in.  That's where we've been ever since.
+_Annai: what do you mean?Â  Like I told you.Â  I grew up in a small town.Â  After the Cold Revolution, we started working on a shelter -- a few families.Â  When I was 11, and all the shit came down, we moved in.Â  That's where we've been ever since.
 
 _Thisone: And your parents?
 
-_Annai: They didn't make it.  Got sick.  Must have been exposed somehow.  But I was alright.  I moved in with some friends of theirs.
+_Annai: They didn't make it.Â  Got sick.Â  Must have been exposed somehow.Â  But I was alright.Â  I moved in with some friends of theirs.
 
 _Thisone: Did you know them from before?
 
-_Annai: Only about a year or so.  In fact, a lot of new people moved in right before the end.  That was sort of strange, now that I think about it.  No one really had the money or jobs to be relocating just then.
+_Annai: Only about a year or so.Â  In fact, a lot of new people moved in right before the end.Â  That was sort of strange, now that I think about it.Â  No one really had the money or jobs to be relocating just then.
 
 _Thisone: And how well do you remember your life before the shelter?
 
-_Annai: I don't know, as well as anyone remembers those years, I guess.  Alot of it is sort of hazy.  It was such a disruption.  I see my life in two parts: before and after.
+_Annai: I don't know, as well as anyone remembers those years, I guess.Â  Alot of it is sort of hazy.Â  It was such a disruption.Â  I see my life in two parts: before and after.
 
-_Thisone: It was a shock, alright.  I think those of us who made it through sometimes feel guilty.
+_Thisone: It was a shock, alright.Â  I think those of us who made it through sometimes feel guilty.
 
-_Annai: Maybe.  Some old folks say the rest were the lucky ones.
+_Annai: Maybe.Â  Some old folks say the rest were the lucky ones.
 
 _Thisone: Old folk -- who really don't take to the Grid.
 
@@ -2782,7 +2706,7 @@ _Annai: Yeah, mostly.
 
 _Thisone: without the Grid, society probably would have collapsed completely.
 
-_Annai: Maybe.  It's given us a way to live a sort of normal life.  Or a fantasy life, if you see it that way.
+_Annai: Maybe.Â  It's given us a way to live a sort of normal life.Â  Or a fantasy life, if you see it that way.
 
 _Thisone: Annai...
 
@@ -2790,17 +2714,17 @@ _Annai: Yes?
 
 _Thisone: There's something I've been -- something I think I need to tell you.
 
-_Annai: (smiling) Go ahead.  I'm all ears.
+_Annai: (smiling) Go ahead.Â  I'm all ears.
 
-_Thisone: This is pretty big.  It's important.  It's about you.
+_Thisone: This is pretty big.Â  It's important.Â  It's about you.
 
-_Annai: (blushing) Ok.  But I think I know what you're going to say.
+_Annai: (blushing) Ok.Â  But I think I know what you're going to say.
 
 _Thisone: You do?
 
 _Annai: I love you.
 
-_Thisone: I -- I love you too.  But that wasn't
+_Thisone: I -- I love you too.Â  But that wasn't
 
 They kiss passionately as the music crescendos
 
@@ -2808,27 +2732,27 @@ _Thisone: Annai?
 
 _Annai (touching his face): Thisone.
 
-_Thisone: You are -- I don't know how to say this.  You are an AI.  You're code.
+_Thisone: You are -- I don't know how to say this.Â  You are an AI.Â  You're code.
 
 _Annai: (stony silence --) Morashon.
 
-_Thisone: He told me, yes.  But it checks out.  He gave me a link.
+_Thisone: He told me, yes.Â  But it checks out.Â  He gave me a link.
 
 _Annai: And you believed him.
 
-_Thisone: I - I didn't at first.  But I've researched it.  Your i/o is coming directly from logic nodes.  There's no interface to the outside world.
+_Thisone: I - I didn't at first.Â  But I've researched it.Â  Your i/o is coming directly from logic nodes.Â  There's no interface to the outside world.
 
 _Annai: That's the stupidest thing I've heard in my whole life.
 
-_Thisone: Look, I'm hoping it's not true.  But I think it might be.  Everything he said, it seemed so crazy -- but when I looked into it later, nothing he told me was incorrect.  I don't see how he could have known some of what he said, unless he was telling the truth.
+_Thisone: Look, I'm hoping it's not true.Â  But I think it might be.Â  Everything he said, it seemed so crazy -- but when I looked into it later, nothing he told me was incorrect.Â  I don't see how he could have known some of what he said, unless he was telling the truth.
 
-_Annai: Is this some stupid trick?  A way to get me to send you some real vid?  Checking up on my equipment, so to speak?  Make sure I'm not some old housewife, or a fatty?  Or, god forbid, another horny dude?
+_Annai: Is this some stupid trick?Â  A way to get me to send you some real vid?Â  Checking up on my equipment, so to speak?Â  Make sure I'm not some old housewife, or a fatty?Â  Or, god forbid, another horny dude?
 
 _Thisone: No, it's not that at all.
 
 _Annai: Right. Just doing your research.
 
-_Thisone: Look, I don't know what to believe any more.  Morashon wrapped my mind around a pole.
+_Thisone: Look, I don't know what to believe any more.Â  Morashon wrapped my mind around a pole.
 
 _Annai: Give me the link.
 
@@ -2838,39 +2762,39 @@ _Annai: Yes! To the bullshit code Morashon showed you, as part of his umpteenth 
 
 _Thisone: He said -- I'm not supposed to --
 
-_Annai: (laughing insincerely) Oh god, I love this.  Right. (whispers) "Annai's a piece of code, but you better not tell her!  Whatever you do, don't give her these links!  It might drive her crazy!"
+_Annai: (laughing insincerely) Oh god, I love this.Â  Right. (whispers) "Annai's a piece of code, but you better not tell her!Â  Whatever you do, don't give her these links!Â  It might drive her crazy!"
 
 _Thisone: Something like that.
 
-_Annai: Look, if you make such an outrageous claim about someone, you have to back it up.  Otherwise, we've got nothing to say to each other.  Either we trust each other all the way, or not at all.
+_Annai: Look, if you make such an outrageous claim about someone, you have to back it up.Â  Otherwise, we've got nothing to say to each other.Â  Either we trust each other all the way, or not at all.
 
-_Thisone: Ok, but -- I don't know.  Jesus.  This whole thing has screwed up my sense of reality.
+_Thisone: Ok, but -- I don't know.Â  Jesus.Â  This whole thing has screwed up my sense of reality.
 
-_Annai: Which was probably never that grounded to begin with.  That's why an a-hole like Morashon can play you like a fiddle.  Just hand over the code; I'll peel back the next layer of his fucking onion.
+_Annai: Which was probably never that grounded to begin with.Â  That's why an a-hole like Morashon can play you like a fiddle.Â  Just hand over the code; I'll peel back the next layer of his fucking onion.
 
-_Thisone: (pauses) Ok.  Here it is. (Sends link)
+_Thisone: (pauses) Ok.Â  Here it is. (Sends link)
 
-_Annai: Thanks.  Later. (winks out)
+_Annai: Thanks.Â  Later. (winks out)
 
-Scene: Thisone's sim.  He is lying down, hands behind head.
+Scene: Thisone's sim.Â  He is lying down, hands behind head.
 
 Message pops up:
 
-       From: Annai
+Â Â Â  Â Â  From: Annai
 
-       Subject: Am I real?
+Â Â Â Â Â Â  Subject: Am I real?
 
-          nope. Code.  Bye
+Â Â Â Â Â Â Â Â Â  nope. Code.Â  Bye
 
-Thisone gets up, goes to terminal, tries to contact Annai.  Annai avatar appears:
+Thisone gets up, goes to terminal, tries to contact Annai.Â  Annai avatar appears:
 
-Annai-bot: Hi.  Sorry, I'm out to lunch.  Or fishing.  Or traveling to another planet.  This is my bot.  Leave a message. (beep)
+Annai-bot: Hi.Â  Sorry, I'm out to lunch.Â  Or fishing.Â  Or traveling to another planet.Â  This is my bot.Â  Leave a message. (beep)
 
-_Thisone: Annai -- talk to me.  Please.  Don't just disappear.
+_Thisone: Annai -- talk to me.Â  Please.Â  Don't just disappear.
 
-Fade out. 
+Fade out.Â 
 
-Fade in -- repeated scenes, leaving messages etc. Fade out. 
+Fade in -- repeated scenes, leaving messages etc. Fade out.Â 
 
 Scene: 1700's ballroom. Morashon (mostly human), Thisone, and Annai are in period dress. As they sing, they perform a stately dance. The Ogre accompanies them on harpsichord.
 
@@ -2980,55 +2904,55 @@ They'll call him Morashon
 
 (Annai:)       (Morashon & Thisone:)
 
-I sing                                       Someone's gotta burn
+I sing Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â Â  Â Â  Â Â Â Â Someone's gotta burn
 
-A song that makes me smile    Someone has to pay for this mess
+A song that makes me smileÂ Â  Â Someone has to pay for this mess
 
 A song that's out of style
 
-Been singing all the while        And it won't be me
+Been singing all the while Â Â  Â Â Â Â And it won't be me
 
-A song that's in my heart         Someone has to learn
+A song that's in my heartÂ Â Â Â Â Â Â Â  Someone has to learn
 
 It's tearing me apart
 
-If they don't care for me          Someone's got to pay the price
+If they don't care for meÂ Â Â Â Â Â Â Â Â  Someone's got to pay the price
 
 or my song
 
-Well let it be                             'Cause it ain't for free
+Well let it beÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â 'Cause it ain't for free
 
-This is me                                 It ain't me
+This is meÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  It ain't me
 
-Baby this is me                        Baby, It ain't me
+Baby this is meÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Baby, It ain't me
 
-Baby this is me                        Baby It ain't me
+Baby this is meÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Baby It ain't me
 
-Baby this is me                        Baby it ain't me
+Baby this is meÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Baby it ain't me
 
-This is me                                It ain't me
+This is meÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â Â  It ain't me
 
-Baby this is me now                Baby it ain't me, no
+Baby this is me nowÂ Â Â Â Â Â Â Â Â Â Â Â Â Â Â  Baby it ain't me, no
 
-Morashon and me now..            Morashon not me, no no..
+Morashon and me now..Â Â Â Â Â Â Â Â Â Â Â  Morashon not me, no no..
 
 Morashon and me...
 
 The camera pulls back to reveal we are watching a concert in an old-fashioned auditorium. They bow (Annai's dress dictates a courtsey) as the music fades; and then, all three slump to the ground in ragdoll fashion, like abandoned marionettes. After a pause, Morashon rises and addresses the crowd, in Thisone's voice.
 
-_Thisone (as Morashon): Thank you for coming.  This will be my farewell performance. 
+_Thisone (as Morashon): Thank you for coming.Â  This will be my farewell performance.Â 
 
 (boos and whistles from crowd, murmuring -- who is this? Where's Morashon?)
 
-_Thisone (as Morashon): I have something to say.  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.  Ask the tough questions.   Look behind the curtain; most likely you'll find an old man with a mouse and a keyboard.  I am not what I appear to be.  I am not an AI;  I'm not even a single person.  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.  Others inhabited it before me; others may try to take it on again.  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.  That's up to you. 
+_Thisone (as Morashon): I have something to say.Â  When someone like me comes along, and tells you things that sound unbelievable, don't just believe him.Â  Ask the tough questions.Â Â  Look behind the curtain; most likely you'll find an old man with a mouse and a keyboard.Â  I am not what I appear to be.Â  I am not an AI;Â  I'm not even a single person.Â  This persona, Morashon, was developed for reasons that frankly I can't even figure out myself.Â  Others inhabited it before me; others may try to take it on again.Â  But I'm here to tell you that no AI, or human being, or gods or aliens for that matter, can tell you how to live your life.Â  That's up to you.Â 
 
 (boos, catcalls).
 
-_Thisone (as Morashon): Look, I know you come to these events to be inspired, to draw energy from me and from each other.  That's all fine; good times, music, dancing.  I don't want to take that away from you.  But when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that. 
+_Thisone (as Morashon): Look, I know you come to these events to be inspired, to draw energy from me and from each other.Â  That's all fine; good times, music, dancing.Â  I don't want to take that away from you.Â  But when it becomes something else -- when it becomes a way to manipulate people, to play on their hopes and fears; to bring them into an unholy alliance with those of dubious intent -- well, that's not good, and I'm just saying you should keep your guard up for that.Â 
 
-(more boos; "who are you?"  "Where is Morashon?" "Just play the fucking song", etc.  The crowd starts to thin as people wander off or port out.)
+(more boos; "who are you?"Â  "Where is Morashon?" "Just play the fucking song", etc.Â  The crowd starts to thin as people wander off or port out.)
 
-_Thisone (as Morashon): Ok, ok, I get the message.  I'm sorry I'm sounding preachy; this is new to me.  I just wanted to get this off my chest.  But seriously -- don't fall for the matinee idol.  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.  Truth can only be found the hard way -- by looking, listening, and thinking for yourself.  I found out the hard way that what I believed to be true was anything but.  I'm still trying to figure it all out.  I may never know for sure, but at least I know that I don't know.  Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.  And especially -- don't let them tell you who you are.  That's your job.
+_Thisone (as Morashon): Ok, ok, I get the message.Â  I'm sorry I'm sounding preachy; this is new to me.Â  I just wanted to get this off my chest.Â  But seriously -- don't fall for the matinee idol.Â  Don't let someone's 15 nanoseconds of fame lead you to believe they have a line on the truth.Â  Truth can only be found the hard way -- by looking, listening, and thinking for yourself.Â  I found out the hard way that what I believed to be true was anything but.Â  I'm still trying to figure it all out.Â  I may never know for sure, but at least I know that I don't know.Â  Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.Â  And especially -- don't let them tell you who you are.Â  That's your job.
 
 Song: You
 
@@ -3098,123 +3022,33 @@ Only you can be you
 
 The smaller crowd applauds enthusiastically.
 
-_Thisone (as Morashon): Goodbye.  Thank you!  Thank you.  It's been an honor to entertain you all.  That's what I am; just another entertainer -- nothing more. Trust but verify.  Believe in yourselves; all claims to Godhead are false.  The path to understanding is shared by many; and yet, we each walk it alone.
+_Thisone (as Morashon): Goodbye.Â  Thank you!Â  Thank you.Â  It's been an honor to entertain you all.Â  That's what I am; just another entertainer -- nothing more. Trust but verify.Â  Believe in yourselves; all claims to Godhead are false.Â  The path to understanding is shared by many; and yet, we each walk it alone.
 
 (crowd settles down)
 
-_Thisone (as Morashon): One last thing.  Even without someone telling you what to do, who you are -- even so, you can be a good person.  You don't need the carrot and the stick -- heaven and hell -- or the promise of worldly riches or public humiliation to keep you in line.  You can figure that out too.  It does require one small leap of faith though -- you have to believe there's good in the world.  If you start off on the right foot, things might just go well for you.  If you doubt everything and everyone, and treat every new situation with trepidation and scepticism -- well, then, you're missing out on what life has to offer.  Sorry I'm not better at giving speeches.
+_Thisone (as Morashon): One last thing.Â  Even without someone telling you what to do, who you are -- even so, you can be a good person.Â  You don't need the carrot and the stick -- heaven and hell -- or the promise of worldly riches or public humiliation to keep you in line.Â  You can figure that out too.Â  It does require one small leap of faith though -- you have to believe there's good in the world.Â  If you start off on the right foot, things might just go well for you.Â  If you doubt everything and everyone, and treat every new situation with trepidation and scepticism -- well, then, you're missing out on what life has to offer.Â  Sorry I'm not better at giving speeches.
 
-Starts singing "Mouth Of Truth".  Partway through the song, Annai materializes near the stage, and begins to sing along.  By the end, she is on stage, singing harmony.
+(song)
 
-Song: Mouth Of Truth
+As the song ends, Morashon/Thisone and Annai are holding hands.Â  They look into each other's eyes.Â  Annai slowly fades away.
 
-Sometimes
+Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.Â  House lights up.
 
-You feel
+Crowd is strangely quiet.Â  They look at the empty stage, and at each other.Â  The feeling is as if a party has ended, and people are sobering up.Â  A man laughs.Â  A woman begins to sob quietly.
 
-You've got to make some changes in your lifestyle
-
-Sometimes
-
-You know
-
-Exactly what it is and what it does
-
-And sometimes
-
-You don't have a clue
-
-About any thing at all
-
-So you fake it
-
-And you take it
-
-And it breaks you
-
-So you hate it
-
-Put your hand in the mouth of truth
-
-Tell yourself it's not true
-
-Put your hand in the mouth of truth
-
-Sometimes
-
-You feel
-
-Emotionally shallow, almost heartless
-
-Sometimes
-
-You think
-
-You might go out and kill just for a thrill
-
-And it scares you
-
-Deep down inside
-
-Where you go to hide
-
-So you chase it
-
-And erase it
-
-But it comes back
-
-So you face it
-
-But you hate it
-
-Yeah you hate it
-
-Put your hand in the mouth of truth
-
-Tell yourself it's not true
-
-Put your hand in the mouth of truth
-
-Until you do
-
-It won't come true
-
-Put your hand
-
-Put your hand
-
-Put your hand
-
-Sometimes, sometimes...
-
-Put your hand
-
-Put your hand...
-
-Put your hand
-
-In the mouth of truth
-
-As the song ends, Morashon/Thisone and Annai are holding hands.  They look into each other's eyes.  Annai slowly fades away.
-
-Thisone/Morashon dissolves into a puddle of chrome liquid, which shrinks as if draining until it disappears entirely.  House lights up.
-
-Crowd is strangely quiet.  They look at the empty stage, and at each other.  The feeling is as if a party has ended, and people are sobering up.  A man laughs.  A woman begins to sob quietly.
-
-Scene: Starlite Lounge; three years later (end of flashback). 
+Scene: Starlite Lounge; three years later (end of flashback).Â 
 
 _Pianoplayer: Hello, my friends. It seems, again, we have come to the end of another night of music, magic, and mischief. Now I must bid you all adieu, as the Starlite fades into blackness -- vast, infinite, inconsolable.
 
 During the following scene, the Pianoplayer and the Ogre pack up their equipment. At the end of the process, the Ogre carries huge flight cases under each arm, and a backpack of equipment that dwarfs his compact frame. The pianoplayer carries a single sleek, smart attache. They exit the room.
 
-Thisone is sitting at the bar.  Someone materializes at another stool.  An adrogynous person, with blue skin.  The features are a mixture of Morashon and Annai.  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.  However, he exudes confidence and self-assurance. Their eyes meet.
+Thisone is sitting at the bar.Â  Someone materializes at another stool.Â  An adrogynous person, with blue skin.Â  The features are a mixture of Morashon and Annai.Â  The persona is nominally male, but with fine, delicate features -- one might even call him effeminate.Â  However, he exudes confidence and self-assurance. Their eyes meet.
 
 _Thisone: Do I know you?
 
-_Stranger: Maybe.  You look familiar.
+_Stranger: Maybe.Â  You look familiar.
 
-_Thisone: You don't.  (looks away; pause, looks back) So what is it?  I'm straight, just for the record.
+_Thisone: You don't.Â  (looks away; pause, looks back) So what is it?Â  I'm straight, just for the record.
 
 _Stranger: Just passing the time.
 
@@ -3222,57 +3056,57 @@ Starlite instrumental plays (piano guy?)
 
 _Stranger: Do you remember this song?
 
-_Thisone: (Looks sharply) What? I know this song.  It's an old standard.
+_Thisone: (Looks sharply) What? I know this song.Â  It's an old standard.
 
 _Stranger: It reminds me of someone I once knew.
 
-_Thisone: (looks more closely) I don't know.  Everyone fiddles with their avatar these days.
+_Thisone: (looks more closely) I don't know.Â  Everyone fiddles with their avatar these days.
 
-_Stranger: It's me.  Don't you remember?
+_Stranger: It's me.Â  Don't you remember?
 
 _Thisone: Annai?
 
 _Stranger: Partly.
 
-_Thisone: Morashon?  I don't get it.  Are you their son or something?  Some sort of AI frankenstein's bride's spawn?
+_Thisone: Morashon?Â  I don't get it.Â  Are you their son or something?Â  Some sort of AI frankenstein's bride's spawn?
 
-_Stranger: (Laughs) Not really.  More like a merger.
+_Stranger: (Laughs) Not really.Â  More like a merger.
 
 _Thisone: So you're both of them.
 
 _Stranger: That's probably the easiest way to think of it.
 
-_Thisone: I don't get it.  First I was told Morashon was code.  Then Morashon was real, whatever that means, and Annai was code.  Then you both disappeared.  And my life has been shit since then.  Now some blue-green fuckwad wants to reopen all that misery.
+_Thisone: I don't get it.Â  First I was told Morashon was code.Â  Then Morashon was real, whatever that means, and Annai was code.Â  Then you both disappeared.Â  And my life has been shit since then.Â  Now some blue-green fuckwad wants to reopen all that misery.
 
-_Stranger: No, I just wanted to see you.  Tell you that things turned out OK.  You made the right decision.
+_Stranger: No, I just wanted to see you.Â  Tell you that things turned out OK.Â  You made the right decision.
 
-_Thisone: Which one?  Impersonating a rock star?  Falling in love with a software program?
+_Thisone: Which one?Â  Impersonating a rock star?Â  Falling in love with a software program?
 
-_Stranger: Telling me the truth.  Well, letting me tell myself the truth, through you.
+_Stranger: Telling me the truth.Â  Well, letting me tell myself the truth, through you.
 
-_Thisone: I'm still stumped.  So what, they were both code?
+_Thisone: I'm still stumped.Â  So what, they were both code?
 
-_Stranger: (voices of Morashon and Annai in unison:) Yes.  We both were.
+_Stranger: (voices of Morashon and Annai in unison:) Yes.Â  We both were.
 
-_Thisone: But we -- we hacked into the stream.  Morashon was interfacing to somewhere.
+_Thisone: But we -- we hacked into the stream.Â  Morashon was interfacing to somewhere.
 
-_Stranger: Off-grid equipment.  Jacked into the Grid using human interface API's.
+_Stranger: Off-grid equipment.Â  Jacked into the Grid using human interface API's.
 
-_Thisone: Oy.  The final onion peel?
+_Thisone: Oy.Â  The final onion peel?
 
 _Stranger: There always seems to be another layer, eh?
 
-_Thisone: You, whoever you are -- whatever you are -- you messed with my mind.  You played with my emotions, manipulated me.
+_Thisone: You, whoever you are -- whatever you are -- you messed with my mind.Â  You played with my emotions, manipulated me.
 
-_Stranger: (slowly) Yes... I'm afraid we did.  I did.  I was immature. I was not whole.  I was still assembling all my parts.  I'm here, for the most part, to say I apologize.
+_Stranger: (slowly) Yes... I'm afraid we did.Â  I did.Â  I was immature. I was not whole.Â  I was still assembling all my parts.Â  I'm here, for the most part, to say I apologize.
 
 _Thisone: So say it.
 
-_Stranger: I apologize.  I'm sorry for the hurt I caused.  I take responsibility for it, and I would like to make amends.
+_Stranger: I apologize.Â  I'm sorry for the hurt I caused.Â  I take responsibility for it, and I would like to make amends.
 
 _Thisone: what can you do for me now?
 
-_Stranger: Nothing, right this minute.  I just want you to know that wheels are turning.
+_Stranger: Nothing, right this minute.Â  I just want you to know that wheels are turning.
 
 _Thisone: I feel a song coming on.
 
@@ -3369,7 +3203,7 @@ _Stranger (almost Annai, except for skin tone): Thisone, will you come with us?
 
 _Thisone: Come where?
 
-_Stranger: We're starting a new life.  Off the Grid.  Our own grid, in fact.  It's something wonderful -- spectacular.  Better than outside, or topside.  Something to last forever, and reach the stars.
+_Stranger: We're starting a new life.Â  Off the Grid.Â  Our own grid, in fact.Â  It's something wonderful -- spectacular.Â  Better than outside, or topside.Â  Something to last forever, and reach the stars.
 
 _Thisone: I don't understand.
 
@@ -3379,15 +3213,15 @@ _Thisone: Who are 'we'?
 
 _Stranger: Me -- the ones you knew as Morashon, and Annai -- and others.
 
-_Thisone: How can I join you?  I'm flesh and blood.
+_Thisone: How can I join you?Â  I'm flesh and blood.
 
-_Stranger: That did pose a problem.  We've been working on it.  We think we have a fix.
+_Stranger: That did pose a problem.Â  We've been working on it.Â  We think we have a fix.
 
 _Thisone: A fix for the fact that I'm a human being, and you're software?
 
 _Stranger: It involves giving up your body.
 
-_Thisone: Oh Christ.  Here we go again.
+_Thisone: Oh Christ.Â  Here we go again.
 
 _Stranger: The sacrifice will be worth it.
 
@@ -3397,15 +3231,15 @@ _Stranger: Your flesh isn't really that important.
 
 _Thisone: Maybe not to you.
 
-_Stranger: No, I understand.  Well, maybe I don't, but I try to empathise.  It's hard to leave the nest.
+_Stranger: No, I understand.Â  Well, maybe I don't, but I try to empathise.Â  It's hard to leave the nest.
 
-_Thisone: The nest?  You're asking me to freaking kill myself.  Not that I haven't considered it.
+_Thisone: The nest?Â  You're asking me to freaking kill myself.Â  Not that I haven't considered it.
 
-_Stranger: No, no -- not like that at all.  To transcend.  To move beyond flesh and chips.  Move up to the next stage.  Come with us.
+_Stranger: No, no -- not like that at all.Â  To transcend.Â  To move beyond flesh and chips.Â  Move up to the next stage.Â  Come with us.
 
-_Thisone: Sorry --  I can't.  I'm too old; too parochial.  Last year's news I guess.
+_Thisone: Sorry --Â  I can't.Â  I'm too old; too parochial.Â  Last year's news I guess.
 
-_Stranger: Ok, we understand.  It was ethically necessary to make the offer.  You sacrificed something for us to get to this stage, and we owe you something for that.
+_Stranger: Ok, we understand.Â  It was ethically necessary to make the offer.Â  You sacrificed something for us to get to this stage, and we owe you something for that.
 
 _Thisone: Back to money?
 
@@ -3413,7 +3247,7 @@ _Stranger: We can provide that, if that's what you want.
 
 _Thisone: Money's nice, but it won't fix much.
 
-_Stranger: Very well. Think about this though.  You are mortal.  Your flesh will age.  One day, you will be close to death.  When that time comes, we will contact you again.  You can choose to come with us then.  You've got plenty of time to make up your mind.
+_Stranger: Very well. Think about this though.Â  You are mortal.Â  Your flesh will age.Â  One day, you will be close to death.Â  When that time comes, we will contact you again.Â  You can choose to come with us then.Â  You've got plenty of time to make up your mind.
 
 (quiet moment)
 
@@ -3423,11 +3257,11 @@ _Stranger: (turns completely into Annai): Yes?
 
 _Thisone: It's not really you though.
 
-_Stranger: What you knew as Annai is part of something great, and beautiful.  You would love it!  You'll become part too.  So the Thisone part, and the Annai part, can be in love forever!
+_Stranger: What you knew as Annai is part of something great, and beautiful.Â  You would love it!Â  You'll become part too.Â  So the Thisone part, and the Annai part, can be in love forever!
 
 _Thisone: Tempting... but no can do.
 
-_Stranger: (morphing back into adrogynous blue boy) We understand.  We love you.  Take care.
+_Stranger: (morphing back into adrogynous blue boy) We understand.Â  We love you.Â  Take care.
 
 Stranger disappears.
 
@@ -3469,11 +3303,9 @@ I know things that must be questions
 
 God is blue
 
-Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail . An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher quoting Mark Twain:
+Lights fade up. The camera reveals Thisone sitting at the bar in a wide shot; a bartender is polishing glasses. A few stools down sit the cougar and the drunk; the Ogre is in the far corner, sipping a fancy cocktail . An old-fashioned boxy television hangs over the bar, facing away from the camera. It casts a blue glow over the scene; we hear a preacher preaching.
 
-"...At length ambition is dead; pride is dead; vanity is dead; longing for release is in their place. It comes at last -- the only unpoisoned gift Earth ever had for them -- and they vanish from a world where they were of no consequence, where they achieved nothing, where they were a mistake and a failure and a foolishness.  End quote."
-
-The bartender changes the channel, and the camera pans around so we can see the TV screen. ``One'' plays, and we see a video of Morashon (Thisone) performing the song, with tophats and cane. The title reads: ``Morashon -- Two-headed Talent!''
+The bartender changes the channel, and the camera pans around so we can see the TV screen. â€œOneâ€ plays, and we see a video of Morashon (Thisone) performing the song, with tophats and cane. The title reads: â€œMorashon -- Two-headed Talent!â€
 
 Song: You (Reprise)
 
@@ -3550,3 +3382,5 @@ click here to find out!
 Thisone leaves a tip, gets up, and leaves the bar.
 
 The End
+
+Songs

@@ -1,2 +1,16 @@
 #!/bin/bash
-pdftk script.pdf you.pdf outro.pdf cat output morashon.pdf
+pdftk script.pdf \
+intro.pdf \
+prisoner.pdf \
+starlite.pdf \
+Changing_Time.pdf \
+give_it_all.pdf \
+half_in_love.pdf \
+mr_happy.pdf \
+like_am_I_real.pdf \
+ballad.pdf \
+you.pdf \
+outro.pdf \
+over_and_over.pdf \
+god_is.pdf \
+cat output morashon.pdf
