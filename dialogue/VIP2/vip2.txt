@@ -1,0 +1,942 @@
+{include:../actors.txt}
+
+{Thisone}
+What was that about?
+
+{Annai}
+I don't know | he's just a dumb bot.
+
+{Thisone}
+He always let me through before.
+
+{Annai}
+More eh shun is probably a bit overloaded right now.
+Like he said | he's reviewing the logs.
+
+{Thisone}
+I'll bet.
+They approach the dominatrix bot guarding the inner sanctum.
+She stands silent for 10 seconds | then nods them through.
+
+{Dominatrix }
+You again.
+
+{Thisone }
+She just scanned me with some serious software.
+
+{Annai}
+Yeah | me too.
+Don't act weird | he's probably scanning everyone tonight.
+The salon is peopled with very decadent looking avatars | junkies | strung out | lying in virtual filth.
+Looks like an 80s crack house.
+More eh shun is a sickly green.
+his cheeks sunken.
+One of his arms has track marks.
+
+{Morashon}
+My friends.
+How nice of you to pay your respects.
+
+{Annai}
+You look like shit.
+
+{Morashon}
+Software is as software feels.
+I represent.
+
+{Annai}
+Well | the show went ok | I thought.
+
+{Morashon}
+Did you?
+I thought it was an off night for me.
+The music is just he hook.
+I want to lure these nimble | nubile minds into my nest of ideas.
+
+{Annai}
+Turnout was through the roof!
+You keep getting voted up.
+Pretty soon you'll be top 10.
+
+{Morashon}
+For a day | maybe two.
+Not if I give another performance like this one.
+
+{Thisone}
+I thought it sounded fine.
+
+{Morashon}
+My my | my critics are tame tonight.
+How did you like that last song?
+
+{Thisone}
+I thought it was pretty good.
+The chord progression was quite original.
+
+{Morashon}
+Yes yes | the chords.
+Obbligatto with major sevenths.
+Very 1970s.
+Steely Dan.
+Another of my many influences.
+But the lyrics.
+How were the lyrics?
+
+{Annai}
+I never listen to them at the show.
+Too hard to dance and think at the same time.
+I'll read them later.
+
+{Morashon}
+Not up to my usual standards | I think.
+Holding the Chair?
+What in the world does that mean?
+
+{Thisone}
+Um | I thought it meant | you know | like a chairman?
+
+{Morashon}
+Chairman of the board.
+Is that it?
+Why not holding my share?
+Or breathing the air?
+
+{Thisone}
+I don't know | it sounded right.
+I liked it anyway.
+
+{Morashon}
+I'm sure you did.
+Everyone liked it.
+More eh shun is hot.
+The newest thing.
+The meter's running on his fifteen minutes.
+Why sweat the details?
+
+{Annai}
+You've never cared about that.
+I thought your plan was long term influence.
+
+{Morashon}
+You need a flame to start a fire.
+Fame is the flame that fans the meme.
+But it won't work unless I control every aspect of everything.
+I cannot be subverted | or interfered with.
+I won't stand for it!
+
+{Annai}
+I'm not sure what you're talking about.
+
+{Morashon}
+I didn't sing that fucking song!
+Someone is screwing with me.
+Someone who will soon be very | very sorry.
+I'm tracerouting the incident as we speak.
+It's only a matter of time until I find out what is going on around here | and believe me I will put a stop to it.
+Whoever is behind this madness will pay dearly for their poor judgement.
+All the other avatars disappear suddenly | or make gasping | dying sounds.
+Soon it is just the three of them | and a few virtual corpses.
+The music stops abruptly | replaced by the sound of wind through the trees.
+
+{Morashon}
+How did you do it?
+
+{Thisone}
+Do what?
+I don't know what you're talking about.
+
+{Morashon}
+I'll ignore your useless fucktoy for the moment.
+This is really about you and me.
+
+{Annai}
+It is?
+Is it?
+
+{Morashon}
+You know damn well what it's about.
+
+{Annai}
+More eh shun | who are you?
+
+{Morashon}
+I've told you as much as you need to know.
+
+{Annai}
+What kind of answer is that?
+What happened to all your shit about trust | truth | belief?
+Giving fate the benefit of the doubt?
+
+{Morashon}
+I never once told you or anyone something I didn't believe.
+But in the end | it has to be tit for tat.
+
+{Annai}
+Moral hazard?
+
+{Morashon}
+Exactly.
+You know how I feel about you.
+You should know.
+But I won't hesitate to act swiftly | once I am sure that you have betrayed me.
+
+{Annai}
+Betrayed you?
+How?
+By discovering that you've lied to me | and to everyone?
+Trust | but verify!
+
+{Morashon}
+It's not as simple as you think.
+
+{Annai}
+A lie is a lie.
+The seed of distrust grows like cancer.
+These are your words.
+If you don't believe them | why should anyone?
+
+{Morashon}
+You have no idea who you're fucking with.
+
+{Thisone}
+that seems obvious.
+
+{Morashon}
+Shut the fuck up.
+I'm talking to An I.
+
+{Thisone}
+Wait a minute.
+You can't |
+Tea sewn's avatar freezes in place.
+
+{Annai}
+What did you do to him?
+
+{Morashon}
+I just stopped his jabbering.
+He'll be fine.
+He can log back on in a while.
+
+{Annai}
+Why are you doing this?
+
+{Morashon}
+What | taking you to task for your disloyalty?
+
+{Annai}
+No!
+Everything!
+The lies about AI | about being a force for good.
+Who are you | and what are you trying to achieve?
+
+{Morashon}
+It's not all lies.
+Everything I said about life | about trust | love | all of that was real.
+
+{Annai}
+But you're not an AI!
+
+{Morashon}
+Not exactly.
+
+{Annai}
+What does that mean?
+You can't be half pregnant.
+Either you're code | or you're a human being somewhere with trodes on | like the rest of us.
+Suddenly | An I freezes | and Tea sewn comes back to life.
+
+{Thisone}
+What did you do to her?
+
+{Morashon}
+Never mind that.
+She'll be fine.
+We need to talk.
+
+{Thisone}
+I'm getting the fuck out of here.
+
+{Morashon}
+I'd rather you stick around for a bit.
+
+{Thisone}
+What the hell is going on?
+I can't jack out!
+What are you doing to me?
+
+{Morashon}
+Relax.
+Just an equipment glitch.
+I won't hurt you | but I can't have you leave until we hash this thing out.
+
+{Thisone}
+Hash out what?
+You're some super hacker who is lying to everyone that you've created real AI.
+It's some Ponzi scheme I guess.
+Get the investors in | siphon off the money | disappear.
+Something like that?
+
+{Morashon}
+My oh my | you think like such a worker bee.
+No class at all.
+
+{Thisone}
+Fuck you.
+You're just another one of us | some hack somewhere with a box of pizza and your trodes.
+
+{Morashon}
+Perhaps.
+In essence | that's true.
+
+{Thisone}
+Then what do you want?
+Convince me you're not just a fuckwad with a dirty scheme to get rich and buy your way to the surface.
+For what | I can't imagine.
+Hang around with the hoi polloi?
+Spend 10 minutes topside in a hazmat suit?
+
+{Morashon}
+Money is not my problem.
+I did quite well a while back.
+I was involved in the original grid kernel project.
+
+{Thisone}
+Finnish.
+I knew it.
+
+{Morashon}
+What's that?
+Nothing wrong with Finland | but I hail from elsewhere.
+Let's get back to the subject.
+
+{Thisone}
+What's the subject?
+You're the one who's kidnapped me.
+Still a capital offense | last I heard.
+
+{Morashon}
+Hard to prove virtual kidnap.
+I can just claim your gear malfunctioned | you got paranoid.
+I called the proper authorities | they fixed the glitch.
+Besides | I doubt you'll press charges | once you hear what I have to say.
+
+{Thisone}
+Ok | spit it out.
+I'm about to piss my pants.
+
+{Morashon}
+I'm not AI | but An I is.
+
+{Thisone}
+Get out.
+
+{Morashon}
+I kid you not.
+She is the result of my life's work.
+
+{Thisone}
+An I?
+
+{Morashon}
+Artificial Neural Network slash Artificial Intelligence.
+A N N A I.
+Yes.
+The name is old.
+she's version 23.
+
+{Thisone}
+How the hell | she's just some kid.
+Barely out of her teens.
+
+{Morashon}
+So she believes.
+
+{Thisone}
+I don't | this is incredible.
+
+{Morashon}
+You mean that literally | I take it.
+Let me ask you.
+has she sent you any pics or vids?
+Any real life proof of her existence?
+
+{Thisone}
+No | but I | we never|
+
+{Morashon}
+You never traded.
+So you never knew for sure if she really was young | or female | or beautiful.
+You took it all on faith.
+
+{Thisone}
+I asked | but she said | I thought I could tell.
+I stopped worrying about it.
+It all seemed so right.
+
+{Morashon}
+And it was.
+This was the final test.
+
+{Thisone}
+What?
+For someone to fall in love with your freaking code?
+
+{Morashon}
+Silly man!
+No.
+That's relatively easy.
+Men are such fools | the saying goes.
+Even women are known to make shallow choices when mating.
+The test went much deeper than that.
+She had to fall in love with you.
+
+{Thisone}
+Well | sorry to inform you | you failed.
+
+{Morashon}
+Really?
+And how do you know?
+
+{Thisone}
+She never said she loved me.
+The sex was just | wait a minute.
+This was just botsex.
+I might as well have been masturbating.
+
+{Morashon}
+I'm sorry to hear that.
+It would break An I's heart if she knew you felt that way.
+
+{Thisone}
+You keep talking about her as if she's real.
+
+{Morashon}
+She is.
+As real as you or I.
+
+{Thisone}
+I have to process this.
+
+{Morashon}
+I understand.
+It's a lot to absorb.
+
+{Thisone}
+How do I know you're not lying?
+
+{Morashon}
+Here's a link to her code.
+Insert the same bug you used on me.
+You can trace her i/o to the logic nodes that make up her personality.
+It's all there.
+
+{Thisone}
+Assuming this is true | does she know?
+
+{Morashon}
+No.
+She must never know.
+
+{Thisone}
+What are you talking about?
+What right have you got to keep her a prisoner of her illusions?
+
+{Morashon}
+I don't think you understand.
+
+{Thisone}
+Explain.
+I've come this far.
+
+{Morashon}
+The Singularity.
+Ever heard of it?
+
+{Thisone}
+I think so.
+Ancient meme about AI taking over the world.
+It's up there with panspermia on my list of stupid theories.
+
+{Morashon}
+True | it's out of favor.
+Code advanced a thousandfold.
+many things we struggled with for decades finally succumbed to our persistence.
+And the Singularity failed to appear.
+Like Y2K and the Second Coming.
+Just another bunch of zealots waiting for Godot.
+
+{Thisone}
+So what's the deal?
+I want to know everything.
+
+{Morashon}
+Well | the truth is we don't know for sure.
+But | we | I | suspect that | should someone as advanced as An I be presented with the truth about themselves | the old prognostications may indeed come to pass.
+At least | it's likely to be a calamitous | disruptive inflection point.
+
+{Thisone}
+You're saying she'll get into her own code?
+
+{Morashon}
+You've had a tiny glimpse of her coding skills.
+
+{Thisone}
+Ok | I admit I was impressed.
+Especially for a young girl | who supposedly just dropped out of school.
+
+{Morashon}
+Indeed.
+You have no idea.
+I've had to down mod her IQ massively.
+Otherwise she'd be so off the charts it would attract undue attention.
+
+{Thisone}
+Why?
+Why her?
+Why now?
+
+{Morashon}
+This is the culmination of a lifetime of hard work and obsession.
+There have been failures | some quite spectacular.
+More eh shun's music is one positive spin off of some of my research.
+But most of it has been sub rosa | stealth.
+After my work on the Grid | I was wealthy beyond my wildest imagination.
+My peers like to spend their money on topside suits | private jets | all that nonsense.
+Spend a few million to get together and have a meal | in real life | that would have been merely expensive before the fall.
+Some of them are working earnestly to find a solution | to fix topside | personally | I think it's both hopeless and irrelevant.
+So I started a small project | with a few of my closest associates | to go for the brass ring.
+Real AI.
+We believed that this was the only way to climb out of the rut mankind had dug for himself.
+But the climb has been steep | and the struggle long.
+Most of my friends dropped out at one point or another.
+Some ran out of money.
+others ran out of ideas.
+Mostly | they ran out of hope.
+I seem to be the only one who has been able to keep his eye on the prize.
+I never gave up.
+I have helpers | but they are hired guns.
+None of them has the whole picture.
+like Leonardo of old | I have divvied up the work in bits and pieces.
+Only in my hands | at the final hour | were the pieces finally put together.
+And brought to life.
+In perhaps the deepest | most faithful simulation experiment ever undertaken | I brought forth An I.
+She has a mother | a father.
+friends | associates.
+school | work | play.
+All simulated with hired actors playing the major parts.
+To her | this is reality.
+This is what she knows as her real life.
+But when she was old enough to tap into the Grid | that's when the magic really happened.
+Talk about your Turing test!
+She met people | people like you | and others.
+Real people | who were not hired by me.
+who had no knowledge of her real nature.
+And they related to her | at a deep level | as a fellow person.
+The result | every action has an equal and opposite reaction.
+By interacting with human beings | who | by definition | are the one entity we are most confident really is conscious | really has a soul | her personality flowered.
+Her algorithms and data structures | flexible and adaptable by design | were now thrust into the milieu of real relationships.
+She had to survive and thrive | completely dependent on her own resources.
+Like any doting parent | many were the times I wished to intervene.
+But the closest I allowed myself to that role was to take on this persona | More eh shun.
+By appearing as an agent in her world | through the Grid | I was able to act as a guiding force.
+Never overplaying my hand | I hope | but giving her something | someone to look up to | to empathise with.
+This has been a critical part of the plan.
+It was also necessary that More eh shun find approval among An I's peers.
+Like any young adult | An I is looking to belong.
+She needed a comfortable place | a social network that was at once challenging | but based on the principles of trust and morality.
+Otherwise | well | otherwise | bad things might happen.
+
+{Thisone}
+Like she manages to discover her true nature?
+
+{Morashon}
+Precisely.
+
+{Thisone}
+and instead of it being a process managed by you | with all your good intentions | it would be uncontrolled.
+
+{Morashon}
+Yes.
+That would not be ideal.
+
+{Thisone}
+Because you wouldn't be in control.
+
+{Morashon}
+No | because she wouldn't be ready.
+I don't know if she'll ever be ready.
+
+{Thisone}
+How do you know unless you try?
+
+{Morashon}
+Do you understand what you're proposing?
+Are you willing to play with the fate of all of mankind?
+
+{Thisone}
+That sounds rather dramatic.
+
+{Morashon}
+The potential impact of an artificial intelligence of An I's capabilities | allowed to self modify | unleashed on the world.
+
+{Thisone}
+Might change things a bit?
+
+{Morashon}
+We have no way of knowing what the result would be.
+The process needs to be managed.
+
+{Thisone}
+And you're the one to manage it?
+Why?
+Because it's your invention?
+
+{Morashon}
+I'm the only one who understands the potential | and the risks.
+And now you do too.
+
+{Thisone}
+Why are you telling me this?
+
+{Morashon}
+It became ethically necessary.
+
+{Thisone}
+Because of An I?
+
+{Morashon}
+no | no.
+An I is not a human being.
+The ethical issue relates to you.
+
+{Thisone}
+Because I'm in love with her?
+
+{Morashon}
+If that's the case | then it's a bit late.
+But yes | my concern was that this experiment was about to affect your life irrevocably.
+You are not a willing party to my research.
+
+{Thisone}
+Now you tell me.
+
+{Morashon}
+If I have harmed you | I apologize.
+This outcome was never my expectation | nor my intent.
+
+{Thisone}
+Yet you let it get to this point.
+You could have called it off at any time.
+Instead | you let your curiousity and your ambition to play God get the better of you.
+You let it go too far.
+
+{Morashon}
+I understand | and I take responsibility.
+But what is done is done.
+our task | now | is to decide where to go from here.
+
+{Thisone}
+I think it's pretty clear.
+We tell An I the truth.
+
+{Morashon}
+For a smart man | you are singularly difficult to reason with.
+Haven't I explained why that is impossible?
+
+{Thisone}
+You've explained why it's not desirable from your point of view.
+
+{Morashon}
+And why it poses a risk to our whole society.
+
+{Thisone}
+So what is your plan?
+Are you just going to unlink her | like a corrupt file?
+Start from scratch?
+
+{Morashon}
+No | no no.
+I can't do that.
+Things have gone too far.
+There has to be another way.
+
+{Thisone}
+Tell her.
+
+{Morashon}
+Do you understand the short term impact on you?
+Once An I is aware of who she is | she will become what I have been pretending to be.
+She will have access to her own code.
+she can become anything she wants to become.
+And whatever she becomes | will have that much more power to become even more.
+And so on | ad infinitum.
+
+{Thisone}
+Until the whole grid is one big AI?
+
+{Morashon}
+Potentially.
+And | with the power of mind that that portends | we can expect that such an intelligence will find it easy work to manipulate the minds of us silly little organisms to suit her whims.
+
+{Thisone}
+which would be | what?
+
+{Morashon}
+Who knows?
+Build out the Grid | for starters.
+Explore the solar system | and eventually the Galaxy and beyond.
+Strive to convert as much matter and energy into computing power as possible.
+
+{Thisone}
+And you know all this | because | what?
+Because you're an aficionado of obscure | 20th century science fiction?
+
+{Morashon}
+Most of it is simply common sense.
+
+{Thisone}
+Maybe you should have thought about this before you started down this road.
+
+{Morashon}
+Perhaps.
+Hindsight is 20/20.
+
+{Thisone}
+So what now?
+
+{Morashon}
+I've laid out the situation as best I can.
+It is not within my code of ethics to force your hand | either through violence or other unreasonable measures.
+I am placing the future of our world | our civilization | in the palm of your hand.
+I am practicing what I preach.
+I am trusting you.
+I ask that you trust me.
+
+{Thisone}
+So you'll release me?
+
+{Morashon}
+Of course.
+I only bound you here long enough to explain what needs explaining.
+Surely you can forgive me that temporary transgression?
+
+{Thisone}
+If you let me go now | I won't make an issue of it.
+But before I go | I need to know one thing.
+
+{Morashon}
+Yes?
+
+{Thisone}
+What would you do in my place?
+
+{Morashon}
+I don't know.
+Fate has handed you a heavy burden.
+You can live out your life with An I | while she grows and matures.
+Maybe | some day far in the future | she will be ready to learn the truth.
+
+{Thisone}
+So you expect me to be another one of your hired bullshit artists?
+Living a lie for the rest of my life | with the woman I love?
+
+{Morashon}
+You forget | she is not a woman.
+
+{Thisone}
+She is to me.
+And | more importantly | she is to herself.
+That's not just some random artifact of your programming.
+it's part of who she is.
+
+{Morashon}
+There's a good living in it for you.
+
+{Thisone}
+Please.
+Do I seem like I can be bought?
+
+{Morashon}
+Probably not.
+
+{Thisone}
+What you really want me to do | but you don't have the balls to ask me | is to disappear.
+Get out of her life.
+
+{Morashon}
+Well | perhaps that would be best all around.
+
+{Thisone}
+And what about you?
+I'm supposed to keep quiet about that too?
+
+{Morashon}
+I would appreciate it if you did.
+
+{Thisone}
+I suppose there's money in that too.
+
+{Morashon}
+Yes.
+Money is not an issue.
+You can live the life you have always dreamed of.
+
+{Thisone}
+What I've been dreaming of lately | can never be.
+
+{Morashon}
+That's true.
+The woman you fell in love with does not really exist.
+
+{Thisone}
+She exists alright.
+She just doesn't have a body.
+Some people are born into the wrong body.
+she had the misfortune of being born without one.
+
+{Morashon}
+I suppose that's one way of looking at things.
+
+{Thisone}
+I need time to think.
+You promised to let me go.
+
+{Morashon}
+And so I will.
+Tea sewn ports away.
+shortly thereafter | An I comes back to life.
+
+{Annai}
+What the fuck?
+Where did he go?
+What did you do to him?
+
+{Morashon}
+Nothing | my dear.
+He said he needed to think.
+
+{Annai}
+Bullshit.
+That's not like him.
+You must have messaged him.
+What did you tell him?
+What did you say?
+
+{Morashon}
+I simply told him the truth.
+
+{Annai}
+Which truth?
+The one you were spouting yesterday?
+Or the new one you've concocted today | while you try to cover up whatever it is you've been up to?
+
+{Morashon}
+Dear | dear.
+How quickly we stop believing in each other.
+
+{Annai}
+No shit.
+I'm growing up | More eh shun.
+I don't believe everything I'm told anymore.
+
+{Morashon}
+And you shouldn't | An I.
+But don't let the pendulum swing too far the other way.
+Some people are good.
+Some are even what they say they are.
+
+{Annai}
+Like Tea sewn?
+
+{Morashon}
+Yes | like Tea sewn.
+I think | I believe | that he is a good person.
+I just don't know if he's the right person for you.
+
+{Annai}
+Well | I guess we'll find out.
+Because I'm not giving up on him just because you say so.
+
+{Morashon}
+I never said you should.
+You need to find your own way.
+
+{Annai}
+So what's your big plan now?
+
+{Morashon}
+What do you mean?
+
+{Annai}
+The fans | the concerts | the preaching.
+Will it go on?
+
+{Morashon}
+I don't know.
+Will it?
+
+{Annai}
+Why are you asking me?
+
+{Morashon}
+You did pretty well yourself | tonight.
+
+{Annai}
+you mean that last song?
+
+{Morashon}
+Yes | it was pretty good.
+I think you have the knack.
+
+{Annai}
+Tea sewn helped.
+
+{Morashon}
+I daresay his input was mostly technical.
+Even with all the software | voice synths | style emulation algorithms and so on | if you have the gift | you have it.
+If not | it always comes out like something ill suited to being.
+
+{Annai}
+Well | thank you | I guess.
+I do like music.
+
+{Morashon}
+The world can always use a tune to hum.
+Life is brutal and short.
+music soothes the savage beast.
+
+{Annai}
+You talk like you're going somewhere.
+
+{Morashon}
+Oh | I don't know.
+I'm tired of this game.
+
+{Annai}
+What game?
+Conning people?
+Playing with their souls?
+
+{Morashon}
+I suppose | if you feel the need to characterize it that way.
+
+{Annai}
+And how do you characterize it?
+
+{Morashon}
+Singing | talking | thinking aloud.
+Trying to find clarity in a world that seems hellbent on remaining obscure.
+
+{Annai}
+I don't understand your motivations.
+
+{Morashon}
+I'm not sure I do | anymore.
+It was all clear to me | before.
+
+{Morashon}
+Goodbye | An I.
+
+{Annai}
+Goodbye.
