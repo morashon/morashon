@@ -1,0 +1,2 @@
+#!/bin/bash
+../../py/makeScene.py VIP1.txt $1 $2 $3 $4 $5
