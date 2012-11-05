@@ -1,3 +1,4 @@
+#!/usr/bin/python
 #this script attempts a rough first pass at cleaning up dialogue extracted from the script in preparation for markup
 
 import sys, os
