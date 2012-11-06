@@ -27,7 +27,9 @@ def nsyl(word):
             if p < mn:
                 mn = p
         return mn
-
+    if "'" in word:
+        return nsyl(word.replace("'",""))
+    
 if __name__ == "__main__":
     if len(sys.argv) > 1:
         for arg in sys.argv[1:]:
