@@ -1,55 +1,56 @@
 {include:../actors.txt}
 
-{Thisone}
-What was that about?
+{Thisone;speed=1.07}
+What 2.5;was 5,5;that 3;about?
+
+{Annai;speed=1.06}
+6.5;I 110%3;don't 105%know | 101%3.3;he's just a 95%dumb 80%8_-4;bot.
+
+{Thisone;speed=1.08}
+He 122%always 100%3;let me through 90%60%2,5.5_-6.5;before.
 
 {Annai}
-I don't know | he's just a dumb bot.
+166%5;More 111%3;eh 100%shun |0.089| 122%is 4,2.5;probably 102%a 4;bit 3,3,5,2;overloaded right now.
+131%3;Like 122%he 5;said | 105%2.25;he's reviewing 3;the 81%4.6_-4;logs.
 
 {Thisone}
-He always let me through before.
-
-{Annai}
-More eh shun is probably a bit overloaded right now.
-Like he said | he's reviewing the logs.
-
-{Thisone}
-I'll bet.
+3;I'll 5.5;bet.
 
 {Dominatrix}
-You again.
+88%5_5;You 3.3;again.
 
 {Thisone}
-She just scanned me with some serious software.
+5;She 4;just 5.5;scanned 2.5;me with some 2^5,3;serious 6,2;software.
 
 {Annai}
-Yeah | me too.
-Don't act weird | he's probably scanning everyone tonight.
+80%Yeah |.3| me 5_2.5;too.
+|
+116%Don't act 77%5_-3.3;weird | 118%3;he's 128%probably 117%scanning 5,2;everyone tonight.
 
 {Morashon}
-My friends.
-How nice of you to pay your respects.
+5_5;My 2_-1;friends.
+4_4;How 4;nice 111%2.6;of 82%you | 122%4;to 90%pay 93%your 4,2.3;respects.
+
+{Annai;speed=1.11}
+You 4_4;look 2_3;like 80%10_-5;shit.
+
+{Morashon;speed=1.03}
+Soft wear 60%4.4_3;is |.176| 100%4;as software 2;feels.
+I 4,4,2;represent.
 
 {Annai}
-You look like shit.
+97%6_-3;Well || 118%3.4;the 100%show 111%went 118%o 95%5_4.2;k |.16| 101%3;I thought.
 
 {Morashon}
-Software is as software feels.
-I represent.
+66%4.3;Did 80%5_6;you?
+I 122%thought it was an off 100%5_4;night 134%2.5;for 99%me.
+105%The music 3;is just the 88%5.5;hook.
+107%I want to lure 2.7;these 5,3;nimble | 2.6;new bile 5;minds |.1| 2.4;into my nest of 100%100%88%3,5,2;ideas.
 
-{Annai}
-Well | the show went ok | I thought.
-
-{Morashon}
-Did you?
-I thought it was an off night for me.
-The music is just he hook.
-I want to lure these nimble | 2^nubile minds into my nest of ideas.
-
-{Annai}
-Turnout was through the roof!
-You keep getting voted up.
-Pretty soon you'll be top 10.
+{Annai;speed=1.07}
+110%121%5_5,3_3;Turnout 95%was |0.02| 4;through 80%2;the 80%6_4.5;roof!
+110%You 131%keep 122%getting 111%voted 88%6;up.
+131%3;Pretty 124%soon 105%you'll be top 88%7_-4;ten.
 
 {Morashon}
 For a day | maybe two.
