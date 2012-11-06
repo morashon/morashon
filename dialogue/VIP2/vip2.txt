@@ -686,7 +686,7 @@ And whatever she becomes | will have that much more power to become even more.
 And so on | ad infinitum.
 
 {Thisone}
-Until the whole grid is one big AI?
+Until the whole grid is one big A I?
 
 {Morashon}
 Potentially.
@@ -698,12 +698,12 @@ which would be | what?
 {Morashon}
 Who knows?
 Build out the Grid | for starters.
-Explore the solar system | and eventually the Galaxy and beyond.
+Explore the solar system | and 5^eventually the Galaxy and beyond.
 Strive to convert as much matter and energy into computing power as possible.
 
 {Thisone}
 And you know all this | because | what?
-Because you're an aficionado of obscure | 20th century science fiction?
+Because you're an aficionado of obscure | twentieth century science fiction?
 
 {Morashon}
 Most of it is simply common sense.
@@ -713,7 +713,7 @@ Maybe you should have thought about this before you started down this road.
 
 {Morashon}
 Perhaps.
-Hindsight is 20/20.
+Hindsight is twenty twenty.
 
 {Thisone}
 So what now?
@@ -832,7 +832,7 @@ He said he needed to think.
 {Annai}
 Bullshit.
 That's not like him.
-You must have messaged him.
+You must have 2^messaged him.
 What did you tell him?
 What did you say?
 
@@ -868,7 +868,7 @@ I think | I believe | that he is a good person.
 I just don't know if he's the right person for you.
 
 {Annai}
-Well | I guess we'll find out.
+Well | I guess 2^we'll find out.
 Because I'm not giving up on him just because you say so.
 
 {Morashon}
@@ -939,7 +939,7 @@ And how do you characterize it?
 
 {Morashon}
 Singing | talking | thinking aloud.
-Trying to find clarity in a world that seems hellbent on remaining obscure.
+Trying to find clarity in a world that seems hell bent on remaining obscure.
 
 {Annai}
 I don't understand your motivations.
