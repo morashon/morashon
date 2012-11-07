@@ -47,25 +47,25 @@ I 122%thought it was an off 100%5_4;night 134%2.5;for 99%me.
 105%The music 3;is just the 88%5.5;hook.
 107%I want to lure 2.7;these 5,3;nimble | 2.6;new bile 5;minds |.1| 2.4;into my nest of 100%100%88%3,5,2;ideas.
 
-{Annai;speed=1.07}
+{Annai;speed=1.055}
 110%121%5_5,3_3;Turnout 95%was |0.02| 4;through 80%3.4;the 80%6.25_4.9;roof!
 110%You 131%keep 122%getting 111%voted 88%5.8;up.
 131%3.6;Pretty 124%soon 133%you'll 112%3.25;be top 88%7_-4;ten.
 
-{Morashon}
-For a day | maybe two.
-Not if I give another performance like this one.
+{Morashon;speed=1.025}
+123%3;For a 99%4_4;day |.189| 88%2;maybe 4_3;two.
+111%3.4;Not if I give another 2.3;performance like 5_4.5;this 3_2.5;one.
 
-{Thisone}
-I thought it sounded fine.
+{Thisone;speed=1.02}
+113%5;I 3;thought it sounded 82%7_-4;fine.
 
-{Morashon}
-My my | my critics are tame tonight.
-How did you like that last song?
+{Morashon;speed=1.07}
+88%5;My 3.5;my | 108%3;my critics are tame 111%88%3,5;tonight.
+5;How did you like 2;that last 8_-3;song?
 
-{Thisone}
-I thought it was pretty good.
-The chord progression was quite original.
+{Thisone;speed=1.08}
+5;I 3.8;thought it was pretty 76%6_4;good.
+2.5;The 5;chord 3;progression was quite 3,5,2;original.
 
 {Morashon}
 Yes yes | the chords.
