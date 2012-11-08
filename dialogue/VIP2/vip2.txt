@@ -53,7 +53,7 @@ I 122%thought it was an off 100%5_4;night 134%2.5;for 99%me.
 131%3.6;Pretty 124%soon 133%you'll 112%3.25;be top 88%7_-4;ten.
 
 {Morashon;speed=1.025}
-123%3;For a 99%4_4;day |.189| 88%2;maybe 4_3;two.
+123%3;For a 72%4_4;day |.189| 88%2;maybe 4_3;two.
 111%3.4;Not if I give another 2.3;performance like 5_4.5;this 3_2.5;one.
 
 {Thisone;speed=1.02}
@@ -67,27 +67,27 @@ I 122%thought it was an off 100%5_4;night 134%2.5;for 99%me.
 5;I 3.8;thought it was pretty 76%6_4;good.
 2.5;The 5;chord 3;progression was quite 3,5,2;original.
 
-{Morashon}
-Yes yes | the chords.
-4^Obligato with major sevenths.
-Very nine teen seventies.
-Steely Dan.
-Another of my many influences.
-But the lyrics.
-How were the lyrics?
+{Morashon;speed=1.06}
+88%Yes 77%5;yes | 88%2.7;the 87%chords.
+322%O 4^74%100%4,4,4,3;Obligato with 126%major 108%5,2.5;sevenths.
+2;Very 111%4.5;nine teen 5,3;seventies.
+Steely 82%3_5;Dan.
+133%Ann 100%other of my many 4,2;influences.
+3;But the 88%4.5_2,2;lyrics.
+114%What did you think of the 87%5_3,1;lyrics?
 
-{Annai}
-I never listen to them at the show.
-Too hard to dance and think at the same time.
-I'll read them later.
+{Annai;speed=1.06}
+I 5,4;never 112%listen 155%to 109%3;them at the 71%5_2;show.
+111%Too hard 163%2.5;to 122%5;dance 3;and think 111%at the same 87%5.5_-4;time.
+111%5;I'll 125%3;reed 133%them 100%5,2;later.
 
-{Morashon}
-Not up to my usual standards | I think.
-Holding the Chair?
-What in the world does that mean?
+{Morashon;speed=1.15}	
+Not up to my usual 5_4,3;standards |.1| 2;I think.
+Holding the 88%3_5;Chair?
+What in the world does 6;that 2;mean?
 
 {Thisone}
-Um | I thought it meant | you know | like a chairman?
+65%Ohm | 100%I 122%thought it 99%meant | 3.6;you know | 3.3;like a 3,5_5;chairman?
 
 {Morashon}
 Chairman of the board.
