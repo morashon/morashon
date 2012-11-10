@@ -262,32 +262,35 @@ We need to 2;talk.
 4;I can't jack 82%6;out!
 121%What are 100%you 6,3;doing 92%2.5;to me?
 
-{Morashon}
-Relax.
-Just an equipment glitch.
-I won't hurt you | but I can't have you leave until we hash this thing out.
+{Morashon;speed=1.07}
+5,3.2;Relax.
+Just an 3,5,2;equipment glitch.
+I won't 5;hurt 2;you | 2.8;but I can't 122%have you 103%4.5;leave 2.5;until we hash this thing 6_-4;out.
+
+{Thisone;speed=1.02}
+3;Hash out 5.2;what?
+You're some 5;super 100%35%2.4;hacker 100%3;who is lying to 5,2.5;everyone |.1| 3;that you've created real 72%A |.035| 66%5;I.
+It's sum 2^5,3;Ponzi scheme 90%I 76%2.6;guess.
+Get the investors 77%5;inn | 100%3;siphon off the 5.6;money | 100%100%70%3,3,5;disappear.
+3;Something like 4.5_5;that?
+
+{Morashon;speed=1.02}
+88%5;My oh 62%3.5;my.
+2.8;you 111%think like such 55%a 87%6,2;worker bee.
+No class at 2;all.
 
 {Thisone}
-Hash out what?
-You're some super hacker who is lying to everyone that you've created real A I.
-It's some 2%Ponzi scheme I guess.
-Get the investors in | siphon off the money | disappear.
-Something like that?
+85%3.5;Fuck |.04| 76%5.5;you.
+You're just 121%121%91%another 100%one of 2;us
+|||
+3;Some hack somewhere 92%with a box 101%of 100%70%5,2;pizza 108%and your 88%5.5;trodes.
 
 {Morashon}
-My oh my | you think like such a worker bee.
-No class at all.
+5,3;Perhaps.
+102.6%In 4,2.5;essence | 111%2;that's 92%8_-3;true.
 
-{Thisone}
-Fuck you.
-You're just another one of us | some hack somewhere with a box of pizza and your trodes.
-
-{Morashon}
-Perhaps.
-In essence | that's true.
-
-{Thisone}
-Then what do you want?
+{Thisone;speed=1.03}
+3;Then what do you 6;want?
 Convince me you're not just a fuck wad with a dirty scheme to get rich and buy your way to the surface.
 For what | I can't imagine.
 Hang around with the hoi polloi?
