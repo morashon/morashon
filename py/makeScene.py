@@ -128,10 +128,16 @@ def main(scene):
 
     if BUILD or ((not NOBUILD) and (BUILDJUST == None) and (buildMaster and errors == 0)):
         print "Building master wav file"
+        if PAD:
+            cmd = "sox -n -r 44100 pad.wav trim 0 " + str(PAD)
+            print cmd
+            os.system(cmd)
         cmd = "sox "
         for fil in files:
             print fil
             cmd += fil[:-4] + ".wav "
+            if PAD:
+                cmd += "pad.wav "
         cmd += scene + ".wav"
         print cmd
         os.system(cmd)
@@ -182,6 +188,7 @@ PLAY = False
 WATCH = False
 BUILD = False
 NOBUILD = False
+PAD = 0
 
 for e in sys.argv[1:]:
     if e[:2] == "--":
