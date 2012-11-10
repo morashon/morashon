@@ -306,36 +306,36 @@ I was 3.5,5;involved 2.7;in thee original 4;grid 5.5,2.4;kernel project.
 I knew 2;it.
 
 {Morashon;speed=1.06}
-110%3.8;What's 77%5_5;that?
+110%3.8;What's 93%5_5;that?
 
 {Morashon;speed=1.06}
-Nothing wrong 3;with 100%133%5,2;Finland | 107%3.5;but I hail 3;from 5,2;elsewhere.
+105%Nothing wrong 3;with 100%143%5,2;Finland | 107%3.5;but I hail 3;from 5,2;elsewhere.
 113%Let's get back 3;to the 99%5,2;subject.
 
-{Thisone}
-What's the subject?
-You're the one who's kidnapped me.
-Still a capital offense | last I heard.
+{Thisone;speed=1.1;pitch=.6}
+3;What's the 90%80%5,2;subject?
+5;You're 3;the one who's 2.5;kid 115%napped 155%5.5_5.5;me e.
+Still a capital 3,5;offense | 2.2;last I heard.
+
+{Morashon;speed=1.08}
+Hard to 5;prove 3;virtual 5,2;kidnap.
+118%5;I 133%3.3;can just claim 117%your 110%4;gear 111%3,5,3;malfunctioned | you got 5,2;paranoid.
+105%I called 3;the proper 3,5,2.5;authorities | 3;they fixed the 5.5;glitch.
+3,5;Besides | 3.5;I 122%doubt you'll press 101%5,3;charges | once you hear what I have 88%to 2;say.
+
+{Thisone;speed=1.067}
+O k | spit it out.
+111%I'm about to 99%piss my 5;pants.
 
 {Morashon}
-Hard to prove virtual kidnap.
-I can just claim your gear malfunctioned | you got paranoid.
-I called the proper authorities | they fixed the glitch.
-Besides | I doubt you'll press charges | once you hear what I have to say.
+5;I'm 3;not 81%A I || 100%but 5;Ann 92.5%2.5;I |.09| 42%7_-6;is.
 
 {Thisone}
-Ok | spit it out.
-I'm about to piss my pants.
+5;Get 3;out.
 
 {Morashon}
-I'm not AI | but An I is.
-
-{Thisone}
-Get out.
-
-{Morashon}
-I kid you not.
-She is the result of my life's work.
+3.5;I kid you 5;not.
+She is the 3,5;result 2.5;of my life's 5;work.
 
 {Thisone}
 An I?
