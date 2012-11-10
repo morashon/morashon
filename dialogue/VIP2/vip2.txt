@@ -150,7 +150,7 @@ This is 5,2.5;really about 113%you and 67%5;mee.
 You 3;know damn 5_4;well 2;what this is about.
 
 {Annai;speed=.9}
-166%5;More 112%3;eh 110%shun ||||| 82%who 90%5_4;are 2;you?
+166%5;More 112%3;eh 110%shun |||| 82%who 90%5_4;are 2;you?
 
 {Morashon;speed=1.08}
 I've 5;told 2.5;you 118%as 100%much |.04| 123%as 101%you 90%3;need to 96%2.2;know.
@@ -289,12 +289,12 @@ You're just 121%121%91%another 100%one of 2;us
 5,3;Perhaps.
 102.6%In 4,2.5;essence | 111%2;that's 92%8_-3;true.
 
-{Thisone;speed=1.03}
-3;Then what do you 6;want?
-Convince me you're not just a fuck wad with a dirty scheme to get rich and buy your way to the surface.
-For what | I can't imagine.
-Hang around with the hoi polloi?
-Spend ten minutes top side in a 2^hazmat suit?
+{Thisone;speed=1.044}
+3;Then 122%what do you 99%6;want?
+4,5;Convince 3.5;me 2.7;you're not 111%just a 99%5;fuck 88%3;wad with a 118%dirty 92%scheme 166%to 100%get 4;rich 2.2;and 133%buy your way 116%to the 97%5.6,2;surface.
+For 89%5;what | 100%2.5;I can't 3,5,2;imagine.
+3;Hang around with the 4;hoi 4,5_5.5;polloi?
+Spend ten 5,3;minutes 5;top 2;side |.15| in a 2^3;hazmat 5,6_5;suit?
 
 {Morashon}
 Money is not my problem.
