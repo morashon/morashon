@@ -296,19 +296,21 @@ For 89%5;what | 100%2.5;I can't 3,5,2;imagine.
 3;Hang around with the 4;hoi 4,5_5.5;polloi?
 Spend ten 5,3;minutes 5;top 2;side |.15| in a 2^3;hazmat 5,6_5;suit?
 
-{Morashon}
-Money is not my problem.
-I did quite well a while back.
-I was involved in the original grid kernel project.
+{Morashon;speed=1.04}
+5,3;Money is not my 5,2;problem.
+I did 3;quite 5;well 3;a while back.
+I was 3.5,5;involved 2.7;in thee original 4;grid 5.5,2.4;kernel project.
 
 {Thisone}
-Finnish.
-I knew it.
+88%4,4_6.5;Finnish.
+I knew 2;it.
 
-{Morashon}
-What's that?
-Nothing wrong with Finland | but I hail from elsewhere.
-Let's get back to the subject.
+{Morashon;speed=1.06}
+110%3.8;What's 77%5_5;that?
+
+{Morashon;speed=1.06}
+Nothing wrong 3;with 100%133%5,2;Finland | 107%3.5;but I hail 3;from 5,2;elsewhere.
+113%Let's get back 3;to the 99%5,2;subject.
 
 {Thisone}
 What's the subject?
