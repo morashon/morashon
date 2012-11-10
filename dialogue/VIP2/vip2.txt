@@ -337,48 +337,51 @@ O k | spit it out.
 3.5;I kid you 5;not.
 She is the 3,5;result 2.5;of my life's 5;work.
 
-{Thisone}
-An I?
+{Thisone;speed=.97}
+81%5_5;Ann 99%3_-1;I?
 
 {Morashon}
-Artificial Neural Network slash Artificial Intelligence.
+105%Artificial Neural Network 2.3;slash 4;Artificial 4,5,2.5;Intelligence.
 A N N A I.
 Yes.
 The name is old.
-she's version twenty three.
+113%3;she's 4.5_4,2;version 3;twenty 99%8_-2;three.
 
 {Thisone}
-How the hell | she's just some kid.
-Barely out of her teens.
+How the hell | 111%she's 152%5;just 90%2.5;sum 91%7_5;kid.
+113%Barely 162%out 138%of her 92%9_-2;teens.
 
-{Morashon}
-So she believes.
+{Morashon;speed=1.1}
+So she 3,5;believes.
 
-{Thisone}
-I don't | this is incredible.
+{Thisone;speed=1.07;pitch=.7}
+I don't | this 2.2;is 3,5,1.5;incredible.
 
-{Morashon}
-You mean that 4^literally | I take it.
-Let me ask you.
-has she sent you any pics or vids?
-Any real life proof of her existence?
-
-{Thisone}
-No | but I | we never |
-
-{Morashon}
-You never traded.
-So you never knew for sure if she really was young | or female | or beautiful.
-You took it all on faith.
+{Morashon;speed=1.1}
+You mean that 4^5,3;literally |.15| 2;I take it.
+|
+Let me 5;ask 3;you.
+|.1|
+3;has 122%she sent 103%you any 5;pics |.15| 2;or 82%5;vids?
+Any 5;real 2.5;life proof of her 2,5,5_5;existence?
 
 {Thisone}
-I asked | but she said | I thought I could tell.
-I stopped worrying about it.
-It all seemed so right.
+84%3_5;No || 100%3;but 67%I || 90%3;we 78%41%5,2;never |
+
+{Morashon;speed=1.07}
+You 122%never 100%5,3;traded.
+So you 5,3;never knew fur 5;sure | 3;if she really was 4.5_4.5;young | 2.6;or 5,4.5_4.5;female | 3;or 5,2;beautiful.
+You took it 5_5;all on 2;faith.
+
+{Thisone;speed=1.03}
+3;I 5_-1;asked || 4;but 92%5_4.9;she 99%3;said |||
+122%5;I 144%3;don't 99%2;know || 117%3.5;I 5;thought 2.5;I could 99%7.7_-4;tell.
+I stopped 5,2;worrying about it.
+It awl 3;seemed so 5;right.
 
 {Morashon}
-And it was.
-This was the final test.
+3;And it 5;was.
+5;This 3;was the final 5.4;test.
 
 {Thisone}
 What?
