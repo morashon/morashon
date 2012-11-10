@@ -242,8 +242,8 @@ What 3;the hell does 5_5;that 2;mean?
 Either you're 90%5_5;code | 99%3;or you're a human 5;being 3;somewhere with 5;trodes 2;on | 3.5;like the 5.5;rest 2.2;of 1.1;us.
 |||
 
-{Thisone;pitch=1;speed=1.0356}
-What 3;did 111%you 91%5_5;doo 100%2.4;to her?
+{Thisone;pitch=.45;speed=1.0356}
+What's 91%5_5;wrong 100%2.4;with her?
 
 {Morashon;speed=1.07}
 5;Never mind that.
