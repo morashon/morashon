@@ -87,54 +87,56 @@ Holding the 88%3_5;Chair?
 What in the world does 6;that 2;mean?
 
 {Thisone}
-65%Ohm | 100%I 122%thought it 99%meant | 3.6;you know | 3.3;like a 3,5_5;chairman?
+66%7_-4;Ohm | 100%4;I 122%thought 3;it 99%meant | 5.2_4.7;you 107%3.5_1;know | 101%3.3;like a 3,5_6.5;chairman?
 
-{Morashon}
-Chairman of the board.
-Is that it?
-Why not holding my share?
-Or breathing the air?
+{Morashon;speed=1.06}
+3;Chairman of the 5_4;board.
+3;Is 4;that 5_5;it?
+|.45|
+4;Why not 3;holding my 80%6.5_1;share?
+Or 96%3;breathing 80%4;thee 60%6.5_-1;air?
 
-{Thisone}
-I don't know | it sounded right.
-I liked it anyway.
+{Thisone;speed=1.077}
+5;I 4;don't 3;know |.4| it 5,3_3;sounded 3;right.
+I liked it 5,2;anyway.
 
-{Morashon}
-I'm sure you did.
-Everyone liked it.
-More eh shun is hot.
+{Morashon;speed=1.07}
+I'm sure 90%you 66%6.5;did.
+109%5,3.3;Everyone 88%2;liked it.
+155%More 133%eh 111%shun is 90%hot.
 The newest thing.
-The meter's running on his fifteen minutes.
-Why sweat the details?
+The 2;meter's 5;running 2;on his 5;fifteen 5,3_3;minutes.
+3;Why 2;sweat the 90%6_5.6;D 2.5;tails?
 
-{Annai}
-You've never cared about that.
-I thought your plan was long term influence.
+{Annai;speed=1.077}
+3;You've never cared about 5_4.5;that 3,3_1;before.
+113%I 117.8%thought 133%your 106%5_5;plan 132%3;was 111%long term 6,2;influence.
 
-{Morashon}
-You need a flame to start a 2^fire.
-Fame is the flame that fans the meme.
-But it won't work unless I control 3^every aspect of 3^every thing.
-I cannot be subverted | or interfered with.
-I won't stand for it!
+{Morashon;speed=1.03}
+You need a 87%5;flame 103%2.7;to 111%start a 2^80%fire.
+80%5;Fame 100%4;is the flame 108%3;that fans 82%2;the 69%5;meme.
+3;But it 90%will 5;not |.03| 4.5;work |.03| 111%4;unless I 3;control 3^6;every 2.5;aspect of 3^6,2;every thing.
+I cannot be subverted | or 3,3,5;interfered 2.5;with.
+111%I 131%won't 118%5;stand 101%2;for it!
 
-{Annai}
-I'm not sure what you're talking about.
+{Annai;speed=1.08}
+I'm 5;not sure 3;what you're 5,2;talking about.
 
-{Morashon}
-I didn't sing that fucking song!
-Someone is screwing with me.
-Someone who will soon be very | very sorry.
-I'm trace rooting the incident as we speak.
-It's only a matter of time until I find out what is going on around here | and believe me I will put a stop to it.
-Whoever is behind this madness will pay dearly for their poor judgement.
+{Morashon;speed=1.08}
+I 88%5;didn't |.06| 85%sing |0.02| 100%3;that 111%2;fuck 4;ing 86%11_-3;song!
+111%Someone is 103%6_5;screw 100%3;ing 92%2.5;with me.
+Someone 118%who will 101%5.5;soon 3;be very |.19| 2;very 80%6,2;sorry.
+115%I'm 5;trace 3;rooting thee 92%5,3;incident 105.6%2;as we 80%10_-4.5;speak.
+It's own lee a matter 3;of 5;time 2.5;until I 123%4;find 114%out 122%3;what is 100%going 5;onn 3;around here | and believe 82%5;me |.1| 100%3;I will put a 5.5;stop 87%2.2;too it.
+Whoever is 3,5;behind 3;this 5,3;madness | 108%will pay 5,2.4;dearly 138%for 121%their 116%pour 99%5,2;judgement.
 
-{Morashon}
-How did you do it?
+{Morashon;speed=1.08}
+|||
+How 3;did you 5_5;do 2.5;it?
 
-{Thisone}
-Do what?
-I don't know what you're talking about.
+{Thisone;speed=1.033}
+88%3;Do 5;what?
+3;I 114%5;don't 3;know 101%what you're 5,2;talking about.
 
 {Morashon}
 I'll ignore your useless fuck toy for the moment.
