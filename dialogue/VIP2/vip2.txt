@@ -173,90 +173,93 @@ I 3;never 4.5;once told 90%3.5;you |.03| 2.7;or 5,2;anyone 3;something I didn't 
 3.5;You 91%5_3.7;should 1.78;know.
 2;But I 111%4;won't 116%5,3;hesitate 100%to act 5,2;swiftly | if I believe 96%you have 3,5;betrayed 2;me.
 
-{Annai}
-Betrayed you?
-How?
-By discovering that you've lied to me | and to everyone?
-Trust | but verify!
+{Annai;speed=1.04}
+3;Betrayed |.02| 70%3_6;you?
+80%8_-3;How?
+|
+3.3;By 111%discovering that 121%you've 131%4.7;lied to 111%me | 100%3;and to 3,5,5_5;everyone?
+||
+5;Trust | 4;but 5,2;verify!
 
-{Morashon}
-It's not as simple as you think.
-
-{Annai}
-A lie is a lie.
-The seed of distrust grows like cancer.
-These are your words.
-If you don't believe them | why should anyone?
-
-{Morashon}
-You have no idea who you're fucking with.
-
-{Thisone}
-that seems obvious.
-
-{Morashon}
-Shut the fuck up.
-I'm talking to An I.
-
-{Thisone}
-Wait a minute.
-You can't |
-Tea sewn's avatar freezes in place.
+{Morashon;speed=1.08}
+It's not as 4.4,2.2;simple as you 5;think.
 
 {Annai}
-What did you do to him?
+77%3;Ah 5;lie |.15| 2.5;is a 5;lie.
+3;The seeds of 121%3,5;distrust |.4| 4;grow like 5.5,2;cancer.
+106%3.5;These are 5;your 2;words.
+111%3;If 5_4;you 3.5;don't 3;believe 2;them | 3;why should 5,2;anyone?
+
+{Morashon;speed=1.11}
+3;You have 4.5;no 77%5,4_-1;idea | 101%2.5;who your 5,2;fuck ing 87%2_0;with.
+
+{Thisone;speed=1.08}
+5;that 2.8;seems obvious.
 
 {Morashon}
-I just stopped his 3^jabbering.
-He'll be fine.
-He can log back on in a while.
+Shut 88%the hell 3;up.
+3;I'm 98%111%talking to 5;Ann 77%2;I.
 
-{Annai}
-Why are you doing this?
+{Thisone;speed=1.07;pitch=.8}
+5;Wait 2.5;a minute.
+3.5;You 121%can't 111%just |||
 
-{Morashon}
-What | taking you to task for your disloyalty?
+{Annai;speed=1.1;pitch=1}
+3.3;What did you 5_5;do 2;to him?
 
-{Annai}
-No!
-Everything!
-The lies about AI | about being a force for good.
-Who are you | and what are you trying to achieve?
+{Morashon;speed=1.13;pitch=.25}
+I just stopped his 2^100%80%5_5,2;jabber ing.
+111%He'll 105%be 99%fine.
+108%3;He can 125%log back 101%on in a 98%5,2;moment.
 
-{Morashon}
-It's not all lies.
-Everything I said about life | about trust | love | all of that was real.
-
-{Annai}
-But you're not an AI!
+{Annai;pitch=.3;speed=1.01}
+Why are you 5_5,3;doing this?
 
 {Morashon}
-Not exactly.
+What?
+121%4;Taking you 111%to task | 119%3.4;for 134%your 122%112%122%88%2.8,5,5,5_5;disloyalty?
 
-{Annai}
-What does that mean?
-You can't be half pregnant.
-Either you're code | or you're a human being somewhere with trodes on | like the rest of us.
-Suddenly | An I freezes | and Tea sewn comes back to life.
+{Annai;speed=1.03}
+74%9_-4;No!
+6_5.7,3.5;Everything!
+The lies about 81%A 5_5;I || 100%3;about being a 121%force 128%fur 90%5.5_5;good.
+3;Who 93%6_5.5;are 2.8;you | 144%2.75;and 153%4;what 133%3;are 100%you trying to 88%2.5,11_-2;achieve?
 
-{Thisone}
-What did you do to her?
+{Morashon;speed=1.03}
+2;It's 5;not 3;all 82%4.5;lies.
+121%Everything 110%I said 2.7;about 101%5;life | 2.7;about 5;trust |.4| 72%6_-1;love || 96%all 3;of that was 90%8_-2;real.
+
+{Annai;speed=1.1;pitch=.4}
+3;But 88%you're 100%5;not |.1| 2.7;an 81%2;A 5;I!
 
 {Morashon}
-Never mind that.
+4.5;Not 4.5;4.5,2;exactly.
+
+{Annai;speed=1.04}
+What 3;the hell does 5_5;that 2;mean?
+121%You 105%5;can't 122%3;be half 98%5,2;pregnant.
+|
+Either you're 90%5_5;code | 99%3;or you're a human 5;being 3;somewhere with 5;trodes 2;on | 3.5;like the 5.5;rest 2.2;of 1.1;us.
+|||
+
+{Thisone;pitch=1;speed=1.0356}
+What 3;did 111%you 91%5_5;doo 100%2.4;to her?
+
+{Morashon;speed=1.07}
+5;Never mind that.
 She'll be fine.
-We need to talk.
+We need to 2;talk.
 
-{Thisone}
-I'm getting the fuck out of here.
+{Thisone;speed=1.05}
+5;I'm 2.6;getting the hell 6;out 2.2;of here.
 
-{Morashon}
-I'd rather you stick around for a bit.
+{Morashon;speed=1.1}
+4^5,3;Actually | 4;I'd rather you stick 3,5;around 2;for a bit.
 
-{Thisone}
-What the hell is going on?
-I can't jack out!
-What are you doing to me?
+{Thisone;speed=1.1}
+3.8;What the fuck is 80%going 60%7_-3;onn?
+4;I can't jack 82%6;out!
+121%What are 100%you 6,3;doing 92%2.5;to me?
 
 {Morashon}
 Relax.
