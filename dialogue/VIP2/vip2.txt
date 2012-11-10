@@ -134,44 +134,44 @@ Whoever is 3,5;behind 3;this 5,3;madness | 108%will pay 5,2.4;dearly 138%for 121
 |||
 How 3;did you 5_5;do 2.5;it?
 
-{Thisone;speed=1.033}
-88%3;Do 5;what?
-3;I 114%5;don't 3;know 101%what you're 5,2;talking about.
+{Thisone;speed=1.06}
+86%3;Do 5;what?
+4.5;I 114%2.5;don't 3;know 101%3.5;what 4.1;you're 5,2;talking about.
 
-{Morashon}
-I'll ignore your useless fuck toy for the moment.
-This is really about you and me.
-
-{Annai}
-It is?
-Is it?
-
-{Morashon}
-You know damn well what it's about.
+{Morashon;speed=1.055}
+I'll 5;ignore 111%3;your 120%111%2.5;useless |0.01| 122%5;fuck 100%2.4;toy for the moment.
+This is 5,2.5;really about 113%you and 67%5;mee.
 
 {Annai}
-More eh shun | who are you?
+|||
+70%3;Is 5_5;it?
 
-{Morashon}
-I've told you as much as you need to know.
+{Morashon;speed=1.03}
+You 3;know damn 5_4;well 2;what this is about.
+
+{Annai;speed=.9}
+166%5;More 112%3;eh 110%shun || 82%who 90%5;are 2;you?
+
+{Morashon;speed=1.08}
+I've 5;told 2.5;you 118%as 100%much |.04| 123%as 101%you 90%3;need to 96%2.2;know.
+
+{Annai;speed=1.07}
+3;What 128%kind of 122%answer 111%is 90%5_4;that?
+What 125%happened to 113%all your shit 100%3;about |.01| 88%5_4;trust | 5_4;truth | 84%2,5_4.5;belief?
+3;Giving 4.5;fate 2.7;the benefit of the 8.6_-4;doubt?
+
+{Morashon;speed=1.042}
+I 3;never 4.5;once told 90%3.5;you |.03| 2.7;or 5,2;anyone 3;something I didn't 80%3,6_-4;believe.
+3;But in thee 5;end | 2.9;it 121%has 111%to be 121%3.6_3.3;tit 1.6;for 111%5;tat.
 
 {Annai}
-What kind of answer is that?
-What happened to all your shit about trust | truth | belief?
-Giving fate the benefit of the doubt?
+108%3;Moral 99%5.5_5;hazard?
 
-{Morashon}
-I never once told you or anyone something I didn't believe.
-But in the end | it has to be tit for tat.
-
-{Annai}
-Moral hazard?
-
-{Morashon}
-Exactly.
-You know how I feel about you.
-You should know.
-But I won't hesitate to act swiftly | once I am sure that you have betrayed me.
+{Morashon;speed=1.067}
+141%3.5;X 123%5;act 99%2;lee.
+3;You 5;know 115%2.6;how I 100%4_3.8;feel 2.2;about you.
+3.5;You 91%5_3.7;should 1.78;know.
+2;But I 111%4;won't 116%5,3;hesitate 100%to act 5,2;swiftly | if I believe 96%you have 3,5;betrayed 2;me.
 
 {Annai}
 Betrayed you?
