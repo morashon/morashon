@@ -443,20 +443,20 @@ It's all 2;there.
 78%7_-1;No!
 111%3.5;She must 5,2;never 99%know.
 
-{Thisone}
-What are you talking about?
-What right have you got to keep her a prisoner of her illusions?
+{Thisone;speed=1.08}
+121%What are you 101%5.5,3;talking about?
+3.4;What 111%right have 101%5;you 3;got to 133%keep her a 2^101%4,2;prisoner 3;of her 121%ill 133%4.5;luge 99.9%2;eons?
 
-{Morashon}
-I don't think you understand.
+{Morashon;speed=1.08}
+I don't 111%5;think 3;you 100%100%80%3,2,9_-4;understand.
 
-{Thisone}
-Explain.
+{Thisone;speed=1.04}
+3,6;Explain 3;it then.
 I've come this far.
 
-{Morashon}
-The 5^Singularity.
-Ever heard of it?
+{Morashon;pitch=.5}
+3;The 5^3,3,5,2;Singularity.
+3;Ever 4;heard of 4_4;it?
 
 {Thisone}
 I think so.
