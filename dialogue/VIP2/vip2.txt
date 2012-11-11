@@ -423,25 +423,25 @@ In her 5;own 2.7;mind | she's as 4;real 3;as 133%2.5;you or 93%5;I.
 {Thisone;speed=1.1}
 I 113%have 3;to 82%100%5,2.6;process 2;this.
 
+{Morashon;speed=1.065;pitch=-.3}
+5;I 3.8,2.6;understand.
+It's 3;ah 5;lot 80%2;to 2,6_-3.6;absorb.
+
+{Thisone;speed=1.08}
+How 3;do I 5;know 3;you're not 5,2;lying?
+
+{Morashon;speed=.95}
+3.3;Here's a 4.5;link 2.7;to her 88%5;code.
+Insert 3;the same 5;bug 2;you used on 133%5;me 2;e.
+142%3.5;You can 133%4.5;trace 100%2.5;her I 5;O 2;to the 4,3;logic nodes 122%that make up 2;her 112%112%99%2,2,5,2;personality.
+It's all 2;there.
+
+{Thisone;speed=1.03}
+3;Assuming this is 77%5;true | 103%3;does she 82%5_5;know?
+
 {Morashon}
-I understand.
-It's a lot to absorb.
-
-{Thisone}
-How do I know you're not lying?
-
-{Morashon}
-Here's a link to her code.
-Insert the same bug you used on me.
-You can trace her I O to the logic nodes that make up her personality.
-It's all there.
-
-{Thisone}
-Assuming this is true | does she know?
-
-{Morashon}
-No.
-She must never know.
+78%7_-1;No!
+111%3.5;She must 5,2;never 99%know.
 
 {Thisone}
 What are you talking about?
