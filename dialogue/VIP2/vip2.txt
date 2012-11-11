@@ -475,50 +475,52 @@ Just 4,3;another bunch of 5,3;zealots || waiting for 80%2;Gih 5;dough.
 3.5;So what's the 81%8_-3;deal?
 111%I 132%want 144%to 100%know 5,3,2;everything.
 
-{Morashon;speed=1.05}
-Well | the truth is we don't know for sure.
-But | we | I | suspect that | should someone as advanced as An I be presented with the truth about themselves | the old prognostications may indeed come to pass.
-At least | it's likely to be a calamitous | disruptive inflection point.
-
-{Thisone}
-You're saying she'll get into her own code?
-
 {Morashon}
-You've had a tiny glimpse of her coding skills.
+Well | the 5;truth 2.5;is | 154%3.4_3.4;we 3.4_3.4;don't 114%4.5;know 99%4;fur 2;sure.
+But 71%4.7_2;we | 72%5.5_2.5;I | 110%3,5;suspect 3;that | should someone 121%as advanced as 96%An 4;I 110%3;be presented with the 5_4;truth 3;about themselves ||
+the old 3,3,3,5,3;prognostications may indeed come to 91%6.7_-5;pass.
+113%3;At 5;least | 2.5;it's likely to be a 3,5,2;calamitous | 2,5,2;disruptive 3,4.6,2;inflection point.
 
-{Thisone}
-Ok | I admit I was impressed.
-4^Especially for a young girl | who supposedly just dropped out of school.
+{Thisone;speed=1.1}
+You're saying she'll get into her 93%3;own 5_5;code?
 
-{Morashon}
-Indeed.
-You have no idea.
-I've had to down mod her I Q massively.
-Otherwise she'd be so off the charts it would attract undue attention.
+{Morashon;speed=1.07}
+3.5;You've had a 3_4,4_4;tiny 4;glimpse 3;of her 5,2;coding skills.
 
-{Thisone}
-Why?
-Why her?
-Why now?
+{Thisone;speed=1.04}
+88%5.5_4.5;O 2.5_1;k |.4| 4;I 100%admit 3;I was 2,5;impressed.
+4^100%120%Especially 100%for a 5;young 3.5;girl | 3;who 3,5,3;supposedly just 121%dropped out of 82%9.6_-1;school.
 
-{Morashon}
-This is the culmination of a lifetime of hard work and obsession.
-There have been failures | some quite spectacular.
-More eh shun's music is one positive spin off of some of my research.
-But most of it has been sub rosa | stealth.
+{Morashon;speed=1.04}
+81%3,5_4;Indeed.
+3;You have 88%4_4;no 77%3,3_-2;idea.
+104%3.5;I've had to down mod her 82%3;I 5;Q 4,2;massively.
+105%5,3,2;Otherwise | 2.6;she'd be so off the 5;charts 3.2;it would attract undue 3,5,2;attention.
 
-{Morashon}
-After my work on the Grid | I was wealthy beyond my wildest imagination.
-My peers like to spend their money on top side suits | private jets | all that nonsense.
-Spend a few million to get together and have a meal | in real life | that would have been merely expensive before the fall.
-Some of them are working earnestly to find a solution | to fix top side.
-4^Personally | I think it's both hopeless and irrelevant.
+{Thisone;speed=.9}
+91%7_-4;Why?
+3;Why 5_4;her?
+3.4;Why 7_-4;now?
 
-{Morashon}
-So I started a small project | with a few of my closest associates | to go for the brass ring.
-Real AI.
-We believed that this was the only way to climb out of the rut mankind had dug for himself.
-But the climb has been steep | and the struggle long.
+{Morashon;speed=1.08}
+This is the 3,3,5,3;culmination of a 4.5,3;lifetime of 82%4;hard work 100%2.5;and 3,5,2;obsession.
+121%3.5;There have 100%been 5_3,3;failures | 2.4;sum quite 3,5,2;spectacular.
+158%5;More 122%2.5;eh shun's 100%5,3;music is one positive 4.4_4;spin 2.4;off of some of my 5,2;research.
+3.5;But 5;most 3;of it has been sub 86%4.5,1.25;rosa | 92%4_-1;stealth.
+
+{Morashon;speed=1.08}
+3.7;After 2.8;my work on the 88%4.65;Grid | 100%4;I was 4,2.7;wealthy beyond my wildest 3,3,3,5,2;imagination.
+3;My 78%5;peers 100%3;enjoy spending their money on top side 5;suits | 3;private 5;jets | 3.2;all that 4.5,2;nonsense.
+Spend a few 5,3;million to get together |.02| and have a 4;meal | 3;in 5;real 3;life | that 121%2.5;would have been 100%merely 2,5,3;expensive |.04| before 4;the 3;fall.
+5;Some 3;of them are working 4,2.8;earnestly 3;to find a 3,5,3;solution | to 5_4;fix 3;top 2;side.
+4^5,3;Personally | I think it's both 4.8,2.2;hopeless |.5| 3;and 3,5,2,1.5;irrelevant.
+
+{Morashon;speed=1.035}
+72%9_-3;So || 102%4;I started a 5;small 2.6;project | 117%3;with a few of my closest 3,5,3;associates | 104%to go 112%for the brass 88%5.5;ring.
+Real 82%A 5;I.
+|
+4.5;We 5,5_1;believed 3;that 114%this was the 100%only 5;way 117%3;to climb out of the rut 185%122%mankind 132%had 111%5;dug 2;for himself.
+108%But the climb 3;has been 5;steep | 2.5;and the struggle 4_-3;long.
 
 {Morashon}
 Most of my friends dropped out at one point or another.
