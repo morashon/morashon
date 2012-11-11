@@ -368,9 +368,9 @@ Any 5;real 2.5;life proof of her 2,5,5_5;existence?
 {Thisone}
 84%3_5;No || 100%3;but 67%I || 90%3;we 78%41%5,2;never |
 
-{Morashon;speed=1.07}
+{Morashon;speed=1.071}
 You 122%never 100%5,3;traded.
-So you 5,3;never knew fur 5;sure | 3;if she really was 4.5_4.5;young | 2.6;or 5,4.5_4.5;female | 3;or 5,2;beautiful.
+So you 111%5,3;never knew fur 100%5;sure | 3;if she really was 4.5_4.5;young | 2.6;or 5,4.5_4.5;female | 3;or 5,2;beautiful.
 You took it 5_5;all on 2;faith.
 
 {Thisone;speed=1.03}
@@ -383,45 +383,45 @@ It awl 3;seemed so 5;right.
 3;And it 5;was.
 5;This 3;was the final 5.4;test.
 
+{Thisone;speed=1.11}
+83%1_9;What?
+For 5;someone 3.6;to 111%fall in love 100%2.5;with your freaking 80%-1_10;code?
+
+{Morashon;speed=1.085}
+77%9_-1;No!
+124%Don't be 99%5,2.4;silly.
+5;That 152%3;sort of 102%thing 65%is 5,2;easy.
+111%Men 2.3;are such 5.4;fools |.16| 101%2.5;the saying goes.
+5;This 2;test 3;went 107%much deeper 2;than 99%5;that.
+5_5;She 2.7;had to fall 89%in love |.045| 94%2;with 7.5_-3;you.
+
 {Thisone}
-What?
-For someone to fall in love with your freaking code?
+7_-2;Well.
+110%Sorry to 3.5,5;inform 2;you | but you 7_-3;failed.
 
 {Morashon}
-Silly man!
-No.
-That's relatively easy.
-Men are such fools | the saying goes.
-Even women are known to make shallow choices when mating.
-The test went much deeper than that.
-She had to fall in love with you.
+3,5_5;Really?
+3;How 113%do you 68%7.5_-3;know?
 
-{Thisone}
-Well | sorry to inform you | you failed.
+{Thisone;speed=1.06}
+3.5;She never 5;said 2;she 4;loved 1.7;me.
+The 5;sex 3;was just || 5;wait 3;a minute.
+This 3;was just 5_4.5;bot 2;sex.
+I 131%might as 111%well 3;have been 99%5,2;masturbating.
 
-{Morashon}
-Really?
-And how do you know?
+{Morashon;speed=1.07}
+I'm 111%sorry 99%to 93%5;hear 2.5;that.
+It would 5;break 3;An I's 5.5;heart 2.7;if she 111%knew you 100%5;felt 2;that way.
 
-{Thisone}
-She never said she loved me.
-The sex was just | wait a minute.
-This was just bot sex.
-I might as well have been masturbating.
+{Thisone;speed=1.07}
+You keep 5,3;talking 100%133%about 2.4;her 100%4;as if 2;she's 5.2;real.
 
-{Morashon}
-I'm sorry to hear that.
-It would break An I's heart if she knew you felt that way.
+{Morashon;speed=1.04}
+78%3.5;She 5;is.
+In her 5;own 2.7;mind | she's as 4;real 3;as 133%2.5;you or 93%5;I.
 
-{Thisone}
-You keep talking about her as if she's real.
-
-{Morashon}
-She is.
-As real as you or I.
-
-{Thisone}
-I have to process this.
+{Thisone;speed=1.1}
+I 113%have 3;to 82%100%5,2.6;process 2;this.
 
 {Morashon}
 I understand.
