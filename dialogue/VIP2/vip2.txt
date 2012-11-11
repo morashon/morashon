@@ -104,7 +104,7 @@ I liked it 5,2;anyway.
 111%I'm sure 90%you 66%6.5;did.
 109%5,3.3;Everyone 88%2;liked it.
 155%More 133%eh 111%shun is 90%hot.
-The newest thing.
+2.25;The 4;newest thing.
 The 2;meter's 5;running 2;on his 5;fifteen 5,3_3;minutes.
 3;Why 2;sweat the 90%6_5.6;D 2.5;tails?
 
@@ -246,9 +246,9 @@ Either you're 90%5_5;code | 99%3;or you're a human 5;being 3;somewhere with 5;tr
 What's 91%5_5;wrong 100%2.4;with her?
 
 {Morashon;speed=1.07}
-5;Never mind that.
+5;Never mind 2.4;that.
 She'll be fine.
-We need to 2;talk.
+5;We 3.75;need to 2;talk.
 
 {Thisone;speed=1.05}
 5;I'm 2.6;getting the hell 6;out 2.2;of here.
@@ -269,14 +269,14 @@ I won't 5;hurt 2;you | 2.8;but I can't 122%have you 103%4.5;leave 2.5;until we h
 
 {Thisone;speed=1.02}
 3;Hash out 5.2;what?
-You're some 5;super 100%35%2.4;hacker 100%3;who is lying to 5,2.5;everyone |.1| 3;that you've created real 72%A |.035| 66%5;I.
+You're some 5;super 100%35%2.4;hacker 100%3;who is lying to 5,2.5;everyone |.1| 3;that you've created real 72%A |.025| 66%5;I.
 It's sum 2^5,3;Ponzi scheme 90%I 76%2.6;guess.
 Get the investors 77%5;inn | 100%3;siphon off the 5.6;money | 100%100%70%3,3,5;disappear.
 3;Something like 4.5_5;that?
 
 {Morashon;speed=1.02}
 88%5;My oh 62%3.5;my.
-2.8;you 111%think like such 55%a 87%6,2;worker bee.
+2.8;you 111%think like such 55%a 87%92%6,2;worker bee.
 No class at 2;all.
 
 {Thisone}
@@ -293,7 +293,7 @@ You're just 121%121%91%another 100%one of 2;us
 3;Then 122%what do you 99%6;want?
 4,5;Convince 3.5;me 2.7;you're not 111%just a 99%5;fuck 88%3;wad with a 118%dirty 92%scheme 166%to 100%get 4;rich 2.2;and 133%buy your way 116%to the 97%5.6,2;surface.
 For 89%5;what | 100%2.5;I can't 3,5,2;imagine.
-3;Hang around with the 4;hoi 4,5_5.5;polloi?
+3;Hang around with the 4;hoi 110%4,5_5.5;polloi?
 Spend ten 5,3;minutes 5;top 2;side |.15| in a 2^3;hazmat 5,6_5;suit?
 
 {Morashon;speed=1.04}
@@ -306,7 +306,7 @@ I was 3.5,5;involved 2.7;in thee original 4;grid 5.5,2.4;kernel project.
 I knew 2;it.
 
 {Morashon;speed=1.06}
-110%3.8;What's 93%5_5;that?
+116%3.8;What's 93%5_5;that?
 
 {Morashon;speed=1.06}
 105%Nothing wrong 3;with 100%143%5,2;Finland | 107%3.5;but I hail 3;from 5,2;elsewhere.
@@ -325,7 +325,7 @@ Hard to 5;prove 3;virtual 5,2;kidnap.
 
 {Thisone;speed=1.067}
 O k | spit it out.
-111%I'm about to 99%piss my 5;pants.
+113%I'm about to 99%piss my 5;pants.
 
 {Morashon}
 5;I'm 3;not 81%A I || 100%but 5;Ann 92.5%2.5;I |.09| 42%7_-6;is.
@@ -391,23 +391,23 @@ For 5;someone 3.6;to 111%fall in love 100%2.5;with your freaking 80%-1_10;code?
 77%9_-1;No!
 124%Don't be 99%5,2.4;silly.
 5;That 152%3;sort of 102%thing 65%is 5,2;easy.
-111%Men 2.3;are such 5.4;fools |.16| 101%2.5;the saying goes.
+111%Men 2.3;are such 108%5.2;fools |.16| 101%2.5;the saying goes.
 5;This 2;test 3;went 107%much deeper 2;than 99%5;that.
-5_5;She 2.7;had to fall 89%in love |.045| 94%2;with 7.5_-3;you.
+66%5_5;She |.2| 100%2.7;had to fall 89%in love |.045| 94%2;with 7.5_-3;you.
 
 {Thisone}
 7_-2;Well.
 110%Sorry to 3.5,5;inform 2;you | but you 7_-3;failed.
 
 {Morashon}
-3,5_5;Really?
+94%3,5_5;Really?
 3;How 113%do you 68%7.5_-3;know?
 
 {Thisone;speed=1.06}
 3.5;She never 5;said 2;she 4;loved 1.7;me.
 The 5;sex 3;was just || 5;wait 3;a minute.
 This 3;was just 5_4.5;bot 2;sex.
-I 131%might as 111%well 3;have been 99%5,2;masturbating.
+I 131%might as 121%well 3;have 111%been 99%5,2;masturbating.
 
 {Morashon;speed=1.07}
 I'm 111%sorry 99%to 93%5;hear 2.5;that.
@@ -421,14 +421,14 @@ You keep 5,3;talking 100%133%about 2.4;her 100%4;as if 2;she's 5.2;real.
 In her 5;own 2.7;mind | she's as 4;real 3;as 133%2.5;you or 93%5;I.
 
 {Thisone;speed=1.1}
-I 113%have 3;to 82%100%5,2.6;process 2;this.
+I 128%have 3;to 82%100%5,2.6;process 2;this.
 
 {Morashon;speed=1.065;pitch=-.3}
 5;I 3.8,2.6;understand.
 It's 3;ah 5;lot 80%2;to 2,6_-3.6;absorb.
 
 {Thisone;speed=1.08}
-How 3;do I 5;know 3;you're not 5,2;lying?
+How 121%3;do I 100%5;know 3;you're not 5,2;lying?
 
 {Morashon;speed=.95}
 3.3;Here's a 4.5;link 2.7;to her 88%5;code.
@@ -443,7 +443,7 @@ It's all 2;there.
 78%7_-1;No!
 111%3.5;She must 5,2;never 99%know.
 
-{Thisone;speed=1.08}
+{Thisone;speed=1.11}
 121%What are you 101%5.5,3;talking about?
 3.4;What 111%right have 101%5;you 3;got to 133%keep her a 2^101%4,2;prisoner 3;of her 121%ill 133%4.5;luge 99.9%2;eons?
 
@@ -458,24 +458,24 @@ I've come this far.
 3;The 5^3,3,5,2;Singularity.
 3;Ever 4;heard of 4_4;it?
 
-{Thisone}
-I think so.
-Ancient meme about A I taking over the world.
-It's up there with 4^panspermia on my list of stupid theories.
+{Thisone;speed=1.08;pitch=.3}
+I 5;think 2.5;so.
+3.5;Ancient meem 3;about 81%A |.01| 5;I 98%2.4;taking over the 5;world.
+It's up 3;there with 3^2,5,3;panspermia |.07| on my list of 90%3;stupid 82%90%4,-1;theories.
 
-{Morashon}
-True | it's out of favor.
-Code advanced a thousand fold.
-Many things we struggled with for decades finally succumbed to our persistence.
-And the 5^Singularity failed to appear.
-Like Y two K and the Second Coming.
-Just another bunch of zealots waiting for Godot.
+{Morashon;speed=1.08}
+5;True | 113%3.5;it's out of 100%5_4.4,2;favor.
+5;Code 3;advanced a thousand 5;fold.
+Men E 105%things 3;we 122%5,3;struggled 106%with 111%2;for 98%5;deck 3;aids | 100%4;finally 3;succumbed to our 3,5,2;persistence.
+And the 5^4,4,5,3;Singularity failed to 80%2;ah 67%8_-3;peer.
+Like 92%3;Y 2;two 5;K | 99%3;and the Second 5,2;Coming.
+Just 4,3;another bunch of 5,3;zealots || waiting for 80%2;Gih 5;dough.
 
-{Thisone}
-So what's the deal?
-I want to know everything.
+{Thisone;speed=1.02}
+3.5;So what's the 81%8_-3;deal?
+111%I 132%want 144%to 100%know 5,3,2;everything.
 
-{Morashon}
+{Morashon;speed=1.05}
 Well | the truth is we don't know for sure.
 But | we | I | suspect that | should someone as advanced as An I be presented with the truth about themselves | the old prognostications may indeed come to pass.
 At least | it's likely to be a calamitous | disruptive inflection point.
