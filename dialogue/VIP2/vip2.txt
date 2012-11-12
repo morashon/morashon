@@ -522,29 +522,29 @@ Real 82%A 5;I.
 4.5;We 5,5_1;believed 3;that 114%this was the 100%only 5;way 117%3;to climb out of the rut 185%122%mankind 132%had 111%5;dug 2;for himself.
 108%But the climb 3;has been 5;steep | 2.5;and the struggle 4_-3;long.
 
-{Morashon}
-Most of my friends dropped out at one point or another.
-Some ran out of money.
-others ran out of ideas.
-Mostly | they ran out of hope.
+{Morashon;speed=1.11}
+111%5;Most 3.5;of my 5;friends 4;dropped out 101%3;at one point or 80%3,5,2;another.
+5;Some 121%3;ran out of 101%5,4_3.5;money.
+5;others 111%3;ran out of 99%3,4;ideas.
+5,2;Mostly | 2.5;they 151%ran 111%out |.05| 101%of 91%6_-4;hope.
+
+{Morashon;speed=1.04}
+5;I 3.5;seem to be the 4.4,2.6;only 4.4;one 2.75;who has been able to 3.4;keep his 5;eye 3;on the 6_-4;prize.
+3;I 4;never 4_4;gave 5.3;up.
+3.5;I have 121%5,3;helpers | 111%but 121%they are 100%4;just hired 82%5_-4;guns.
+111%5;None 2;of them 100%3;has the whole 5,2;picture.
+
+{Morashon;speed=1.02}
+3.5;like 4^4,4,4_3.4,2.4;Leonardo 2;of 3;old | I have 2^4;divvied up the 3;work 2;in 4;bits 2;and 99%5,2;pieces.
+Only 2;in 3.6;my 3;hands | 2.3;at the 4;final 2^hour | 2.7;were the pieces 4^actually put 3,5,2;together.
+And || 2.5;brought to 88%4_-5;life.
+108%3;In perhaps the 4.5;deepest | 2.5;most 4.5;faithful 3.7;simulation 3;experiment 5,3;ever 3,3,5,3;undertaken | 4;I brought 2.4;forth || 83%Ann |.003| I.
 
 {Morashon}
-I seem to be the only one who has been able to keep his eye on the prize.
-I never gave up.
-I have helpers | but they are hired guns.
-None of them has the whole picture.
-
-{Morashon}
-like 4^Leonardo of old | I have 2^divvied up the work in bits and pieces.
-Only in my hands | at the final 2^hour | were the pieces finally put together.
-And brought to life.
-In perhaps the deepest | most faithful simulation experiment ever undertaken | I brought forth An I.
-
-{Morashon}
-She has a mother | a father.
-friends | associates.
-school | work | play.
-All simulated with hired actors playing the major parts.
+3;She has 86%a 4.5;mother |.47| 2.5;a 4.5_2;father.
+3.5;friends | 3,5,2;associates.
+school | work | 82%3_1;play.
+3;All 5,3;simulated with hired 4,2.4;actors | 2.5;playing the major 5_-6;parts.
 
 {Morashon}
 To her | this is reality.
