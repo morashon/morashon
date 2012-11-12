@@ -342,8 +342,8 @@ She is the 3,5;result 2.5;of my life's 5;work.
 
 {Morashon}
 105%Artificial Neural Network 2.3;slash 4;Artificial 4,5,2.5;Intelligence.
-A N N A I.
-Yes.
+63%A |.04| N |.04| N |.03| A |.02| I.
+104%Yes.
 The name is old.
 113%3;she's 4.5_4,2;version 3;twenty 99%8_-2;three.
 
@@ -417,7 +417,7 @@ It would 5;break 3;An I's 5.5;heart 2.7;if she 111%knew you 100%5;felt 2;that wa
 You keep 5,3;talking 100%133%about 2.4;her 100%4;as if 2;she's 5.2;real.
 
 {Morashon;speed=1.04}
-78%3.5;She 5;is.
+78%3.5;She 5_4.7;is.
 In her 5;own 2.7;mind | she's as 4;real 3;as 133%2.5;you or 93%5;I.
 
 {Thisone;speed=1.1}
@@ -440,7 +440,7 @@ It's all 2;there.
 3;Assuming this is 77%5;true | 103%3;does she 82%5_5;know?
 
 {Morashon}
-78%7_-1;No!
+78%7_-1;Know!
 111%3.5;She must 5,2;never 99%know.
 
 {Thisone;speed=1.11}
@@ -511,13 +511,13 @@ This is the 3,3,5,3;culmination of a 4.5,3;lifetime of 82%4;hard work 100%2.5;an
 {Morashon;speed=1.08}
 3.7;After 2.8;my work on the 88%4.65;Grid | 100%4;I was 4,2.7;wealthy beyond my wildest 3,3,3,5,2;imagination.
 3;My 78%5;peers 100%3;enjoy spending their money on top side 5;suits | 3;private 5;jets | 3.2;all that 4.5,2;nonsense.
-Spend a few 5,3;million to get together |.02| and have a 4;meal | 3;in 5;real 3;life | that 121%2.5;would have been 100%merely 2,5,3;expensive |.04| before 4;the 3;fall.
+Spend a few 5,3;million to get together |.11| and have a 4;meal | 3;in 5;real 3;life | that 121%2.5;would have been 100%merely 2,5,3;expensive |.04| before 4;the 3;fall.
 5;Some 3;of them are working 4,2.8;earnestly 3;to find a 3,5,3;solution | to 5_4;fix 3;top 2;side.
 4^5,3;Personally | I think it's both 4.8,2.2;hopeless |.5| 3;and 3,5,2,1.5;irrelevant.
 
 {Morashon;speed=1.035}
 72%9_-3;So || 102%4;I started a 5;small 2.6;project | 117%3;with a few of my closest 3,5,3;associates | 104%to go 112%for the brass 88%5.5;ring.
-Real 82%A 5;I.
+90%Real 73%A 5;I.
 |
 4.5;We 5,5_1;believed 3;that 114%this was the 100%only 5;way 117%3;to climb out of the rut 185%122%mankind 132%had 111%5;dug 2;for himself.
 108%But the climb 3;has been 5;steep | 2.5;and the struggle 4_-3;long.
