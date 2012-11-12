@@ -546,11 +546,11 @@ And || 2.5;brought to 88%4_-5;life.
 school | work | 82%3_1;play.
 3;All 5,3;simulated with hired 4,2.4;actors | 2.5;playing the major 5_-6;parts.
 
-{Morashon}
-To her | this is reality.
-This is what she knows as her real life.
-But when she was old enough to tap into the Grid | that's when the magic really happened.
-Talk about your Turing test!
+{Morashon;speed=1.06}
+3.6;Too 55%5;her | 100%3;this is 5,2;reality.
+4.5;This 3;is what she knows 2.6;as her 88%real 6_-4;life.
+But |.42| when 3.5;she was 5;old 3;enough to 4;tap 2.6;into the 5;Grid |.4| that's 122%3;when the magic 100%really 4,2;happened.
+122%Talk about 2.5;your 102%5_5,2.2;Turing 82%test!
 
 {Morashon}
 She met people | people like you | and others.
