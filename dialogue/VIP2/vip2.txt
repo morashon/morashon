@@ -552,53 +552,55 @@ school | work | 82%3_1;play.
 But |.42| when 3.5;she was 5;old 3;enough to 4;tap 2.6;into the 5;Grid |.4| that's 122%3;when the magic 100%really 4,2;happened.
 122%Talk about 2.5;your 102%5_5,2.2;Turing 82%test!
 
-{Morashon}
-She met people | people like you | and others.
-Real people | who were not hired by me.
-who had no knowledge of her real nature.
-And they related to her | at a deep level | as a fellow person.
+{Morashon;speed=1.06}
+3.4;She 4.5;met 3;people | people like 4.2;you |.41| 3;and 5,2.5;others.
+4.5;Real 3;people | 111%who were not hired 100%by 70%5;me.
+3.4;who had no 5,3;knowledge of her real 5,3;nature.
+And 111%they 4,5,3;related to 94%her | 103%at a deep 5,3;level | 100%as a fellow 5,2;person.
+
+{Morashon;speed=1.04}
+64%3.4;The 94%3,2_5.6;result?
+3;evv ree 4,3;action has an 100%133%equal and 3^100%opposite 5,2;reaction.
+By 5,5,5,3;interacting with human 90%5,1.7;beings | 60%4;who | 100%by 4,4,5,3;definition | are 86%the 88%one entity 100%we are 4;most 5,3;confident really is 5,2;conscious || 
+3;really has a 86%7_-3;soul | 100%3;her personality 5,2;flowered.
+3.5;Her 5,3;algorithms and 5,3;data structures | 112%flexible and 122%122%100%adaptable by 3,5_1;design | 3;were now 4;thrust into the milieu 3;of 78%2.6;real 92%3,5,2;relationships.
+She had to 3,5;survive 3;and 5;thrive | completely 4;dependent 3;on her own 5,2;resources.
+
+{Morashon;speed=1.05;pitch=-.12}
+2.5_2.5;Like |.02| 5;an 3;e 4;doting 5,2.67;parent | 5;many 3;were the 4;times I 4.5;wished to 4,4,6_-4;intervene.
+2.7;But the 4.5;closest 3;I 3,5;allowed 3;myself to that 4;role 2.6;was to take on this 100%90%80%2,5,3;persona | 155%5;More 122%3;eh 101%2;shun.
+3.4;By 3,5,4;appearing 2.5;as an 4.4,3;agent in her 4.4;world | 3;through the 4.6;Grid | 2.5;I was able to act as a guiding 6.5_-4;force.
+5;Never 4,3;overplaying my 4.4;hand | 2.7;I hope | 3.5;but giving her 4.4,2.7;something | 4.7,3;someone to look 5;up 2.2;too | 98%to 3^96%5,2;empathise with.
+
+{Morashon;speed=1.06}
+5;This 3;has been a 4,2.6;critical part of the 7_-4.3;plan.
+3.5;It was 4,3;also 5,3;necessary that 158%5;More 133%2;eh 111%shun 100%3;find approval among 80%An 3.8;I's 4_-4;peers.
+Like 5,3;any young 3,4;adult | An I 3;is looking to 100%76%3,4.4;belong.
+3;She needed a 4.5,4,3;comfortable 4.5;place | 3.5;a social 5,3;network that 176%was at once 100%4,2.7;challenging | but based on the principles of 4;trust 3;and 3,5,2;morality.
+5,3;Otherwise | well | 4;otherwise | 104%2.8;bad things might 3,1.7;happen.
+
+{Thisone;speed=1.03}
+Like |.14| 3.3;she manages to discover her 3;true 100%60%3.8,5_5;nature?
 
 {Morashon}
-The result | 3^every action has an equal and 3^opposite reaction.
-By interacting with human beings | who | by definition | are the one entity we are most confident really is conscious | really has a soul | her personality flowered.
-Her algorithms and data structures | flexible and adaptable by design | were now thrust into the milieu of real relationships.
-She had to survive and thrive | completely dependent on her own resources.
+3.5,5,2;Precisely.
 
-{Morashon}
-Like any doting parent | many were the times I wished to intervene.
-But the closest I allowed myself to that role was to take on this persona | More eh shun.
-By appearing as an agent in her world | through the Grid | I was able to act as a guiding force.
-Never overplaying my hand | I hope | but giving her something | someone to look up to | to 3^empathise with.
+{Thisone;speed=1.03}
+3.3;And 3,5;instead 3;of it being a 80%100%process managed by 70%4.5;you | 100%2.78;with all your good 2.7,5,2.6;intentions | it would be 2.6,2.6,6.7_-4;uncontrolled.
 
-{Morashon}
-This has been a critical part of the plan.
-It was also necessary that More eh shun find approval among An I's peers.
-Like any young adult | An I is looking to belong.
-She needed a comfortable place | a social network that was at once challenging | but based on the principles of trust and morality.
-Otherwise | well | otherwise | bad things might happen.
+{Morashon;speed=1.01}
+6_-4;Yes.
+2.6;That would 4.2;not be 80%3.5,5_-7;ideal.
 
-{Thisone}
-Like she manages to discover her true nature?
+{Thisone;speed=1.033}
+3.3;Because 5_4;you 1^2.7;wouldn't be in 100%78%2,6_-5;control.
 
-{Morashon}
-Precisely.
+{Morashon;speed=1.08}
+70%-1_6;No | 131%144%3.3;because 115%she 1^100%wouldn't be 5,2;ready.
+I 133%3.1;don't 100%know if she'll 5,3;ever 2;be 3,1.7;ready.
 
-{Thisone}
-and instead of it being a process managed by you | with all your good intentions | it would be uncontrolled.
-
-{Morashon}
-Yes.
-That would not be ideal.
-
-{Thisone}
-Because you wouldn't be in control.
-
-{Morashon}
-No | because she wouldn't be ready.
-I don't know if she'll ever be ready.
-
-{Thisone}
-How do you know unless you try?
+{Thisone;speed=1.04}
+How 111%would 100%you 97%5;know |.033| 2.77;unless you 71%7_-4;try?
 
 {Morashon}
 Do you understand what you're proposing?
