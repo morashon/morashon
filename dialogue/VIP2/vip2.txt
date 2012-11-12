@@ -620,38 +620,39 @@ Do you 4,3,5;understand 3;what you're 111%3,5,5_5;proposing?
 The 5,3;process |.06| needs to be 5,2;managed.
 
 {Thisone;speed=1.02}
-And 94%5;you're 71%3.6;the 100%one to 5,3;manage it.
+And 78%5;you're 66%3.6;the 99%one to 98%5,3;manage 80%it.
 65%7_-4;Why?
 104%3.3;Because she's your 3,5,5_5;invention?
 
-{Morashon}
-I'm the only one who understands the potential | and the risks.
-And now you do too.
+{Morashon;speed=1.03}
+111%3.8;Because 100%4_3.8;I'm 3;thee only one who understands the 3,5,2.5;potential | and 81%the 4_-8;risks.
+|
+111%3.3;And now 100%4.5;you 3;do 80%7_-5;too.
 
 {Thisone}
-Why are you telling me this?
+3.7;Why 118%are you 112%5;telling 103%3;me awl 88%this?
 
 {Morashon}
-It became 4^ethically necessary.
+108%3.4;It became 4^4.5,3;ethically 5,2;necessary.
 
 {Thisone}
-Because of An I?
+Because of 87%3;Ann 4.5_5;I?
 
 {Morashon}
-no | no.
-An I is not a human being.
-The ethical issue relates to you.
+72%5;no | 3;no.
+5;An 3.5;I |.07| 3;is not a human 90%5,2;being.
+3.5;Thee 5;ethical 5,3;issue |.11| relates two 73%6.7_-7;you.
 
 {Thisone}
-Because I'm in love with her?
+3.5;Because I'm in 5;love with 5_5;her?
 
 {Morashon}
-If that's the case | then it's a bit late.
-But yes | my concern was that this experiment was about to affect your life irrevocably.
-You are not a willing party to my research.
+3.5;If 4.5;that's 2.4;the case | 111%3;then it's 101%a bit 6_-3.5;late.
+3.4;But 5;yes | 3;my 3,4.4_4;concern 2.7;was that this 3,5,3;experiment |.14| was about to affect your 4;life |.03| 3,5,2;irrevocably.
+You are not a willing 5,3;party 2.2;to my 5,2;research.
 
 {Thisone}
-Now you tell me.
+78%5;Now 102%3;you tell 82%me.
 
 {Morashon}
 If I have harmed you | I apologize.
