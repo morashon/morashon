@@ -602,27 +602,27 @@ I 133%3.1;don't 100%know if she'll 5,3;ever 2;be 3,1.7;ready.
 {Thisone;speed=1.04}
 How 111%would 100%you 97%5;know |.033| 2.77;unless you 71%7_-4;try?
 
-{Morashon}
-Do you understand what you're proposing?
-Are you willing to play with the fate of all of mankind?
+{Morashon;speed=1.07}
+Do you 4,3,5;understand 3;what you're 111%3,5,5_5;proposing?
+3.3;Are you willing to 5;play 3;with the fate of all 3,5_5;mankind?
 
 {Thisone}
-That sounds rather dramatic.
+3.3;That sounds rather 3,5,2;dramatic.
+
+{Morashon;speed=1.03}
+3.3;The 3,4.6;potential 5;im 3;pact 2.7;of an 3,3,5,3;artificial 3,5,2.2;intelligence 2.6;of An 4.5;I's 3,3,5,2;capabilities | 3.5;ah loud to 4_4;self 5,3;modify | 3;un 4;leashed 92%on the 81%world.
+
+{Thisone;speed=1.07}
+3;Might 4.5;change things a 89%bit?
 
 {Morashon}
-The potential impact of an artificial intelligence of An I's capabilities | allowed to self modify | unleashed on the world.
+111%3.3;We have 100%4_4;no 4_4;way of knowing 2.7;what the result might 62%6_-4;bee.
+The 5,3;process |.06| needs to be 5,2;managed.
 
-{Thisone}
-Might change things a bit?
-
-{Morashon}
-We have no way of knowing what the result would be.
-The process needs to be managed.
-
-{Thisone}
-And you're the one to manage it?
-Why?
-Because it's your invention?
+{Thisone;speed=1.02}
+And 94%5;you're 71%3.6;the 100%one to 5,3;manage it.
+65%7_-4;Why?
+104%3.3;Because she's your 3,5,5_5;invention?
 
 {Morashon}
 I'm the only one who understands the potential | and the risks.
