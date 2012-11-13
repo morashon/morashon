@@ -654,24 +654,24 @@ You are not a willing 5,3;party 2.2;to my 5,2;research.
 {Thisone}
 78%5;Now 102%3;you tell 81%me.
 
-{Morashon}
-If I have harmed you | I apologize.
-This outcome was never my expectation | nor my intent.
+{Morashon;speed=1.05}
+If 3.5;I have 4.5;harmed 3;you | I 3,5,2;apologize.
+3;This 5,3;outcome was never my 3,3,5,3;expectation | nor my 100%88%3,6.6_-6;intent.
 
-{Thisone}
-Yet you let it get to this point.
-You could have called it off at any time.
-Instead | you let your curiosity and your ambition to play God get the better of you.
-You let it go too far.
+{Thisone;speed=1.06}
+4.5;Yet | 3;you 122%let it 111%get 100%to this 5;point.
+3.5;You 133%could have 118%called it 100%5;off 4;at any time.
+3,5;Instead | 4;you let your 4,3,5,3;curiosity |.16| and your 3,5,3;ambition |.05| to play 5;God 4;get the 5_4,2.5;better of you.
+5;You 3;let it go too 70%6_-4;far.
 
-{Morashon}
-I understand | and I take responsibility.
-But what is done is done.
-our task | now | is to decide where to go from here.
+{Morashon;speed=1.08}
+3;I 3,3,5;understand | 3.5;and I take 4.5;full 122%122%122%100%4,4,4,4,2;responsibility.
+2;What's 82%5;done | 99%2;is 82%6_-5;done.
+our 4_4;task 6_-1;now |.4| 3;is to decide where 2.2;to go 1_2;from 80%7_-5;here.
 
-{Thisone}
-I think it's pretty clear.
-We tell An I the truth.
+{Thisone;speed=1.07}
+3.7;I think it's pretty 7_-5;clear.
+We tell 90%4_3.79;Ann 2;I |.11| 99%3;the 93%7_-4;truth.
 
 {Morashon}
 For a smart man | you are singularly difficult to reason with.
