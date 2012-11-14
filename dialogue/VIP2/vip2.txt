@@ -673,37 +673,37 @@ our 4_4;task 6_-1;now |.4| 3;is to decide where 2.2;to go 1_2;from 80%7_-5;here.
 3.7;I think it's pretty 7_-5;clear.
 We tell 90%4_3.79;Ann 2;I |.11| 99%3;the 93%7_-4;truth.
 
-{Morashon}
-For a smart man | you are singularly difficult to reason with.
-Haven't I explained why that is impossible?
+{Morashon;speed=1.09}
+For a 5;smart 6_-3;man | 3.5;you are 5,3;singularly difficult |.08| to 5,2;reason with.
+1^4.5;Haven't 3;I 3,5;explained 2.5;why that is 3,5,5,5_5;impossible?
 
-{Thisone}
-You've explained why it's not desirable from your point of view.
+{Thisone;speed=1.09}
+You've 3,5;explained |.02| 3;why it's not 3,5,3;desirable |.09| 2.5;from 4.6;your 3;point of 80%8_-5;view.
 
-{Morashon}
-And why it poses a risk to our whole society.
+{Morashon;speed=.96}
+4.5;And |.11| 3.5;why it poses a 5_-3;risk |.10| 122%3;to 111%our 100%whole 3,5,2;society.
 
-{Thisone}
-So what is your plan?
-Are you just going to 2^unlink her | like a corrupt file?
-Start from scratch?
+{Thisone;speed=1.07}
+71%8_-3;So | 100%3.3;what is your 88%7.52_2.5;plan?
+3.6;Are you just going to 2^3,5,5_3;unlink her | 3;like a corrupt 87%2.5_6.5;file?
+3;Start from 4_6;scratch?
 
-{Morashon}
-No | no no.
-I can't do that.
-Things have gone too far.
-There has to be another way.
+{Morashon;speed=1.06}
+77%5;No | 3.8;no |.11| 2.7;no.
+122%3.5;I 4.6;can't 100%3;do 88%that.
+121%Things 133%have 111%gone too 98%7_-4;far.
+There 5;has 3;to be another 6_-5;way.
 
-{Thisone}
-Tell her.
+{Thisone;pitch=.725}
+88%5.5;Tell 3;her.
 
-{Morashon}
-Do you understand the short term impact on you?
-Once An I is aware of who she is | she will become what I have been pretending to be.
-She will have access to her own code.
-she can become anything she wants to become.
-And whatever she becomes | will have that much more power to become even more.
-And so on | ad infinitum.
+{Morashon;speed=1.05}
+Do you 4,4,5.5_4;understand |.11| 3.5;the short term 5;im 3;pact |.1| 2.4;on 3_5;you?
+96%Once 93%Ann I is 3;ah 5;ware 90%3.5;of who she 5;is |.2| 100%3;she will 3,5;become 123%3.3;what 103%3.8_5;I 3;have been 100%3,5.5,2.7;pretending to be.
+3.78;She will have 5,3;access |.07| to her own 90%5;code.
+she can become 5;anything 3;she 5;wants 3;to become.
+And 3.5,5;whatever 4;she 4,3;becomes | 105%2.5;will have that much more 5,3;power |.07| 101%to become even 99%6.5_-4;more.
+3;And 5;so 3;on | ad 120%in fin 5;I 2;tum.
 
 {Thisone}
 Until the whole grid is one big A I?
