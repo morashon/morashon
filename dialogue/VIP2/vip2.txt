@@ -702,31 +702,33 @@ Do you 4,4,5.5_4;understand |.11| 3.5;the short term 5;im 3;pact |.1| 2.4;on 3_5
 96%Once 93%Ann I is 3;ah 5;ware 90%3.5;of who she 5;is |.2| 100%3;she will 3,5;become 123%3.3;what 103%3.8_5;I 3;have been 100%3,5.5,2.7;pretending to be.
 3.78;She will have 5,3;access |.07| to her own 90%5;code.
 she can become 5;anything 3;she 5;wants 3;to become.
-And 3.5,5;whatever 4;she 4,3;becomes | 105%2.5;will have that much more 5,3;power |.07| 101%to become even 99%6.5_-4;more.
+And 3.5,5;whatever 4;she 4,3;becomes | 112%2.5;will have that much more 97%5,3;power |.07| 101%to become even 99%6.5_-4;more.
 3;And 5;so 3;on | ad 120%in fin 5;I 2;tum.
 
-{Thisone}
-Until the whole grid is one big A I?
+{Thisone;speed=.89}
+Until the 5;whole grid |.11| 3.5;is one big 77%A 4_5;I?
 
 {Morashon}
-Potentially.
-And | with the power of mind that that portends | we can expect that such an intelligence will find it easy work to manipulate the minds of us silly little organisms to suit her whims.
+3,5,3.7;Potentially.
+And | 3.5;with the power of 3.7;mind 3.3;that 5;that 3;portends | 
+121%we can 3,5;expect 111%3;that such an 3,5,3;intelligence | will find it 4;easy 4.5;work 3.5;to manipulate the minds of us silly little 5,3;organisms |.13| 
+101%to suit her 93%6_-3;whims.
+
+{Thisone;speed=1.04}
+3.3;which would be 166%E | 92%5;what?
+
+{Morashon;speed=1.06}
+87%3;Who 5;knows?
+3.3;Build out the 5;Grid |.05| 112%3;fur 122%99%starters.
+3.5;Explore the 133%5,3;solar 111%system | 100%and 5^eventually the 5,3;Galaxy |.11| and 92%3,5;beyond.
+Strive to convert as much 96%5,4;matter |.06| 2;and 5,3;energy |.06| 103%into 3,5,4;computing 3;power |.087| 2;as 99%5,2;possible.
 
 {Thisone}
-which would be | what?
+And you know awl this | because | 77%2.7_6;what?
+3,5;Because 4;you're an 4^4,4,5,3.5;aficionado of 4;obscure | 2^twentieth century 3;science 3,5_5;fiction?
 
-{Morashon}
-Who knows?
-Build out the Grid | for starters.
-Explore the solar system | and 5^eventually the Galaxy and beyond.
-Strive to convert as much matter and energy into computing power as possible.
-
-{Thisone}
-And you know all this | because | what?
-Because you're an aficionado of obscure | twentieth century science fiction?
-
-{Morashon}
-Most of it is simply common sense.
+{Morashon;speed=1.06}
+5_4;Most 3;of it |.06| is simply common 8_1;sense.
 
 {Thisone}
 Maybe you should have thought about this before you started down this road.
