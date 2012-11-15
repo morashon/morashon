@@ -745,28 +745,28 @@ I've 5;laid out 3;the 4,4,5,3;situation 2.5;as best I 80%6_-4;can.
 3;It is 5;not 3;within my code of 5,3;ethics |.034| to 121%force your 5;hand | 100%3;either 105%through 5;violence | 3;or other unreasonable 5,2;measures.
 3;I am 5;placing the 5,3;future of our 5;world | 3;our 3,3,3,5,2;civilization | in the palm of 3;your 4_-4;hand.
 
-{Morashon;speed=1.04}
+{Morashon;speed=1.09}
 I am 5,3;practicing what I 6_2.3;preach.
 5;I 3;am trusting 5_4;you.
-3;I respectfully ask that 5;you |.11| 3;trust 5;me 3;in 4;turn.
+3;I respectfully ask that 5;you |.11| 3;trust 5;me 77%3;in 4;turn.
 
 {Thisone}
-So you'll release me?
+3.3;So you'll 3,5;release 72%5_5;me?
+
+{Morashon;speed=1.09}
+92%3.4;Of 5;course.
+3.9;I only 5;kept 3;you here |.06| long enough to 3,5;explain 3.4;what needed 3,4_3.65,2;explaining.
+5,4;Surely 3;you can 3,5;forgive 3;me that temporary 2,3.8,5_4;transgression?
+
+{Thisone;speed=1.04}
+3;If you let me go 5;now | 3;I 111%won't make an 96%5,2;issue of it.
+But 3,5;before I 3;go | I 134%need to 112%know 93%one 6.6_-5;thing.
 
 {Morashon}
-Of course.
-I only bound you here long enough to explain what needs explaining.
-Surely you can forgive me that temporary transgression?
+77%0_5.6;Yes?
 
-{Thisone}
-If you let me go now | I won't make an issue of it.
-But before I go | I need to know one thing.
-
-{Morashon}
-Yes?
-
-{Thisone}
-What would you do in my place?
+{Thisone;speed=.97}
+What would 5;you 77%3;doo |.16| 99%inn my 7_-4;place?
 
 {Morashon}
 I don't know.
