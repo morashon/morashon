@@ -769,37 +769,38 @@ But 3,5;before I 3;go | I 134%need to 112%know 93%one 6.6_-5;thing.
 What would 5;you 77%3;doo |.16| 99%inn my 7_-4;place?
 
 {Morashon}
-I don't know.
-Fate has handed you a heavy burden.
-You can live out your life with An I | while she grows and matures.
-Maybe | some day far in the future | she will be ready to learn the truth.
+108%3.4;I can't truly 66%7_-5;say.
+111%5;Fate 4;has 95%handed 88%3;you 2;a 5,3;heavy 90%5,2;burden.
+113%3.5;You can 5;live out 3;your 4.6;life 2.7;with 77%5;An 2;I | 111%3;while she 4;grows 3;and 99%3,6_-4;matures.
+102%5,3;Maybe | 98%sum day far in the 5,3;future | 101%she will be ready 2.5;to learn the 85%6_-6;truth.
 
 {Thisone}
-So you expect me to be another one of your hired bullshit artists?
-Living a lie for the rest of my life | with the woman I love?
+66%7_-6;So | 103%3;you expect 4.4_4;me 166%e 105%3;to be another one of your hired 5,5_5;bullshit 5,5_5;artists?
+111%3;Ah 105%5;sock 5,5_5;puppet?
+97%3.3;Living a 76%5;lie 98%3;for the rest of my 6_-3;life | 2.7;with the woman 2.2;I 4_6;love?
 
 {Morashon}
-You forget | she is not a woman.
+111%3;You 3,5;forget | 99%3;she is not a 76%93%4.5,2.4;woman.
 
 {Thisone}
-She is to me.
-And | more importantly | she is to herself.
-That's not just some random artifact of your programming.
-it's part of who she is.
+94%3;She 87%is |.07| 94%to 62%5;me.
+111%3.6;And more 3^3,5,3;importantly | 96%she is to 100%90%3,6.6_0.2;herself.
+111%4.5;That's 3.6;not 3.2;just some random 4,3;artifact of your 5,2;programming.
+it's 104%part of 99%who she 73%7_-6;is.
 
 {Morashon}
-There's a good living in it for you.
+4;There's a good 5,3;living in it for you.
 
 {Thisone}
-Please.
-Do I seem like I can be bought?
+73%7_-5;Please.
+104%Do I seem 3;like 142%I can 128%be 92%6;bought?
 
 {Morashon}
-Probably not.
+5;Probably 3;not.
 
-{Thisone}
-What you really want me to do | but you don't have the balls to ask me | is to disappear.
-Get out of her life.
+{Thisone;speed=1.055;pitch=.22}
+3.5;What you 96%5,2.5;really 100%want | 111%but you don't have the 105%balls to 97%5_-3;ask | 3;is for me to 3,2,6_-4;disappear.
+105%Get 122%out of her life 82%82%61%3,5,2;forever.
 
 {Morashon}
 Well | perhaps that would be best all around.
