@@ -514,12 +514,12 @@ This is the 3,3,5,3;culmination of a 4.5,3;lifetime of 82%4;hard work 100%2.5;an
 Spend a few 5,3;million to get together |.11| and have a 4;meal | 3;in 5;real 3;life | that 121%2.5;would have been 100%merely 2,5,3;expensive |.04| before 4;the 3;fall.
 5;Some 3;of them are working 4,2.8;earnestly 3;to find a 3,5,3;solution | to 5_4;fix 3;top 2;side.
 4^5,3;Personally | I think it's both 4.8,2.2;hopeless |.5| 3;and 3,5,2,1.5;irrelevant.
-
-{Morashon;speed=1.035}
 72%9_-3;So || 102%4;I started a 5;small 2.6;project | 117%3;with a few of my closest 3,5,3;associates | 104%to go 112%for the brass 88%5.5;ring.
 90%Real 73%A 5;I.
 |
-4.5;We 5,5_1;believed 3;that 114%this was the 100%only 5;way 117%3;to climb out of the rut 185%122%mankind 132%had 111%5;dug 2;for himself.
+
+{Morashon;speed=1.035}
+4.5;We 5,5_1;believed 3;that 114%this was thee 100%only 5;way 117%3;to climb 144%out 100%of 77%the 100%rut 117%man kind 152%had 111%5;dug 2;for himself.
 108%But the climb 3;has been 5;steep | 2.5;and the struggle 4_-3;long.
 
 {Morashon;speed=1.11}
@@ -730,23 +730,25 @@ And you know awl this | because | 77%2.7_6;what?
 {Morashon;speed=1.06}
 5_4;Most 3;of it |.06| is simply common 8_1;sense.
 
-{Thisone}
-Maybe you should have thought about this before you started down this road.
+{Thisone;speed=1.07}
+4.5,3;Maybe you should have 4;thought 2.8;about this |.1| 3.4;before you started 3;down 2.5;this 76%6_-4;road.
 
 {Morashon}
-Perhaps.
-Hindsight is twenty twenty.
+5,3;Perhaps.
+116%5,3;Hindsight 3;is twenty 5,2;twenty.
 
 {Thisone}
-So what now?
+66%7_-5;So || 107%3;what happens 71%5.6_-4.4;now?
 
-{Morashon}
-I've laid out the situation as best I can.
-It is not within my code of ethics to force your hand | either through violence or other unreasonable measures.
-I am placing the future of our world | our civilization | in the palm of your hand.
-I am practicing what I preach.
-I am trusting you.
-I ask that you trust me.
+{Morashon;speed=1.04}
+I've 5;laid out 3;the 4,4,5,3;situation 2.5;as best I 80%6_-4;can.
+3;It is 5;not 3;within my code of 5,3;ethics |.034| to 121%force your 5;hand | 100%3;either 105%through 5;violence | 3;or other unreasonable 5,2;measures.
+3;I am 5;placing the 5,3;future of our 5;world | 3;our 3,3,3,5,2;civilization | in the palm of 3;your 4_-4;hand.
+
+{Morashon;speed=1.04}
+I am 5,3;practicing what I 6_2.3;preach.
+5;I 3;am trusting 5_4;you.
+3;I respectfully ask that 5;you |.11| 3;trust 5;me 3;in 4;turn.
 
 {Thisone}
 So you'll release me?
