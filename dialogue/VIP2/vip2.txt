@@ -827,28 +827,26 @@ You 111%3.134%3;can 108%live 116%the 117%4;life |.07| 127%3;you 143%have 122%alw
 111%3;That's 77%7_-4.5;true.
 82%3;The 86%105%4;woman 3.3;you fell in 5;love 3;with | 3.5;does not really 3,5;exist.
 
-{Thisone}
-She exists alright.
-She just doesn't have a body.
-Some people are born into the wrong body.
-she had the misfortune of being born without one.
+{Thisone;speed=1.07}
+5;She 3.5,5_5;exists 3;alright.
+112%3;She just 1^doesn't have a 72%5,2.2;body.
+95%4.5;Sum 1^100%4_1;people 3;are born into the wrong 72%5,3_2;body.
+5;she 3;had the 3,5,3;misfortune |.044| of being born 3,5;without 2.2;one.
+
+{Morashon;speed=1.066}
+3.5;I suppose 3_1;that's 5;one 3;way of looking at 4.4;things.
+
+{Thisone;speed=1.07}
+I need 5;time 131%3;to 97%8_-3.3;think.
+You 133%promised to 111%let 3;me 92%6_-4;go.
 
 {Morashon}
-I suppose that's one way of looking at things.
+And so I shall.
 
-{Thisone}
-I need time to think.
-You promised to let me go.
-
-{Morashon}
-And so I will.
-Tea sewn ports away.
-shortly thereafter | An I comes back to life.
-
-{Annai}
-What the fuck?
-Where did he go?
-What did you do to him?
+{Annai;speed=1.03}
+3;What the 5_5;fuck?
+Where did he 94%9_-4;go?
+What did you 122%6_4;do 133%4;to 111%him?
 
 {Morashon}
 Nothing | my dear.
