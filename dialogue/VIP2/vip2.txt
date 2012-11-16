@@ -849,18 +849,18 @@ Where did he 94%9_-4;go?
 What did you 122%6_4;do 133%4;to 111%him?
 
 {Morashon}
-Nothing | my dear.
-He said he needed to think.
+5;Nah 82%3.1_0;thing |.10| 94%2.6;my 78%5_-3;dear.
+5;He said 3;he needed to 81%7.5_-5;think.
 
-{Annai}
-Bullshit.
-That's not like him.
-You must have 2^messaged him.
-What did you tell him?
-What did you say?
+{Annai;speed=1.09}
+83%5,3;Bullshit.
+124%That's 123%not 106%5;like 3;him.
+105%You 138%must have 2^107%5,4;messaged 3;him 122%or 99%something.
+What did you 5_4;tell 3;him?
+What did you 86%9_1;say?
 
-{Morashon}
-I simply told him the truth.
+{Morashon;speed=1.08}
+5;I 3.4;simply 3;told 4;him 88%4.2;the 5.5;truth.
 
 {Annai}
 Which truth?
