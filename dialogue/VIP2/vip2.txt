@@ -908,71 +908,73 @@ What do you 5.5_-3;mean?
 3;The 5;fans | 3;the 5,2;concerts | 3;the 5.5_4,3;preaching.
 Will it 3;go 92.5%3.2_5.5;on?
 
-{Morashon}
-I don't know.
-Will it?
+{Morashon;speed=1.07}
+5;I 3_2;don't 83%6_-2;know.
+3;Will 5_6;it?
 
-{Annai}
-Why are you asking me?
+{Annai;pitch=.22}
+111%3.4;Why are you asking 77%5.5_4.5;me?
 
-{Morashon}
-You did pretty well yourself | tonight.
+{Morashon;speed=1.14}
+You did pretty well 3,5;yourself |.06| 3;tonight.
 
-{Annai}
-you mean that last song?
+{Annai;speed=1.11}
+3.4;you mean that 4;last 5_5;song?
 
-{Morashon}
-Yes | it was pretty good.
+{Morashon;speed=1.09}
+5;Yes | 3.7;it was pretty 5.2_4.5;good.
 I think you have the knack.
 
 {Annai}
-Tea sewn helped.
+3.6;Tea sewn 5.4;helped.
 
-{Morashon}
-I daresay his input was mostly technical.
-Even with all the software | voice synths | style emulation algorithms and so on | if you have the gift | you have it.
-If not | it always comes out like something ill suited to being.
-
-{Annai}
-Well | thank you | I guess.
-I do like music.
-
-{Morashon}
-The world can always use a tune to hum.
-Life is brutal and short.
-music soothes the savage beast.
+{Morashon;speed=1.066}
+I 5,3;daresay his 5,3;input was mostly 5,2;technical.
+4.4;Even 3.3;with all the 5,3;software | 4.5;voice 2.7;synths | 4.4;style 3.4,3.4,5,3;emulation 3.5;2.6;algorithms and 5;so 2;on | 3;if you have the 5;gift | 2.5;you 5;have 2;it.
+3;If 5_4;not | 3.5;it 122%always 2.8;comes out like something 100%3.4;ill 4.5,2.3;suited to 77%5,2;being.
 
 {Annai}
-You talk like you're going somewhere.
+Well | 5_3;thank 3;you | I guess.
+3.5;I 5_4;do 2;like 5,2;music.
+
+{Morashon;speed=1.03}
+3;The 4;world 3;can 122%4.5;always 100%use a 3;tune to hum.
+Life is 5,3;brutal 2;and 5;short.
+music soothes 3;the savage 2.2;beast.
+
+{Annai;speed=1.04}
+133%3.5;You 111%5;talk 121%3.5;like 111%you're 101%5_4,3;going 4,2;somewhere.
 
 {Morashon}
-Oh | I don't know.
-I'm tired of this game.
+36%4_2;Oh | 108%3_3;I 97%don't 82%2_0;know.
+I'm 4.5;tired 3;of this 77%4_-2.5;game.
+
+{Annai;speed=1.07}
+88%5;Which 3;game?
+4.5;Conning 5,4_6;people?
+4,3;Playing with their 2_6;souls?
+
+{Morashon;speed=1.03}
+92%I 106%88%3.4,5;suppose.
+4.5;If 3;you feel the need to 5,2;characterize it that 79%3_1;way.
+
+{Annai;speed=1.06}
+And 118%3.7;how would 101%5;you 3;characterize it?
+
+{Morashon}
+88%Sing ing | talk ing | think ing 4,3_1;aloud.
+108%3.5;Trying to find 5,3;clarity 76%in a 88%4.5;world 100%3;that seems 5;hell 5;bent 3;on 2,5,2;remaining 100%92%2,7.7_-3.4;obscure.
 
 {Annai}
-What game?
-Conning people?
-Playing with their souls?
+111%I don't 3,3,4.4;understand 3;your 3,3,5,2;motivations.
+
+{Morashon;speed=1.04}
+110%3.7;I'm 100%not 92%sure 5;I 3;do | 96%anymore.
+105%It was all 97%5;clear 3;to 88%me | 103%at the 3,5,2;beginning.
 
 {Morashon}
-I suppose | if you feel the need to characterize it that way.
+92%4,4_4;Goodbye | 88%3;An I.
 
 {Annai}
-And how do you characterize it?
+91%3,6_3;Goodbye.
 
-{Morashon}
-Singing | talking | thinking aloud.
-Trying to find clarity in a world that seems hell bent on remaining obscure.
-
-{Annai}
-I don't understand your motivations.
-
-{Morashon}
-I'm not sure I do | anymore.
-It was all clear to me | before.
-
-{Morashon}
-Goodbye | An I.
-
-{Annai}
-Goodbye.
