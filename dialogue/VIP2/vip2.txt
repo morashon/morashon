@@ -862,19 +862,19 @@ What did you 86%9_1;say?
 {Morashon;speed=1.08}
 5;I 3.4;simply 3;told 4;him 88%4.2;the 5.5;truth.
 
-{Annai}
-Which truth?
-The one you were spouting yesterday?
-Or the new one you've concocted today | while you try to cover up whatever it is you've been up to?
+{Annai;speed=1.1;pitch=.6}
+5.5;Which 2_0;truth?
+The one 111%3.55;you 122%were 100%spouting 5,5,6_3;yesterday?
+3;Or the 5_4;new 3.6;one you've concocted 3,5;today | 3.2;while 122%you 117%try to 108%cover 111%4;up 98%2.5;whatever 101%it is you've been 5;up 2;to?
 
 {Morashon}
-Dear | dear.
-How quickly we stop believing in each other.
+59%5_5;Dear 66%3;dear.
+108%How 113%5,3;quickly 108%we stop 3,5,2.5;believing in each other.
 
 {Annai}
-No shit.
-I'm growing up | More eh shun.
-I don't believe everything I'm told anymore.
+97%3;No 100%5_4;shit.
+108%I'm growing 5;up |.03| 161%3;More eh 100%shun.
+114%3;I 4;don't 125%3,4.7;believe 117%3;everything I'm 7_-4.5;told.
 
 {Morashon}
 And you shouldn't | An I.
