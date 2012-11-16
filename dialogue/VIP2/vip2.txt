@@ -873,40 +873,40 @@ The one 111%3.55;you 122%were 100%spouting 5,5,6_3;yesterday?
 
 {Annai}
 97%3;No 100%5_4;shit.
-108%I'm growing 5;up |.03| 161%3;More eh 100%shun.
-114%3;I 4;don't 125%3,4.7;believe 117%3;everything I'm 7_-4.5;told.
+161%5;More 3;eh 100%shun | 108%I'm growing 5_3;up.
+114%3;I 131%4;don't 125%3,4.7;believe 117%3;everything I'm 7_-4.5;told.
 
-{Morashon}
-And you shouldn't | An I.
-But don't let the pendulum swing too far the other way.
-Some people are good.
-Some are even what they say they are.
-
-{Annai}
-Like Tea sewn?
-
-{Morashon}
-Yes | like Tea sewn.
-I think | I believe | that he is a good person.
-I just don't know if he's the right person for you.
+{Morashon;speed=1.07}
+104%3.5;And 122%you 1^100%5;shouldn't |.03| 87%3;Ann I.
+113%3.5;But don't 122%let the 4,3;pendulum 111%4;swing 106%too 87%5;far 82%3;the other 6_-4;way.
+3.2;Sum people are 88%5;good.
+96%Sum 3;are even 104%what they 99%5.5;say 2.7;they are.
 
 {Annai}
-Well | I guess 2^we'll find out.
-Because I'm not giving up on him just because you say so.
+3.2;Like 5;Tea 5_3;sewn?
 
-{Morashon}
-I never said you should.
-You need to find your own way.
+{Morashon;speed=1.03}
+Yes | 111%2;like 5;Tea 3;sewn.
+3;I 5;think | 3;I 3;5;believe | 3.3;that he is a good 5_3.4,2;person.
+116%3.4;I just don't 4.1;know 2.8;if he's the right person for 98%5_-5;you.
+
+{Annai;speed=1.07}
+Well | 3;I 111%guess 2^we'll 2.2;find 98%5;out.
+3.5;I'm not giving 5;up 3;on him |.03| 105%2.7;just 113%because you 97%5_4;say 2;so.
+
+{Morashon;speed=1.07}
+3;I never 5;said 2.6;you should.
+You 3;need to find 115%your 122%5;own 99%2;way.
+
+{Annai;speed=1.07}
+3.3;So 121%4.4;what's 97%2.8;yer 122%big 100%plan 98%5_4;now?
+
+{Morashon;speed=1.03}
+What do you 5.5_-3;mean?
 
 {Annai}
-So what's your big plan now?
-
-{Morashon}
-What do you mean?
-
-{Annai}
-The fans | the concerts | the preaching.
-Will it go on?
+3;The 5;fans | 3;the 5,2;concerts | 3;the 5.5_4,3;preaching.
+Will it 3;go 92.5%3.2_5.5;on?
 
 {Morashon}
 I don't know.
