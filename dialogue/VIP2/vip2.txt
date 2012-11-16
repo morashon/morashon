@@ -802,30 +802,30 @@ it's 104%part of 99%who she 73%7_-6;is.
 3.5;What you 96%5,2.5;really 100%want | 111%but you don't have the 105%balls to 97%5_-3;ask | 3;is for me to 3,2,6_-4;disappear.
 105%Get 122%out of her life 82%82%51%3,5_4,2;forever.
 
-{Morashon}
-Well | perhaps that would be best all around.
+{Morashon;speed=1.1}
+81%8_-6;Well | 100%3.45;perhaps that would be 4;best 3;all 3,7_-4;around.
+
+{Thisone;speed=1.07}
+3.3;And what about 67%6.6_-4.4;you?
+3;I 5;guess 4;I'm 116%supposed to keep 100%4.5,3.4;quiet 3;about that 71%4_6;too?
+
+{Morashon;speed=1.03}
+I would 111%5;greatly 5,5,3;appreciate it |.06| 102%if you 66%5;did.
+
+{Thisone;speed=1.07}
+I suppose there's money in 3;that 69%8_-4;too.
+
+{Morashon;speed=1.04}
+77%5;Yes.
+Money is not an 5_4,2.5;issue.
+You 111%3.134%3;can 108%live 116%the 117%4;life |.07| 127%3;you 143%have 122%always 100%5;dreamed 2.2;of.
 
 {Thisone}
-And what about you?
-I'm supposed to keep quiet about that too?
+113%What I've been 96%5;dreaming 88%4;of 95%5,3;lately | 98%2.55;can 3.5;never 66%7_-6;bee.
 
 {Morashon}
-I would appreciate it if you did.
-
-{Thisone}
-I suppose there's money in that too.
-
-{Morashon}
-Yes.
-Money is not an issue.
-You can live the life you have always dreamed of.
-
-{Thisone}
-What I've been dreaming of lately | can never be.
-
-{Morashon}
-That's true.
-The woman you fell in love with does not really exist.
+111%3;That's 77%7_-4.5;true.
+82%3;The 86%105%4;woman 3.3;you fell in 5;love 3;with | 3.5;does not really 3,5;exist.
 
 {Thisone}
 She exists alright.
