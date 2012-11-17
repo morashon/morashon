@@ -67,17 +67,18 @@ When 113%I 3;was 100%3,5,3;eleven | and all the 5;shit 3;came down | we moved 82
 {Thisone;speed=1.01}
 Did you know 92%3;them |.09| 99%from 3,5_5;before?
 
-{Annai}
-Only about a year or so.
-In fact | a lot of new people moved in right before the end.
-That was sort of strange | now that I think about it.
-No one really had the money or jobs to be relocating just then.
+{Annai;speed=1.06}
+5,3;Only about a 5;year 2;or so.
+3.5;In 5;fact | 4;a 122%lot 3;of 100%5;new 3.6;people 3.4;moved in |.04| right before 3;the 5;end.
+105%5;That 3.6;was 143%sort of 111%5;strange | 2.9;now 133%that I 109%4;think 2;about it.
+103%5;No 3;one 3.5;really had the 5,3;money 140%3.5;or 100%5;jobs 3;to be 122%3,5,2.6;relocating 104%2.25;just then.
+||
 
-{Thisone}
-And how well do you remember your life before the shelter?
+{Thisone;speed=1.04}
+5;How well 3.4;do you remember your 4.4;life 3;before the 90%50%5,1.5;shelter?
 
-{Annai}
-I don't know | as well as anyone remembers those years | I guess.
+{Annai;speed=1.06}
+5;I 3;don't know | 4;as 111%well as 122%5,3;anyone 111%2.7;remembers 100%those years | I guess.
 Alot of it is sort of hazy.
 It was such a disruption.
 I see my life in two parts.
