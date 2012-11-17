@@ -33,37 +33,38 @@ What 111%do you 100%6;mean?
 
 {Thisone;speed=1.04}
 72%6_-1;Well | 100%4;he logged me 5_4;out 3,3_1.2;somehow
-|.6|
+|.54|
 3.5;But I logged back 5;in 3.3;as soon as the system 5;let 2;me.
 Then 5_5;you 82%3;seemed 142%to 123%freeze |.09| while we 88%6_-4;talked.
 
-{Annai}
-I have no memory of that.
-That's freaking weird.
+{Annai;speed=1.07}
+I 3;have no 5,4,3;memory of 79%that.
+4.5;That's 2.7;freaking 7_-5.5;weird.
 
-{Thisone}
-An I | do you | what do you remember of your childhood?
+{Thisone;speed=1.05}
+5;Ann 74%3;I | 92%do 84%4.5;you || 100%4;what do you 142%3;re 111%5;mem 3;burr 100%2.6;of your 5,2;childhood?
 
-{Annai}
-what do you mean?
-Like I told you.
-I grew up in a small town.
-After the Cold Revolution | we started working on a shelter | a few 3^families.
-When I was eleven | and all the shit came down | we moved in.
-That's where we've been ever since.
+{Annai;speed=1.09}
+3.3;what do you 7_-3;mean?
+111%Like I 105%5.5_4;told 3;you.
+3;I 4;grew up 3;in a 5_3;small 3;town.
+After the Cold 4,4,4_5,4;Revolution | 3.3;we started working on a 5.2,2.7;shelter | 3.4;a few 3^5,2;families.
+When 113%I 3;was 100%3,5,3;eleven | and all the 5;shit 3;came down | we moved 82%5;in.
+105%That's 111%where 3;we've been 100%2.7;ever 77%8_-3;since.
 
-{Thisone}
-And your parents?
+{Thisone;spee=1.09}
+3.5;And your 5,5_5;parents?
 
-{Annai}
-They 2^didn't make it.
-Got sick.
-Must have been exposed somehow.
-But I was alright.
-I moved in with some friends of theirs.
+{Annai;speed=1.06}
+||||
+107%3.3;They 2^didn't 5_3.7;make 2.6;it.
+92%3;Got 88%9.5_-2;sick.
+136%Must 3;have 111%been 3,5;exposed 2,2_-1;somehow.
+107%3;But 139%5;I 108%3;was 3,6_2;alright.
+109%I moved in 3;with some 106%5_4;friends 2.4;of theirs.
 
-{Thisone}
-Did you know them from before?
+{Thisone;speed=1.01}
+Did you know 92%3;them |.09| 99%from 3,5_5;before?
 
 {Annai}
 Only about a year or so.
