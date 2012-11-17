@@ -1,13 +1,13 @@
 {include:../actors.txt}
 
-{Annai}
+{Annai;speed=1.07}
 5;This 2.7;place again.
 
 {Thisone;speed=1.03}
 3.5;Where it 5_4;awl 5,3_-2;began.
 
 {Annai;speed=1.04}
-3;This where it 4_6;ends?
+88%3;This 103%3;where it 4_6;ends?
 
 {Thisone;speed=1.06}
 5;I 3;don't 76%3_0;know.
@@ -19,19 +19,19 @@ What did 155%5;More 3;eh 111%shun 5;say 2.2;to you?
 {Thisone;speed=1.08}
 He had a 111%lot 131%3;to 78%8_-3;say.
 
-{Annai;speed=1.17}
+{Annai;speed=1.1556}
 What 111%do you 100%6;mean?
 3;He just 2^111%5_5,3;messaged you 111%100%something.
 105%You 2^3;didn't have 114%more 2.5;then 106%a 4;few 5,3;seconds to 101%5;read 2.2;it.
 
-{Thisone;speed=1.05}
+{Thisone;speed=1.03}
 72%1_6;No |.4| 111%3.7;he froze 81%5_5;you 131%3.5;for at 122%least 111%three 5,2;minutes.
 
 {Annai}
 132%3;what 148%are 131%you 111%5,2;talking?
 67%5_4.5;He |.04| 99%3;froze 88%7_-6;you.
 
-{Thisone;speed=1.04}
+{Thisone;speed=1.033}
 72%6_-1;Well | 100%4;he logged me 5_4;out 3,3_1.2;somehow
 |.54|
 3.5;But I logged back 5;in 3.3;as soon as the system 5;let 2;me.
@@ -40,6 +40,7 @@ Then 5_5;you 82%3;seemed 142%to 123%freeze |.09| while we 88%6_-4;talked.
 {Annai;speed=1.07}
 I 3;have no 5,4,3;memory of 79%that.
 4.5;That's 2.7;freaking 7_-5.5;weird.
+||||
 
 {Thisone;speed=1.05}
 5;Ann 74%3;I | 92%do 84%4.5;you || 100%4;what do you 142%3;re 111%5;mem 3;burr 100%2.6;of your 5,2;childhood?
@@ -54,9 +55,9 @@ When 113%I 3;was 100%3,5,3;eleven | and all the 5;shit 3;came down | we moved 82
 
 {Thisone;spee=1.09}
 3.5;And your 5,5_5;parents?
+||||
 
 {Annai;speed=1.06}
-||||
 107%3.3;They 2^didn't 5_3.7;make 2.6;it.
 92%3;Got 88%9.5_-2;sick.
 136%Must 3;have 111%been 3,5;exposed 2,2_-1;somehow.
