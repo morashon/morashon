@@ -1,0 +1,250 @@
+{include:../actors.txt}
+
+{Annai}
+This place again.
+
+{Thisone}
+Where it all began.
+
+{Annai}
+This where it ends?
+
+{Thisone}
+I don't know.
+That's sort of up to you.
+
+{Annai}
+What did More eh shun say to you?
+
+{Thisone}
+He had a lot to say.
+
+{Annai}
+What do you mean?
+He just 2^messaged you something.
+You 2^didn't have more than a few seconds to read it.
+
+{Thisone}
+No | he froze you for at least three minutes.
+
+{Annai}
+what are you talking?
+He froze you.
+
+{Thisone}
+Oh yeah | he logged me out somehow.
+I logged back in as soon as the system let me.
+Then you seemed to freeze while we talked.
+
+{Annai}
+I have no memory of that.
+That's freaking weird.
+
+{Thisone}
+An I | do you | what do you remember of your childhood?
+
+{Annai}
+what do you mean?
+Like I told you.
+I grew up in a small town.
+After the Cold Revolution | we started working on a shelter | a few 3^families.
+When I was eleven | and all the shit came down | we moved in.
+That's where we've been ever since.
+
+{Thisone}
+And your parents?
+
+{Annai}
+They 2^didn't make it.
+Got sick.
+Must have been exposed somehow.
+But I was alright.
+I moved in with some friends of theirs.
+
+{Thisone}
+Did you know them from before?
+
+{Annai}
+Only about a year or so.
+In fact | a lot of new people moved in right before the end.
+That was sort of strange | now that I think about it.
+No one really had the money or jobs to be relocating just then.
+
+{Thisone}
+And how well do you remember your life before the shelter?
+
+{Annai}
+I don't know | as well as anyone remembers those years | I guess.
+Alot of it is sort of hazy.
+It was such a disruption.
+I see my life in two parts.
+before and after.
+
+{Thisone}
+It was a shock | alright.
+I think those of us who made it through sometimes feel guilty.
+
+{Annai}
+Maybe.
+Some old folks say the rest were the lucky ones.
+
+{Thisone}
+Old folk | who really don't take to the Grid.
+
+{Annai}
+Yeah | mostly.
+
+{Thisone}
+without the Grid | society probably would have collapsed completely.
+
+{Annai}
+Maybe.
+It's given us a way to live a sort of normal life.
+Or a fantasy life | if you see it that way.
+
+{Thisone}
+An I.
+
+{Annai}
+Yes?
+
+{Thisone}
+There's something I've been | something I think I need to tell you.
+
+{Annai}
+Go ahead.
+I'm all ears.
+
+{Thisone}
+This is pretty big.
+It's important.
+It's about you.
+
+{Annai}
+Ok.
+But I think I know what you're going to say.
+
+{Thisone}
+You do?
+
+{Annai}
+I love you.
+
+{Thisone}
+I | I love you too.
+But that wasn't
+
+{Thisone}
+An I?
+
+{Annai}
+Tea sewn.
+
+{Thisone}
+You are | I don't know how to say this.
+You are an A I.
+You're code.
+
+{Annai}
+More eh shun.
+
+{Thisone}
+He told me | yes.
+But it checks out.
+He gave me a link.
+
+{Annai}
+And you believed him.
+
+{Thisone}
+I | I didn't at first.
+But I've researched it.
+Your I O is coming directly from logic nodes.
+There's no interface to the outside world.
+
+{Annai}
+That's the stupidest thing I've heard in my whole life.
+
+{Thisone}
+Look | I'm hoping it's not true.
+But I think it might be.
+Everything he said | it seemed so crazy | but when I looked into it later | nothing he told me was incorrect.
+I don't see how he could have known some of what he said | unless he was telling the truth.
+
+{Annai}
+Is this some stupid trick?
+A way to get me to send you some real vid?
+Checking up on my equipment | so to speak?
+Make sure I'm not some old housewife | or a fatty?
+Or | god forbid | another horny dude?
+
+{Thisone}
+No | it's not that at all.
+
+{Annai}
+Right.
+Just doing your research.
+
+{Thisone}
+Look | I don't know what to believe any more.
+More eh shun wrapped my mind around a pole.
+
+{Annai}
+Give me the link.
+
+{Thisone}
+To your code?
+
+{Annai}
+Yes!
+To the bullshit code More eh shun showed you | as part of his 2^umpteenth fake out mind fuck.
+
+{Thisone}
+He said | I'm not supposed to |
+
+{Annai}
+Oh god | I love this.
+Right.
+An I's a piece of code | but you better not tell her!
+Whatever you do | don't give her these links!
+It might drive her crazy!
+
+{Thisone}
+Something like that.
+
+{Annai}
+Look | if you make such an outrageous claim about someone | you have to back it up.
+Otherwise | we've got nothing to say to each other.
+Either we trust each other all the way | or not at all.
+
+{Thisone}
+Ok | but | I don't know.
+Jesus.
+This whole thing has screwed up my sense of reality.
+
+{Annai}
+Which was probably never that grounded to begin with.
+That's why an a hole like More eh shun can play you like a fiddle.
+Just hand over the code.
+I'll peel back the next layer of his fucking onion.
+
+{Thisone}
+Ok.
+Here it is.
+
+{Annai}
+Thanks.
+Later.
+
+{Annai}
+Hi.
+Sorry | I'm out to lunch.
+Or fishing.
+Or 3^traveling to another planet.
+This is my bot.
+Leave a message.
+
+{Thisone}
+An I | talk to me.
+Please.
+Don't just disappear.
