@@ -1,40 +1,41 @@
 {include:../actors.txt}
 
 {Annai}
-This place again.
+5;This 2.7;place again.
 
-{Thisone}
-Where it all began.
+{Thisone;speed=1.03}
+3.5;Where it 5_4;awl 5,3_-2;began.
+
+{Annai;speed=1.04}
+3;This where it 4_6;ends?
+
+{Thisone;speed=1.06}
+5;I 3;don't 76%3_0;know.
+3;That 4.7;might 3.3;be up to 77%6_-4;you.
+
+{Annai;speed=1.04}
+What did 155%5;More 3;eh 111%shun 5;say 2.2;to you?
+
+{Thisone;speed=1.08}
+He had a 111%lot 131%3;to 78%8_-3;say.
+
+{Annai;speed=1.17}
+What 111%do you 100%6;mean?
+3;He just 2^111%5_5,3;messaged you 111%100%something.
+105%You 2^3;didn't have 114%more 2.5;then 106%a 4;few 5,3;seconds to 101%5;read 2.2;it.
+
+{Thisone;speed=1.05}
+72%1_6;No |.4| 111%3.7;he froze 81%5_5;you 131%3.5;for at 122%least 111%three 5,2;minutes.
 
 {Annai}
-This where it ends?
+132%3;what 148%are 131%you 111%5,2;talking?
+67%5_4.5;He |.04| 99%3;froze 88%7_-6;you.
 
-{Thisone}
-I don't know.
-That's sort of up to you.
-
-{Annai}
-What did More eh shun say to you?
-
-{Thisone}
-He had a lot to say.
-
-{Annai}
-What do you mean?
-He just 2^messaged you something.
-You 2^didn't have more than a few seconds to read it.
-
-{Thisone}
-No | he froze you for at least three minutes.
-
-{Annai}
-what are you talking?
-He froze you.
-
-{Thisone}
-Oh yeah | he logged me out somehow.
-I logged back in as soon as the system let me.
-Then you seemed to freeze while we talked.
+{Thisone;speed=1.04}
+72%6_-1;Well | 100%4;he logged me 5_4;out 3,3_1.2;somehow
+|.6|
+3.5;But I logged back 5;in 3.3;as soon as the system 5;let 2;me.
+Then 5_5;you 82%3;seemed 142%to 123%freeze |.09| while we 88%6_-4;talked.
 
 {Annai}
 I have no memory of that.
