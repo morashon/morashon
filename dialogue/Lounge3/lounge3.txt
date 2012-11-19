@@ -79,78 +79,81 @@ Did you know 92%3;them |.09| 99%from 3,5_5;before?
 
 {Annai;speed=1.06}
 5;I 3;don't know | 4;as 111%well as 122%5,3;anyone 111%2.7;remembers 100%those years | I guess.
-Alot of it is sort of hazy.
-It was such a disruption.
-I see my life in two parts.
-before and after.
+5;Alot 3;of it 2.5;is sort of 5.4,2;hazy.
+It was 5;such 2.5;a 3,5,2;disruption.
+3;I 5;see 2.5;my 4.5;life 3;in two 3_1;parts.
+3,5;before | 3;and 4.5,1.78;after.
 
-{Thisone}
-It was a shock | alright.
-I think those of us who made it through sometimes feel guilty.
-
-{Annai}
-Maybe.
-Some old folks say the rest were the lucky ones.
-
-{Thisone}
-Old folk | who really don't take to the Grid.
+{Thisone;speed=1.08}
+It 3.6;was a 5;shock |.1| 3;alright.
+I think 4.5;those 3.5;of us who 4.5;made 3;it 66%5;through | 100%2.8;sometimes feel a 1^little 5,2;guilty.
 
 {Annai}
-Yeah | mostly.
+5,3;Maybe.
+111%Some of the 5;old 3;folks say the 4;rest 2.7;were the 5,2;lucky ones.
 
 {Thisone}
-without the Grid | society probably would have collapsed completely.
+87%5;Old 4;folk.
+118%3;Who 4;don't 3;really 5;take 96%2.5;to the 6_-4;Grid.
 
 {Annai}
-Maybe.
-It's given us a way to live a sort of normal life.
-Or a fantasy life | if you see it that way.
+66%5_4;Yeah | 99%5,3_2;mostly.
 
 {Thisone}
-An I.
+3;without the 88%5;Grid | 100%4,5,3;society 118%probably would have 2.5,3.3;collapsed 3,5,2;completely.
+
+{Annai;speed=1.05}
+77%5,3;Maybe.
+It's given 3;us a 4.5;way 3.4;to live 3;a sort 2.6;of 4,3;normal 7_-5;life.
+Or | a 5,3;fantasy life |.09| 3.75;if you see 3;it 5;that 2.4;way.
+
+{Thisone}
+104.5%Ann 88%2.7;I.
 
 {Annai}
-Yes?
+86%2_7.33;Yes?
 
 {Thisone}
-There's something I've been | something I think I need to tell you.
+110%There's 5,4;something 3.5;I've 105%3_1.5;been |.4| something I 4;think 3;I 146%need 144%to 99%5;tell 2;you.
 
 {Annai}
-Go ahead.
-I'm all ears.
+3;Go 100%82%3,5_2;ahead.
+110%3.5;I'm all 97%5;ears.
 
-{Thisone}
-This is pretty big.
-It's important.
-It's about you.
-
-{Annai}
-Ok.
-But I think I know what you're going to say.
-
-{Thisone}
-You do?
+{Thisone;speed=1.03}
+This is 3.3;pretty 77%5;big.
+3;It's 2^3,5;important.
+2_2;It's 3.35;about 66%5.5;you.
 
 {Annai}
-I love you.
+79%5.6;O 4_2;k.
+118%2.7;But I 122%4;think 2.8;I 126%3.5;know 155%3;what 1^you're 131%going 101%to 77%6.2_2;say.
 
 {Thisone}
-I | I love you too.
-But that wasn't
-
-{Thisone}
-An I?
+72%4_1;You 4_6.6;do?
 
 {Annai}
-Tea sewn.
+82%I 81%5;love 2.6;you.
 
 {Thisone}
-You are | I don't know how to say this.
-You are an A I.
-You're code.
+58%I |.3| 82%I 98%love 84%3;you 69%8_-1;too.
+But 113%that 1^wasn't
+|||
 
-{Annai}
-More eh shun.
+{Thisone}
+81%3.6;Ann 4_6;I?
+
+{Annai;pitch=.5}
+5;Tea 3;sewn.
+
+{Thisone}
+5;You 3.3;are || 3.6;I 122%don't know 143%how to 100%4_4;say 3;this.
+5;You 3.5;are an 57%3_0;A |.02| 7_-1;I.
+108%3;You are 92%6_1;code.
+|||
+
+{Annai;speed=.93}
+170%5.5;More 145%3;eh 120%shun.
 
 {Thisone}
 He told me | yes.
