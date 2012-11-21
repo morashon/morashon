@@ -55,7 +55,7 @@ When 113%I 3;was 100%3,5,3;eleven | and all the 5;shit 3;came down | we moved 82
 
 {Thisone;spee=1.09}
 3.5;And your 5,5_5;parents?
-||||
+|||
 
 {Annai;speed=1.06}
 107%3.3;They 2^didn't 5_3.7;make 2.6;it.
@@ -71,7 +71,7 @@ Did you know 92%3;them |.09| 99%from 3,5_5;before?
 5,3;Only about a 5;year 2;or so.
 3.5;In 5;fact | 4;a 122%lot 3;of 100%5;new 3.6;people 3.4;moved in |.04| right before 3;the 5;end.
 105%5;That 3.6;was 143%sort of 111%5;strange | 2.9;now 133%that I 109%4;think 2;about it.
-103%5;No 3;one 3.5;really had the 5,3;money 140%3.5;or 100%5;jobs 3;to be 122%3,5,2.6;relocating 104%2.25;just then.
+106%5;No 3;one 3.5;really had the 5,3;money 140%3.5;or 100%5;jobs 3;to be 122%3,5,2.6;relocating 104%2.25;just then.
 ||
 
 {Thisone;speed=1.04}
@@ -105,7 +105,7 @@ I think 4.5;those 3.5;of us who 4.5;made 3;it 66%5;through | 100%2.8;sometimes f
 {Annai;speed=1.05}
 77%5,3;Maybe.
 It's given 3;us a 4.5;way 3.4;to live 3;a sort 2.6;of 4,3;normal 7_-5;life.
-Or | a 5,3;fantasy life |.09| 3.75;if you see 3;it 5;that 2.4;way.
+Or | a 5,3;fantasy life |.09| 3.75;if you see 3;it 4;that 2.4;way.
 
 {Thisone}
 104.5%Ann 88%2.7;I.
@@ -167,7 +167,7 @@ He gave me a 6_-4;link.
 76%3;I |.44| 99%4;I 5;didn't 3;at 5;first.
 144%But 100%I've 5_5,3;researched it.
 3.5;Your 73%I |0.01| 99%5_4;O 3.5;is coming 3,5;directly 4;from sum 5.5,2;logic nodes.
-There's no 5,3.7;interface 2.9;to thee outside 6_-4;world.
+There's no 5,3.7;interface 2.9;to 111%thee 100%outside 6_-4;world.
 
 {Annai;speed=1.1}
 3.4;That's the 5;stupidest 3.7;thing I've 3;heard in my 2.5;whole 6_-4;life.
@@ -175,12 +175,12 @@ There's no 5,3.7;interface 2.9;to thee outside 6_-4;world.
 {Thisone;speed=1.09;pitch=.25}
 77%7_-5;Look | 99%4;I'm 5,3;hoping it's not 71%7_-3;true.
 But I 5;think || 3.5;maybe it 93%5.5_4.6;could 2.6;be.
-Everything he said | 3;it seemed so 81%5,3;crazy | 100%but when I looked 5,3;into it 88%71%4.5;later | 99%it awl checked 5.7;out.
+105%Everything he said | 3;it seemed so 81%5,3;crazy | 100%but when I looked 5,3;into it 88%71%4.5;later | 99%it awl checked 5.7;out.
 I 5;don't 4;see 3.5;how he 125%could have 100%4.5;known 133%3;some of 100%what he seems to 88%6_3;know | 100%3;unless he's telling the 90%8_-4.5;truth.
 
 {Annai;speed=1.08}
 3;Is 5;this 4;some 100%4.5;stoop 88%2.6;id 4_7;trick?
-122%105%3;Away 3;to 133%get me 111%to 100%5;send 3;you some 3.6;real 75%4_6;vid?
+122%105%3;Away 3;to 141%get me 121%to 104%5;send 3;you some 3.6;real 75%4_6;vid?
 4.6;Checking up 3;on my 3,5,2;equipment | 133%3;so to 111%speak?
 105%3;Make 4;sure 3;I'm not 118%some old 100%5,3.5;housewife | or a 5,4_6;fatty?
 83%6_-4;Or | 3;god 3,3_3;forbid | another 127%horny 101%3_6.5;dude?
@@ -202,56 +202,59 @@ I 5;don't 4;see 3.5;how he 125%could have 100%4.5;known 133%3;some of 100%what h
 {Thisone;pitch=-.22}
 To your 87%4_6;code?
 
-{Annai}
-Yes!
-To the bullshit code More eh shun showed you | as part of his 2^umpteenth fake out mind fuck.
+{Annai;speed=1.09}
+7_-3;Yes!
+3.3;To the 5_5,5;bullshit 4;code 155%5;More 3;eh 104%shun showed you | as part of his 2^umpteenth fake out 5;mind 2.1;fuck.
 
 {Thisone}
-He said | I'm not supposed to |
+103%He said | I'm not 4,4.2;supposed 4_3;to
 
 {Annai}
-Oh god | I love this.
-Right.
-An I's a piece of code | but you better not tell her!
-Whatever you do | don't give her these links!
-It might drive her crazy!
+72%5_5;Oh 82%3;god.
+92%I 110%5_5;love 87%2.5;this.
+76%7_-4.5;Right.
+111%4.3_4.3;Ann 3_3;I's a piece of 7_4;code | 116%3.4;but you 133%better not 117%5.4_4.6;tell 101%2.2_1;her!
+111%4,5;Whatever you 3;do | 118%don't give her these 5;links!
+111%3.6;It might drive her 5_6,2;crazy!
+
+{Thisone;pitch=-.3}
+5.7,4;Something like 4_2.6;that.
+
+{Annai;speed=1.09}
+88%7_-4;Look.
+119%If you 5;make 3;such 144%an 160%185%148%outrageous 119%4.6;claim 3.5;about someone | you 168%4.2;have 155%3;to 119%back it 111%5_3;up.
+5,3;Otherwise | we've got 129%3.6;nothing 4;to 105%5_3.6;say 2.2;to each other.
+Either we 5;trust 3;each other all the 5.3;way | 2.5;or not at 6_-4;all.
+
+{Thisone;speed=1.05}
+77%5.5;O 3.6_3.6;k | 100%but | I don't 72%5_1;know.
+88%5,2.5;Jesus.
+105%This whole 4.5;thing 3.3;has 3.8;screwed up my sense of 3,5.5,2;reality.
+
+{Annai;speed=1.11}
+5_5;Which |.17| 3.5;was probably never that grounded to 3,5_4.5;begin 2;with.
+That's why an 5_5;a 3;hole like 155%5;More 3;eh 111%shun |.07| can play you like a 5_4.5,2;fiddle.
+5_5;Just 4_4;give me the code.
+I'll peel back 3;the next layer of his fucking 3.6,2_0;onion.
 
 {Thisone}
-Something like that.
+3;O 5_4.5;k.
+3.4;Here 4.2;it 62%6_1;is.
 
-{Annai}
-Look | if you make such an outrageous claim about someone | you have to back it up.
-Otherwise | we've got nothing to say to each other.
-Either we trust each other all the way | or not at all.
+{Annai;speed=1.2;pitch=.8}
+5;Thanks.
+4,2_1;Later.
 
-{Thisone}
-Ok | but | I don't know.
-Jesus.
-This whole thing has screwed up my sense of reality.
+{Annai;speed=1.09;pitch=.2}
+89%8_-1;Hi.
+5,3;Sorry | 121%I'm 143%out 188%to 98%5;lunch.
+2.5;Or 5_5,3;fishing.
+Or 3^traveling 3.6;to another 5.2_5,2;planet.
+88%2.7_2.7;This |.02| 2.7_2.7;is |.02| 2.7_2.7;my |.02| 2.7_2.7;bot.
+105%3.7;Leave a 5_4,2;message.
 
-{Annai}
-Which was probably never that grounded to begin with.
-That's why an a hole like More eh shun can play you like a fiddle.
-Just hand over the code.
-I'll peel back the next layer of his fucking onion.
+{Thisone;pitch=.3}
+88%5;Ann 3;I || 113%5_5;talk 2.2;to 88%3;me.
+94%7.7_-3.8;Please.
+120%5;Don't 3.6;just 100%100%70%3,3,5_-5;disappear.
 
-{Thisone}
-Ok.
-Here it is.
-
-{Annai}
-Thanks.
-Later.
-
-{Annai}
-Hi.
-Sorry | I'm out to lunch.
-Or fishing.
-Or 3^traveling to another planet.
-This is my bot.
-Leave a message.
-
-{Thisone}
-An I | talk to me.
-Please.
-Don't just disappear.
