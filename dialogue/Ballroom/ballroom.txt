@@ -1,8 +1,8 @@
 {include:../actors.txt}
 
-{Morashon}
-Thank you for coming.
-This will be my farewell performance.
+{Morashon;speed=1.07}
+105%5;Thank 3.3;you 121%3;for 111%5;come 2;ing.
+This will be 3;my farewell 3,5,2;performance.
 
 {Morashon}
 I have something to say.
