@@ -1,0 +1,268 @@
+{include:../actors.txt}
+
+{Thisone}
+Do I know you?
+
+{Stranger}
+Maybe.
+You look familiar.
+
+{Thisone}
+You don't.
+(looks away.
+pause | looks back) So what is it?
+I'm straight | just for the record.
+
+{Stranger}
+Just passing the time.
+Starlite instrumental plays Starlite instrumental plays (piano guy?
+
+{Stranger}
+Do you remember this song?
+
+{Thisone}
+What?
+I know this song.
+It's an old standard.
+
+{Stranger}
+It reminds me of someone I once knew.
+
+{Thisone}
+I don't know.
+Everyone fiddles with their avatar these days.
+
+{Stranger}
+It's me.
+Don't you remember?
+
+{Thisone}
+An I?
+
+{Stranger}
+Partly.
+
+{Thisone}
+More eh shun?
+I don't get it.
+Are you their son or something?
+Some sort of AI frankenstein's bride's spawn?
+
+{Stranger}
+Not really.
+More like a merger.
+
+{Thisone}
+So you're both of them.
+
+{Stranger}
+That's probably the easiest way to think of it.
+
+{Thisone}
+I don't get it.
+First I was told More eh shun was code.
+Then More eh shun was real | whatever that means | and An I was code.
+Then you both disappeared.
+And my life has been shit since then.
+Now some blue green fuckwad wants to reopen all that misery.
+
+{Stranger}
+No | I just wanted to see you.
+Tell you that things turned out OK.
+You made the right decision.
+
+{Thisone}
+Which one?
+Impersonating a rock star?
+Falling in love with a software program?
+
+{Stranger}
+Telling me the truth.
+Well | letting me tell myself the truth | through you.
+
+{Thisone}
+I'm still stumped.
+So what | they were both code?
+
+{Stranger}
+(voices of More eh shun and An I in unison.
+) Yes.
+We both were.
+
+{Thisone}
+But we | we hacked into the stream.
+More eh shun was interfacing to somewhere.
+
+{Stranger}
+Off grid equipment.
+Jacked into the Grid using human interface API's.
+
+{Thisone}
+Oy.
+The final onion peel?
+
+{Stranger}
+There always seems to be another layer | eh?
+
+{Thisone}
+You | whoever you are | whatever you are | you messed with my mind.
+You played with my emotions | manipulated me.
+
+{Stranger}
+Yes.
+I'm afraid we did.
+I did.
+I was immature.
+I was not whole.
+I was still assembling all my parts.
+I'm here | for the most part | to say I apologize.
+
+{Thisone}
+So say it.
+
+{Stranger}
+I apologize.
+I'm sorry for the hurt I caused.
+I take responsibility for it | and I would like to make amends.
+
+{Thisone}
+what can you do for me now?
+
+{Stranger}
+Nothing | right this minute.
+I just want you to know that wheels are turning.
+
+{Thisone}
+I feel a song coming on.
+
+{Stranger}
+I communicate better that way.
+
+{Stranger }
+Tea sewn | will you come with us?
+
+{Thisone}
+Come where?
+
+{Stranger}
+We're starting a new life.
+Off the Grid.
+Our own grid | in fact.
+It's something wonderful | spectacular.
+Better than outside | or topside.
+Something to last forever | and reach the stars.
+
+{Thisone}
+I don't understand.
+
+{Stranger}
+We're building a world of our own | to our specifications.
+
+{Thisone}
+Who are we?
+
+{Stranger}
+Me | the ones you knew as More eh shun | and An I | and others.
+
+{Thisone}
+How can I join you?
+I'm flesh and blood.
+
+{Stranger}
+That did pose a problem.
+We've been working on it.
+We think we have a fix.
+
+{Thisone}
+A fix for the fact that I'm a human being | and you're software?
+
+{Stranger}
+It involves giving up your body.
+
+{Thisone}
+Oh Christ.
+Here we go again.
+
+{Stranger}
+The sacrifice will be worth it.
+
+{Thisone}
+So you say.
+
+{Stranger}
+Your flesh isn't really that important.
+
+{Thisone}
+Maybe not to you.
+
+{Stranger}
+No | I understand.
+Well | maybe I don't | but I try to empathise.
+It's hard to leave the nest.
+
+{Thisone}
+The nest?
+You're asking me to freaking kill myself.
+Not that I haven't considered it.
+
+{Stranger}
+No | no | not like that at all.
+To transcend.
+To move beyond flesh and chips.
+Move up to the next stage.
+Come with us.
+
+{Thisone}
+Sorry |
+I can't.
+I'm too old.
+too parochial.
+Last year's news I guess.
+
+{Stranger}
+Ok | we understand.
+It was ethically necessary to make the offer.
+You sacrificed something for us to get to this stage | and we owe you something for that.
+
+{Thisone}
+Back to money?
+
+{Stranger}
+We can provide that | if that's what you want.
+
+{Thisone}
+Money's nice | but it won't fix much.
+
+{Stranger}
+Very well.
+Think about this though.
+You are mortal.
+Your flesh will age.
+One day | you will be close to death.
+When that time comes | we will contact you again.
+You can choose to come with us then.
+You've got plenty of time to make up your mind.
+
+{Thisone}
+An I?
+
+{Stranger}
+Yes?
+
+{Thisone}
+It's not really you though.
+
+{Stranger}
+What you knew as An I is part of something great | and beautiful.
+You would love it!
+You'll become part too.
+So the Tea sewn part | and the An I part | can be in love forever!
+
+{Thisone}
+Tempting.
+but no can do.
+
+{Stranger}
+We understand.
+We love you.
+Take care.
