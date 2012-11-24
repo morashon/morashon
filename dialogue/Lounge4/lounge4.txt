@@ -1,28 +1,29 @@
 {include:../actors.txt}
 
 {Thisone}
-Do I know you?
+90%3;Do I 88%4;know 72%3_5;you?
 
 {Stranger}
-Maybe.
-You look familiar.
+5,3;Maybe.
+You look 3,5,2;familiar.
+
+{Thisone;pitch=.5;speed=1.1}
+5;You 3;don't.
+|||
+So what 5;is 2_0;it?
+3.5;I'm 5;straight | 3;just for the record.
+
+{Stranger;speed=1.08}
+3;Just 4;passing the 5_-5;time.
+||||
+
+{Stranger}
+3.5;Do you 3,5;remember this 4_6;song?
 
 {Thisone}
-You don't.
-(looks away.
-pause | looks back) So what is it?
-I'm straight | just for the record.
-
-{Stranger}
-Just passing the time.
-
-{Stranger}
-Do you remember this song?
-
-{Thisone}
-What?
-I know this song.
-It's an old standard.
+77%1_6;What?
+4.5;I know 3.3;this song.
+It's 3;an old 5,2;standard.
 
 {Stranger}
 It reminds me of someone I once knew.
@@ -147,7 +148,7 @@ Off the Grid.
 Our own grid | in fact.
 It's something wonderful | spectacular.
 Better than outside | or top side.
-Something to last forever | and reach the stars.
+Something to last forever | and reach tha stars.
 
 {Thisone}
 I don't understand.
@@ -181,7 +182,7 @@ Oh Christ.
 Here we go again.
 
 {Stranger}
-The sacrifice will be worth it.
+Tha sacrifice will be worth it.
 
 {Thisone}
 So you say.
