@@ -49,26 +49,26 @@ Are you their 122%5_5;son 99%or 5,5_5;something?
 111%3;Some 4;sort 3;of 77%4.5_4.5;A 4.5_4.5;I |.04| 108%Frankenstein's bride's 90%2_7;spawn?
 
 {Stranger;timbre=-.3;voice=ogi_as_diphone/4+ogi_tll_diphone/4+ogi_jph_diphone/1.6;volume=1.5}
-Not 5,3;really.
-115%More like 5;a 100%2;merger.
+Not 88%5,3;really.
+105%More like 5;a 92%2;merger.
 
 {Thisone}
 3.5;So you're 5;both 3;of them.
 
 {Stranger;speed=1.08}
-That's 111%probably 3;the 5,3;easiest way 120%to 99%5;think 2.5;of it.
+That's 111%probably 3;the 122%5,3;easiest way 120%to 99%5;think 2.5;of it.
 
 {Thisone;speed=1.1}
 I don't 5;get 3;it.
 5;First |.07| 3;I was told 155%5;More 121%3;eh 111%shun was 98%7_-4;code.
 Then |.02| 151%5;More 121%3;eh 110%shun was 99%5_4;real | 2.5;whatever 77%5;that 3;means | 96%and 5;Ann 2;I was code.
 5;Then 3;you both 3,3,5_-3;disappeared.
-3.5;And my 5;life 115%3;has been 100%5;shit 3;since 6_-4;then.
-Now 3.3;some blue green 5_4;fuck 3;wad |.09| wants to reopen aWl that 5,2;misery.
+3.5;And my 5;life 128%3;has been 100%5;shit 3;since 6_-4;then.
+Now 3.3;some blue green 5_4;fuck 3;wad |.09| wants to reopen awl that 5,2;misery.
 
 {Stranger;timbre=.3;speed=1.05}
-4.5_1;No | 3.6;I just wanted to 5_4.5;see 2;you.
-5;Tell 3.5;you that 121%things turned 111%out 92%3;O 7_-3.3;K.
+72%4.5_1;No | 100%3.6;I just 122%wanted to 100%5_4.5;see 2;you.
+112%5;Tell 3.5;you that things 141%turned 111%out 92%3;O 7_-3.3;K.
 5;You made 4;the right 3,5,2;decision.
 
 {Thisone;speed=1.1}
@@ -78,33 +78,34 @@ Now 3.3;some blue green 5_4;fuck 3;wad |.09| wants to reopen aWl that 5,2;misery
 
 {Stranger}
 122%3.5;Telling 88%me the |.035| 81%7_0;truth.
-7_0;Well | 3;letting 88%7_1;me | 101%3;tell 3,5;myself 2.2;the truth | through 7_-4;you.
+7_0;Well | 3;letting 88%7_1;me | 101%3;tell 3,5;myself 2.2;the truth | 92%through 7_-4;you.
 
 {Thisone;speed=1.08}
 I'm still stumped.
 So what | 3;they were 5;both 5_5;code?
 
 {Stranger;timbre=.2}
+88%7_-4;Yes.
 3.5;We 5.5;both 88%3;were.
 
-{Thisone}
-But we | we hacked into the stream.
-More eh shun was inter facing to somewhere.
+{Thisone;speed=1.06;pitch=.4}
+4.4;But 66%I |.3| 99%3.3;we 1^hacked into the 1^82%9_-2;stream.
+164%5;More 145%3;eh 100%shun was 100%155%5,3;inter 135%114%facing 107%to 99%4.5,2;somewhere.
 
-{Stranger}
-Off grid equipment.
-Jacked into the Grid using human interface A P eyes.
-
-{Thisone}
-Oi.
-The final onion peel?
-
-{Stranger}
-There always seems to be another layer | eh?
+{Stranger;speed=1.09;pitch=.2;timbre=.33}
+Off grid 4,4_4,3;equipment.
+Jacked into the 5;Grid | 3;using human 4.6,3;interface A 80%P eyes.
 
 {Thisone}
-You | whoever you are | whatever you are | you messed with my mind.
-You played with my emotions | manipulated me.
+55%6_-2;Oi.
+The 1^final 100%97.5%3,5_6;onion 91%4_6.7;peel?
+
+{Stranger;pitch=.2;timbre=.13;speed=1.1}
+There always 114%5;seems 3.3;to 100%be another 5,2.5;layer |.21| 81%2_6;A?
+
+{Thisone}
+67%5;You | 96%3.5;whomever you 81%are | 97%3,5,3;whatever you 75%are |.4| 99%you messed with my 85%5;mind.
+You 111%played 3;with 101%my 3,5,2;emotions | 2.8,5,2;manipulated 81%me.
 
 {Stranger}
 Yes.
