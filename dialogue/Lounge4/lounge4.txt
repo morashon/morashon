@@ -25,38 +25,38 @@ So what 5;is 2_0;it?
 4.5;I know 3.3;this song.
 It's 3;an old 5,2;standard.
 
-{Stranger}
-It reminds me of someone I once knew.
+{Stranger;speed=1.1}
+It 4,5;reminds 3.6;me of someone I once 77%6_-3;knew.
+
+{Thisone;speed=1.08}
+5;I 3.7;don't 3_1;know.
+5,3.5;Everyone fiddles with their 95%5,3;avatar |.03| 88%these days.
+
+{Stranger;pitch=1.5;voice=ogi_as_diphone/3+ogi_tll_diphone/3+ogi_jph_diphone/3;volume=1.5}
+3;It's 82%5;me.
+111%Don't you 3.5,5,5_6;remember?
 
 {Thisone}
-I don't know.
-Everyone fiddles with their avatar these days.
+77%4;Ann 4_7;I?
 
-{Stranger}
-It's me.
-Don't you remember?
+{Stranger;pitch=1;voice=ogi_as_diphone/4+ogi_tll_diphone/3+ogi_jph_diphone/2;volume=1.5}
+5,3;Partly.
 
-{Thisone}
-An I?
+{Thisone;speed=1.04}
+151%3.5;More 112%5;eh 5_6;shun?
+5;I don't get 3.5;it.
+Are you their 122%5_5;son 99%or 5,5_5;something?
+111%3;Some 4;sort 3;of 77%4.5_4.5;A 4.5_4.5;I |.04| 108%Frankenstein's bride's 90%2_7;spawn?
 
-{Stranger}
-Partly.
-
-{Thisone}
-More eh shun?
-I don't get it.
-Are you their son or something?
-Some sort of A I frankenstein's bride's spawn?
-
-{Stranger}
-Not really.
-More like a merger.
+{Stranger;timbre=-.6;voice=ogi_as_diphone/4+ogi_tll_diphone/4+ogi_jph_diphone/1.6;volume=1.5}
+Not 5,3;really.
+115%More like 5;a 100%2;merger.
 
 {Thisone}
-So you're both of them.
+3.5;So you're 5;both 3;of them.
 
-{Stranger}
-That's probably the easiest way to think of it.
+{Stranger;timbre=-.6;voice=ogi_as_diphone/4+ogi_tll_diphone/4+ogi_jph_diphone/2;volume=1.5;speed=1.07}
+That's 111%probably 3;the 5,3;easiest way 100%to 5;think 2.5;of it.
 
 {Thisone}
 I don't get it.
