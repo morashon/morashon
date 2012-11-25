@@ -156,20 +156,23 @@ Tea sewn | 2;will you 111%3;come 5;with 97%us?
 {Thisone}
 3.5;I don't understand.
 
-{Annai;timbre=-.35}
+{Annai;timbre=-.5}
 Were 5,4;building a world of 3;our 5;own | 111%3.5;to our 3.5,3.5,3.5,5.5,2.2;specifications.
 
 {Thisone}
 81%3.5;Who are |.05| 66%6.6_-4;wee?
 
-{Annai;timbre=-.275;speed=.96}
-66%5;We |.19| 100%4;are the ones you knew as 155%5;More 2.6;eh 100%shun | and 5;Ann 3;I || and 5,2.2;others.
+{Stranger;pitch=2;voice=ogi_as_diphone/2+ogi_tll_diphone/3+ogi_jph_diphone/6;volume=1.5;speed=.97}
+66%5;We |.19| 100%4;are the ones you knew as 155%5;More 2.6;eh 100%shun | and 5;Ann 3;eye
+
+{Stranger;pitch=2;voice=ogi_as_diphone/2+ogi_tll_diphone/3+ogi_jph_diphone/6;volume=1.5;speed=.97}
+3;and 5,2.2;others.
 
 {Thisone}
 105%How 133%can 122%I 106%5_4;join 82%6_-2.5;you?
 107%3.5;I'm flesh and 87%6.6_-3.5;blood.
 
-{Annai;timbre=-.35;speed=1.07}
+{Annai;timbre=-.5;speed=1.07}
 That did 3;pose a 5,2;problem.
 We've been 5,3;working on it.
 105%We 5;think |.09| 3;we have a 88%7_-4;fix.
@@ -177,26 +180,26 @@ We've been 5,3;working on it.
 {Thisone;speed=1.08}
 A 4_4;fix for the fact that 5;I'm 3.5;a human 90%77%5,3;being | 110%and you're 100%80%4,4_6;software?
 
-{Annai;timbre=-.41;speed=1.06}
+{Annai;timbre=-.71;speed=1.06}
 3;It 3,4.5;involves 3.5;giving up 92%yur 5,2;body.
 
 {Thisone}
 5;Oh 96%3;Christ.
 104%Hear we go 75%4,6_-4;again.
 
-{Annai;timbre=-.35;speed=1.07}
+{Annai;timbre=-1;speed=1.07}
 Tha 5,3;sacrifice |.08| would be 5;worth 2;it.
 
 {Thisone}
 92%5;So you 4;say.
 
-{Annai;timbre=-.35;speed=1.07}
+{Annai;timbre=-1;speed=1.07}
 Yur 5;flesh 3;isn't really that 100%155%90%3,5,2;important.
 
 {Thisone}
 111%3.5;Maybe not to 61%6.6_-5.4;you.
 
-{Annai;timbre=-.41;speed=1.08}
+{Stranger;pitch=2;voice=ogi_as_diphone/2+ogi_tll_diphone/3+ogi_jph_diphone/6;volume=1.5}
 3.5_3.5;No | 5;I 3;understand.
 Well | maybe I don't | 3;but I 5;try 4;to 5,2.5;empathize.
 It's 5;hard 3;to leave the 6_-4;nest.
@@ -206,7 +209,7 @@ It's 5;hard 3;to leave the 6_-4;nest.
 You're 4,2.5;asking me 3;to freaking 5.5_5;kill 2;myself.
 Not 118%3;that I 1^haven't 100%3,5,2;considered it.
 
-{Annai;timbre=-.35;speed=1.05;pitch=.2}
+{Stranger;pitch=1.8;voice=ogi_as_diphone/2.2+ogi_tll_diphone/3+ogi_jph_diphone/5;volume=1.5}
 77%5;No | 88%3;no |.4| 105%4;not like 144%that 100%at 7_-4;all.
 107%To 107%91%3.5,8.8_1;transcend.
 To move 100%80%3,5;beyond 106%2.7;flesh and 101%3.3;chips.
@@ -221,7 +224,7 @@ I'm too 5_1.2;old.
 88%3;too 3^100%3,5,2;parochial.
 103%Last 3;years 4.4;news |.05| 3;I guess.
 
-{Stranger;speed=1.03;pitch=.5;timbre=.4}
+{Stranger;pitch=1.6;voice=ogi_as_diphone/2.5+ogi_tll_diphone/3+ogi_jph_diphone/4;volume=1.5}
 5;O 3;k | 4;we 4,4,2;understand.
 3;It was 4^5,3;ethically 5,3;necessary |.09| to make the offer.
 113%You 5,3.5;sacrificed something 3;fur us to 4;get to this stage | 2.5;and we 5_4;owe 3.5;you 4;something 2.2;for 3.5;that.
@@ -229,20 +232,20 @@ I'm too 5_1.2;old.
 {Thisone}
 3.5;Back to 5;money?
 
-{Stranger;speed=1.03;pitch=.5;timbre=.4}
+{Stranger;pitch=1.4;voice=ogi_as_diphone/2.5+ogi_tll_diphone/3+ogi_jph_diphone/4;volume=1.5}
 We can 4,5;provide 3.5;that | if that's what you need.
 
 {Thisone}
 4.5;Money's 3;nice | 3;but it 111%5;won't 4;fix 90%3;much.
 
-{Stranger;speed=.96;pitch=.2}
+{Stranger;pitch=1.2;voice=ogi_as_diphone/2.5+ogi_tll_diphone/3+ogi_jph_diphone/4;volume=1.5}
 Very 3;well.
 Think about this 91%though.
 You are 5,3;mortal.
 Yur 5;flesh 4;will 3;age.
 5;One 3.5;day | you 114%will be close to 100%5;death.
 3;When 4.5;that time 3;comes | we will 4,3;contact you 3,6_-4;again.
-108%5;You 3;may 122%4;choose 111%to come 3;with us 99%7_-3;then.
+108%5;You 3;may 127%4;choose 111%to come 3;with us 99%7_-3;then.
 111%You've got 122%5;plenty of 108%time 115%3;to make up 100%yur 91%6_-4;mind.
 
 {Thisone}
@@ -264,7 +267,7 @@ You'll become part |.03| 82%7_-4;too.
 5,3;Tempting.
 but 5;no can 3.5;do.
 
-{Stranger;pitch=1.2;voice=ogi_as_diphone/3+ogi_tll_diphone/3+ogi_jph_diphone/3;volume=1.5}
+{Stranger;pitch=1.2;voice=ogi_as_diphone/2.5+ogi_tll_diphone/3+ogi_jph_diphone/4;volume=1.5}
 We understand.
 We 5;love 2;you.
 4.2;Take 88%6_-5;care.
