@@ -221,51 +221,51 @@ I'm too 5_1.2;old.
 88%3;too 3^100%3,5,2;parochial.
 103%Last 3;years 4.4;news |.05| 3;I guess.
 
-{Stranger}
-Ok | we understand.
-It was 4^ethically necessary to make the offer.
-You sacrificed something for us to get to this stage | and we owe you something for that.
+{Stranger;speed=1.03;pitch=.5;timbre=.4}
+5;O 3;k | 4;we 4,4,2;understand.
+3;It was 4^5,3;ethically 5,3;necessary |.09| to make the offer.
+113%You 5,3.5;sacrificed something 3;fur us to 4;get to this stage | 2.5;and we 5_4;owe 3.5;you 4;something 2.2;for 3.5;that.
 
 {Thisone}
-Back to money?
+3.5;Back to 5;money?
 
-{Stranger}
-We can provide that | if that's what you want.
-
-{Thisone}
-Money's nice | but it won't fix much.
-
-{Stranger}
-Very well.
-Think about this though.
-You are mortal.
-Your flesh will age.
-One day | you will be close to death.
-When that time comes | we will contact you again.
-You can choose to come with us then.
-You've got plenty of time to make up your mind.
+{Stranger;speed=1.03;pitch=.5;timbre=.4}
+We can 4,5;provide 3.5;that | if that's what you need.
 
 {Thisone}
-An I?
+4.5;Money's 3;nice | 3;but it 111%5;won't 4;fix 90%3;much.
 
-{Stranger}
-Yes?
-
-{Thisone}
-It's not really you though.
-
-{Stranger}
-What you knew as An I is part of something great | and beautiful.
-You would love it!
-You'll become part too.
-So the Tea sewn part | and the An I part | can be in love forever!
+{Stranger;speed=.96;pitch=.2}
+Very 3;well.
+Think about this 91%though.
+You are 5,3;mortal.
+Yur 5;flesh 4;will 3;age.
+5;One 3.5;day | you 114%will be close to 100%5;death.
+3;When 4.5;that time 3;comes | we will 4,3;contact you 3,6_-4;again.
+108%5;You 3;may 122%4;choose 111%to come 3;with us 99%7_-3;then.
+111%You've got 122%5;plenty of 108%time 3;to make up yur 91%6_-4;mind.
 
 {Thisone}
-Tempting.
-but no can do.
+77%3;Ann 4_6;I?
 
-{Stranger}
+{Annai}
+82%1_5;Yes?
+
+{Thisone}
+It's 3;not really 5;you 3;though.
+
+{Annai;timbre=-.4;pitch=-.3;speed=1.03}
+What you knew as 5;An 3;I |.4| is part of something 4;great | 3;and 5_5,2;beautiful.
+You would 5;love 3;it!
+You'll become part |.03| 82%7_-4;too.
+96%So the 5;Tea sewn 3;part | and the 5;Ann I 3;part | can be in 88%4_3;love | 92%4,6_5,2.2;forever!
+
+{Thisone}
+5,3;Tempting.
+but 5;no can 3.5;do.
+
+{Stranger;pitch=1.2;voice=ogi_as_diphone/3+ogi_tll_diphone/3+ogi_jph_diphone/3;volume=1.5}
 We understand.
-We love you.
-Take care.
+We 5;love 2;you.
+4.2;Take 88%6_-5;care.
 
