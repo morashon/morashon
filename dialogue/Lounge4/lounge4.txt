@@ -243,7 +243,7 @@ Yur 5;flesh 4;will 3;age.
 5;One 3.5;day | you 114%will be close to 100%5;death.
 3;When 4.5;that time 3;comes | we will 4,3;contact you 3,6_-4;again.
 108%5;You 3;may 122%4;choose 111%to come 3;with us 99%7_-3;then.
-111%You've got 122%5;plenty of 108%time 3;to make up yur 91%6_-4;mind.
+111%You've got 122%5;plenty of 108%time 115%3;to make up 100%yur 91%6_-4;mind.
 
 {Thisone}
 77%3;Ann 4_6;I?
