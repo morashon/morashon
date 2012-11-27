@@ -74,7 +74,7 @@ def main(scene):
                             blend = float(val)
                 name = scene + "_" + str(index) + "_" + actor + ".txt"
                 if blend:
-                    blends[lastName] = (name, blend)
+                    blends[name] = (lastName, blend)
                     print "BLEND", lastName, "with", name, "*", blend
                 index += 1
                 files[name] = ""
@@ -131,6 +131,8 @@ def main(scene):
                 os.system(cmd)
                 errors += 1
             else:
+                if fil in blends:
+                    print "XXXXXXXXxx I think I'm supposed to blend here:", blends[fil]
                 if CHANGES:
                     cmd = "mplayer " + fil[:-4] + ".wav"
                     print cmd
