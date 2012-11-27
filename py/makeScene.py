@@ -89,7 +89,6 @@ def main(scene):
     errors = 0
     index = -1
     rewritten = {}
-    ignore = {}
     for fil in files:
         index += 1
         if kbhit():
@@ -159,7 +158,6 @@ def main(scene):
                     cmd = "sox -D -m -v " + str(1.0 - blend) + " temp.wav -v " + str(blend) + " " + fil[:-4] + ".wav " + fil2[:-4] + ".wav"
                     print cmd
                     os.system(cmd)  
-                    ignore[fil] = True
                 if CHANGES and fil not in blended:
                     f = fil
                     if fil in blends:
@@ -179,7 +177,7 @@ def main(scene):
             os.system(cmd)
         cmd = "sox "
         for fil in files:
-            if fil in ignore:
+            if fil in blends:
                 continue
             print fil
             cmd += fil[:-4] + ".wav "
@@ -195,7 +193,7 @@ def main(scene):
                 someAudio = False
                 cmd = "sox "
                 for fil in files:
-                    if fil in ignore:
+                    if fil in blends:
                         continue
                     if not "_" + actor + ".txt" in fil:
                         cmd += "-v 0 "

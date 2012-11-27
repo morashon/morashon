@@ -5,28 +5,40 @@
 This will be 3;my farewell 3,5,2;performance.
 
 {Morashon}
-I have something to say.
+I have sum 3;thing 88%to 61%7.5_-3;say.
 
-{Morashon}
-When someone like me comes along | and tells you things that sound unbelievable | don't just believe him.
+{Morashon;speed=1.07}
+3;When 111%4;someone 3;like 101%5;me 3;comes along | and 115%tells 133%you 114%things that sound 3,3,5,3;unbelievable || 99%don't just 3,5;believe 2;them.
 
-{Morashon}
-Ask the tough questions.
+{Morashon;speed=1.03}
+Ask the tough 4,2;questions.
 
-{Thisone;blend=.5}
-Ask the tough questions.
+{Thisone;blend=.18}
+|.1| Ask the tough 4,2;questions.
 
-{Morashon}
-Look behind the curtain.
+{Morashon;base=87;timbre=0;speed=.97}
+Look 3,5_3.4;behind 3;the 3.3,2;curtain.
 
-{Thisone;blend=.5}
-Look behind the curtain.
+{Thisone;base=87;timbre=0;speed=.935;blend=.25}
+Look 100%103%3,5_3.4;behind 107.7%3;the 112%99%3.3,2;curtain.
 
-{Morashon}
-most likely you'll find an old man with a mouse and a keyboard.
+{Morashon;base=87;timbre=0;speed=1.02}
+most 5,3;likely |.1| 
 
-{Thisone;blend=.5}
-most likely you'll find an old man with a mouse and a keyboard.
+{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+most 5,3;likely |.1| 
+
+{Morashon;base=87;timbre=0;speed=1.02}
+you'll find an 4.2;old man 
+
+{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+you'll find an 4.2;old man 
+
+{Morashon;base=87;timbre=0;speed=1.02}
+3;with a 4.2;mouse 3;and a 5,2;key board.
+
+{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+3;with a 4.2;mouse 3;and a 5,2;key board.
 
 {Morashon}
 I am not what I appear to be.
