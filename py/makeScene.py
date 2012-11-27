@@ -29,6 +29,7 @@ def main(scene):
     index = 0
     actors = {}
     blends = {}
+    blended = {}
     files = OrderedDict()
     os.chdir(BUILDDIR)
 
@@ -75,6 +76,7 @@ def main(scene):
                 name = scene + "_" + str(index) + "_" + actor + ".txt"
                 if blend:
                     blends[name] = (lastName, blend)
+                    blended[lastName] = name
                     print "BLEND", lastName, "with", name, "*", blend
                 index += 1
                 files[name] = ""
@@ -87,6 +89,7 @@ def main(scene):
     errors = 0
     index = -1
     rewritten = {}
+    ignore = {}
     for fil in files:
         index += 1
         if kbhit():
@@ -109,6 +112,17 @@ def main(scene):
                 rewrite = BUILDJUST == index
             else:
                 rewrite = BUILDJUST == fil
+
+        if fil in blended:
+            fil2 = blended[fil]
+            if os.path.exists(fil2):
+                f = open(fil2)
+                s = f.read()
+                f.close()
+                if s != files[fil2]:
+                    rewrite = True
+            else:
+                rewrite = True
 
         if fil in blends and blends[fil][0] in rewritten:
             rewrite = True
@@ -138,6 +152,12 @@ def main(scene):
             else:
                 if fil in blends:
                     print "XXXXXXXXxx I think I'm supposed to blend here:", blends[fil]
+                    fil2, blend = blends[fil]
+                    cmd = "mv " + fil2[:-4] + ".wav temp.wav"
+                    print cmd
+                    cmd = "sox -D -m -v " + str(1.0 - blend) + " temp.wav -v " + str(blend) + " " + fil[:-4] + ".wav " + fil2[:-4] + ".wav"
+                    print cmd
+                    ignore[fil] = True
                 if CHANGES:
                     cmd = "mplayer " + fil[:-4] + ".wav"
                     print cmd
@@ -154,6 +174,8 @@ def main(scene):
             os.system(cmd)
         cmd = "sox "
         for fil in files:
+            if fil in ignore:
+                continue
             print fil
             cmd += fil[:-4] + ".wav "
             if PAD:
@@ -168,6 +190,8 @@ def main(scene):
                 someAudio = False
                 cmd = "sox "
                 for fil in files:
+                    if fil in ignore:
+                        continue
                     if not "_" + actor + ".txt" in fil:
                         cmd += "-v 0 "
                     else:
