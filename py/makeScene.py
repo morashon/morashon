@@ -86,6 +86,7 @@ def main(scene):
     buildMaster = False
     errors = 0
     index = -1
+    rewritten = {}
     for fil in files:
         index += 1
         if kbhit():
@@ -109,7 +110,11 @@ def main(scene):
             else:
                 rewrite = BUILDJUST == fil
 
+        if fil in blends and blends[fil][0] in rewritten:
+            rewrite = True
+
         if rewrite:
+            rewritten[fil] = True
             buildMaster = True
             print "-------->", fil, "is new or has changed -- writing to disk:"
             print files[fil]
