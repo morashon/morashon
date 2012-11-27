@@ -1,21 +1,46 @@
 {include:../actors.txt}
 
-{Morashon;speed=1.07}
+{Morashon;speed=1.07;blend=.51}
 105%5;Thank 3.3;you 121%3;for 111%5;come 2;ing.
 This will be 3;my farewell 3,5,2;performance.
 
 {Morashon}
 I have something to say.
+
+{Morashon}
 When someone like me comes along | and tells you things that sound unbelievable | don't just believe him.
+
+{Morashon}
 Ask the tough questions.
+
+{Thisone;blend=.5}
+Ask the tough questions.
+
+{Morashon}
 Look behind the curtain.
+
+{Morashon}
 most likely you'll find an old man with a mouse and a keyboard.
+
+{Morashon}
 I am not what I appear to be.
+
+{Morashon}
 I am not an A I.
+
+{Morashon}
 I'm not even a single person.
+
+{Morashon}
 This persona | More eh shun | was developed for reasons that frankly I can't even figure out myself.
+
+{Morashon}
 Others inhabited it before me.
+
+{Morashon}
 others may try to take it on again.
+
+{Morashon}
 But I'm here to tell you that no AI | or human being | or gods or aliens for that matter | can tell you how to live your life.
 That's up to you.
 

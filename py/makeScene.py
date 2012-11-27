@@ -160,8 +160,11 @@ def main(scene):
                     print cmd
                     os.system(cmd)  
                     ignore[fil] = True
-                if CHANGES:
-                    cmd = "mplayer " + fil[:-4] + ".wav"
+                if CHANGES and fil not in blended:
+                    f = fil
+                    if fil in blends:
+                        f = fil2
+                    cmd = "mplayer " + f[:-4] + ".wav"
                     print cmd
                     os.system(cmd)
         else:
