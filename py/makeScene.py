@@ -155,8 +155,10 @@ def main(scene):
                     fil2, blend = blends[fil]
                     cmd = "mv " + fil2[:-4] + ".wav temp.wav"
                     print cmd
+                    os.system(cmd)  
                     cmd = "sox -D -m -v " + str(1.0 - blend) + " temp.wav -v " + str(blend) + " " + fil[:-4] + ".wav " + fil2[:-4] + ".wav"
                     print cmd
+                    os.system(cmd)  
                     ignore[fil] = True
                 if CHANGES:
                     cmd = "mplayer " + fil[:-4] + ".wav"
