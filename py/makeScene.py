@@ -28,10 +28,12 @@ def main(scene):
     scene = scene[:-4]
     index = 0
     actors = {}
+    blends = {}
     files = OrderedDict()
     os.chdir(BUILDDIR)
 
     i = 0
+    lastName = None
     while i < len(lines):
         line = lines[i]
         line = line.strip()
@@ -53,6 +55,7 @@ def main(scene):
             continue
 
         actor = None
+        blend = None
         if "{" in line:
             extra = ""
             temp = line[1:].replace("}", "")
@@ -64,12 +67,23 @@ def main(scene):
                 line = actors[actor]
                 if extra:
                     line = line.replace("}","") + ";" + extra + "}"
+                    params = extra.split(";")
+                    for param in params:
+                        key, val = param.split("=")
+                        if key.lower() == "blend":
+                            blend = float(val)
+                            index -= 1
                 name = scene + "_" + str(index) + "_" + actor + ".txt"
+                if blend:
+                    blends[lastName] = (name, blend)
+                    print "BLEND", lastName, "with", name, "*", blend
                 index += 1
                 files[name] = ""
         files[name] += line + "\n"
         i += 1
+        lastName = name
 
+    print "blends:", blends
     buildMaster = False
     errors = 0
     index = -1
