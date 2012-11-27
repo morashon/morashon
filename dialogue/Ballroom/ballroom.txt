@@ -1,6 +1,6 @@
 {include:../actors.txt}
 
-{Morashon;speed=1.07;blend=.51}
+{Morashon;speed=1.07}
 105%5;Thank 3.3;you 121%3;for 111%5;come 2;ing.
 This will be 3;my farewell 3,5,2;performance.
 
@@ -19,10 +19,19 @@ Ask the tough questions.
 {Morashon}
 Look behind the curtain.
 
+{Thisone;blend=.5}
+Look behind the curtain.
+
 {Morashon}
 most likely you'll find an old man with a mouse and a keyboard.
 
+{Thisone;blend=.5}
+most likely you'll find an old man with a mouse and a keyboard.
+
 {Morashon}
+I am not what I appear to be.
+
+{Thisone}
 I am not what I appear to be.
 
 {Morashon}
