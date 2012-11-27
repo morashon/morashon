@@ -72,7 +72,6 @@ def main(scene):
                         key, val = param.split("=")
                         if key.lower() == "blend":
                             blend = float(val)
-                            index -= 1
                 name = scene + "_" + str(index) + "_" + actor + ".txt"
                 if blend:
                     blends[lastName] = (name, blend)
