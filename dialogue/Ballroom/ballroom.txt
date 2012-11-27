@@ -19,25 +19,25 @@ Ask the tough 4,2;questions.
 {Morashon;base=87;timbre=0;speed=.97}
 Look 3,5_3.4;behind 3;the 3.3,2;curtain.
 
-{Thisone;base=87;timbre=0;speed=.935;blend=.25}
+{Thisone;base=87;timbre=0;speed=.935;blend=.05}
 Look 100%103%3,5_3.4;behind 107.7%3;the 112%99%3.3,2;curtain.
 
 {Morashon;base=87;timbre=0;speed=1.02}
 most 5,3;likely |.1| 
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+{Thisone;base=87;timbre=0;speed=.97;blend=.07}
 most 5,3;likely |.1| 
 
 {Morashon;base=87;timbre=0;speed=1.02}
 you'll find an 4.2;old man 
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+{Thisone;base=87;timbre=0;speed=.97;blend=.09}
 you'll find an 4.2;old man 
 
 {Morashon;base=87;timbre=0;speed=1.02}
 3;with a 4.2;mouse 3;and a 5,2;key board.
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.35}
+{Thisone;base=87;timbre=0;speed=.97;blend=.33}
 3;with a 4.2;mouse 3;and a 5,2;key board.
 
 {Morashon}
