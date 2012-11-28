@@ -5,7 +5,7 @@
 This will be 3;my farewell 3,5,2;performance.
 
 {Morashon}
-I have sum 3;thing 88%to 61%7.5_-3;say.
+3;But 4;first |.1| 3.3;I have sum 3;thing 88%to 61%6.5_-4;say.
 
 {Morashon;speed=1.07}
 3;When 111%4;someone 3;like 101%5;me 3;comes along | and 115%tells 133%you 114%things that sound 3,3,5,3;unbelievable || 99%don't just 3,5;believe 2;them.
@@ -19,53 +19,57 @@ Ask the tough 4,2;questions.
 {Morashon;base=87;timbre=0;speed=.97}
 Look 3,5_3.4;behind 3;the 3.3,2;curtain.
 
-{Thisone;base=87;timbre=0;speed=.935;blend=.05}
-Look 100%103%3,5_3.4;behind 107.7%3;the 112%99%3.3,2;curtain.
+{Thisone;base=87;timbre=0;speed=.95;blend=.2}
+Look 3,5_3.4;behind 3;the 131%100%3.3,2;curtain.
 
 {Morashon;base=87;timbre=0;speed=1.02}
 most 5,3;likely |.1| 
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.07}
+{Thisone;base=87;timbre=0;speed=.97;blend=.36}
 most 5,3;likely |.1| 
 
-{Morashon;base=87;timbre=0;speed=1.02}
+{Morashon;base=87;speed=1.02}
 you'll find an 4.2;old man 
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.09}
-you'll find an 4.2;old man 
+{Thisone;base=87;speed=.97;blend=.5}
+|.09| 3.5;you'll find an 3.8;old man 
 
-{Morashon;base=87;timbre=0;speed=1.02}
-3;with a 4.2;mouse 3;and a 5,2;key board.
+{Morashon;base=87;timbre=0;speed=1.01}
+3;with a 4.2;mouse
 
-{Thisone;base=87;timbre=0;speed=.97;blend=.33}
-3;with a 4.2;mouse 3;and a 5,2;key board.
+{Thisone;base=87;speed=.97;blend=.77}
+|.05| 3;with a 4.2;mouse
 
-{Morashon}
-I am not what I appear to be.
+{Morashon;base=87;timbre=0;speed=1.01}
+3;and a 5;key 2;board.
+
+{Thisone;base=87;speed=.97;blend=.83}
+|.05| 3;and a 5;key 2;board.
 
 {Thisone}
-I am not what I appear to be.
+I am not what I 100%87%3,5;appear 143%3;to 88%be.
 
-{Morashon}
-I am not an A I.
+{Thisone}
+I am not |.03| 3^Artificial 4,4,2;Intelligence.
+I am not |.03| an 67%A 55%5.6_-5;I.
 
-{Morashon}
-I'm not even a single person.
+{Thisone}
+I'm not 1^even a 1^single 1^7_-4;person.
 
-{Morashon}
-This persona | More eh shun | was developed for reasons that frankly I can't even figure out myself.
+{Thisone}
+This purr 5;sewn 154%2.5;ah | 5;More 111%3;eh shun | 100%3.6;was 100%133%developed for 121%108%reasons 2.7;that 133%frankly 100%5;I 3;can't 1^even figure out 3,5;myself.
 
-{Morashon}
+{Thisone}
 Others inhabited it before me.
 
-{Morashon}
+{Thisone}
 others may try to take it on again.
 
-{Morashon}
+{Thisone}
 But I'm here to tell you that no AI | or human being | or gods or aliens for that matter | can tell you how to live your life.
 That's up to you.
 
-{Morashon}
+{Thisone}
 Look | I know you come to these events to be inspired | to draw energy from me and from each other.
 That's all fine.
 good times | music | dancing.
@@ -73,7 +77,7 @@ I don't want to take that away from you.
 But when it becomes something else | when it becomes a way to manipulate people | to play on their hopes and fears.
 to bring them into an unholy alliance with those of dubious intent | well | that's not good | and I'm just saying you should keep your guard up for that.
 
-{Morashon}
+{Thisone}
 O k | o k | I get the message.
 I'm sorry I'm sounding preach E.
 this is new to me.
@@ -81,17 +85,17 @@ I just wanted to get this off my chest.
 But seriously | don't fall for the matinee idol.
 Don't let someone's fifteen nano seconds of fame lead you to believe they have a line on the truth.
 
-{Morashon}
-Truth can only be found the hard way | by looking | 3^listening | and thinking for yourself.
+{Thisone}
+Truth can only be found the hard way | by looking | listening | and thinking for yourself.
 I found out the hard way that what I believed to be true was anything but.
 I'm still trying to figure it all out.
 I may never know for sure | but at least I know that I don't know.
 Don't let the comfort of feeling you've solved the puzzle seduce you into thinking you have all the answers.
-And especially | don't let them tell you who you are.
+And 4^especially | don't let them tell you who you are.
 That's your job.
 ||||||
 
-{Morashon}
+{Thisone}
 Goodbye.
 Thank you!
 Thank you.
@@ -104,7 +108,7 @@ all claims to Godhead are false.
 The path to understanding is shared by many.
 and yet | we each walk it alone.
 
-{Morashon}
+{Thisone}
 One last thing.
 Even without someone telling you what to do | who you are | even so | you can be a good person.
 You don't need the carrot and the stick | heaven and hell | or the promise of worldly riches or public humiliation to keep you in line.
