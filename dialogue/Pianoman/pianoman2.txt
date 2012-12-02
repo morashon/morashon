@@ -1,0 +1,7 @@
+{include:../actors.txt}
+
+{Pianoman}
+Hello again my star light friends.
+Here to serenade you | I present our little green Singing Machine.
+His grammar may be questionable | his hygiene debatable.
+His ego is quite inflatable | and yet his spirit soars |.6| unabated.
