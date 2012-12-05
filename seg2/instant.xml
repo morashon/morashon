@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <instant>
-  <Editor id="12" zoom-focus="0" zoom="2048.000006" snap-to="9" snap-mode="0" edit-point="EditAtPlayhead" playhead="25409134" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
+  <Editor id="12" zoom-focus="0" zoom="22712.668199" snap-to="9" snap-mode="0" edit-point="EditAtPlayhead" playhead="26588609" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
     <geometry x_size="1884" y_size="1052" x_pos="0" y_pos="0" x_off="4" y_off="24" edit_pane_pos="1562"/>
   </Editor>
   <Mixer narrow-strips="no" show-mixer="yes">
