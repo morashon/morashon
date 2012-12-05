@@ -1,12 +1,12 @@
 {include:../actors.txt}
 
-{Morashon;speed=1.13}
+{Morashon;speed=1.23}
 70%4_5;Ann 66%5;I |0.2| 90%3;Ann 55%1_-6;I.
-||
+|
 90%2;my 100%1_5;life | 90%4;my 60%2_-9;love!
-||
+|.4|
 2.7;How  110%66%2,4.7_3;divine 92%1.5;of 110%2.2;you 90%to 77%2.5_-6;come.
-||
+|.3|
 110%1.5_1.5;You are 99%89%3_3.5,5;fetching 2.7;as 110%80%4,2;always.
 
 {Annai}

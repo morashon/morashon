@@ -162,7 +162,7 @@ def main(scene):
                     f = fil
                     if fil in blends:
                         f = fil2
-                    cmd = "mplayer " + f[:-4] + ".wav"
+                    cmd = "mplayer " + (("-af pan=2:0.5:0.5 -ao " + MPDRIVER) if MPDRIVER else "") + " " + f[:-4] + ".wav"
                     print cmd
                     os.system(cmd)
         else:
@@ -235,6 +235,7 @@ PLAY = False
 WATCH = False
 BUILD = False
 NOBUILD = False
+MPDRIVER = False
 PAD = 0
 
 for e in sys.argv[1:]:
