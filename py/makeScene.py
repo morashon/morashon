@@ -200,6 +200,8 @@ def main(scene):
                     else:
                         someAudio = True
                     cmd += fil[:-4] + ".wav "
+                    if PAD:
+                        cmd += "pad.wav "
                 cmd += scene + "_" + actor + ".wav"
                 if someAudio:
                     print cmd
