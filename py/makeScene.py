@@ -209,7 +209,7 @@ def main(scene):
         print errors, "errors encountered -- will not rebuild master"
     else:
         if PLAY:
-            cmd = "mplayer " + scene + ".wav"
+            cmd = "mplayer " + (("-af pan=2:0.5:0.5 -ao " + MPDRIVER) if MPDRIVER else "") + " " + scene + ".wav"
             if type(PLAY) == type(0):
                 cmd += " -ss " + str(PLAY)
             print cmd
@@ -255,7 +255,7 @@ for e in sys.argv[1:]:
             globals()[opt[2:].upper()] = val
     else:
         scene = e
-print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY, "WATCH:", WATCH
+print "BUILDJUST:", BUILDJUST, "CHANGES:", CHANGES, "PLAY:", PLAY, "WATCH:", WATCH, "MPDRIVER:", MPDRIVER
 
 if WATCH:
     t = time.time()
