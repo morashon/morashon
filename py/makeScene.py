@@ -189,6 +189,7 @@ def main(scene):
 
         if BUILDPARTS:
             print "Building parts for each actor"
+            partfiles = []
             for actor in actors:
                 someAudio = False
                 cmd = "sox "
@@ -204,8 +205,15 @@ def main(scene):
                         cmd += "pad.wav "
                 cmd += scene + "_" + actor + ".wav"
                 if someAudio:
+                    partfiles.append(scene + "_" + actor + ".wav")
                     print cmd
                     os.system(cmd)
+            cmd = "sox -D -M "
+            for p in partfiles:
+                cmd += p + " "
+            cmd += scene + "_" + "merge.wav"
+            print cmd
+            os.system(cmd)
 
     if errors:
         print errors, "errors encountered -- will not rebuild master"
