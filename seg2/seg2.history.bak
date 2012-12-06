@@ -1,991 +1,674 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <UndoHistory>
-  <UndoTransaction tv_sec="1354703611" tv_usec="45501752" name="add automation event to blend">
-    <MementoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
+  <UndoTransaction tv_sec="1354765679" tv_usec="19860792" name="mute change">
+    <MementoCommand obj_id="1603" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="1610">
+        <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.229699566960" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="no">
+            <Output x="0" y="0"/>
+            <Output x="1" y="0"/>
+            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1615" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1614"/>
+            </StreamPanner>
+            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1618" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1617"/>
+            </StreamPanner>
+          </Panner>
+          <controllable name="gaincontrol" id="1604"/>
+          <Automation>
+            <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+              <events>24490844 0.218473970890045
+26442577 0.237179979681969
+26680405 0.0818576887249947
+32670634 0.0818576887249947
+35904622 0.0918119847774506
+36198621 0.0562294758856297
+45533088 0.0562294758856297
+45937336 0.0363978743553162
+49235968 0.0331285744905472
+49754112 0.0141691062599421
+49973248 0
+50351440 0
+</events>
+            </AutomationList>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="1607"/>
+        <controllable name="mute" id="1608"/>
+        <remote_control id="3"/>
+        <extra>
+          <GUI color="47508:38170:2174" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="204"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5243"/>
+      </Route>
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="1610">
+        <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.229699566960" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="no">
+            <Output x="0" y="0"/>
+            <Output x="1" y="0"/>
+            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1615" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1614"/>
+            </StreamPanner>
+            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1618" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1617"/>
+            </StreamPanner>
+          </Panner>
+          <controllable name="gaincontrol" id="1604"/>
+          <Automation>
+            <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+              <events>24490844 0.218473970890045
+26442577 0.237179979681969
+26680405 0.0818576887249947
+32670634 0.0818576887249947
+35904622 0.0918119847774506
+36198621 0.0562294758856297
+45533088 0.0562294758856297
+45937336 0.0363978743553162
+49235968 0.0331285744905472
+49754112 0.0141691062599421
+49973248 0
+50351440 0
+</events>
+            </AutomationList>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="1607"/>
+        <controllable name="mute" id="1608"/>
+        <remote_control id="3"/>
+        <extra>
+          <GUI color="47508:38170:2174" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="204"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5243"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354765683" tv_usec="19860792" name="mute change">
+    <MementoCommand obj_id="1603" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="1610">
+        <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.229699566960" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="no">
+            <Output x="0" y="0"/>
+            <Output x="1" y="0"/>
+            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1615" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1614"/>
+            </StreamPanner>
+            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1618" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1617"/>
+            </StreamPanner>
+          </Panner>
+          <controllable name="gaincontrol" id="1604"/>
+          <Automation>
+            <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+              <events>24490844 0.218473970890045
+26442577 0.237179979681969
+26680405 0.0818576887249947
+32670634 0.0818576887249947
+35904622 0.0918119847774506
+36198621 0.0562294758856297
+45533088 0.0562294758856297
+45937336 0.0363978743553162
+49235968 0.0331285744905472
+49754112 0.0141691062599421
+49973248 0
+50351440 0
+</events>
+            </AutomationList>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="1607"/>
+        <controllable name="mute" id="1608"/>
+        <remote_control id="3"/>
+        <extra>
+          <GUI color="47508:38170:2174" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="204"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5243"/>
+      </Route>
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="1610">
+        <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.229699566960" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="no">
+            <Output x="0" y="0"/>
+            <Output x="1" y="0"/>
+            <StreamPanner x="0" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1615" default="0" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1614"/>
+            </StreamPanner>
+            <StreamPanner x="1" type="Equal Power Stereo" muted="no">
+              <Automation>
+                <AutomationList id="1618" default="1" min_yval="0" max_yval="1" max_xval="0" state="Off" style="Absolute"/>
+              </Automation>
+              <controllable name="panner" id="1617"/>
+            </StreamPanner>
+          </Panner>
+          <controllable name="gaincontrol" id="1604"/>
+          <Automation>
+            <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+              <events>24490844 0.218473970890045
+26442577 0.237179979681969
+26680405 0.0818576887249947
+32670634 0.0818576887249947
+35904622 0.0918119847774506
+36198621 0.0562294758856297
+45533088 0.0562294758856297
+45937336 0.0363978743553162
+49235968 0.0331285744905472
+49754112 0.0141691062599421
+49973248 0
+50351440 0
+</events>
+            </AutomationList>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="1607"/>
+        <controllable name="mute" id="1608"/>
+        <remote_control id="3"/>
+        <extra>
+          <GUI color="47508:38170:2174" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="204"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5243"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766593" tv_usec="19860792" name="cut objects">
+    <MementoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="1683" name="ambient_7a814b.1" start="607282" length="26256289" position="24214220" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="1594" source-1="1596" channels="2" master-source-0="1594" master-source-1="1596">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766600" tv_usec="19860792" name="cut objects">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>24490844 0.218473970890045
+26442577 0.237179979681969
+26680405 0.0818576887249947
+32670634 0.0818576887249947
+35904622 0.0918119847774506
+36198621 0.0562294758856297
+45533088 0.0562294758856297
+45937336 0.0363978743553162
+49235968 0.0331285744905472
+49754112 0.0141691062599421
+49973248 0
+50351440 0
 </events>
       </AutomationList>
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>49754112 0.0141691062599421
+49973248 0
+50351440 0
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703613" tv_usec="45501752" name="add automation event to blend">
-    <MementoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
+  <UndoTransaction tv_sec="1354766601" tv_usec="19860792" name="cut objects">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>49754112 0.0141691062599421
+49973248 0
+50351440 0
 </events>
       </AutomationList>
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766614" tv_usec="19860792" name="region drag">
+    <MementoUndoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no"/>
+    </MementoUndoCommand>
+    <MementoUndoCommand obj_id="6593" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="give_instr" orig_diskstream_id="6273" frozen="no">
+        <Region id="6292" name="give_instr" start="0" length="15194792" position="0" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="name" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="6318" name="give_instr" start="0" length="15194792" position="24260715" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+    <MementoRedoCommand obj_id="6593" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="give_instr" orig_diskstream_id="6273" frozen="no"/>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766621" tv_usec="19860792" name="region drag">
+    <MementoUndoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="6318" name="give_instr" start="0" length="15194792" position="24260715" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="6318" name="give_instr" start="0" length="15194792" position="23963402" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="id" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766633" tv_usec="19860792" name="add gain automation event">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute"/>
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23249852 0.116762302815914
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703614" tv_usec="45501752" name="add automation event to blend">
-    <MementoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
+  <UndoTransaction tv_sec="1354766638" tv_usec="19860792" name="automation event move">
+    <MementoUndoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23249852 0.116762302815914
 </events>
       </AutomationList>
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56013369 0.0287356321839081
+    </MementoUndoCommand>
+    <MementoRedoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+</events>
+      </AutomationList>
+    </MementoRedoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766641" tv_usec="19860792" name="add gain automation event">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+</events>
+      </AutomationList>
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24022865 0.437484234571457
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703616" tv_usec="45501752" name="automation event move">
-    <MementoUndoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56013369 0.0287356321839081
+  <UndoTransaction tv_sec="1354766646" tv_usec="19860792" name="automation event move">
+    <MementoUndoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24022865 0.437484234571457
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
+    <MementoRedoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24082328 0.165519997477531
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703662" tv_usec="45501752" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59938803 1.46518838405609
+  <UndoTransaction tv_sec="1354766704" tv_usec="19860792" name="mute change">
+    <MementoCommand obj_id="3195" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766728" tv_usec="19860792" name="automation event move">
+    <MementoUndoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24082328 0.165519997477531
 </events>
       </AutomationList>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59938803 1.21766233444214
+    <MementoRedoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24022865 0.0784622430801392
 </events>
       </AutomationList>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703665" tv_usec="45501752" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59938803 1.21766233444214
+  <UndoTransaction tv_sec="1354766734" tv_usec="19860792" name="mute change">
+    <MementoCommand obj_id="3195" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766804" tv_usec="19860792" name="mute change">
+    <MementoCommand obj_id="3195" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" shown_mixer="yes" height="70" strip_width="Wide" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="5905"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354766908" tv_usec="19860792" name="cut range">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23428240 0.000950189074501395
+24022865 0.0784622430801392
 </events>
       </AutomationList>
+      <AutomationList id="1605" default="1" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute"/>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354767051" tv_usec="219303" name="mute change">
+    <MementoCommand obj_id="3195" type_name="N6ARDOUR10AudioTrackE">
+      <Route default-type="audio" muted="yes" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" strip_width="Wide" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="6674"/>
+      </Route>
+      <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
+        <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
+          <Panner linked="no" link_direction="SameDirection" bypassed="yes">
+            <Output x="0.5" y="0"/>
+            <Output x="0" y="1"/>
+            <Output x="1" y="1"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+            <StreamPanner x="0.5" y="0.5" type="Multiple (2D)"/>
+          </Panner>
+          <controllable name="gaincontrol" id="3196"/>
+          <Automation>
+            <AutomationList id="3197" default="0.985882937908" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+          </Automation>
+        </IO>
+        <controllable name="solo" id="3199"/>
+        <controllable name="mute" id="3200"/>
+        <remote_control id="6"/>
+        <extra>
+          <GUI color="25746:6747:37301" strip_width="Wide" shown_mixer="yes" height="70" shown_editor="yes">
+            <gain shown="yes" height="70"/>
+            <pan shown="no" height="70"/>
+          </GUI>
+        </extra>
+        <alignment style="ExistingMaterial"/>
+        <controllable name="recenable" id="6674"/>
+      </Route>
+    </MementoCommand>
+  </UndoTransaction>
+  <UndoTransaction tv_sec="1354767076" tv_usec="640222" name="region drag">
+    <MementoUndoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="6318" name="give_instr" start="0" length="15194792" position="23963402" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
     </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
+    <MementoRedoCommand obj_id="6526" type_name="N6ARDOUR13AudioPlaylistE">
+      <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
+        <Region id="6318" name="give_instr" start="0" length="15194792" position="23666089" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
+          <FadeIn default="yes" active="yes"/>
+          <FadeOut default="yes" active="yes"/>
+          <Envelope default="yes"/>
+          <extra>
+            <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
+          </extra>
+        </Region>
+      </Playlist>
     </MementoRedoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703698" tv_usec="45501752" name="automation range drag">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703700" tv_usec="45501752" name="automation range drag">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703701" tv_usec="45501752" name="automation range drag">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703702" tv_usec="45501752" name="automation range drag">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703703" tv_usec="45501752" name="add gain automation event">
-    <MementoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58971704 1.01399540901184
-59947479 1.33748590946198
+  <UndoTransaction tv_sec="1354767088" tv_usec="275601" name="add gain automation event">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute"/>
+      <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Off" style="Absolute">
+        <events>23487702 0.016928356140852
 </events>
       </AutomationList>
     </MementoCommand>
   </UndoTransaction>
-  <UndoTransaction tv_sec="1354703706" tv_usec="45501752" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58971704 1.01399540901184
-59947479 1.33748590946198
+  <UndoTransaction tv_sec="1354767094" tv_usec="178590" name="add gain automation event">
+    <MementoCommand obj_id="1605" type_name="N6ARDOUR5CurveE">
+      <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23487702 0.016928356140852
 </events>
       </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.35394275188446
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703710" tv_usec="45501752" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.35394275188446
-59947479 1.33748590946198
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.35394275188446
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703993" tv_usec="240545" name="automation event move">
-    <MementoUndoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52057356 0.235632183908046
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52034723 0.189655169844627
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354703995" tv_usec="448305" name="automation event move">
-    <MementoUndoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51124529 0.166666641831398
-52034723 0.189655169844627
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51148929 0.149425268173218
-52034723 0.189655169844627
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354704023" tv_usec="47262" name="automation event move">
-    <MementoUndoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51148929 0.149425268173218
-52034723 0.189655169844627
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51148929 0.149425268173218
-51943872 0.160919532179832
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354704059" tv_usec="341231" name="cut objects">
-    <MementoCommand obj_id="405" type_name="N6ARDOUR14AutomationListE">
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
-51115853 0
-51148929 0.149425268173218
-51943872 0.160919532179832
-52404375 0.120689655172414
-52924903 0.0344827586206896
-53081061 0
-53523510 0
-54386504 0
-54525312 0.143678158521652
-55466815 0.149425287356322
-55822509 0.120689655172414
-56008817 0
-</events>
-      </AutomationList>
-      <AutomationList id="405" default="0.286082476377" min_yval="1.17549435082e-38" max_yval="3.40282346639e+38" max_xval="0" state="Touch" style="Absolute">
-        <events>147456 0.286082476377487
-155648 0.286082476377487
-176127 0.300368189811707
-220499 0.300368189811707
-257249 0.300368189811707
-24365163 0.289815127849579
-24520811 0.0850515365600586
-24524907 0
-24541291 0
+      <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
+        <events>23487702 0.016928356140852
+25568891 0.0784622356295586
 </events>
       </AutomationList>
     </MementoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354704206" tv_usec="664584" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.35394275188446
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.29254591464996
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354704221" tv_usec="640052" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58967151 1.29254591464996
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58939374 1.06603264808655
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
-  </UndoTransaction>
-  <UndoTransaction tv_sec="1354704229" tv_usec="567672" name="automation event move">
-    <MementoUndoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58939374 1.06603264808655
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoUndoCommand>
-    <MementoRedoCommand obj_id="135" type_name="N6ARDOUR5CurveE">
-      <AutomationList id="135" default="0.335153371096" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-        <events>3314 0.915185332298279
-1259219 0.299604952335358
-6206697 0.218473970890045
-7088786 0.126286596059799
-14649671 0.184040427207947
-15649028 0.299604952335358
-17170777 0.322614103555679
-17375191 0.237179979681969
-17693169 0.237179979681969
-19873585 0.25691756606102
-21758736 0.1139991953969
-22509689 0.102516770362854
-23757451 0.0260499883443117
-24109124 0
-49434624 0
-49785534 0.139406621456146
-50531124 1.01399540901184
-58939374 1.11987113952637
-59912777 0.034901537001133
-</events>
-      </AutomationList>
-    </MementoRedoCommand>
   </UndoTransaction>
 </UndoHistory>
