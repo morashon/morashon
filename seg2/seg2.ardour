@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Session version="2.0.0" name="seg2" sample-rate="44100" id-counter="7045">
+<Session version="2.0.0" name="seg2" sample-rate="44100" id-counter="7740">
   <Config>
     <Option name="output-auto-connect" value="2"/>
     <Option name="input-auto-connect" value="1"/>
@@ -178,7 +178,7 @@
       </extra>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=1:signal=1" mode="Normal" diskstream-id="140">
-      <IO name="Music1" id="133" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.000000000000" iolimits="1,-1,-1,-1">
+      <IO name="Music1" id="133" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.186289668083" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -296,10 +296,10 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6619"/>
+      <controllable name="recenable" id="7267"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=2:signal=2" mode="Normal" diskstream-id="1610">
-      <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.078462235630" iolimits="1,-1,-1,-1">
+      <IO name="Music2" id="1603" active="yes" inputs="{system:capture_1}{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.227420017123" iolimits="1,-1,-1,-1">
         <Panner linked="no" link_direction="SameDirection" bypassed="no">
           <Output x="0" y="0"/>
           <Output x="1" y="0"/>
@@ -318,11 +318,7 @@
         </Panner>
         <controllable name="gaincontrol" id="1604"/>
         <Automation>
-          <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute">
-            <events>23487702 0.016928356140852
-25568891 0.0784622356295586
-</events>
-          </AutomationList>
+          <AutomationList id="1605" default="0.227420017123" min_yval="0" max_yval="2" max_xval="0" state="Play" style="Absolute"/>
         </Automation>
       </IO>
       <controllable name="solo" id="1607"/>
@@ -386,7 +382,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6632"/>
+      <controllable name="recenable" id="7280"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=3:signal=3" mode="Normal" diskstream-id="726">
       <IO name="Annai" id="719" active="yes" inputs="{system:capture_2}" outputs="{master/in 1}{master/in 2}" gain="0.766231417656" iolimits="1,-1,-1,-1">
@@ -457,7 +453,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6645"/>
+      <controllable name="recenable" id="7293"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=4:signal=4" mode="Normal" diskstream-id="775">
       <IO name="Thisone" id="768" active="yes" inputs="{system:capture_1}" outputs="{master/in 1}{master/in 2}" gain="0.944349944592" iolimits="1,-1,-1,-1">
@@ -528,7 +524,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6658"/>
+      <controllable name="recenable" id="7306"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=5:signal=5" mode="Normal" diskstream-id="3202">
       <IO name="AnnThisMor" id="3195" active="yes" inputs="{system:capture_1}{system:capture_2}{}" outputs="{Bus 1/in 1}{Bus 2/in 1}{Bus 3/in 1}" gain="0.985882937908" iolimits="1,-1,-1,-1">
@@ -555,7 +551,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6674"/>
+      <controllable name="recenable" id="7322"/>
     </Route>
     <Route default-type="audio" muted="no" soloed="no" phase-invert="no" denormal-protection="no" mute-affects-pre-fader="yes" mute-affects-post-fader="yes" mute-affects-control-outs="yes" mute-affects-main-outs="yes" meter-point="MeterPostFader" order-keys="editor=6:signal=6">
       <IO name="Bus 1" id="3244" active="yes" inputs="{AnnThisMor/out 1}" outputs="{master/in 1}{master/in 2}" gain="0.494633793831" iolimits="-1,-1,-1,-1">
@@ -906,7 +902,7 @@
         </GUI>
       </extra>
       <alignment style="ExistingMaterial"/>
-      <controllable name="recenable" id="6723"/>
+      <controllable name="recenable" id="7371"/>
     </Route>
   </Routes>
   <EditGroups/>
@@ -930,16 +926,6 @@
         </extra>
       </Region>
       <Region id="942" name="lounge2_Annai.4" start="16595765" length="7148855" position="16959000" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="2" sync-position="16595765" flags="Opaque,DefaultFadeIn,DefaultFadeOut,FadeIn,FadeOut,External" scale-gain="1" source-0="712" channels="1" master-source-0="712">
-        <FadeIn default="yes" active="yes"/>
-        <FadeOut default="yes" active="yes"/>
-        <Envelope default="yes"/>
-        <extra>
-          <GUI waveform-visible="yes" envelope-visible="no" waveform-rectified="no" waveform-logscaled="no"/>
-        </extra>
-      </Region>
-    </Playlist>
-    <Playlist name="Music2" orig_diskstream_id="1610" frozen="no">
-      <Region id="6318" name="give_instr" start="0" length="15194792" position="23666089" ancestral-start="0" ancestral-length="0" stretch="1" shift="1" first_edit="nothing" layer="0" sync-position="0" flags="Opaque,DefaultFadeIn,DefaultFadeOut,WholeFile,FadeIn,FadeOut,External" scale-gain="1" source-0="6257" source-1="6259" channels="2" master-source-0="6257" master-source-1="6259">
         <FadeIn default="yes" active="yes"/>
         <FadeOut default="yes" active="yes"/>
         <Envelope default="yes"/>
