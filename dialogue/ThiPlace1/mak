@@ -1,2 +1,2 @@
 #!/bin/bash
-../../py/makeScene.py thiplace1.txt $1 $2 $3 $4 $5
+../../py/makeScene.py thiplace1.txt --pad=0.2 $1 $2 $3 $4 $5
