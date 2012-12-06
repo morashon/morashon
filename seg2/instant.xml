@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<instant>
-  <Editor id="12" zoom-focus="0" zoom="96212.406660" snap-to="9" snap-mode="0" edit-point="EditAtPlayhead" playhead="0" show-waveforms="yes" show-waveforms-rectified="no" show-waveforms-recording="yes" show-measures="yes" follow-playhead="yes" stationary-playhead="no" xfades-visible="yes" region-list-sort-type="ByEndInFile" mouse-mode="MouseObject" show-editor-mixer="no">
-    <geometry x_size="1884" y_size="1052" x_pos="0" y_pos="0" x_off="4" y_off="24" edit_pane_pos="1562"/>
-  </Editor>
-  <Mixer narrow-strips="no" show-mixer="yes">
-    <geometry x_size="1711" y_size="928" x_pos="173" y_pos="65" x_off="0" y_off="0" mixer_rhs_pane1_pos="261" mixer_list_hpane_pos="300"/>
-  </Mixer>
-</instant>
