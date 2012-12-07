@@ -11,7 +11,7 @@ combine wavs into master wav
 
 """
 import sys, os, time
-from ordereddict import OrderedDict
+from collections import OrderedDict
 from findPy import *
 from kbhit_safe import *
 
