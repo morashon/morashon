@@ -1,2 +1,2 @@
 #!/bin/bash
-../../py/makeScene.py vip2.txt --pad=.36 $1 $2 $3 $4 $5 $6 $7 $8 $9
+../../py/makeScene.py vip2.txt --pad=.315 $1 $2 $3 $4 $5 $6 $7 $8 $9
