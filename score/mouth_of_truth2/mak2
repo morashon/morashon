@@ -1,0 +1,3 @@
+#!/bin/bash
+python ../../py/rg2vox.py mouth2.rg harm $1 ogi_as_diphone+ogi_tll_diphone
+ 
