@@ -1,0 +1,9 @@
+#!/bin/bash
+./mak v1
+./mak v1bL
+./mak c1L
+./mak v2
+./mak v2bL
+./mak c2a
+./mak c2b
+
