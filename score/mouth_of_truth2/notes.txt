@@ -1,1 +1,1 @@
-voice first pass:  rg2vox.py mouth2.rg voxx c2a ogi_rab_diphone/2+kal_diphone/1.5+ogi_jph_diphone/5+ogi_as_diphone/6
+see mak
