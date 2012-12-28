@@ -1,2 +1,2 @@
 #!/bin/bash
-../../py/makeScene.py salon3.txt $1 $2 $3 $4 $5
+../../py/makeScene.py salon3.txt --pad=.18 $1 $2 $3 $4 $5

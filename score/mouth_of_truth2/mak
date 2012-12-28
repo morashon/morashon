@@ -1,0 +1,3 @@
+#!/bin/bash
+python ../../py/rg2vox.py mouth2.rg voxx $1 ogi_aec_diphone/4+ogi_rab_diphone/1.25+kal_diphone/2+ogi_as_diphone/5.5
+ 
