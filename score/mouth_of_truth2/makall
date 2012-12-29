@@ -7,3 +7,10 @@
 ./mak c2a
 ./mak c2b
 ./mak c2c
+./mak2 hv2
+./mak2 hc2a
+./mak2 hc2b
+./mak2 hc2c
+./mak3 hc2a
+./mak3 hc2b
+./mak3 hc2c

@@ -1,5 +1,0 @@
-#!/bin/bash
-./mak2 hv2
-./mak2 hc2a
-./mak2 hc2b
-./mak2 hc2c
