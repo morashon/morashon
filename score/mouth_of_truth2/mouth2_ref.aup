@@ -1,0 +1,796 @@
+<?xml version="1.0" standalone="no" ?>
+<!DOCTYPE project PUBLIC "-//audacityproject-1.3.0//DTD//EN" "http://audacity.sourceforge.net/xml/audacityproject-1.3.0.dtd" >
+<project xmlns="http://audacity.sourceforge.net/xml/" projname="mouth2_ref_data" version="1.3.0" audacityversion="2.0.0" sel0="109.7291255212" sel1="109.7291255212" vpos="224" h="223.4566943713" zoom="59.2732298187" rate="44100.0">
+	<tags/>
+	<wavetrack name="mouth2_ref" channel="0" linked="1" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10332840">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e00006dd.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="0" aliaslen="262144" aliaschannel="0" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000434.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="262144" aliaslen="262144" aliaschannel="0" min="-0.028249" max="0.02608" rms="0.000604"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e00002c8.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="524288" aliaslen="262144" aliaschannel="0" min="-0.17308" max="0.195316" rms="0.027028"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e00002d3.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="786432" aliaslen="262144" aliaschannel="0" min="-0.221437" max="0.243748" rms="0.028983"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e00004e9.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="0" min="-0.292127" max="0.279338" rms="0.046767"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e0000021.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="0" min="-0.332331" max="0.294716" rms="0.048433"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e0000ac6.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="0" min="-0.394695" max="0.308985" rms="0.049342"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e00004a3.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="0" min="-0.283072" max="0.291603" rms="0.037405"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e0000001.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="0" min="-0.384147" max="0.409896" rms="0.042974"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e000092a.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="0" min="-0.274769" max="0.244699" rms="0.040382"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e000053c.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="0" min="-0.279983" max="0.268039" rms="0.042456"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0000a31.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="0" min="-0.381124" max="0.396035" rms="0.052641"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0000761.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="0" min="-0.296454" max="0.386102" rms="0.051406"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0000729.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="0" min="-0.433582" max="0.409673" rms="0.052368"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0000f89.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="0" min="-0.69696" max="0.797083" rms="0.072272"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0000cee.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="0" min="-0.53259" max="0.462606" rms="0.06915"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0000713.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="0" min="-0.525679" max="0.628174" rms="0.080409"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e000038c.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="0" min="-0.479734" max="0.48719" rms="0.067205"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e0000f08.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="0" min="-0.541363" max="0.555878" rms="0.075555"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e0000945.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="0" min="-0.460637" max="0.47068" rms="0.073513"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e00006b0.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="0" min="-0.463752" max="0.492177" rms="0.077183"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0000611.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="0" min="-0.480985" max="0.598981" rms="0.075102"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0000a29.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="0" min="-0.607783" max="0.539606" rms="0.081323"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e000098e.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="0" min="-0.537073" max="0.645105" rms="0.089806"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e0000044.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="0" min="-0.580995" max="0.643426" rms="0.095306"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e000089a.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="0" min="-0.704872" max="0.712803" rms="0.130828"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e000033b.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="0" min="-0.614343" max="0.663001" rms="0.113728"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0000f83.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="0" min="-0.700834" max="0.647494" rms="0.101251"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e0000b0e.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="0" min="-0.620347" max="0.786206" rms="0.092689"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0000315.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="0" min="-0.500173" max="0.50357" rms="0.088803"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0000671.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="0" min="-0.551824" max="0.704671" rms="0.096968"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e00000ff.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="0" min="-0.397756" max="0.405468" rms="0.077787"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e0000126.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="0" min="-0.485278" max="0.476128" rms="0.078256"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e000002f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="0" min="-0.40194" max="0.451546" rms="0.081431"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e00000a7.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="0" min="-0.616475" max="0.631781" rms="0.09566"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e000019c.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="0" min="-0.458" max="0.601605" rms="0.088731"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0000a32.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="0" min="-0.624377" max="0.656127" rms="0.095876"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e0000438.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="0" min="-0.655241" max="0.725948" rms="0.111386"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0000ca1.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="0" min="-0.39522" max="0.448392" rms="0.089342"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e000052c.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="10223616" aliaslen="109224" aliaschannel="0" min="-0.001912" max="0.002553" rms="0.000216"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="mouth2_ref" channel="1" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="0.00000000">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10332840">
+				<waveblock start="0">
+					<pcmaliasblockfile summaryfile="e000074f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="0" aliaslen="262144" aliaschannel="1" min="0.0" max="0.0" rms="0.0"/>
+				</waveblock>
+				<waveblock start="262144">
+					<pcmaliasblockfile summaryfile="e0000d25.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="262144" aliaslen="262144" aliaschannel="1" min="-0.055127" max="0.051056" rms="0.001185"/>
+				</waveblock>
+				<waveblock start="524288">
+					<pcmaliasblockfile summaryfile="e0000de6.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="524288" aliaslen="262144" aliaschannel="1" min="-0.192041" max="0.202701" rms="0.027202"/>
+				</waveblock>
+				<waveblock start="786432">
+					<pcmaliasblockfile summaryfile="e0000f69.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="786432" aliaslen="262144" aliaschannel="1" min="-0.221864" max="0.243803" rms="0.029093"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<pcmaliasblockfile summaryfile="e0000050.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1048576" aliaslen="262144" aliaschannel="1" min="-0.321823" max="0.290054" rms="0.046014"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<pcmaliasblockfile summaryfile="e000021f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1310720" aliaslen="262144" aliaschannel="1" min="-0.336083" max="0.291698" rms="0.048166"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<pcmaliasblockfile summaryfile="e00000c2.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1572864" aliaslen="262144" aliaschannel="1" min="-0.406483" max="0.322813" rms="0.047959"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<pcmaliasblockfile summaryfile="e0000817.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="1835008" aliaslen="262144" aliaschannel="1" min="-0.289004" max="0.314293" rms="0.037737"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<pcmaliasblockfile summaryfile="e000058f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2097152" aliaslen="262144" aliaschannel="1" min="-0.406599" max="0.399005" rms="0.043085"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<pcmaliasblockfile summaryfile="e0000e6f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2359296" aliaslen="262144" aliaschannel="1" min="-0.279064" max="0.234994" rms="0.040409"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<pcmaliasblockfile summaryfile="e0000082.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2621440" aliaslen="262144" aliaschannel="1" min="-0.274623" max="0.269987" rms="0.042334"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<pcmaliasblockfile summaryfile="e0000a02.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="2883584" aliaslen="262144" aliaschannel="1" min="-0.376835" max="0.423626" rms="0.053541"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<pcmaliasblockfile summaryfile="e0000841.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3145728" aliaslen="262144" aliaschannel="1" min="-0.308093" max="0.392287" rms="0.052646"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<pcmaliasblockfile summaryfile="e0000878.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3407872" aliaslen="262144" aliaschannel="1" min="-0.434522" max="0.424543" rms="0.052003"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<pcmaliasblockfile summaryfile="e0000fc3.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3670016" aliaslen="262144" aliaschannel="1" min="-0.678549" max="0.799987" rms="0.073609"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<pcmaliasblockfile summaryfile="e0000666.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="3932160" aliaslen="262144" aliaschannel="1" min="-0.54069" max="0.504473" rms="0.072095"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<pcmaliasblockfile summaryfile="e0000122.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4194304" aliaslen="262144" aliaschannel="1" min="-0.559053" max="0.672894" rms="0.08135"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<pcmaliasblockfile summaryfile="e00009dc.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4456448" aliaslen="262144" aliaschannel="1" min="-0.481075" max="0.492744" rms="0.067695"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<pcmaliasblockfile summaryfile="e000065f.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4718592" aliaslen="262144" aliaschannel="1" min="-0.583448" max="0.641724" rms="0.079455"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<pcmaliasblockfile summaryfile="e00003f2.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="4980736" aliaslen="262144" aliaschannel="1" min="-0.515975" max="0.479273" rms="0.074888"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<pcmaliasblockfile summaryfile="e0000967.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5242880" aliaslen="262144" aliaschannel="1" min="-0.464305" max="0.494787" rms="0.08017"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<pcmaliasblockfile summaryfile="e0000177.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5505024" aliaslen="262144" aliaschannel="1" min="-0.538139" max="0.615846" rms="0.076198"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<pcmaliasblockfile summaryfile="e0000ab5.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="5767168" aliaslen="262144" aliaschannel="1" min="-0.642216" max="0.595256" rms="0.082173"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<pcmaliasblockfile summaryfile="e0000a2b.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6029312" aliaslen="262144" aliaschannel="1" min="-0.574316" max="0.693906" rms="0.093289"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<pcmaliasblockfile summaryfile="e00002b8.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6291456" aliaslen="262144" aliaschannel="1" min="-0.674935" max="0.685886" rms="0.097473"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<pcmaliasblockfile summaryfile="e0000581.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6553600" aliaslen="262144" aliaschannel="1" min="-0.771054" max="0.694704" rms="0.137495"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<pcmaliasblockfile summaryfile="e00002cc.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="6815744" aliaslen="262144" aliaschannel="1" min="-0.65895" max="0.667654" rms="0.118362"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<pcmaliasblockfile summaryfile="e0000a9d.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7077888" aliaslen="262144" aliaschannel="1" min="-0.711948" max="0.650737" rms="0.105231"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<pcmaliasblockfile summaryfile="e00006ad.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7340032" aliaslen="262144" aliaschannel="1" min="-0.662042" max="0.779762" rms="0.096306"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<pcmaliasblockfile summaryfile="e0000a98.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7602176" aliaslen="262144" aliaschannel="1" min="-0.541066" max="0.496866" rms="0.091615"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<pcmaliasblockfile summaryfile="e0000003.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="7864320" aliaslen="262144" aliaschannel="1" min="-0.587925" max="0.728055" rms="0.098896"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<pcmaliasblockfile summaryfile="e0000d84.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8126464" aliaslen="262144" aliaschannel="1" min="-0.45688" max="0.450038" rms="0.080496"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<pcmaliasblockfile summaryfile="e000048b.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8388608" aliaslen="262144" aliaschannel="1" min="-0.489882" max="0.492271" rms="0.081305"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<pcmaliasblockfile summaryfile="e0000aeb.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8650752" aliaslen="262144" aliaschannel="1" min="-0.364108" max="0.435748" rms="0.082736"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<pcmaliasblockfile summaryfile="e0000421.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="8912896" aliaslen="262144" aliaschannel="1" min="-0.620566" max="0.625316" rms="0.098074"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<pcmaliasblockfile summaryfile="e0000a0e.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9175040" aliaslen="262144" aliaschannel="1" min="-0.510605" max="0.6279" rms="0.090693"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<pcmaliasblockfile summaryfile="e0000313.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9437184" aliaslen="262144" aliaschannel="1" min="-0.62282" max="0.718411" rms="0.098387"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<pcmaliasblockfile summaryfile="e00004e7.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9699328" aliaslen="262144" aliaschannel="1" min="-0.677006" max="0.767564" rms="0.114469"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<pcmaliasblockfile summaryfile="e0000e63.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="9961472" aliaslen="262144" aliaschannel="1" min="-0.453696" max="0.48075" rms="0.098437"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<pcmaliasblockfile summaryfile="e0000f5a.auf" aliasfile="/home/dbm/bench/morashon/score/mouth_of_truth2/mouth2_ref.wav" aliasstart="10223616" aliaslen="109224" aliaschannel="1" min="-0.001384" max="0.001977" rms="0.000191"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="0.316228" pan="-0.7">
+		<waveclip offset="-0.36634921">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10845184">
+				<waveblock start="0">
+					<simpleblockfile filename="e00006fe.au" len="262144" min="-1.000031" max="1.0" rms="0.135154"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000aad.au" len="262144" min="-0.859218" max="0.807855" rms="0.080274"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000296.au" len="262144" min="-0.160283" max="0.155492" rms="0.026642"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e00009cb.au" len="262144" min="-0.446333" max="0.442488" rms="0.055209"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000d33.au" len="262144" min="-0.293771" max="0.344829" rms="0.039295"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e00004d9.au" len="262144" min="-0.179266" max="0.198401" rms="0.022168"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e00000df.au" len="262144" min="-0.356792" max="0.369304" rms="0.041023"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000048.au" len="262144" min="-0.356853" max="0.373363" rms="0.046328"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000f72.au" len="262144" min="-0.537095" max="0.480392" rms="0.058634"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000750.au" len="262144" min="-0.744804" max="0.87814" rms="0.060672"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000004c.au" len="262144" min="-0.620258" max="0.656789" rms="0.089065"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e0000071.au" len="262144" min="-0.610157" max="0.781915" rms="0.080045"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e00004d5.au" len="262144" min="-0.983795" max="0.808832" rms="0.093024"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0000173.au" len="262144" min="-0.663198" max="0.517075" rms="0.063206"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e00004fd.au" len="262144" min="-1.000031" max="0.961089" rms="0.112223"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e0000c36.au" len="262144" min="-0.727714" max="0.885037" rms="0.098665"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e00001a2.au" len="262144" min="-1.000031" max="1.0" rms="0.136442"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0000fe9.au" len="262144" min="-1.000031" max="1.0" rms="0.168998"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0000cdd.au" len="262144" min="-1.000031" max="1.0" rms="0.164956"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e00005c3.au" len="262144" min="-1.000031" max="1.0" rms="0.193149"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e0000185.au" len="262144" min="-1.000031" max="1.0" rms="0.223494"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e00006ec.au" len="262144" min="-1.000031" max="1.0" rms="0.241978"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e0000ff6.au" len="262144" min="-1.000031" max="1.0" rms="0.221646"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0000498.au" len="262144" min="-1.000031" max="1.0" rms="0.211917"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e0000b25.au" len="262144" min="-1.000031" max="1.0" rms="0.161887"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e00004de.au" len="262144" min="-0.97354" max="0.986511" rms="0.164782"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e000013a.au" len="262144" min="-1.000031" max="1.0" rms="0.205797"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0000989.au" len="262144" min="-1.000031" max="1.0" rms="0.24566"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0000a0a.au" len="262144" min="-1.000031" max="1.0" rms="0.218254"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e0000094.au" len="262144" min="-1.000031" max="1.0" rms="0.189366"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e0000087.au" len="262144" min="-1.000031" max="1.0" rms="0.167311"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e00004b8.au" len="262144" min="-0.310404" max="0.284371" rms="0.047182"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e000032a.au" len="262144" min="-0.388562" max="0.262459" rms="0.047351"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e0000a53.au" len="262144" min="-1.000031" max="1.0" rms="0.152443"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e0000eea.au" len="262144" min="-1.000031" max="1.0" rms="0.239601"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e000005d.au" len="262144" min="-1.000031" max="1.0" rms="0.234107"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<simpleblockfile filename="e0000f2d.au" len="262144" min="-1.000031" max="1.0" rms="0.263533"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0000fc9.au" len="262144" min="-1.000031" max="1.0" rms="0.213006"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e00000a6.au" len="262144" min="-0.445112" max="0.445753" rms="0.049891"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<simpleblockfile filename="e0000e9f.au" len="262144" min="-0.039918" max="0.050752" rms="0.003745"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<simpleblockfile filename="e0000719.au" len="262144" min="-0.123661" max="0.136357" rms="0.010675"/>
+				</waveblock>
+				<waveblock start="10747904">
+					<simpleblockfile filename="e00000f3.au" len="97280" min="-0.023164" max="0.020753" rms="0.002581"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="0.354813" pan="0.6">
+		<waveclip offset="-0.36634921">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="10492928">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000e58.au" len="262144" min="-1.000031" max="1.0" rms="0.085913"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000293.au" len="262144" min="-1.000031" max="0.977203" rms="0.12674"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000a2a.au" len="262144" min="-1.000031" max="1.0" rms="0.104318"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e000057b.au" len="262144" min="-0.6274" max="0.771355" rms="0.058232"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000ba9.au" len="262144" min="-0.796899" max="0.828333" rms="0.075252"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e0000ef0.au" len="262144" min="-0.608936" max="0.625233" rms="0.067653"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000f95.au" len="262144" min="-0.79928" max="0.650044" rms="0.083401"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e0000db5.au" len="262144" min="-0.660756" max="0.64629" rms="0.068248"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e0000463.au" len="262144" min="-0.669362" max="0.76632" rms="0.08835"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000a8a.au" len="262144" min="-0.517289" max="0.554033" rms="0.08638"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e00005e2.au" len="262144" min="-1.000031" max="1.0" rms="0.160407"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e00000c7.au" len="262144" min="-1.000031" max="0.951933" rms="0.122315"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000b75.au" len="262144" min="-1.000031" max="1.0" rms="0.131054"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e00001cd.au" len="262144" min="-0.654164" max="0.674398" rms="0.082782"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0000f15.au" len="262144" min="-1.000031" max="1.0" rms="0.141039"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e00003cc.au" len="262144" min="-1.000031" max="1.0" rms="0.176118"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e000036f.au" len="262144" min="-1.000031" max="1.0" rms="0.158196"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e000047c.au" len="262144" min="-1.000031" max="1.0" rms="0.163479"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0000a82.au" len="262144" min="-1.000031" max="1.0" rms="0.211342"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e0000b06.au" len="262144" min="-1.000031" max="1.0" rms="0.21859"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e00008be.au" len="262144" min="-1.000031" max="1.0" rms="0.249038"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e0000457.au" len="262144" min="-1.000031" max="1.0" rms="0.231707"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e0000387.au" len="262144" min="-1.000031" max="1.0" rms="0.224711"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e0000d39.au" len="262144" min="-1.000031" max="1.0" rms="0.140978"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e000055c.au" len="262144" min="-1.000031" max="1.0" rms="0.173043"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e000021a.au" len="262144" min="-1.000031" max="1.0" rms="0.16769"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0000377.au" len="262144" min="-1.000031" max="1.0" rms="0.180929"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e000087f.au" len="262144" min="-1.000031" max="1.0" rms="0.21694"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0000c0a.au" len="262144" min="-1.000031" max="1.0" rms="0.202985"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e0000a9c.au" len="262144" min="-1.000031" max="1.0" rms="0.17594"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e0000de8.au" len="262144" min="-0.797357" max="0.711539" rms="0.100438"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0000a62.au" len="262144" min="-0.794153" max="0.83871" rms="0.08199"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e0000d2f.au" len="262144" min="-0.675802" max="0.748527" rms="0.068108"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e0000812.au" len="262144" min="-1.000031" max="1.0" rms="0.180874"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e0000fde.au" len="262144" min="-1.000031" max="1.0" rms="0.245051"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e00008d8.au" len="262144" min="-1.000031" max="1.0" rms="0.20823"/>
+				</waveblock>
+				<waveblock start="9437184">
+					<simpleblockfile filename="e0000702.au" len="262144" min="-1.000031" max="1.0" rms="0.193393"/>
+				</waveblock>
+				<waveblock start="9699328">
+					<simpleblockfile filename="e0000f74.au" len="262144" min="-1.000031" max="1.0" rms="0.191806"/>
+				</waveblock>
+				<waveblock start="9961472">
+					<simpleblockfile filename="e000068e.au" len="262144" min="-0.488998" max="0.447493" rms="0.057785"/>
+				</waveblock>
+				<waveblock start="10223616">
+					<simpleblockfile filename="e0000b65.au" len="262144" min="-0.118503" max="0.163427" rms="0.010451"/>
+				</waveblock>
+				<waveblock start="10485760">
+					<simpleblockfile filename="e00009fe.au" len="7168" min="-0.008271" max="0.010102" rms="0.001389"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="0.630957" pan="-1.0">
+		<waveclip offset="29.74423031">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="9181184">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000062.au" len="262144" min="-0.114292" max="0.065218" rms="0.003113"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000e5a.au" len="262144" min="-0.328043" max="0.297494" rms="0.040006"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000215.au" len="262144" min="-0.010559" max="0.012055" rms="0.001907"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000cd3.au" len="262144" min="-0.458419" max="0.4167" rms="0.058323"/>
+				</waveblock>
+				<waveblock start="1048576">
+					<simpleblockfile filename="e0000a87.au" len="262144" min="-0.283547" max="0.272988" rms="0.01481"/>
+				</waveblock>
+				<waveblock start="1310720">
+					<simpleblockfile filename="e000078a.au" len="262144" min="-0.574419" max="0.467513" rms="0.065841"/>
+				</waveblock>
+				<waveblock start="1572864">
+					<simpleblockfile filename="e0000b12.au" len="262144" min="-0.569201" max="0.534379" rms="0.062362"/>
+				</waveblock>
+				<waveblock start="1835008">
+					<simpleblockfile filename="e00005cb.au" len="262144" min="-0.36082" max="0.292123" rms="0.06822"/>
+				</waveblock>
+				<waveblock start="2097152">
+					<simpleblockfile filename="e00000cb.au" len="262144" min="-0.366863" max="0.351604" rms="0.06256"/>
+				</waveblock>
+				<waveblock start="2359296">
+					<simpleblockfile filename="e0000cc0.au" len="262144" min="-0.660115" max="0.732078" rms="0.073083"/>
+				</waveblock>
+				<waveblock start="2621440">
+					<simpleblockfile filename="e000058c.au" len="262144" min="-0.232734" max="0.27073" rms="0.04208"/>
+				</waveblock>
+				<waveblock start="2883584">
+					<simpleblockfile filename="e000048e.au" len="262144" min="-0.259896" max="0.339579" rms="0.033772"/>
+				</waveblock>
+				<waveblock start="3145728">
+					<simpleblockfile filename="e0000975.au" len="262144" min="-0.26252" max="0.213721" rms="0.036419"/>
+				</waveblock>
+				<waveblock start="3407872">
+					<simpleblockfile filename="e0000e0a.au" len="262144" min="-0.206153" max="0.255074" rms="0.028603"/>
+				</waveblock>
+				<waveblock start="3670016">
+					<simpleblockfile filename="e0000ca8.au" len="262144" min="-0.215766" max="0.206091" rms="0.02621"/>
+				</waveblock>
+				<waveblock start="3932160">
+					<simpleblockfile filename="e00009b1.au" len="262144" min="-0.514359" max="0.521165" rms="0.05493"/>
+				</waveblock>
+				<waveblock start="4194304">
+					<simpleblockfile filename="e00003c2.au" len="262144" min="-0.572954" max="0.47148" rms="0.069814"/>
+				</waveblock>
+				<waveblock start="4456448">
+					<simpleblockfile filename="e0000a20.au" len="262144" min="-0.551897" max="0.565661" rms="0.071959"/>
+				</waveblock>
+				<waveblock start="4718592">
+					<simpleblockfile filename="e0000c08.au" len="262144" min="-0.441237" max="0.391736" rms="0.066012"/>
+				</waveblock>
+				<waveblock start="4980736">
+					<simpleblockfile filename="e0000cf1.au" len="262144" min="-0.516465" max="0.542619" rms="0.067315"/>
+				</waveblock>
+				<waveblock start="5242880">
+					<simpleblockfile filename="e0000017.au" len="262144" min="-0.381481" max="0.349895" rms="0.066262"/>
+				</waveblock>
+				<waveblock start="5505024">
+					<simpleblockfile filename="e0000a69.au" len="262144" min="-0.41081" max="0.377575" rms="0.0725"/>
+				</waveblock>
+				<waveblock start="5767168">
+					<simpleblockfile filename="e00000bd.au" len="262144" min="-0.402753" max="0.309885" rms="0.037194"/>
+				</waveblock>
+				<waveblock start="6029312">
+					<simpleblockfile filename="e00003f6.au" len="262144" min="-0.525407" max="0.522477" rms="0.110563"/>
+				</waveblock>
+				<waveblock start="6291456">
+					<simpleblockfile filename="e000032d.au" len="262144" min="-0.673238" max="0.508011" rms="0.136854"/>
+				</waveblock>
+				<waveblock start="6553600">
+					<simpleblockfile filename="e00001b8.au" len="262144" min="-0.551225" max="0.489425" rms="0.101655"/>
+				</waveblock>
+				<waveblock start="6815744">
+					<simpleblockfile filename="e0000fe7.au" len="262144" min="-0.556383" max="0.429548" rms="0.06668"/>
+				</waveblock>
+				<waveblock start="7077888">
+					<simpleblockfile filename="e0000bd0.au" len="262144" min="-0.359294" max="0.308786" rms="0.060084"/>
+				</waveblock>
+				<waveblock start="7340032">
+					<simpleblockfile filename="e0000b8c.au" len="262144" min="-0.55385" max="0.433271" rms="0.069055"/>
+				</waveblock>
+				<waveblock start="7602176">
+					<simpleblockfile filename="e00002dc.au" len="262144" min="-0.537919" max="0.451582" rms="0.072984"/>
+				</waveblock>
+				<waveblock start="7864320">
+					<simpleblockfile filename="e00003e7.au" len="262144" min="-0.364391" max="0.336497" rms="0.048439"/>
+				</waveblock>
+				<waveblock start="8126464">
+					<simpleblockfile filename="e0000bee.au" len="262144" min="-0.359233" max="0.468886" rms="0.074485"/>
+				</waveblock>
+				<waveblock start="8388608">
+					<simpleblockfile filename="e0000136.au" len="262144" min="-0.435835" max="0.395398" rms="0.062734"/>
+				</waveblock>
+				<waveblock start="8650752">
+					<simpleblockfile filename="e00005fc.au" len="262144" min="-0.541246" max="0.428663" rms="0.053069"/>
+				</waveblock>
+				<waveblock start="8912896">
+					<simpleblockfile filename="e00008c1.au" len="262144" min="-0.774194" max="0.63509" rms="0.036941"/>
+				</waveblock>
+				<waveblock start="9175040">
+					<simpleblockfile filename="e0000bbe.au" len="6144" min="-0.046968" max="0.037782" rms="0.0031"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.0" pan="0.0">
+		<waveclip offset="8.68919355">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="842752">
+				<waveblock start="0">
+					<simpleblockfile filename="e00009aa.au" len="262144" min="-0.264321" max="0.240211" rms="0.039972"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e00005d5.au" len="262144" min="-0.299875" max="0.27131" rms="0.057123"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e00009c1.au" len="262144" min="-0.229316" max="0.194891" rms="0.039609"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000a2d.au" len="56320" min="-0.010407" max="0.010498" rms="0.002566"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+	<wavetrack name="Audio Track" channel="2" linked="0" mute="0" solo="0" height="150" minimized="0" rate="44100" gain="1.122018" pan="1.0">
+		<waveclip offset="8.73137042">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="942264">
+				<waveblock start="0">
+					<simpleblockfile filename="e0000efa.au" len="262144" min="-0.125065" max="0.132206" rms="0.015862"/>
+				</waveblock>
+				<waveblock start="262144">
+					<simpleblockfile filename="e0000ee9.au" len="262144" min="-0.188177" max="0.19779" rms="0.022892"/>
+				</waveblock>
+				<waveblock start="524288">
+					<simpleblockfile filename="e0000cef.au" len="262144" min="-0.513993" max="0.412458" rms="0.063344"/>
+				</waveblock>
+				<waveblock start="786432">
+					<simpleblockfile filename="e0000df8.au" len="155832" min="-0.035676" max="0.037812" rms="0.001825"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="31.36322983">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="3455936">
+				<waveblock start="0">
+					<simpleblockfile filename="e000040d.au" len="46791" min="-0.006012" max="0.005951" rms="0.001532"/>
+				</waveblock>
+				<waveblock start="46791">
+					<simpleblockfile filename="e00006f8.au" len="262144" min="-0.158635" max="0.147282" rms="0.022935"/>
+				</waveblock>
+				<waveblock start="308935">
+					<simpleblockfile filename="e0000b32.au" len="262144" min="-0.181249" max="0.162481" rms="0.019876"/>
+				</waveblock>
+				<waveblock start="571079">
+					<simpleblockfile filename="e0000154.au" len="262144" min="-0.225745" max="0.24308" rms="0.026991"/>
+				</waveblock>
+				<waveblock start="833223">
+					<simpleblockfile filename="e0000ab3.au" len="262144" min="-0.196631" max="0.164708" rms="0.027303"/>
+				</waveblock>
+				<waveblock start="1095367">
+					<simpleblockfile filename="e0000415.au" len="262144" min="-0.268044" max="0.256813" rms="0.022506"/>
+				</waveblock>
+				<waveblock start="1357511">
+					<simpleblockfile filename="e0000aff.au" len="262144" min="-0.21308" max="0.193457" rms="0.035012"/>
+				</waveblock>
+				<waveblock start="1619655">
+					<simpleblockfile filename="e0000a77.au" len="262144" min="-0.321177" max="0.316996" rms="0.030394"/>
+				</waveblock>
+				<waveblock start="1881799">
+					<simpleblockfile filename="e00009eb.au" len="262144" min="-0.249031" max="0.207587" rms="0.03885"/>
+				</waveblock>
+				<waveblock start="2143943">
+					<simpleblockfile filename="e00004c1.au" len="262144" min="-0.298624" max="0.284585" rms="0.05365"/>
+				</waveblock>
+				<waveblock start="2406087">
+					<simpleblockfile filename="e00004a4.au" len="262144" min="-0.095004" max="0.110874" rms="0.015311"/>
+				</waveblock>
+				<waveblock start="2668231">
+					<simpleblockfile filename="e000007e.au" len="262144" min="-0.1395" max="0.133457" rms="0.020628"/>
+				</waveblock>
+				<waveblock start="2930375">
+					<simpleblockfile filename="e0000279.au" len="262144" min="-0.161779" max="0.244057" rms="0.027812"/>
+				</waveblock>
+				<waveblock start="3192519">
+					<simpleblockfile filename="e0000026.au" len="131708" min="-0.196814" max="0.217566" rms="0.024117"/>
+				</waveblock>
+				<waveblock start="3324227">
+					<simpleblockfile filename="e00000fe.au" len="131709" min="-0.174444" max="0.291147" rms="0.020778"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+		<waveclip offset="110.28586022">
+			<sequence maxsamples="262144" sampleformat="262159" numsamples="5510103">
+				<waveblock start="0">
+					<simpleblockfile filename="e000003f.au" len="238551" min="-0.265755" max="0.244575" rms="0.037157"/>
+				</waveblock>
+				<waveblock start="238551">
+					<simpleblockfile filename="e0000019.au" len="262144" min="-0.417493" max="0.385937" rms="0.048455"/>
+				</waveblock>
+				<waveblock start="500695">
+					<simpleblockfile filename="e0000b2a.au" len="262144" min="-0.254738" max="0.221473" rms="0.034738"/>
+				</waveblock>
+				<waveblock start="762839">
+					<simpleblockfile filename="e0000ca0.au" len="262144" min="-0.152348" max="0.140294" rms="0.028024"/>
+				</waveblock>
+				<waveblock start="1024983">
+					<simpleblockfile filename="e0000095.au" len="262144" min="-0.244758" max="0.238838" rms="0.046538"/>
+				</waveblock>
+				<waveblock start="1287127">
+					<simpleblockfile filename="e000083d.au" len="262144" min="-0.260506" max="0.232398" rms="0.046539"/>
+				</waveblock>
+				<waveblock start="1549271">
+					<simpleblockfile filename="e0000c65.au" len="262144" min="-0.3408" max="0.258919" rms="0.052831"/>
+				</waveblock>
+				<waveblock start="1811415">
+					<simpleblockfile filename="e0000248.au" len="262144" min="-0.342967" max="0.313364" rms="0.057382"/>
+				</waveblock>
+				<waveblock start="2073559">
+					<simpleblockfile filename="e0000b4c.au" len="262144" min="-0.447432" max="0.338603" rms="0.067542"/>
+				</waveblock>
+				<waveblock start="2335703">
+					<simpleblockfile filename="e00004ed.au" len="262144" min="-0.319865" max="0.300455" rms="0.051502"/>
+				</waveblock>
+				<waveblock start="2597847">
+					<simpleblockfile filename="e0000fb9.au" len="262144" min="-0.29313" max="0.27485" rms="0.058624"/>
+				</waveblock>
+				<waveblock start="2859991">
+					<simpleblockfile filename="e0000be3.au" len="262144" min="-0.358501" max="0.337107" rms="0.050809"/>
+				</waveblock>
+				<waveblock start="3122135">
+					<simpleblockfile filename="e0000148.au" len="262144" min="-0.239296" max="0.273263" rms="0.042696"/>
+				</waveblock>
+				<waveblock start="3384279">
+					<simpleblockfile filename="e0000eb4.au" len="262144" min="-0.302927" max="0.26194" rms="0.04075"/>
+				</waveblock>
+				<waveblock start="3646423">
+					<simpleblockfile filename="e0000acd.au" len="262144" min="-0.316324" max="0.280679" rms="0.054804"/>
+				</waveblock>
+				<waveblock start="3908567">
+					<simpleblockfile filename="e0000e37.au" len="262144" min="-0.351207" max="0.312235" rms="0.051286"/>
+				</waveblock>
+				<waveblock start="4170711">
+					<simpleblockfile filename="e00004c5.au" len="262144" min="-0.405347" max="0.299387" rms="0.05917"/>
+				</waveblock>
+				<waveblock start="4432855">
+					<simpleblockfile filename="e0000c97.au" len="262144" min="-0.292611" max="0.343577" rms="0.053449"/>
+				</waveblock>
+				<waveblock start="4694999">
+					<simpleblockfile filename="e0000530.au" len="262144" min="-0.361095" max="0.285684" rms="0.055071"/>
+				</waveblock>
+				<waveblock start="4957143">
+					<simpleblockfile filename="e0000ff7.au" len="262144" min="-0.428724" max="0.465529" rms="0.060573"/>
+				</waveblock>
+				<waveblock start="5219287">
+					<simpleblockfile filename="e0000dec.au" len="262144" min="-0.132817" max="0.147588" rms="0.017275"/>
+				</waveblock>
+				<waveblock start="5481431">
+					<simpleblockfile filename="e0000fe3.au" len="28672" min="-0.021363" max="0.012329" rms="0.001093"/>
+				</waveblock>
+			</sequence>
+			<envelope numpoints="0"/>
+		</waveclip>
+	</wavetrack>
+</project>
