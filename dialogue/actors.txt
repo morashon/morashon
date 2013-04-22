@@ -1,5 +1,5 @@
-Annai: {base=148;scale=6;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
-Thisone: {base=80;scale=5;voice=ogi_rab_diphone;volume=1.6;timbre=0.81}
+Annai: {base=144;scale=7;voice=ogi_as_diphone/1.1+ogi_tll_diphone/2;volume=1.0}
+Thisone: {base=78;scale=6;voice=ogi_rab_diphone;volume=1.6;timbre=0.81}
 Morashon: {base=84;scale=5;voice=kal_diphone;volume=1.2;timbre=-0.5}
 Dominatrix: {base=160;scale=10;voice=ogi_as_diphone;timbre=-1.5}
 Pianoman: {base=88;scale=9;voice=ogi_jph_diphone;volume=1.5}
